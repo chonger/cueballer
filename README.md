@@ -1,1 +1,1 @@
-# cueballer
+Cueballer creates cue scripts from properly formatted scripts.
