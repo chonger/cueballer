@@ -1,6 +1,8 @@
 .main-container {
     width: 100%;
     height: 100%;
+    padding: 30px;
+    box-sizing: border-box;
 }
 
 .flexrows {
@@ -14,5 +16,11 @@
 }
 
 .flexkid {
+    margin: 10px;
+    padding: 10px;
     flex : 1 1 auto;
+}
+
+.full-script {
+    max-width: 500px;
 }
