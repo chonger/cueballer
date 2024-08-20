@@ -7,6 +7,9 @@ import AddIcon from '@material-ui/icons/Add'
 import Checkbox from '@material-ui/core/Checkbox';
 import { FormControlLabel, FormGroup, Slider } from '@material-ui/core'
 
+
+const CUESCRIPT_WIDTH=100
+
 export const EditableText = ({
   text,
   onChange,
@@ -45,7 +48,17 @@ export const CueballEditor = () => {
 
     for (let scene of state.parsedScript.scenes) {
 
-      cscript += '\n\n' + scene.sceneName + '\n\n'
+      let hasLine = false
+      for (let c of scene.content) {
+        if (c.type == 'line' && curActors.has(c.actor)) {
+          hasLine = true
+        }
+      }
+      if (!hasLine) {
+        continue
+      }
+
+      cscript += `\n\t<<<${scene.sceneName.trim()}>>>\n`
 
       let cue = ""
 
@@ -54,10 +67,10 @@ export const CueballEditor = () => {
           continue;
         }
         if (c.type == 'line' && curActors.has(c.actor)) {
-          cscript += cue + '\n\n' + c.text + '\n\n'
+          cscript += cue.trim() + '\n' + c.text.trim() + '\n'
         }
-
-        cue = "------------------- " + c.text.split(' ').slice(-state.nWordsInCueScript).join(' ');
+        let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ')
+        cue = `${new Array(CUESCRIPT_WIDTH-cueRaw.length).fill('-').join('')}${cueRaw}`;
         // console.log("OK", { n: state.nWordsInCueScript, t: c.text.split(' '), cue })
       }
     }
@@ -186,7 +199,7 @@ export const CueballEditor = () => {
             step={1}
             marks
             min={1}
-            max={30}
+            max={8}
             onChangeCommitted={(e, v) => {
               setState({ ...state, nWordsInCueScript: v })
             }}
