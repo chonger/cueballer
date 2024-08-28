@@ -33,14 +33,14 @@ export const CueballEditor = () => {
   const [selectedActors, setSelectedActors] = useState(new Set());
 
   const rightJustify = (s) => {
-    return `${new Array(state.nLettersInLine-s.length).fill('-').join('')}${s}`
+    return `${new Array(state.nLettersInLine - s.length).fill('-').join('')}${s}`
   }
 
   const centerJustify = (s) => {
-    const len = Math.floor((state.nLettersInLine-s.length) / 2)
-    if(len < 0)
+    const len = Math.floor((state.nLettersInLine - s.length) / 2)
+    if (len < 0)
       return s
-    console.log("EN", {s, len})
+    console.log("EN", { s, len })
     const spacer = new Array(len).fill(' ').join('')
     const optionalSpacer = spacer.length % 2 == 0 ? '' : ' '
     return `${spacer}${s}${spacer}${optionalSpacer}`
@@ -72,30 +72,51 @@ export const CueballEditor = () => {
 
       cscript += "\n" + centerJustify(scene.sceneName.trim()) + "\n"
 
+      const makeCue = (c) => rightJustify( c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n", ' ').replaceAll("\r", ' '))
+
       let cue = ""
+      let tmpCue = ""
       let myLine = ""
+      let lastSD = ""
       let lastActor = ""
       for (let c of scene.content) {
+        console.log("SOFAR", { c, cscript, cue, myLine, lastActor, curActors });
         if (c.type === 'stage direction') {
-          myLine += "\n" + centerJustify(`[${c.text}]`.trim()) + "\n"
+          lastSD += "\n" + centerJustify(`[${c.text}]`.trim()) + "\n"
+          // stage directions are not used as cues!
         }
-        else if (c.type == 'line' && curActors.has(c.actor)) {
-          if(c.actor === lastActor) { // continuing a line
+        else if (c.type == 'line') {
+          if (c.actor === lastActor) { // continuing a line
+            if(lastSD.length > 0) {
+              myLine += lastSD
+            }
             myLine += c.text.trim()
-          } else { // new line
-            cscript += cue.trim() + '\n' + myLine + '\n'
-            myLine = c.text.trim()
-          }
-          lastActor = c.actor
+            tmpCue = makeCue(c)
+          } else { // end previous line if it exists
+            if (lastActor && myLine.length > 0) {
+              cscript += cue.trim() + '\n' + myLine + '\n'
+            }
 
-          //set cue
-          let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n",' ').replaceAll("\r",' ')
-          cue = rightJustify(cueRaw);
+            myLine = ""
+            lastActor = c.actor
+            cue = tmpCue
+
+            if (curActors.has(c.actor)) { // start a new line
+              myLine += c.text.trim()
+            }
+            
+            //set cue
+            tmpCue = makeCue(c)
+          }
+          lastSD = ""
         } else {
-          console.log("STRANGENESS", c)
+          console.log("NOTPROCESSING", c)
         }
       }
-      cscript += cue.trim() + '\n' + myLine + '\n' // commit final line
+
+      if (myLine.length > 0) {
+        cscript += cue.trim() + '\n' + myLine + '\n' // commit final line 
+      }
     }
 
     console.log("UPDATING CUE SCRIPT")
@@ -155,7 +176,7 @@ export const CueballEditor = () => {
 
       if (line.trim().length === 0) { // might be switching back to a actor from a SD....
         console.log(currentScene)
-        if(currentScene && currentScene['content'].length > 0 && currentScene['content'].slice(-1)[0].type == 'stage direction') {
+        if (currentScene && currentScene['content'].length > 0 && currentScene['content'].slice(-1)[0].type == 'stage direction') {
           console.log("HIT")
           justEndedSD = true
         }
@@ -174,7 +195,7 @@ export const CueballEditor = () => {
         continue;
       }
 
-      if(lastEndedSD) {
+      if (lastEndedSD) {
         console.log("GOT IT!")
         const lastActor = currentScene['content'].slice(-2)[0].actor
 
@@ -184,7 +205,7 @@ export const CueballEditor = () => {
           text: ''
         })
       }
-        
+
       currentScene['content'].slice(-1)[0].text += "\n" + line
     }
 
