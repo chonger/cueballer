@@ -8,7 +8,7 @@ import Checkbox from '@material-ui/core/Checkbox';
 import { FormControlLabel, FormGroup, Slider } from '@material-ui/core'
 
 
-const CUESCRIPT_WIDTH=100
+const CUESCRIPT_WIDTH=80
 
 export const EditableText = ({
   text,
@@ -17,6 +17,7 @@ export const EditableText = ({
   return (
     <TextField
       className={'small-text-input'}
+      id="cues"
       autoComplete="off"
       placeholder="empty"
       value={text}
@@ -58,7 +59,7 @@ export const CueballEditor = () => {
         continue
       }
 
-      cscript += `\n\t<<<${scene.sceneName.trim()}>>>\n`
+      cscript += `\n\t${scene.sceneName.trim()}\n`
 
       let cue = ""
 
@@ -69,7 +70,7 @@ export const CueballEditor = () => {
         if (c.type == 'line' && curActors.has(c.actor)) {
           cscript += cue.trim() + '\n' + c.text.trim() + '\n'
         }
-        let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ')
+        let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n",' ').replaceAll("\r",' ')
         cue = `${new Array(CUESCRIPT_WIDTH-cueRaw.length).fill('-').join('')}${cueRaw}`;
         // console.log("OK", { n: state.nWordsInCueScript, t: c.text.split(' '), cue })
       }
