@@ -7,9 +7,6 @@ import AddIcon from '@material-ui/icons/Add'
 import Checkbox from '@material-ui/core/Checkbox';
 import { FormControlLabel, FormGroup, Slider } from '@material-ui/core'
 
-
-const CUESCRIPT_WIDTH=80
-
 export const EditableText = ({
   text,
   onChange,
@@ -32,8 +29,22 @@ export const EditableText = ({
 
 export const CueballEditor = () => {
 
-  const [state, setState] = useState({ text: comedyerr, cueScript: '', actors: [], parsedScript: null, nWordsInCueScript: 5 });
+  const [state, setState] = useState({ text: comedyerr, cueScript: '', actors: [], parsedScript: null, nWordsInCueScript: 5, nLettersInLine: 70 });
   const [selectedActors, setSelectedActors] = useState(new Set());
+
+  const rightJustify = (s) => {
+    return `${new Array(state.nLettersInLine-s.length).fill('-').join('')}${s}`
+  }
+
+  const centerJustify = (s) => {
+    const len = Math.floor((state.nLettersInLine-s.length) / 2)
+    if(len < 0)
+      return s
+    console.log("EN", {s, len})
+    const spacer = new Array(len).fill(' ').join('')
+    const optionalSpacer = spacer.length % 2 == 0 ? '' : ' '
+    return `${spacer}${s}${spacer}${optionalSpacer}`
+  }
 
   const onChangeScript = s => setState((state) => ({ ...state, text: s }));
   const onChangeCueScript = s => setState((state) => ({ ...state, cueScript: s }));
@@ -45,7 +56,7 @@ export const CueballEditor = () => {
 
     const curActors = new Set(state.actors.filter((a, i) => selectedActors.has(i)));
 
-    let cscript = state.parsedScript['title'] + " - " + Array.from(curActors).join(" / ") + "\n\n"
+    let cscript = centerJustify(state.parsedScript['title'] + " - " + Array.from(curActors).join(" / ")) + "\n\n"
 
     for (let scene of state.parsedScript.scenes) {
 
@@ -59,21 +70,32 @@ export const CueballEditor = () => {
         continue
       }
 
-      cscript += `\n\t${scene.sceneName.trim()}\n`
+      cscript += "\n" + centerJustify(scene.sceneName.trim()) + "\n"
 
       let cue = ""
-
+      let myLine = ""
+      let lastActor = ""
       for (let c of scene.content) {
         if (c.type === 'stage direction') {
-          continue;
+          myLine += "\n" + centerJustify(`[${c.text}]`.trim()) + "\n"
         }
-        if (c.type == 'line' && curActors.has(c.actor)) {
-          cscript += cue.trim() + '\n' + c.text.trim() + '\n'
+        else if (c.type == 'line' && curActors.has(c.actor)) {
+          if(c.actor === lastActor) { // continuing a line
+            myLine += c.text.trim()
+          } else { // new line
+            cscript += cue.trim() + '\n' + myLine + '\n'
+            myLine = c.text.trim()
+          }
+          lastActor = c.actor
+
+          //set cue
+          let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n",' ').replaceAll("\r",' ')
+          cue = rightJustify(cueRaw);
+        } else {
+          console.log("STRANGENESS", c)
         }
-        let cueRaw = c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n",' ').replaceAll("\r",' ')
-        cue = `${new Array(CUESCRIPT_WIDTH-cueRaw.length).fill('-').join('')}${cueRaw}`;
-        // console.log("OK", { n: state.nWordsInCueScript, t: c.text.split(' '), cue })
       }
+      cscript += cue.trim() + '\n' + myLine + '\n' // commit final line
     }
 
     console.log("UPDATING CUE SCRIPT")
@@ -94,9 +116,15 @@ export const CueballEditor = () => {
 
     const actors = new Set();
 
+    let justEndedSD = false
+
     let linedx = 0;
     for (let line of lines) {
       linedx += 1
+      let lastEndedSD = justEndedSD
+      justEndedSD = false
+
+      console.log(`READING LINE ${line}`)
       if (line.indexOf("T:") === 0) {
         data['title'] = line.slice(2);
         continue;
@@ -125,11 +153,18 @@ export const CueballEditor = () => {
         continue;
       }
 
-      if (line.length === 0) {
+      if (line.trim().length === 0) { // might be switching back to a actor from a SD....
+        console.log(currentScene)
+        if(currentScene && currentScene['content'].length > 0 && currentScene['content'].slice(-1)[0].type == 'stage direction') {
+          console.log("HIT")
+          justEndedSD = true
+        }
         continue;
       }
 
-      if (line.toUpperCase() === line) {
+      const pruned = line.replaceAll('and', '').trim()
+
+      if (pruned.length > 0 && pruned.toUpperCase() === pruned) {
         currentScene['content'].push({
           type: "line",
           actor: line,
@@ -139,7 +174,17 @@ export const CueballEditor = () => {
         continue;
       }
 
-      // line is non-empty and continuing a SD or line
+      if(lastEndedSD) {
+        console.log("GOT IT!")
+        const lastActor = currentScene['content'].slice(-2)[0].actor
+
+        currentScene['content'].push({
+          type: "line",
+          actor: lastActor,
+          text: ''
+        })
+      }
+        
       currentScene['content'].slice(-1)[0].text += "\n" + line
     }
 
@@ -203,6 +248,19 @@ export const CueballEditor = () => {
             max={8}
             onChangeCommitted={(e, v) => {
               setState({ ...state, nWordsInCueScript: v })
+            }}
+          />
+          <div><h2># of letters in a line</h2></div>
+          <Slider
+            aria-label="line length"
+            defaultValue={70}
+            valueLabelDisplay="auto"
+            step={1}
+            marks
+            min={30}
+            max={100}
+            onChangeCommitted={(e, v) => {
+              setState({ ...state, nLettersInLine: v })
             }}
           />
         </div>
