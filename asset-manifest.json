@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cueballer/static/css/main.696494b5.chunk.css",
-    "main.js": "/cueballer/static/js/main.097ad310.chunk.js",
-    "main.js.map": "/cueballer/static/js/main.097ad310.chunk.js.map",
+    "main.js": "/cueballer/static/js/main.bed65b74.chunk.js",
+    "main.js.map": "/cueballer/static/js/main.bed65b74.chunk.js.map",
     "runtime-main.js": "/cueballer/static/js/runtime-main.05a058db.js",
     "runtime-main.js.map": "/cueballer/static/js/runtime-main.05a058db.js.map",
     "static/js/2.2842ef2b.chunk.js": "/cueballer/static/js/2.2842ef2b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.05a058db.js",
     "static/js/2.2842ef2b.chunk.js",
     "static/css/main.696494b5.chunk.css",
-    "static/js/main.097ad310.chunk.js"
+    "static/js/main.bed65b74.chunk.js"
   ]
 }
