@@ -86,7 +86,7 @@ export const CueballEditor = () => {
           // stage directions are not used as cues!
         }
         else if (c.type == 'line') {
-          if (c.actor === lastActor) { // continuing a line
+          if (c.actor === lastActor && curActors.has(c.actor)) { // continuing a line
             if(lastSD.length > 0) {
               myLine += lastSD
             }
