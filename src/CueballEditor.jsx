@@ -188,10 +188,11 @@ export const CueballEditor = () => {
       if (pruned.length > 0 && pruned.toUpperCase() === pruned) {
         currentScene['content'].push({
           type: "line",
-          actor: line,
+          actor: pruned,
           text: ''
         })
-        actors.add(line);
+        console.log("NEW ACTORS", actors)
+        actors.add(pruned);
         continue;
       }
 
