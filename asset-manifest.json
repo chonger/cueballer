@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cueballer/static/css/main.696494b5.chunk.css",
-    "main.js": "/cueballer/static/js/main.fd52eae4.chunk.js",
-    "main.js.map": "/cueballer/static/js/main.fd52eae4.chunk.js.map",
+    "main.css": "/cueballer/static/css/main.42863e1a.chunk.css",
+    "main.js": "/cueballer/static/js/main.2f8f9f97.chunk.js",
+    "main.js.map": "/cueballer/static/js/main.2f8f9f97.chunk.js.map",
     "runtime-main.js": "/cueballer/static/js/runtime-main.05a058db.js",
     "runtime-main.js.map": "/cueballer/static/js/runtime-main.05a058db.js.map",
     "static/js/2.2842ef2b.chunk.js": "/cueballer/static/js/2.2842ef2b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8189af17.chunk.js": "/cueballer/static/js/3.8189af17.chunk.js",
     "static/js/3.8189af17.chunk.js.map": "/cueballer/static/js/3.8189af17.chunk.js.map",
     "index.html": "/cueballer/index.html",
-    "static/css/main.696494b5.chunk.css.map": "/cueballer/static/css/main.696494b5.chunk.css.map",
+    "static/css/main.42863e1a.chunk.css.map": "/cueballer/static/css/main.42863e1a.chunk.css.map",
     "static/js/2.2842ef2b.chunk.js.LICENSE.txt": "/cueballer/static/js/2.2842ef2b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/cueballer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.05a058db.js",
     "static/js/2.2842ef2b.chunk.js",
-    "static/css/main.696494b5.chunk.css",
-    "static/js/main.fd52eae4.chunk.js"
+    "static/css/main.42863e1a.chunk.css",
+    "static/js/main.2f8f9f97.chunk.js"
   ]
 }
