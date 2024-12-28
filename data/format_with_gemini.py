@@ -12,7 +12,21 @@ If there is a description of the location of the scene, you will follow this wit
 
 When there is a stage direction, you format it in a line like "SD: " followed by the stage direction
 
+When a character is named in a stage direction, you will write their name in all capital letters.
+
+If an actor is named in the stage direction, you will write their name in all capital letters.
+
+If the stage direction "Exit" follows an actor's line, you will write their name at the start of the stage direction, as "X exits", where X is the name of the actor.
+
 When an actor speaks you will write their name in all caps, beginning their line on the next line.  You may use multiple newlines for a single actor's line, but you may not insert blank lines.
+
+If a line is said by "All" actors, then write the names of all the actors in the scene before the line, with ", " in between.
+
+If the actor is speaking in verse, preserve line breaks.
+
+If the actor is speaking in prose, ignore line breaks.
+
+When there is a stage direction "Exuent", you will write the names of each actor in the the scene after it, as "Exuent X, Y, Z" where X, Y, and Z are the names of the actors in the scene, unless that actor has more lines later in the scene, or they have already exited.
 
 Here is an example of correctly formatted output.
 
