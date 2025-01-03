@@ -24,3 +24,13 @@
 .full-script {
     max-width: 500px;
 }
+
+.white-back {
+    padding: 17px;
+    background: white;
+}
+
+.colblock {
+    max-width: 500px;
+}
+

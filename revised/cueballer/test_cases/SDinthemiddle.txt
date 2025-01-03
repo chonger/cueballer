@@ -1,0 +1,11 @@
+NS: The scene
+
+ESME
+I want some pancakes
+
+SD: TEDDY starts to make pancakes
+
+SD: BEN enters
+
+TEDDY
+Hi Ben!

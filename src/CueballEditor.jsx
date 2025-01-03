@@ -13,7 +13,7 @@ export const EditableText = ({
 }) => {
   return (
     <TextField
-      className={'small-text-input'}
+      className={'small-text-input white-back'}
       id="cues"
       autoComplete="off"
       placeholder="empty"
@@ -72,7 +72,7 @@ export const CueballEditor = () => {
 
       cscript += "\n" + centerJustify(scene.sceneName.trim()) + "\n"
 
-      const makeCue = (c) => rightJustify( c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n", ' ').replaceAll("\r", ' '))
+      const makeCue = (c) => rightJustify(c.text.trim().split(' ').slice(-state.nWordsInCueScript).join(' ').replaceAll("\n", ' ').replaceAll("\r", ' '))
 
       let cue = ""
       let tmpCue = ""
@@ -87,7 +87,7 @@ export const CueballEditor = () => {
         }
         else if (c.type == 'line') {
           if (c.actor === lastActor && curActors.has(c.actor)) { // continuing a line
-            if(lastSD.length > 0) {
+            if (lastSD.length > 0) {
               myLine += lastSD
             }
             myLine += c.text.trim()
@@ -104,7 +104,7 @@ export const CueballEditor = () => {
             if (curActors.has(c.actor)) { // start a new line
               myLine += c.text.trim()
             }
-            
+
             //set cue
             tmpCue = makeCue(c)
           }
@@ -235,11 +235,11 @@ export const CueballEditor = () => {
 
   return <div className="main-container flexcols">
     <div className="full-script flexrows flexkid">
-      <div className="script-header "><h2>Paste your script here.</h2></div>
-      <div className="script-editor ">
+      <div className="script-header white-back"><h2>Paste your script here.</h2></div>
+      <div className="script-editor white-back">
         <EditableText text={state.text} onChange={onChangeScript} />
       </div>
-      <div className="script-buttons flexcols">
+      <div className="script-buttons flexcols white-back">
         <Button
           variant="outlined"
           size="large"
@@ -253,8 +253,8 @@ export const CueballEditor = () => {
       </div>
     </div>
     {state.actors.length > 0 &&
-      <div className="flexcols flexkid">
-        <div className="cue-selector flexrows">
+      <div className="flexcols flexkid ">
+        <div className="cue-selector flexrows colblock white-back ">
           <div className="select-header "><h2>Choose the characters to use.</h2></div>
           <FormGroup>
             {checkboxes}
@@ -286,7 +286,7 @@ export const CueballEditor = () => {
             }}
           />
         </div>
-        <div className="cue-script flexrows flexkid">
+        <div className="cue-script white-back flexrows flexkid colblock">
           <div className="script-buttons flexcols flexkid">
             <EditableText text={state.cueScript} onChange={onChangeCueScript} />
           </div>

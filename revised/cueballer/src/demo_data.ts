@@ -1,4 +1,4 @@
-export const  comedyerr = `T: Comedy of Errors
+export const comedyerr = `T: Comedy of Errors
 
 NS: Act 1, Scene 1
 

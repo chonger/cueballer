@@ -52,7 +52,7 @@
 
     function setup() {
       createCanvas(windowWidth, windowHeight);
-      frameRate(5);
+      frameRate(3);
       textFont('Pacifico');
       textSize(32);
       textAlign(LEFT, TOP);
@@ -73,7 +73,6 @@
 
     function draw() {
       console.log("DRAW")
-
       background(0);
       hueOffset = (hueOffset + 9) % 360;
 
@@ -150,6 +149,8 @@
       textObjects = wrapPhrases(phrases);
 
       // Redo colors
+      cols = floor(width / resolution);
+      rows = floor(height / resolution);
       grid = create2DArray(cols, rows);
       nextGrid = create2DArray(cols, rows);
       for (let x = 0; x < cols; x++) {
@@ -214,8 +215,6 @@
       return wrappedTextObjects;
     }
   </script>
-
-  <div id="root"></div>
 </body>
 
 </html>
