@@ -1,23 +1,15 @@
 {
   "files": {
-    "main.css": "/cueballer/static/css/main.42863e1a.chunk.css",
-    "main.js": "/cueballer/static/js/main.2f8f9f97.chunk.js",
-    "main.js.map": "/cueballer/static/js/main.2f8f9f97.chunk.js.map",
-    "runtime-main.js": "/cueballer/static/js/runtime-main.05a058db.js",
-    "runtime-main.js.map": "/cueballer/static/js/runtime-main.05a058db.js.map",
-    "static/js/2.2842ef2b.chunk.js": "/cueballer/static/js/2.2842ef2b.chunk.js",
-    "static/js/2.2842ef2b.chunk.js.map": "/cueballer/static/js/2.2842ef2b.chunk.js.map",
-    "static/js/3.8189af17.chunk.js": "/cueballer/static/js/3.8189af17.chunk.js",
-    "static/js/3.8189af17.chunk.js.map": "/cueballer/static/js/3.8189af17.chunk.js.map",
+    "main.css": "/cueballer/static/css/main.cdec3aae.css",
+    "main.js": "/cueballer/static/js/main.95f821e6.js",
+    "static/js/358.a70c4df2.chunk.js": "/cueballer/static/js/358.a70c4df2.chunk.js",
     "index.html": "/cueballer/index.html",
-    "static/css/main.42863e1a.chunk.css.map": "/cueballer/static/css/main.42863e1a.chunk.css.map",
-    "static/js/2.2842ef2b.chunk.js.LICENSE.txt": "/cueballer/static/js/2.2842ef2b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cueballer/static/media/logo.6ce24c58.svg"
+    "main.cdec3aae.css.map": "/cueballer/static/css/main.cdec3aae.css.map",
+    "main.95f821e6.js.map": "/cueballer/static/js/main.95f821e6.js.map",
+    "358.a70c4df2.chunk.js.map": "/cueballer/static/js/358.a70c4df2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.05a058db.js",
-    "static/js/2.2842ef2b.chunk.js",
-    "static/css/main.42863e1a.chunk.css",
-    "static/js/main.2f8f9f97.chunk.js"
+    "static/css/main.cdec3aae.css",
+    "static/js/main.95f821e6.js"
   ]
 }
