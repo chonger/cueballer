@@ -1,0 +1,8 @@
+NS: scene 1
+
+MACDUFFE
+Is thy Master stirring?
+
+SD: Enter MACBETH.
+
+Our knocking ha's awak'd him: here he comes.
