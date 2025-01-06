@@ -45,9 +45,9 @@ interface MyState {
 const MAX_NUM_CUE_WORDS = 8
 const DEFAULT_NUM_CUE_WORDS = 5
 
-const MIN_CHARS_PER_LINE = 3
+const MIN_CHARS_PER_LINE = 30
 const MAX_CHARS_PER_LINE = 100
-const DEFAULT_NUM_CHARS_PER_LINE = 54
+const DEFAULT_NUM_CHARS_PER_LINE = 70
 
 const INIT_STATE : MyState  ={ 
   originalScript: comedyerr, 
