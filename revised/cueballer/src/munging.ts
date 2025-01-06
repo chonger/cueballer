@@ -1,3 +1,4 @@
+import { centerJustify, wrapMultiline } from "./text_formatting"
 
 enum EventType {
     LINE,
@@ -117,7 +118,6 @@ export function parseScript(formattedScript: string): ParsedScript {
         l.text = l.text.trim()
     }))
 
-    console.log(parsedScript)
     return parsedScript
 }
 
@@ -126,48 +126,41 @@ export function createCueScript(parsedScript: ParsedScript,
     nWordsInCueScript: number,
     nLettersInLine: number) : string {
 
-    const rightJustify = (s) => {
+    const makeCue = (fullCue) => {
+        let words = fullCue.text.trim().split(/\s+/)
+        let cue : string[] = []
+        let numCueWords = 0 
+        for(let i=words.length-1;i>=0 && numCueWords < nWordsInCueScript;i--) {
+            const w = words[i]
+            cue.unshift(w)
+            if(w.match(/[a-zA-Z]/))
+                numCueWords += 1
+        }
+        let s = cue.join(' ')
         return `${new Array(nLettersInLine - s.length).fill('-').join('')}${s}`
     }
-
-    const centerJustify = (s) => {
-        const len = Math.floor((nLettersInLine - s.length) / 2)
-        if (len < 0)
-            return s
-        const spacer = new Array(len).fill(' ').join('')
-        const optionalSpacer = spacer.length % 2 === 0 ? '' : ' '
-        return `${spacer}${s}${spacer}${optionalSpacer}`
-    }
-
-    const makeCue = (c) => rightJustify(c.text.trim().split(' ').slice(-nWordsInCueScript).join(' ').replaceAll("\n", ' ').replaceAll("\r", ' '))
 
     const lineHasActiveActors = (c: SceneEvent) => c.actors.intersection(actors).size > 0
 
     let cscript = ""
 
     if (parsedScript.title)
-        cscript += centerJustify(parsedScript['title'] + " - " + Array.from(actors).join(" / ")) + "\n\n"
+        cscript += centerJustify(parsedScript['title'] + " - " + Array.from(actors).join(" / "), nLettersInLine) + "\n\n"
     else
-        cscript += centerJustify(Array.from(actors).join(" / ")) + "\n\n"
+        cscript += centerJustify(Array.from(actors).join(" / "), nLettersInLine) + "\n\n"
 
     let sceneIdx = 0
     for (let scene of parsedScript.scenes) {
         sceneIdx += 1
 
-        let hasLine = false
-        for (let c of scene.content) {
-            if (c.eventType === EventType.LINE && lineHasActiveActors(c)) {
-                hasLine = true
-            }
-        }
-        if (!hasLine) {
+        if (!scene.content.some(c => lineHasActiveActors(c))) {
             continue
         }
 
         if (scene.sceneName)
-            cscript += "\n" + centerJustify(scene.sceneName.trim()) + "\n\n"
+            cscript += "\n" + centerJustify(scene.sceneName.trim(), nLettersInLine) + "\n\n"
         else
-            cscript += "\n" + centerJustify(`Scene ${sceneIdx}`) + "\n\n"
+            cscript += "\n" + centerJustify(`Scene ${sceneIdx}`, nLettersInLine) + "\n\n"
 
         /**
          * The Rules: 
@@ -208,9 +201,9 @@ export function createCueScript(parsedScript: ParsedScript,
                 let line = ""
                 while (idx < scene.content.length && cur.isActive) {
                     if (cur.eventType === EventType.LINE) {
-                        line += cur.text.trim() + "\n"
+                        line += wrapMultiline(cur.text.trim(), nLettersInLine) + "\n"
                     } else {
-                        line += centerJustify(`[${cur.text.trim()}]`) + "\n"
+                        line += centerJustify(`[${cur.text.trim()}]`, nLettersInLine) + "\n"
                     }
                     idx += 1
                     cur = scene.content[idx] as any

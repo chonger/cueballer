@@ -1,5 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`check cue IO MacbethFolio1.txt -- MACDUFFE 1`] = `
+"                  MACDUFFE                  
+
+
+                   scene 1                    
+
+
+Is thy Master stirring?
+"
+`;
+
 exports[`check cue IO SDinthemiddle.txt -- ESME 1`] = `
 "                    ESME                    
 
@@ -31,13 +42,15 @@ exports[`check cue IO StageDirections.txt -- CURIO 1`] = `
                 Act 1 Scene 1                
 
 
-[Music. Enter ORSINO, Duke of Illyria, CURIO, and other lords]
+[Music. Enter ORSINO, Duke of Illyria, CURIO,
+   and other lords]
 -------------------------is high fantastical.
 Will you go hunt, my lord?
 ---------------------------------What, Curio?
 The hart.
 ------------------------canopied with bowers.
-[Exuent ORSINO, CURIO, VALENTINE, and other lords]
+[Exuent ORSINO, CURIO, VALENTINE, and other
+   lords]
 "
 `;
 
@@ -48,7 +61,8 @@ exports[`check cue IO StageDirections.txt -- ORSINO 1`] = `
                 Act 1 Scene 1                
 
 
-[Music. Enter ORSINO, Duke of Illyria, CURIO, and other lords]
+[Music. Enter ORSINO, Duke of Illyria, CURIO,
+   and other lords]
 If music be the food of love, play on,
 Give me excess of it, that, surfeiting,
 The appetite may sicken, and so die.
@@ -57,7 +71,8 @@ O, it came o'er my ear like the sweet sound
 That breathes upon a bank of violets,
 Stealing and giving odour. Enough, no more!
 'Tis not so sweet now as it was before.
-O spirit of love, how quick and fresh art thou,
+O spirit of love, how quick and fresh art
+   thou,
 That, notwithstanding thy capacity
 Receiveth as the sea, naught enters there,
 Of what validity and pitch soe'er,
@@ -80,12 +95,16 @@ O, she that hath a heart of that fine frame
 To pay this debt of love but to a brother –
 How will she love, when the rich golden shaft
 Hath killed the flock of all affections else
-That live in her; when liver, brain, and heart,
-These sovereign thrones, are all supplied and filled –
+That live in her; when liver, brain, and
+   heart,
+These sovereign thrones, are all supplied and
+   filled –
 Her sweet perfections – with one self king!
 Away before me to sweet beds of flowers!
-Love thoughts lie rich when canopied with bowers.
-[Exuent ORSINO, CURIO, VALENTINE, and other lords]
+Love thoughts lie rich when canopied with
+   bowers.
+[Exuent ORSINO, CURIO, VALENTINE, and other
+   lords]
 "
 `;
 
@@ -105,9 +124,11 @@ Shall not behold her face at ample view,
 But like a cloistress she will veiled walk,
 And water once a day her chamber round
 With eye-offending brine; all this to season
-A brother's dead love, which she would keep fresh
+A brother's dead love, which she would keep
+   fresh
 And lasting, in her sad remembrance.
 ------------------------canopied with bowers.
-[Exuent ORSINO, CURIO, VALENTINE, and other lords]
+[Exuent ORSINO, CURIO, VALENTINE, and other
+   lords]
 "
 `;
