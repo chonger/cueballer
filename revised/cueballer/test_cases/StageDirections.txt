@@ -2,7 +2,7 @@ NS: Act 1 Scene 1
 
 SL: A room in Orsino's palace.
 
-SD: Music. Enter ORSINO, Duke of Illyria, CURIO, and other lords
+SD: Enter ORSINO, CURIO, and other lords.
 
 ORSINO
 If music be the food of love, play on,
