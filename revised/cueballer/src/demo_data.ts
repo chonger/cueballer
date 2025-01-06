@@ -1,192 +1,68 @@
-export const comedyerr = `T: Comedy of Errors
+export const comedyerr = `T: Twelfth Night
 
-NS: Act 1, Scene 1
+NS: Act 1 Scene 1
 
-SL: A hall in Duke Solinus’s Palace.
+SD: Music. Enter ORSINO Duke of Illyria, CURIO, and other lords.
 
-SD: Enter the Duke of Ephesus with Egeon the merchant of Syracuse, Jailer with Officers, and other Attendants.
+ORSINO
+If music be the food of love, play on,
+Give me excess of it, that, surfeiting,
+The appetite may sicken, and so die.
+That strain again! It had a dying fall.
+O, it came o'er my ear like the sweet sound
+That breathes upon a bank of violets,
+Stealing and giving odour. Enough, no more!
+'Tis not so sweet now as it was before.
+O spirit of love, how quick and fresh art thou,
+That, notwithstanding thy capacity
+Receiveth as the sea, naught enters there,
+Of what validity and pitch soe'er,
+But falls into abatement and low price
+Even in a minute. So full of shapes is fancy
+That it alone is high fantastical.
 
-EGEON
-Proceed, Solinus, to procure my fall,
-And by the doom of death end woes and all.
+CURIO
+Will you go hunt, my lord?
 
-SOLINUS, DUKE OF EPHESUS
-Merchant of Syracuse, plead no more.
-I am not partial to infringe our laws;
-The enmity and discord which of late
-Sprung from the rancorous outrage of your Duke
-To merchants, our well-dealing countrymen,
-Who, wanting guilders to redeem their lives,
-Have seal’d his rigorous statutes with their bloods,
-Excludes all pity from our threat’ning looks:
-For since the mortal and intestine jars
-’Twixt thy seditious countrymen and us,
-It hath in solemn synods been decreed,
-Both by the Syracusians and ourselves,
-To admit no traffic to our adverse towns:
-Nay more, if any born at Ephesus be seen
-At any Syracusian marts and fairs;
-Again, if any Syracusian born
-Come to the bay of Ephesus, he dies,
-His goods confiscate to the Duke’s dispose,
-Unless a thousand marks be levied
-To quit the penalty and to ransom him.
-Thy substance, valued at the highest rate,
-Cannot amount unto a hundred marks,
-Therefore by law thou art condemn’d to die.
+ORSINO
+What, Curio?
 
-EGEON
-Yet this my comfort, when your words are done,
-My woes end likewise with the evening sun.
+CURIO
+The hart.
 
-SOLINUS, DUKE OF EPHESUS
-Well, Syracusian; say in brief the cause
-Why thou departedst from thy native home,
-And for what cause thou cam’st to Ephesus.
+ORSINO
+Why, so I do, the noblest that I have.
+O, when mine eyes did see Olivia first,
+Methought she purged the air of pestilence.
+That instant was I turned into a hart,
+And my desires, like fell and cruel hounds,
+E'er since pursue me.
 
-EGEON
-A heavier task could not have been impos’d
-Than I to speak my griefs unspeakable:
-Yet that the world may witness that my end
-Was wrought by nature, not by vile offense,
-I’ll utter what my sorrow gives me leave.
-In Syracuse was I born, and wed
-Unto a woman, happy but for me,
-And by me, had not our hap been bad:
-With her I liv’d in joy; our wealth increas’d
-By prosperous voyages I often made
-To Epidamium, till my factor’s death,
-And the great care of goods at random left,
-Drew me from kind embracements of my spouse;
-From whom my absence was not six months old
-Before herself (almost at fainting under
-The pleasing punishment that women bear)
-Had made provision for her following me,
-And soon, and safe, arrived where I was.
-There had she not been long but she became
-A joyful mother of two goodly sons:
-And, which was strange, the one so like the other
-As could not be distinguish’d but by names.
-That very hour, and in the self-same inn,
-A mean woman was delivered
-Of such a burden male, twins both alike.
-Those, for their parents were exceeding poor,
-I bought, and brought up to attend my sons.
-My wife, not meanly proud of two such boys,
-Made daily motions for our home return:
-Unwilling I agreed. Alas! Too soon
-We came aboard.
-A league from Epidamium had we sail’d
-Before the always-wind-obeying deep
-Gave any tragic instance of our harm:
-But longer did we not retain much hope;
-For what obscured light the heavens did grant
-Did but convey unto our fearful minds
-A doubtful warrant of immediate death,
-Which though myself would gladly have embrac’d,
-Yet the incessant weepings of my wife,
-Weeping before for what she saw must come,
-And piteous plainings of the pretty babes,
-That mourn’d for fashion, ignorant what to fear,
-Forc’d me to seek delays for them and me.
-And this it was (for other means was none):
-The sailors sought for safety by our boat,
-And left the ship, then sinking-ripe, to us.
-My wife, more careful for the latter-born,
-Had fast’ned him unto a small spare mast,
-Such as sea-faring men provide for storms;
-To him one of the other twins was bound,
-Whilst I had been like heedful of the other.
-The children thus dispos’d, my wife and I,
-Fixing our eyes on whom our care was fix’d,
-Fast’ned ourselves at either end the mast,
-And floating straight, obedient to the stream,
-Was carried towards Corinth, as we thought.
-At length the sun, gazing upon the earth,
-Dispers’d those vapors that offended us,
-And by the benefit of his wished light
-The seas wax’d calm, and we discovered
-Two ships from far, making amain to us,
-Of Corinth that, of Epidaurus this.
-But ere they came—O, let me say no more!
-Gather the sequel by that went before.
+SD: Enter VALENTINE.
 
-SOLINUS, DUKE OF EPHESUS
-Nay, forward, old man, do not break off so,
-For we may pity, though not pardon thee.
+ORSINO
+How now! What news from her?
 
-EGEON
-O, had the gods done so, I had not now
-Worthily term’d them merciless to us!
-For ere the ships could meet by twice five leagues,
-We were encount’red by a mighty rock,
-Which being violently borne upon,
-Our helpful ship was splitted in the midst;
-So that, in this unjust divorce of us,
-Fortune had left to both of us alike
-What to delight in, what to sorrow for.
-Her part, poor soul! Seeming as burdened
-With lesser weight, but not with lesser woe,
-Was carried with more speed before the wind,
-And in our sight they three were taken up
-By fishermen of Corinth, as we thought.
-At length, another ship had seiz’d on us,
-And knowing whom it was their hap to save,
-Gave healthful welcome to their shipwrack’d guests,
-And would have reft the fishers of their prey,
-Had not their bark been very slow of sail;
-And therefore homeward did they bend their course.
-Thus have you heard me sever’d from my bliss,
-That by misfortunes was my life prolong’d,
-To tell sad stories of my own mishaps.
+VALENTINE
+So please my lord, I might not be admitted,
+But from her handmaid do return this answer:
+The element itself, till seven years' heat,
+Shall not behold her face at ample view,
+But like a cloistress she will veiled walk,
+And water once a day her chamber round
+With eye-offending brine; all this to season
+A brother's dead love, which she would keep fresh
+And lasting, in her sad remembrance.
 
-SOLINUS, DUKE OF EPHESUS
-And for the sake of them thou sorrowest for,
-Do me the favor to dilate at full
-What have befall’n of them and thee till now.
+ORSINO
+O, she that hath a heart of that fine frame
+To pay this debt of love but to a brother –
+How will she love, when the rich golden shaft
+Hath killed the flock of all affections else
+That live in her; when liver, brain, and heart,
+These sovereign thrones, are all supplied and filled –
+Her sweet perfections – with one self king!
+Away before me to sweet beds of flowers!
+Love thoughts lie rich when canopied with bowers.
 
-EGEON
-My youngest boy, and yet my eldest care,
-At eighteen years became inquisitive
-After his brother; and importun’d me
-That his attendant—so his case was like,
-Reft of his brother, but retain’d his name—
-Might bear him company in the quest of him:
-Whom whilst I labored of a love to see,
-I hazarded the loss of whom I lov’d.
-Five summers have I spent in farthest Greece,
-Roaming clean through the bounds of Asia,
-And coasting homeward, came to Ephesus;
-Hopeless to find, yet loath to leave unsought
-Or that, or any place that harbors men.
-But here must end the story of my life,
-And happy were I in my timely death,
-Could all my travels warrant me they live.
-
-SOLINUS, DUKE OF EPHESUS
-Hapless Egeon, whom the fates have mark’d
-To bear the extremity of dire mishap!
-Now trust me, were it not against our laws,
-Against my crown, my oath, my dignity,
-Which princes, would they, may not disannul,
-My soul should sue as advocate for thee:
-But though thou art adjudged to the death,
-And passed sentence may not be recall’d
-But to our honor’s great disparagement,
-Yet will I favor thee in what I can;
-Therefore, merchant, I’ll limit thee this day
-To seek thy health by beneficial help.
-Try all the friends thou hast in Ephesus;
-Beg thou, or borrow, to make up the sum,
-And live: if no, then thou art doom’d to die.
-Jailer, take him to thy custody.
-
-JAILER
-I will, my lord.
-
-EGEON
-Hopeless and helpless doth Egeon wend,
-But to procrastinate his lifeless end.
-
-SD: Exeunt.
-`;
+SD: Exuent ORSINO, CURIO, VALENTINE, and other lords.`;
