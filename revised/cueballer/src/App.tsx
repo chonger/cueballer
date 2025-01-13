@@ -43,11 +43,11 @@ interface MyState {
 
 // min cue words is 1
 const MAX_NUM_CUE_WORDS = 8
-const DEFAULT_NUM_CUE_WORDS = 5
+const DEFAULT_NUM_CUE_WORDS = 3
 
 const MIN_CHARS_PER_LINE = 30
 const MAX_CHARS_PER_LINE = 100
-const DEFAULT_NUM_CHARS_PER_LINE = 70
+const DEFAULT_NUM_CHARS_PER_LINE = 53
 
 const INIT_STATE : MyState  ={ 
   originalScript: comedyerr, 
