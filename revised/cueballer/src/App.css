@@ -51,3 +51,7 @@
 .cue-script {
   overflow-y: auto;
 }
+
+.cue-selector {
+  overflow-y: auto;
+}
