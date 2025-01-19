@@ -1,5 +1,41 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`check cue IO CapitalSpeechLine.txt -- I. 1`] = `
+"                     I.                      
+
+
+                      1                      
+
+---------------------------------------------
+
+"
+`;
+
+exports[`check cue IO CapitalSpeechLine.txt -- LADY MACBETH 1`] = `
+"                LADY MACBETH                
+
+
+                      1                      
+
+------------------------------As I descended?
+
+"
+`;
+
+exports[`check cue IO CapitalSpeechLine.txt -- MACBETH 1`] = `
+"                   MACBETH                    
+
+
+                      1                      
+
+
+As I descended?
+---------------------------------------------
+Hearke,
+who lyes i'th' second Chamber?
+"
+`;
+
 exports[`check cue IO MacbethFolio1.txt -- MACDUFFE 1`] = `
 "                  MACDUFFE                  
 
@@ -8,6 +44,93 @@ exports[`check cue IO MacbethFolio1.txt -- MACDUFFE 1`] = `
 
 
 Is thy Master stirring?
+"
+`;
+
+exports[`check cue IO OverlongCues.txt -- FESTE 1`] = `
+"                    FESTE                    
+
+
+                      1                      
+
+
+Sad true lover never find my grave
+To weep there.
+"
+`;
+
+exports[`check cue IO OverlongCues.txt -- ORSINO 1`] = `
+"                   ORSINO                    
+
+
+                      1                      
+
+-------------------------------To weep there.
+There's for thy pains.
+"
+`;
+
+exports[`check cue IO SDforNonSpeakers.txt -- ESME 1`] = `
+"                    ESME                    
+
+
+                Act 1 Scene 1                
+
+
+           [Enter ESME and GINNY.]            
+I wonder where dad is.
+--------------------------the basement again.
+Probably.  Let's go get a video of him.
+           [Exit ESME and GINNY.]            
+
+                Act 1 Scene 2                
+
+-----------------------------nice smokey eye!
+  [Enter ESME and GINNY with video camera]  
+Hey dad! Wave for the audience!
+-------------------------------is Daddy Time!
+       [Exit ESME and GINNY giggling.]        
+"
+`;
+
+exports[`check cue IO SDforNonSpeakers.txt -- GINNY 1`] = `
+"                    GINNY                    
+
+
+                Act 1 Scene 1                
+
+
+           [Enter ESME and GINNY.]            
+--------------------------------where dad is.
+Probably putting on his secret makeup in the
+   basement again.
+--------------------------------video of him.
+           [Exit ESME and GINNY.]            
+
+                Act 1 Scene 2                
+
+-----------------------------nice smokey eye!
+  [Enter ESME and GINNY with video camera]  
+-------------------------------is Daddy Time!
+       [Exit ESME and GINNY giggling.]        
+"
+`;
+
+exports[`check cue IO SDforNonSpeakers.txt -- TEDDY 1`] = `
+"                    TEDDY                    
+
+
+                Act 1 Scene 2                
+
+
+       [Enter TEDDY holding a mirror.]        
+Well, hello there handsome, nice smokey eye!
+----------------------------for the audience!
+Girls!  What are you doing down here!  This
+   is Daddy Time!
+       [Exit ESME and GINNY giggling.]        
+I'm proud of who I am.
+         [TEDDY exits, sauntering.]          
 "
 `;
 
@@ -35,6 +158,49 @@ Hi Ben!
 "
 `;
 
+exports[`check cue IO Shared Lines.txt -- WITCH 1 1`] = `
+"                   WITCH 1                    
+
+
+                      1                      
+
+---------------------------meet with Macbeth.
+I come, Gray-Malkin.
+Padock calls
+anon:
+faire is foule, and foule is faire,
+Houer through the fogge and filthie ayre.
+"
+`;
+
+exports[`check cue IO Shared Lines.txt -- WITCH 2 1`] = `
+"                   WITCH 2                    
+
+
+                      1                      
+
+
+Vpon the Heath.
+---------------------------Padock calls anon:
+faire is foule, and foule is faire,
+Houer through the fogge and filthie ayre.
+"
+`;
+
+exports[`check cue IO Shared Lines.txt -- WITCH 3 1`] = `
+"                   WITCH 3                    
+
+
+                      1                      
+
+------------------------------Vpon the Heath.
+There to meet with Macbeth.
+---------------------------Padock calls anon:
+faire is foule, and foule is faire,
+Houer through the fogge and filthie ayre.
+"
+`;
+
 exports[`check cue IO StageDirections.txt -- CURIO 1`] = `
 "                    CURIO                    
 
@@ -42,8 +208,7 @@ exports[`check cue IO StageDirections.txt -- CURIO 1`] = `
                 Act 1 Scene 1                
 
 
-[Music. Enter ORSINO, Duke of Illyria, CURIO,
-   and other lords]
+   [Enter ORSINO, CURIO, and other lords.]    
 -------------------------is high fantastical.
 Will you go hunt, my lord?
 ---------------------------------What, Curio?
@@ -61,8 +226,7 @@ exports[`check cue IO StageDirections.txt -- ORSINO 1`] = `
                 Act 1 Scene 1                
 
 
-[Music. Enter ORSINO, Duke of Illyria, CURIO,
-   and other lords]
+   [Enter ORSINO, CURIO, and other lords.]    
 If music be the food of love, play on,
 Give me excess of it, that, surfeiting,
 The appetite may sicken, and so die.
@@ -130,5 +294,52 @@ And lasting, in her sad remembrance.
 ------------------------canopied with bowers.
 [Exuent ORSINO, CURIO, VALENTINE, and other
    lords]
+"
+`;
+
+exports[`check cue IO TwelfthEllipses.txt -- FABIAN 1`] = `
+"                   FABIAN                    
+
+
+                      1                      
+
+----------------------------this fellow live?
+Though our silence be drawn from us with
+   cars, yet peace!
+"
+`;
+
+exports[`check cue IO TwelfthEllipses.txt -- MALVOLIO 1`] = `
+"                  MALVOLIO                  
+
+
+                      1                      
+
+
+Toby approaches, curtsies there to me . . .
+-----------------------------cars, yet peace!
+I extend my hand to him thus – quenching my
+   familiar smile with an austere regard of
+   control . . .
+-----------------------------o'the lips then?
+Saying, Cousin Toby, my fortunes having cast
+   me on your niece give me this prerogative
+   of speech . . .
+"
+`;
+
+exports[`check cue IO TwelfthEllipses.txt -- SIR TOBY 1`] = `
+"                  SIR TOBY                  
+
+
+                      1                      
+
+----------------------------there to me . . .
+Shall this fellow live?
+----------------------regard of control . . .
+And does not Toby take you a blow o'the lips
+   then?
+------------------prerogative of speech . . .
+What, what!
 "
 `;
