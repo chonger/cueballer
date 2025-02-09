@@ -2,7 +2,7 @@
 
 Cueballer is a tool for theatre companies that wish to use "cue scripts" in place of or alongside full scripts.  A cue script is an artefact specific to each actor and contains only the lines of that actor, preceeded by the last few words of the  preceeding line, their cue.
 
-Cue scripts were used by Wilhelm Shakespeare and Teddy should say something short sweet and tasty about that here.
+Cue scripts were used by Wilhelm Shakespeare and Teddy should say something short sweet and tasty about that here. 
 
 Put precisely, Cueballer automates this somewhat tedious reconstruction of a script into cue scripts in two steps.
 ```mermaid

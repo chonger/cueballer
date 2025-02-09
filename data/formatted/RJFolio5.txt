@@ -1,0 +1,534 @@
+NS: Act 5 Scene 1
+
+SD: Enter +ROMEO.
++ROMEO
+If I may trust the flattering truth of sleepe,
+My dreames presage some ioyfull newes at hand:
+My bosomes L. sits lightly in his throne:
+And all thisan day an vccustom'd spirit,
+Lifts me aboue the ground with cheerefull thoughts.
+I dreamt my Lady came and found me dead,
+[Strange dreame that giues a dead man leaue to thinke,]
+And breath'd such life with kisses in my lips,
+That I reuiu'd and was an Emperour.
+Ah me, how sweet is loue it selfe possest,
+When but loues shadowes are so rich in ioy.
+SD: Enter ROMEO'S man.
++ROMEO
+Newes from Verona, how now +BALTHAZER?
+Dost thou not bring me Letters from the Frier?
+How doth my Lady? Is my Father well?
+How doth my Lady Iuliet? that I aske againe,
+For nothing can be ill, if she be well.
++BALTHAZER
+Then she is well, and nothing can be ill.
+Her body sleepes in Capels Monument,
+And her immortall part with Angels liue,
+I saw her laid low in her kindreds Vault,
+And presently tooke Poste to tell it you:
+O pardon me for bringing these ill newes,
+Since you did leaue it for my office Sir.
++ROMEO
+Is it euen so? / Then I denie you Starres.
+Thou knowest my lodging, get me inke and paper,
+And hire Post-Horses, I will hence to night.
++BALTHAZER
+I do beseech you sir, haue patience:
+Your lookes are pale and wild, and do import
+Some misaduenture.
++ROMEO
+Tush, thou art deceiu'd,
+Leaue me, and do the thing I bid thee do.
+Hast thou no Letters to me from the Frier?
++BALTHAZER
+No my good Lord.
++ROMEO
+Mo matter: Get thee gone,
+And hyre those Horses, Ile be with thee straight.
+SD: +BALTHAZER exits
+SD: Well Iuliet, I will lie with thee to night: Lets see for meanes: O mischiefe thou art swift, To enter in the thoughts of desperate men: I do remember an Appothecarie, And here abouts dwells, which late I noted In tattred weeds, with ouerwhelming browes, Culling of Simples, meager were his lookes, Sharpe miserie had worne him to the bones: And in his needie shop a Tortoyrs hung, An Allegater stuft, and other skins Of ill shap'd fishes, and about his shelues, A beggerly account of emptie boxes, Greene earthen pots, Bladders, and mustie seedes, Remnants of packthred, and old cakes of Roses Were thinly scattered, to make vp a shew. Noting this penury, to my selfe I said, An if a man did need a poyson now, Whose sale is persent death in Mantua, Here liues a Caitiffe wretch would sell it him. O this same thought did but fore-run my need, And this same needie man must sell it me. As I remember, this should be the house, Being holy day, the beggers shop is shut. What ho? Appothecarie?
+SD: Enter +APPOTHECARIE.
++APPOTHECARIE
+Who call's so low'd?
++ROMEO
+Come hither man, I see that thou art poore,
+Hold, there is fortie Duckets, let me haue
+A dram of poyson, such soone speeding geare,
+As will disperse it selfe through all the veines,
+That the life-wearie-taker may fall dead,
+And that the Trunke may be discharg'd of breath,
+As violently, as hastie powder fier'd
+Doth hurry from the fatall Canons wombe.
++APPOTHECARIE
+Such mortall drugs I haue, but Mantuas law
+Is death to any he, that vtters them.
++ROMEO
+Art thou so bare and full of wretchednesse,
+And fear'st to die? Famine is in thy cheekes,
+Need and opression starueth in thy eyes,
+Contempt and beggery hangs vpon thy backe:
+The world is not thy friend, nor the worlds law:
+The world affords no law to make thee rich.
+Then be not poore, but breake it, and take this.
++APPOTHECARIE
+My pouerty, but not my will consents.
++ROMEO
+I pray thy pouerty, and not thy will.
++APPOTHECARIE
+Put this in any liquid thing you will
+And drinke it off, and if you had the strength
+Of twenty men, it would dispatch you straight.
++ROMEO
+There's thy Gold, / Worse poyson to mens soules,
+Doing more murther in this loathsome world,
+Then these poore compounds that thou maiest not sell.
+I sell thee poyson, thou hast sold me none,
+Farewell, buy food, and get thy selfe in flesh.
+Come Cordiall, and not poyson, go with me
+To Iuliets graue, for there must I vse thee.
+SD: Exuent +ROMEO, +APPOTHECARIE
+
+NS: Act 5 Scene 2
+
+SD: Enter +FRIER JOHN to +FRIER LAWRENCE.
++FRIER JOHN
+Holy Franciscan Frier, Brother, ho?
+SD: Enter +FRIER LAWRENCE.
++FRIER LAWRENCE
+This same should be the voice of +FRIER JOHN.
+Welcome from Mantua, what sayes +ROMEO?
+Or if his mind be writ, giue me his Letter.
++FRIER JOHN
+Going to find a bare-foote Brother out,
+One of our order to associate me,
+Here in this Citie visiting the sick,
+And finding him, the Searchers of the Towne
+Suspecting that we both were in a house
+Where the infectious pestilence did raigne,
+Seal'd vp the doores, and would not let vs forth,
+So that my speed to Mantua there was staid.
++FRIER LAWRENCE
+Who bare my Letter then to +ROMEO?
++FRIER JOHN
+I could not send it, here it is againe,
+Nor get a messenger to bring it thee,
+So fearefull were they of infection.
++FRIER LAWRENCE
+Vnhappie Fortune: by my Brotherhood
+The Letter was not nice, but full of charge,
+Of deare import, and the neglecting it
+May do much danger: Frier +JOHN go hence,
+Get me an Iron Crow, and bring it straight
+Vnto my Cell.
++FRIER JOHN
+Brother Ile go and bring it thee.
+SD: +FRIER JOHN exits
++FRIER LAWRENCE
+Now must I to the Monument alone,
+Within this three houres will faire Iuliet wake,
+Shee will beshrew me much that +ROMEO
+Hath had no notice of these accidents:
+But I will write againe to Mantua,
+And keepe her at my Cell till +ROMEO come,
+Poore liuing Coarse, clos'd in a dead mans Tombe,
+SD: +FRIER LAWRENCE exits
+
+NS: Act 5 Scene 3
+
+SD: Enter +PARIS and his +PAGE.
++PARIS
+Giue me thy Torch Boy, hence and stand aloft,
+Yet put it out, for I would not be seene:
+Vnder yond young Trees lay thee all along,
+Holding thy eare close to the hollow ground,
+So shall no foot vpon the Churchyard tread,
+Being loose, vnfirme with digging vp of Graues,
+But thou shalt heare it: whistle then to me,
+As signall that thou hearest some thing approach,
+Giue me those flowers. Do as I bid thee, go.
++PAGE
+I am almost afraid to stand alone
+Here in the Churchyard, yet I will aduenture.
++PARIS
+Sweet Flower with flowers thy Bridall bed I strew:
+O woe, thy Canopie is dust and stones,
+Which with sweet water nightly I will dewe,
+Or wanting that, with teares destil'd by mones;
+The obsequies that I for thee will keepe,
+Nightly shall be, to strew thy graue, and weepe.
+SD: Whistle Boy.
+SD: The +PAGE giues warning, something doth approach, What cursed foot wanders this wayes to night, To crosse my obsequies, and true loues right? What with a Torch?
+SD: Muffle me night a while.
+SD: Enter +ROMEO, and +PETER.
++ROMEO
+Giue me that Mattocke, & the wrenching Iron,
+Hold take this Letter, early in the morning
+See thou deliuer it to my Lord and Father,
+Giue me the light; vpon thy life I charge thee,
+What ere thou hear'st or seest, stand all aloofe,
+And do not interrupt me in my course.
+Why I descend into this bed of death,
+Is partly to behold my Ladies face:
+But chiefly to take thence from her dead finger,
+A precious Ring: a Ring that I must vse,
+In deare employment, therefore hence be gone:
+But if thou iealous dost returne to prie
+In what I further shall intend to do,
+By heauen I will teare thee ioynt by ioynt,
+And strew this hungry Churchyard with thy limbs:
+The time, and my intents are sauage wilde:
+More fierce and more inexorable farre,
+Then emptie Tygers, or the roaring Sea.
++PETER
+I will be gone sir, and not trouble you
++ROMEO
+So shalt thou shew me friendship: take thou that,
+Liue and be prosperous, and farewell good fellow.
++PETER
+For all this same, Ile hide me here about,
+His lookes I feare, and his intents I doubt.
++ROMEO
+Thou detestable mawe, thou wombe of death,
+Gorg'd with the dearest morsell of the earth:
+Thus I enforce thy rotten Iawes to open,
+And in despight, Ile cram thee with more food.
++PARIS
+This is that banisht haughtie Mountague,
+That murdred my Loues Cozin; with which griefe,
+It is supposed the faire Creature died,
+And here is come to do some villanous shame
+To the dead bodies: I will apprehend him.
+Stop thy vnhallowed toyle, vile Mountague:
+Can vengeance be pursued further then death?
+Condemned vallaine, I do apprehend thee.
+Obey and go with me, for thou must die,
++ROMEO
+I must indeed, and therfore came I hither:
+Good gentle youth, tempt not a desperate man,
+Flie hence and leaue me, thinke vpon those gone,
+Let them affright thee. I beseech thee Youth,
+Put not an other sin vpon my head,
+By vrging me to furie. O be gone,
+By heauen I loue thee better then my selfe,
+For I come hither arm'd against my selfe:
+Stay not, be gone, liue, and hereafter say,
+A mad mans mercy bid thee run away.
++PARIS
+I do defie thy commisseration,
+And apprehend thee for a Fellon here.
++ROMEO
+Wilt thou prouoke me? Then haue at thee Boy.
++PETER
+O Lord they fight, I will go call the Watch.
++PARIS
+O I am slaine, if thon be mercifull,
+Open the Tombe, lay me with Iuliet.
++ROMEO
+In faith I will, let me peruse this face:
+Mercutius kinsman, Noble Countie +PARIS,
+What said my man, when my betossed soule
+Did not attend him as we rode? I thinke
+He told me +PARIS should haue married Iuliet.
+Said he not so? Or did I dreame it so?
+Or am I mad, hearing him talke of Iuliet,
+To thinke it was so? O giue me thy hand,
+One, writ with me in sowre misfortunes booke.
+Ile burie thee in a triumphant graue.
+A Graue; O no, a Lanthorne; slaughtred Youth:
+For here lies Iuliet, and her beautie makes
+This Vault a feasting presence full of light.
+Death lie thou there, by a dead man inter'd.
+How oft when men are at the point of death,
+Haue they beene merrie? Which their Keepers call
+A lightning before death? Oh how may I
+Call this a lightning? O my Loue, my Wife,
+Death that hath suckt the honey of thy breath,
+Hath had no power yet vpon thy Beautie:
+Thou are not conquer'd: Beauties ensigne yet
+Is Crymson in thy lips, and in thy cheekes,
+And Deaths pale flag is not aduanced there.
+Tybalt, ly'st thou there in thy bloudy sheet?
+O what more fauour can I do to thee,
+Then with that hand that cut thy youth in twaine,
+To sunder his that was thy enemie?
+Forgiue me Cozen. Ah deare Iuliet:
+Why art thou yet so faire? I will beleeue,
+Shall I beleeue, that vnsubstantiall death is amorous?
+And that the leane abhorred Monster keepes
+Thee here in darke to be his Paramour?
+For feare of that, I still will stay with thee,
+And neuer from this Pallace of dym night
+Depart againe: come lie thou in my armes,
+Heere's to thy health, where ere thou tumblest in.
+O true Appothecarie!
+Thy drugs are quicke. Thus with a kisse I die.
+Depart againe; here, here will I remaine,
+With Wormes that are thy Chambermaides: O here
+Will I set vp my euerlasting rest:
+And shake the yoke of inauspicious starres
+From this world-wearied flesh: Eyes looke your last:
+Armes take your last embrace: And lips, O you
+The doores of breath, seale with a righteous kisse
+A datelesse bargaine to ingrossing death:
+Come bitter conduct, come vnsauoury guide,
+Thou desperate Pilot, now at once run on
+The dashing Rocks, thy Sea-sicke wearie Barke:
+Heere's to my Loue. O true Appothecary:
+Thy drugs are quicke. Thus with a kisse I die.
+SD: Enter +FRIER LAWRENCE with Lanthorne, Crow, and Spade.
++FRIER LAWRENCE
+St. Francis be my speed, how oft to night
+Haue my old feet stumbled at graues? Who's there?
++PETER
+Here's one, a Friend, & one that knowes you well.
++FRIER LAWRENCE
+Blisse be vpon you. Tell me good my Friend
+What Torch is yond that vainely lends his light
+To grubs, and eyelesse Sculles? As I discerne,
+It burneth in the Capels Monument.
++PETER
+It doth so holy sir, / And there's my Master,
+one that you loue.
++FRIER LAWRENCE
+Who is it?
++PETER
+Romeo.
++FRIER LAWRENCE
+How long hath he bin there?
++PETER
+Full halfe an houre.
++FRIER LAWRENCE
+Go with me to the Vault.
++PETER
+I dare not Sir.
+My Master knowes not but I am gone hence,
+And fearefully did menace me with death,
+If I did stay to looke on his entents.
++FRIER LAWRENCE
+Stay, then Ile go alone, feares comes vpon me.
+O much I feare some ill vnluckie thing.
++PETER
+As I did sleepe vnder this young tree here,
+I dreamt my maister and another fought,
+And that my Maister slew him.
++FRIER LAWRENCE
+Romeo.
+Alacke, alacke, what blood is this which staines
+The stony entrance of this Sepulcher?
+What meane these Masterlesse, and goarie Swords
+To lie discolour'd by this place of peace?
+Romeo, oh pale: who else? what Paris too?
+And steept in blood? Ah what an vn knd houre
+Is guiltie of this lamentable chance?
+SD: The Lady stirs.
++JULIET
+O comfortable Frier, where's my Lord?
+I do remember well where I should be:
+And there I am, where is my Romeo?
++FRIER LAWRENCE
+I heare some noyse Lady, come from that nest
+Of death, contagion, and vnnaturall sleepe,
+A greater power then we can contradict
+Hath thwarted our entents, come, come away,
+Thy husband in thy bosome there lies dead:
+And Paris too: come Ile dispose of thee,
+Among a Sisterhood of holy Nunnes:
+Stay not to question, for the watch is comming.
+Come, go good Iuliet, I dare no longer stay.
++JULIET
+Go get thee hence, for I will notuaway,
+SD: +FRIER LAWRENCE exits
++JULIET
+What's here? A cup clos'd in my true lo:es hand?
+Poyson I see hath bin his timelesse end
+O churle, drinke all? and left no friendly drop,
+To helpe me after, I will kisse thy lips,
+Happlie some poyson yet doth hang on them,
+To make me die wth a restoratiue.
+Thy lips are warme.
+SD: Enter +PAGE and +WATCH.
++WATCH
+Lead Boy, which way?
++JULIET
+Yea noise? Then ile be briefe. O happy Dagger.
+'Tis in thy sheath, there rust and let me die
+SD: +JULIET kills herself.
++PAGE
+This is the place, There where the Torch doth burne
++WATCH
+The ground is bloody, / Search about the Churchyard.
+Go some of you, who ere you find attach.
+Pittifull sight, here lies the Countie slaine,
+And Iuliett bleeding, warme and newly dead
+Who here hath laine these two dayes buried.
+Go tell the Prince, runne to the Capulets,
+Raise vp the Mountagues, some others search,
+We see the ground whereon these woes do lye,
+But the true ground of all these piteous woes,
+We cannot without circumstance descry.
+SD: Enter +ROMEO'S man.
++WATCH
+Here's +ROMEO'r man, / We found him in the Churchyard.
++CON
+Hold him in safety, till the Prince come hither.
+SD: Enter +FRIER JOHN, and another +WATCHMAN.
++3. WATCH
+Here is a Frier that trembles, sighes, and weepes
+We tooke this Mattocke and this Spade from him,
+As he was comming from this Church-yard side.
++CON
+A great suspition, stay the Frier too.
+SD: Enter the +PRINCE.
++PRINCE
+What misaduenture is so earely vp,
+That calls our person from our mornings rest?
+SD: Enter +CAPULET and his Wife.
++CAPULET
+What should it be that they so shrike abroad?
++WIFE
+O the people in the streete crie Romeo.
+Some Iuliet, and some Paris, and all runne
+With open outcry toward out Monument.
++PRINCE
+What feare is this which startles in your eares?
++WATCH
+Soueraigne, here lies the Countie Paris slaine,
+And Romeo dead, and Iuliet dead before,
+Warme and new kil'd.
++PRINCE
+Search, / Seeke, and know how, this foule murder comes.
++WATCH
+Here is a Frier, and Slaughter'd Romeos man,
+With Instruments vpon them fit to open
+These dead mens Tombes.
++CAPULET
+O heauen! / O wife looke how our Daughter bleedes!
+This Dagger hath mistaine, for loe his house
+Is empty on the backe of Mountague,
+And is misheathed in my Daughters bosome.
++WIFE
+O me, this sight of death, is as a Bell
+That warnes my old age to a Sepulcher.
+SD: Enter +MOUNTAGUE.
++PRINCE
+Come Mountague, for thou art early vp
+To see thy Sonne and Heire, now early downe.
++MOUNTAGUE
+Alas my liege, my wife is dead to night,
+Griefe of my Sonnes exile hath stopt her breath:
+What further woe conspires against my age?
++PRINCE
+Looke: and thou shalt see.
++MOUNTAGUE
+O thou vntaught, what manners in is this,
+To presse before thy Father to a graue?
++PRINCE
+Seale vp the mouth of outrage for a while,
+Till we can cleare these ambiguities,
+And know their spring, their head, their true descent,
+And then will I be generall of your woes,
+And lead you euen to death? meane time forbeare,
+And let mischance be slaue to patience,
+Bring forth the parties of suspition.
++FRIER LAWRENCE
+I am the greatest, able to doe least,
+Yet most suspected as the time and place
+Doth make against me of this direfull murther:
+And heere I stand both to impeach and purge
+My selfe condemned, and my selfe excus'd.
++PRINCE
+Then say at once, what thou dost know in this?
++FRIER LAWRENCE
+I will be briefe, for my short date of breath
+Is not so long as is a tedious tale.
+Romeo there dead, was husband to that Iuliet,
+And she there dead, that's Romeos faithfull wife:
+I married them; and their stolne marriage day
+Was Tybalts Doomesday: whose vntimely death
+Banish'd the new-made Bridegroome from this Citie:
+For whom [and not for Tybalt] Iuliet pinde.
+You, to remoue that siege of Greefe from her,
+Betroth'd, and would haue married her perforce
+To Countie Paris. Then comes she to me,
+And [with wilde lookes] bid me deuise some meanes
+To rid her from this second Marriage,
+Or in my Cell there would she kill her selfe.
+Then gaue I her [so Tutor'd by my Art]
+A sleeping Potion, which so tooke effect
+As I intended, for it wrought on her
+The forme of death. Meane time, I writ to Romeo,
+That he should hither come, as this dyre night,
+To helpe to take her from her borrowed graue,
+Being the time the Potions force should cease.
+But he which bore my Letter, Frier Iohn,
+Was stay'd by accident; and yesternight
+Return'd my Letter backe. Then all alone,
+At the prefixed houre of her waking,
+Came I to take her from her Kindreds vault,
+Meaning to keepe her closely at my Cell,
+Till I conueniently could send to Romeo.
+But when I came [some Minute ere the time
+Of her awaking] heere vntimely lay
+The Noble Paris, and true Romeo dead.
+Shee wakes, and I intreated her come foorth,
+And beare this worke of Heauen, with patience:
+But then, a noyse did scarre me from the Tombe,
+And she [too desperate] would not go with me,
+But [as it seemes] did violence on her selfe.
+All this I know, and to the Marriage
+her Nurse is priuy: / And if ought in this
+miscarried by my fault, / Let my old life
+be sacrific'd, some houre before the time,
+Vnto the rigour of seuerest Law.
++PRINCE
+We still haue knowne thee for a Holy man.
+Where's Romeos man? What can he say to this?
++PAGE
+I brought my Master newes of Iuliets death,
+And then in poste he came from Mantua
+To this same place, to this same Monument.
+This Letter he early bid me giue his Father,
+And threatned me with death, going in the Vault,
+If I departed not, and left him there.
++PRINCE
+Giue me the Letter, I will look on it.
+Where is the Counties Page that rais'd the Watch?
+Sirra, what made your Master in this place?
++PAGE
+He came with flowres to strew his Ladies graue,
+And bid me stand aloofe, and so I did:
+Anon comes one with light to ope the Tombe,
+And by and by my Maister drew on him,
+And then I ran away to call the Watch.
++PRINCE
+This Letter doth make good the Friers words,
+Their course of Loue, the tydings of her death:
+And heere he writes, that he did buy a poyson
+Of a poore Pothecarie, and therewithall
+Came to this Vault to dye, and lye with Iuliet.
+Where be these Enemies? Capulet, Mountague,
+See what a scourge is laide vpon your hate,
+That Heauen finds meanes to kill your ioyes with Loue;
+And I, for winking at your discords too,
+Haue lost a brace of Kinsmen: All are punish'd.
++CAPULET
+O Brother Mountague, giue me thy hand,
+This is my Daughters ioynture, for no more
+Can I demand.
++MOUNTAGUE
+But I can giue thee more:
+For I will raise her Statue in pure Gold,
+That whiles Verona by that name is knowne,
+There shall no figure at that Rate be set,
+As that of True and Faithfull Iuliet.
++CAPULET
+As rich shall Romeo by his Lady ly,
+Poore sacrifices of our enmity.
++PRINCE
+A glooming peace this morning with it brings,
+The Sunne for sorrow will not shew his head;
+Go hence, to haue more talke of these sad things,
+Some shall be pardon'd, and some punished.
+For neuer was a Storie of more Wo,
+Then this of Iuliet, and her Romeo.
+SD: Exuent +ROMEO, +BALTHAZER, +APPOTHECARIE, +FRIER JOHN, +FRIER LAWRENCE, +PARIS, +PAGE, +PETER, +JULIET, +WATCH, +CON, +3. WATCH, +PRINCE, +CAPULET, +WIFE, +MOUNTAGUE
