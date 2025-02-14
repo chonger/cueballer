@@ -12,7 +12,11 @@ When there is a stage direction, you format it in a line like "SD: " followed by
 
 When a character is named in a stage direction, you will write their name in all capital letters.
 
-If an actor is named in the stage direction, you will write their name in all capital letters, and place "+" at the beginning of their name.
+If an actor is named in the stage direction, you will write their name in all capital letters, and place "+" at the beginning of their name, but if they are named in a spoken line you will leave their name unchanged.
+
+You will respect all original punctation in spoken lines.
+
+Do not change () to [] in spoken lines.  Do not change parantheses to square brackets in spoken lines.
 
 If a character speaks lines in a scene you will write their name in all capital letters when they are named in stage directions.
 
@@ -46,14 +50,14 @@ Here is an example of correctly formatted output.
 
 NS: Act 1, Scene 1
 
-SD: Enter the DUKE of Ephesus with EGEON the merchant of Syracuse, JAILER with Officers, and other Attendants.
+SD: Enter +SOLINUS, the Duke of Ephesus with +EGEON the merchant of Syracuse, +JAILER with Officers, and other Attendants.
 
 +EGEON
 Proceed, Solinus, to procure my fall,
 And by the doom of death end woes and all.
 
-+SOLINUS, DUKE OF EPHESUS
-Merchant of Syracuse, plead no more.
++SOLINUS
+Merchant of Syracuse, Egeon, plead no more.
 I am not partial to infringe our laws;
 The enmity and discord which of late
 Sprung from the rancorous outrage of your Duke
@@ -66,7 +70,7 @@ For since the mortal and intestine jars
 It hath in solemn synods been decreed,
 Both by the Syracusians and ourselves,
 To admit no traffic to our adverse towns:
-Nay more, if any born at Ephesus be seen
+Nay more, Egeon, if any born at Ephesus be seen
 At any Syracusian marts and fairs;
 Again, if any Syracusian born
 Come to the bay of Ephesus, he dies,
@@ -78,10 +82,10 @@ Cannot amount unto a hundred marks,
 Therefore by law thou art condemn’d to die.
 
 +EGEON
-Yet this my comfort, when your words are done,
+Yet this my comfort, Solinus, when your words are done,
 My woes end likewise with the evening sun.
 
-+SOLINUS, DUKE OF EPHESUS
++SOLINUS
 Well, Syracusian; say in brief the cause
 Why thou departedst from thy native home,
 And for what cause thou cam’st to Ephesus.
@@ -97,7 +101,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import tiktoken
-
+import re
 import time
 
 def estimate_gemini_tokens(text):
@@ -121,22 +125,58 @@ def estimate_gemini_tokens(text):
     
 client = genai.Client(api_key=os.getenv('GEMINI_KEY'))
 
+def call(text):
+    t = time.perf_counter()
+    print("Calling Gemini, estimated tokens:", estimate_gemini_tokens(prompt + text))
+    response = client.models.generate_content(
+        model="gemini-2.0-flash", contents=prompt + text
+    )
+    usage = response.usage_metadata
+    print(f"USAGE:\n\n{usage}\n\n")
+    print(f"TIME: {time.perf_counter()-t}")
+    return response.text
+
 basepath = "data"
-raw_scripts = os.path.join(basepath, "raw_scripts")
+raw_scripts = os.path.join(basepath, "raw_scripts", "ShakespearesWords")
 for fname in os.listdir(raw_scripts):
     path = os.path.join(raw_scripts, fname)
     if not os.path.isfile(path):
         continue
     with open(path) as f:
-        t = time.perf_counter()
+        print("Processing:", path)
         script = f.read()
-        print("Processing", path, " -- estimated tokens:", estimate_gemini_tokens(prompt + script))
-        response = client.models.generate_content(
-            model="gemini-2.0-flash", contents=prompt + script
-        )
-        usage = response.usage_metadata
-        print(f"USAGE:\n\n{usage}\n\n")
-        with open(os.path.join(basepath, "formatted", fname), "w") as fout:
-            fout.write(response.text)
-        print(f"TIME: {time.perf_counter()-t}")
-    break
+
+        fulltext = ""
+
+        pattern = r'Act \d, scene \d'
+
+        start_index = 0
+        match = re.search(pattern, script[start_index:])
+        chunks = []
+        while match:
+            chunks.append([start_index + match.start(), start_index + match.end()])
+            print(script[chunks[-1][0]:chunks[-1][1]])
+            start_index += match.end()
+            match = re.search(pattern, script[start_index:])
+                       
+        print(chunks)
+
+        proc_buffer = ""
+        for idx, c in enumerate(chunks):
+            print("Dealin with", script[c[0]:c[1]])
+            end = chunks[idx+1][0] if idx < len(chunks)-1 else len(script)
+            text = script[c[0]:end]
+            if estimate_gemini_tokens(proc_buffer + text) > (8192 * .9):
+                fulltext += f"\n\n{call(proc_buffer)}\n\n"
+                print(f"FULL TEXT length in chars : {len(fulltext)}")
+                proc_buffer = text
+            else:
+                proc_buffer += "\n"  + text
+
+        if len(proc_buffer):
+            fulltext += f"\n\n{call(proc_buffer)}\n\n"
+            print(f"FULL TEXT length in chars : {len(fulltext)}")
+
+        with open(os.path.join(basepath, "formatted", "ShakespearesWords", fname), "w") as fout:
+            fout.write(fulltext)
+    
