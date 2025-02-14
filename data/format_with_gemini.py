@@ -78,19 +78,18 @@ What follows next is the script that must be reformatted.
 
 '''.strip() + "\n"
 
-import google.generativeai as genai
+from google import genai
 import os
-from dotenv import load_dotenv
-load_dotenv()
 
-genai.configure(api_key=os.getenv('GEMINI_KEY'))
-model = genai.GenerativeModel("gemini-1.5-flash")
+client = genai.Client(api_key="GEMINI_KEY")
 
 basepath = "data"
 raw_scripts = os.path.join(basepath, "raw_scripts")
 for fname in os.listdir(raw_scripts):
     with open(os.path.join(raw_scripts, fname)) as f:
-        script = f.read()  
-        response = model.generate_content(prompt + script)
+        script = f.read()
+        response = client.models.generate_content(
+            model="gemini-1.5-pro", contents=prompt + script
+        )
         with open(os.path.join(basepath, "formatted", fname), "w") as fout:
             fout.write(response.text)
