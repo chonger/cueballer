@@ -8,17 +8,31 @@ NS: Act X Scene Y
 
 where X is the Act number and Y is the Scene number.  
 
-If there is a description of the location of the scene, you will follow this with a line beginning with "SL: " followed by the scene locations.
-
 When there is a stage direction, you format it in a line like "SD: " followed by the stage direction
 
 When a character is named in a stage direction, you will write their name in all capital letters.
 
-If an actor is named in the stage direction, you will write their name in all capital letters.
+If an actor is named in the stage direction, you will write their name in all capital letters, and place "+" at the beginning of their name.
+
+If a character speaks lines in a scene you will write their name in all capital letters when they are named in stage directions.
+
+If an actor is named between parenthesis with just the word "To, as "(To x)" where x is the actor's name , you will capitalize only the first letter of their name.
+
+you will recognize verse lines because they always begin with a capital letter.
+
+When a stage direction begins with "He" replace "He" with the name of whichever actor last spoke.
+
+When a stage direction begins with "She" replace "She" with the name of whichever actor last spoke.
+
+When a stage direction begins with "They" replace "They" with the name of whichever actor last spoke.
+
+When multiple stage directions occur in succesion, with no speech between them, combine them into one stage direction on one line.
+
+you will replace all parenthesis with brackets.
 
 If the stage direction "Exit" follows an actor's line, you will write their name at the start of the stage direction, as "X exits", where X is the name of the actor.
 
-When an actor speaks you will write their name in all caps, beginning their line on the next line.  You may use multiple newlines for a single actor's line, but you may not insert blank lines.
+When an actor speaks you will write their name in all caps and place "+" at the beginning of their name, beginning their line on the next line.  You may use multiple newlines for a single actor's line, but you may not insert blank lines.
 
 If a line is said by "All" actors, then write the names of all the actors in the scene before the line, with ", " in between.
 
@@ -32,15 +46,13 @@ Here is an example of correctly formatted output.
 
 NS: Act 1, Scene 1
 
-SL: A hall in Duke Solinus’s Palace.
+SD: Enter the DUKE of Ephesus with EGEON the merchant of Syracuse, JAILER with Officers, and other Attendants.
 
-SD: Enter the Duke of Ephesus with Egeon the merchant of Syracuse, Jailer with Officers, and other Attendants.
-
-EGEON
++EGEON
 Proceed, Solinus, to procure my fall,
 And by the doom of death end woes and all.
 
-SOLINUS, DUKE OF EPHESUS
++SOLINUS, DUKE OF EPHESUS
 Merchant of Syracuse, plead no more.
 I am not partial to infringe our laws;
 The enmity and discord which of late
@@ -65,11 +77,11 @@ Thy substance, valued at the highest rate,
 Cannot amount unto a hundred marks,
 Therefore by law thou art condemn’d to die.
 
-EGEON
++EGEON
 Yet this my comfort, when your words are done,
 My woes end likewise with the evening sun.
 
-SOLINUS, DUKE OF EPHESUS
++SOLINUS, DUKE OF EPHESUS
 Well, Syracusian; say in brief the cause
 Why thou departedst from thy native home,
 And for what cause thou cam’st to Ephesus.
