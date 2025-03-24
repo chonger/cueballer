@@ -2,12 +2,58 @@
 html, body {
   touch-action: manipulation;
   overscroll-behavior: none;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Fix for iOS 100vh issue */
+@supports (-webkit-touch-callout: none) {
+  .main-container, html, body {
+    height: -webkit-fill-available;
+  }
+}
+
+/* Ensures proper sizing after orientation change */
+@media screen and (orientation: portrait) {
+  html, body {
+    height: 100vh;
+    min-height: 100vh;
+  }
+  
+  .main-container {
+    height: 100vh;
+    min-height: 100vh;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  html, body {
+    height: 100vh;
+    min-height: 100vh;
+  }
+  
+  .main-container {
+    height: 100vh;
+    min-height: 100vh;
+  }
+}
+
+/* Prevent content shifting during orientation change */
+* {
+  transition: none !important;
 }
 
 .main-container {
   width: 100%;
   height: 100vh;
-  padding: 30px;
+  min-height: 100vh;
+  padding: 20px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
@@ -16,8 +62,9 @@ html, body {
 }
 
 .main-panel {
-  width: 85%;
-  height: 85vh;
+  width: 90%;
+  height: 90vh;
+  min-height: 300px; /* Ensures a minimum height */
   background: white;
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -28,13 +75,22 @@ html, body {
 .main-panel.mobile {
   width: 95%;
   height: 90vh;
+  min-height: 300px;
   border-radius: 6px;
 }
 
 /* Mobile adjustments */
 @media (max-width: 600px) {
   .main-container {
-    padding: 15px;
+    padding: 10px;
+    height: 100vh;
+    min-height: 100vh;
+  }
+  
+  .main-panel, .main-panel.mobile {
+    width: 95%;
+    height: 90vh;
+    min-height: 300px;
   }
 }
 
@@ -151,7 +207,8 @@ html, body {
 
 .character-button {
   background-color: rgba(255, 255, 255, 0.95) !important;
-  padding: 12px !important;
+  padding: 16px !important;
+  margin: 5px !important;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
   transition: all 0.2s ease-in-out !important;
   border: 1px solid rgba(0, 0, 0, 0.1) !important;
@@ -165,7 +222,8 @@ html, body {
 
 @media (max-width: 600px) {
   .character-button {
-    padding: 8px !important;
+    padding: 12px !important;
+    margin: 3px !important;
   }
 }
 
@@ -395,5 +453,13 @@ html, body {
 @media (max-width: 600px) {
   .modal-actions {
     margin-top: 15px;
+  }
+}
+
+/* Force redraw on orientation change */
+@media screen and (orientation: portrait), screen and (orientation: landscape) {
+  .main-panel {
+    transform: translateZ(0);
+    backface-visibility: hidden;
   }
 }
