@@ -1,12 +1,16 @@
 import React from 'react'
 import './App.css'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Button from '@mui/material/Button';
 import AddIcon from '@mui/icons-material/Add'
 import UploadFileIcon from '@mui/icons-material/UploadFile';
+import FileUploadIcon from '@mui/icons-material/FileUpload';
+import CloseIcon from '@mui/icons-material/Close';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
-import { FormControlLabel, FormGroup, Slider } from '@mui/material'
+import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer } from '@mui/material'
+import SettingsIcon from '@mui/icons-material/Settings';
+import PeopleIcon from '@mui/icons-material/People';
 import { createCueScript, ParsedScript, parseScript } from './munging';
 import { comedyerr } from './demo_data'
 
@@ -19,15 +23,33 @@ export const EditableText = ({
 }) => {
   return (
     <TextField
-      className={'small-text-input white-back'}
+      className={'small-text-input'}
       id="cues"
       autoComplete="off"
-      placeholder="paste me"
+      placeholder="Your cue script will appear here"
       value={text}
       multiline
       variant="outlined"
       fullWidth
       onChange={e => onChange(e.target.value)}
+      sx={{ 
+        height: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+        '& .MuiOutlinedInput-root': {
+          height: '100%',
+          display: 'flex'
+        },
+        '& .MuiInputBase-root': {
+          display: 'flex',
+          flexDirection: 'column',
+          height: '100%'
+        },
+        '& .MuiInputBase-inputMultiline': {
+          overflow: 'auto',
+          flexGrow: 1
+        }
+      }}
     ></TextField>
   )
 }
@@ -68,8 +90,25 @@ const INIT_STATE : MyState  ={
  * 
  */
 export const App = () => {
-
+  const theme = useTheme();
+  const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
+  const isTablet = useMediaQuery(theme.breakpoints.down('md'));
+  
   const [state, setState] = useState<MyState>(INIT_STATE);
+  const [openSettings, setOpenSettings] = useState(false);
+  const [characterDrawerOpen, setCharacterDrawerOpen] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  const handleOpenSettings = () => setOpenSettings(true);
+  const handleCloseSettings = () => setOpenSettings(false);
+  
+  const handleOpenCharacterDrawer = () => {
+    setCharacterDrawerOpen(true);
+  };
+  
+  const handleCloseCharacterDrawer = () => {
+    setCharacterDrawerOpen(false);
+  };
 
   const onChangeCueScript = s => setState((state) => ({ ...state, cueScript: s }));
   const setSelectedCharacters = a => setState((state) => ({ ...state, selectedCharacters: a }));
@@ -121,8 +160,12 @@ export const App = () => {
     reader.readAsText(file);
   };
 
+  const handleLoadNewScript = () => {
+    setState(INIT_STATE);
+  };
+
   const changeSelectedActor = (c : string) => (event) => {
-    let newSelectedActors = state.selectedCharacters;
+    const newSelectedActors = new Set(state.selectedCharacters);
     if (event.target.checked && !state.selectedCharacters.has(c)) {
       newSelectedActors.add(c)  
     } else if (!event.target.checked && state.selectedCharacters.has(c)) {
@@ -131,75 +174,243 @@ export const App = () => {
     setSelectedCharacters(newSelectedActors)
   }
 
-  const checkboxes = (Array.from(state.parsedScript?.allActors ?? [])).map((t, i) => <FormControlLabel control={<Checkbox onChange={changeSelectedActor(t)} />} label={t} key={i}/>);
+  const deselectAllCharacters = () => {
+    setSelectedCharacters(new Set());
+  };
 
-  return <div className="main-container flexcols">
-    <div className="full-script flexrows flexkid">
-      <div className="script-header flexkid white-back"><h2>Upload your script file</h2></div>
-      <div className="script-editor flexkid white-back upload-container">
-        <input
-          accept="text/plain,.txt"
-          style={{ display: 'none' }}
-          id="raised-button-file"
-          type="file"
-          onChange={handleFileUpload}
-        />
-        <label htmlFor="raised-button-file">
-          <Button
-            variant="contained"
-            color="primary"
-            component="span"
-            startIcon={<UploadFileIcon />}
-            sx={{ height: '50px', margin: '20px auto', display: 'flex' }}
-          >
-            Upload Script File
-          </Button>
-        </label>
-        {state.fileName && <p>Loaded: {state.fileName}</p>}
+  const checkboxes = (Array.from(state.parsedScript?.allActors ?? [])).map((t, i) => (
+    <FormControlLabel 
+      control={<Checkbox checked={state.selectedCharacters.has(t)} onChange={changeSelectedActor(t)} />} 
+      label={t} 
+      key={i}
+    />
+  ));
+
+  // Settings modal style
+  const modalStyle = {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: {
+      xs: '85%',
+      sm: '70%',
+      md: 400,
+    },
+    maxWidth: '90vw',
+    bgcolor: 'background.paper',
+    boxShadow: 24,
+    p: { xs: 2, sm: 3, md: 4 },
+    borderRadius: 2,
+    outline: 'none',
+  };
+
+  // Character drawer width
+  const drawerWidth = isMobile ? '85vw' : isTablet ? '350px' : '400px';
+
+  // Decide what to render based on whether a file has been loaded
+  const hasLoadedFile = state.parsedScript !== null;
+
+  // Character selection drawer content
+  const characterDrawerContent = (
+    <div className="character-drawer-content">
+      <div className="character-menu-header">
+        <h2>Choose Characters</h2>
+        <IconButton 
+          aria-label="close character menu"
+          onClick={handleCloseCharacterDrawer}
+          className="close-menu-button"
+          size="small"
+        >
+          <CloseIcon />
+        </IconButton>
+      </div>
+      <div className="character-menu-actions">
+        <Button 
+          size="small" 
+          variant="outlined" 
+          onClick={deselectAllCharacters}
+          fullWidth
+        >
+          Deselect All
+        </Button>
+      </div>
+      <div className="character-list-container">
+        <FormGroup>
+          {checkboxes}
+        </FormGroup>
       </div>
     </div>
-    {(state.parsedScript?.allActors.size ?? 0) > 0 &&
-      <div className="flexcols flexkid">
-        <div className="cue-selector flexrows flexkid colblock white-back ">
-          <div className="select-header "><h2>Choose the characters to use.</h2></div>
-          <FormGroup>
-            {checkboxes}
-          </FormGroup>
-          <div><h2># of words in cue</h2></div>
-          <Slider
-            aria-label="n words in cue"
-            defaultValue={DEFAULT_NUM_CUE_WORDS}
-            valueLabelDisplay="auto"
-            step={1}
-            marks
-            min={1}
-            max={MAX_NUM_CUE_WORDS}
-            onChangeCommitted={(_, v) => {
-              setState({ ...state, nWordsInCueScript: v as number})
-            }}
-          />
-          <div><h2># of letters in a line</h2></div>
-          <Slider
-            aria-label="line length"
-            defaultValue={DEFAULT_NUM_CHARS_PER_LINE}
-            valueLabelDisplay="auto"
-            step={1}
-            marks
-            min={MIN_CHARS_PER_LINE}
-            max={MAX_CHARS_PER_LINE}
-            onChangeCommitted={(e, v) => {
-              setState({ ...state, nCharsInLine: v as number})
-            }}
-          />
-        </div>
-        <div className="cue-script white-back flexrows flexkid">
-          <div className="flexcols flexkid">
-            <EditableText text={state.cueScript} onChange={onChangeCueScript} />
+  );
+
+  return (
+    <div className="main-container" ref={containerRef}>
+      <div className={`main-panel ${isMobile ? 'mobile' : ''}`}>
+        {!hasLoadedFile ? (
+          // Upload interface when no file is loaded
+          <div className="upload-interface">
+            <h2>Upload your script file</h2>
+            <div className="upload-container">
+              <input
+                accept="text/plain,.txt"
+                style={{ display: 'none' }}
+                id="raised-button-file"
+                type="file"
+                onChange={handleFileUpload}
+              />
+              <label htmlFor="raised-button-file">
+                <Button
+                  variant="contained"
+                  color="primary"
+                  component="span"
+                  startIcon={<UploadFileIcon />}
+                  sx={{ 
+                    height: { xs: '45px', sm: '50px' }, 
+                    margin: '20px auto', 
+                    display: 'flex' 
+                  }}
+                >
+                  Upload Script File
+                </Button>
+              </label>
+            </div>
           </div>
-        </div>
+        ) : (
+          // Cue script interface when a file is loaded
+          <div className="cue-interface">
+            <div className="cue-script-header">
+              <div className="left-controls">
+                <IconButton 
+                  aria-label="select characters"
+                  onClick={handleOpenCharacterDrawer}
+                  className="character-button"
+                  size={isMobile ? "small" : "medium"}
+                  color="primary"
+                >
+                  <PeopleIcon fontSize={isMobile ? "medium" : "large"} />
+                </IconButton>
+                <span className={`character-count ${isMobile ? 'mobile' : ''}`}>
+                  {state.selectedCharacters.size > 0 
+                    ? `${state.selectedCharacters.size} ${isMobile ? '' : 'character'}${state.selectedCharacters.size > 1 && !isMobile ? 's' : ''}` 
+                    : isMobile ? '0' : 'No characters selected'}
+                </span>
+                {!isMobile && (
+                  <span className="file-name-display">
+                    <span className="file-label">File:</span> {state.fileName}
+                  </span>
+                )}
+              </div>
+              <div className="right-controls">
+                <Tooltip title="Upload new script">
+                  <IconButton 
+                    aria-label="upload new script"
+                    onClick={handleLoadNewScript}
+                    className="upload-new-button"
+                    size={isMobile ? "small" : "medium"}
+                  >
+                    <FileUploadIcon fontSize={isMobile ? "small" : "medium"} />
+                  </IconButton>
+                </Tooltip>
+                <IconButton 
+                  aria-label="settings"
+                  onClick={handleOpenSettings}
+                  className="settings-button"
+                  size={isMobile ? "small" : "medium"}
+                  color="primary"
+                >
+                  <SettingsIcon fontSize={isMobile ? "medium" : "large"} />
+                </IconButton>
+              </div>
+            </div>
+            <div className="cue-script-content">
+              <div style={{ height: '100%', overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+                <EditableText text={state.cueScript} onChange={onChangeCueScript} />
+              </div>
+            </div>
+
+            {/* Character Selection Drawer */}
+            <Drawer
+              anchor="left"
+              open={characterDrawerOpen}
+              onClose={handleCloseCharacterDrawer}
+              sx={{
+                width: drawerWidth,
+                flexShrink: 0,
+                '& .MuiDrawer-paper': {
+                  width: drawerWidth,
+                  boxSizing: 'border-box',
+                  borderRight: '1px solid rgba(0, 0, 0, 0.12)',
+                },
+              }}
+            >
+              {characterDrawerContent}
+            </Drawer>
+          </div>
+        )}
       </div>
-    }
-  </div>
+
+      {/* Settings Modal */}
+      <Modal
+        open={openSettings}
+        onClose={handleCloseSettings}
+        aria-labelledby="settings-modal-title"
+      >
+        <Box sx={modalStyle}>
+          <div className="modal-header">
+            <h2 id="settings-modal-title">Cue Script Settings</h2>
+            <IconButton 
+              aria-label="close settings"
+              onClick={handleCloseSettings}
+              className="close-modal-button"
+              size="small"
+            >
+              <CloseIcon />
+            </IconButton>
+          </div>
+          <div className="modal-content">
+            <div><h3># of words in cue</h3></div>
+            <Slider
+              aria-label="n words in cue"
+              defaultValue={DEFAULT_NUM_CUE_WORDS}
+              value={state.nWordsInCueScript}
+              valueLabelDisplay="auto"
+              step={1}
+              marks
+              min={1}
+              max={MAX_NUM_CUE_WORDS}
+              onChange={(_, v) => {
+                setState({ ...state, nWordsInCueScript: v as number})
+              }}
+            />
+            <div><h3># of letters in a line</h3></div>
+            <Slider
+              aria-label="line length"
+              defaultValue={DEFAULT_NUM_CHARS_PER_LINE}
+              value={state.nCharsInLine}
+              valueLabelDisplay="auto"
+              step={1}
+              marks
+              min={MIN_CHARS_PER_LINE}
+              max={MAX_CHARS_PER_LINE}
+              onChange={(_, v) => {
+                setState({ ...state, nCharsInLine: v as number})
+              }}
+            />
+            <div className="modal-actions">
+              <Button 
+                variant="contained" 
+                color="primary" 
+                onClick={handleCloseSettings}
+                sx={{ mt: 2 }}
+              >
+                Apply
+              </Button>
+            </div>
+          </div>
+        </Box>
+      </Modal>
+    </div>
+  );
 }
 
 export default App;
