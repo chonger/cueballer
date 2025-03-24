@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cueballer/static/css/main.31ed03bc.css",
-    "main.js": "/cueballer/static/js/main.064dac05.js",
+    "main.css": "/cueballer/static/css/main.b248ebfc.css",
+    "main.js": "/cueballer/static/js/main.404d9c98.js",
     "static/js/358.a70c4df2.chunk.js": "/cueballer/static/js/358.a70c4df2.chunk.js",
     "index.html": "/cueballer/index.html",
-    "main.31ed03bc.css.map": "/cueballer/static/css/main.31ed03bc.css.map",
-    "main.064dac05.js.map": "/cueballer/static/js/main.064dac05.js.map",
+    "main.b248ebfc.css.map": "/cueballer/static/css/main.b248ebfc.css.map",
+    "main.404d9c98.js.map": "/cueballer/static/js/main.404d9c98.js.map",
     "358.a70c4df2.chunk.js.map": "/cueballer/static/js/358.a70c4df2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ed03bc.css",
-    "static/js/main.064dac05.js"
+    "static/css/main.b248ebfc.css",
+    "static/js/main.404d9c98.js"
   ]
 }
