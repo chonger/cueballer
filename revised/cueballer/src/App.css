@@ -247,6 +247,26 @@ body {
   }
 }
 
+.copy-button {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  padding: 10px !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important;
+  transition: all 0.2s ease-in-out !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.copy-button:hover {
+  background-color: rgba(240, 240, 240, 1) !important;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3) !important;
+  transform: scale(1.05);
+}
+
+@media (max-width: 600px) {
+  .copy-button {
+    padding: 6px !important;
+  }
+}
+
 .character-count {
   margin-left: 10px;
   background-color: rgba(255, 255, 255, 0.95);

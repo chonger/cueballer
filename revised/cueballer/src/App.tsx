@@ -6,9 +6,10 @@ import AddIcon from '@mui/icons-material/Add'
 import UploadFileIcon from '@mui/icons-material/UploadFile';
 import FileUploadIcon from '@mui/icons-material/FileUpload';
 import CloseIcon from '@mui/icons-material/Close';
+import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
-import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer } from '@mui/material'
+import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar } from '@mui/material'
 import SettingsIcon from '@mui/icons-material/Settings';
 import PeopleIcon from '@mui/icons-material/People';
 import { createCueScript, ParsedScript, parseScript } from './munging';
@@ -97,6 +98,7 @@ export const App = () => {
   const [state, setState] = useState<MyState>(INIT_STATE);
   const [openSettings, setOpenSettings] = useState(false);
   const [characterDrawerOpen, setCharacterDrawerOpen] = useState(false);
+  const [snackbarOpen, setSnackbarOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
 
   const handleOpenSettings = () => setOpenSettings(true);
@@ -108,6 +110,22 @@ export const App = () => {
   
   const handleCloseCharacterDrawer = () => {
     setCharacterDrawerOpen(false);
+  };
+
+  const handleSnackbarClose = () => {
+    setSnackbarOpen(false);
+  };
+
+  const copyToClipboard = () => {
+    if (state.cueScript) {
+      navigator.clipboard.writeText(state.cueScript)
+        .then(() => {
+          setSnackbarOpen(true);
+        })
+        .catch(err => {
+          console.error('Failed to copy text: ', err);
+        });
+    }
   };
 
   const onChangeCueScript = s => setState((state) => ({ ...state, cueScript: s }));
@@ -301,6 +319,16 @@ export const App = () => {
                 )}
               </div>
               <div className="right-controls">
+                <Tooltip title="Copy to clipboard">
+                  <IconButton 
+                    aria-label="copy to clipboard"
+                    onClick={copyToClipboard}
+                    className="copy-button"
+                    size={isMobile ? "small" : "medium"}
+                  >
+                    <ContentCopyIcon fontSize={isMobile ? "small" : "medium"} />
+                  </IconButton>
+                </Tooltip>
                 <Tooltip title="Upload new script">
                   <IconButton 
                     aria-label="upload new script"
@@ -348,6 +376,15 @@ export const App = () => {
           </div>
         )}
       </div>
+
+      {/* Copy to Clipboard Snackbar */}
+      <Snackbar
+        open={snackbarOpen}
+        autoHideDuration={3000}
+        onClose={handleSnackbarClose}
+        message="Copied to clipboard!"
+        anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+      />
 
       {/* Settings Modal */}
       <Modal
