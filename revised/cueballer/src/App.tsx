@@ -264,6 +264,15 @@ export const App = () => {
   return (
     <div className="main-container" ref={containerRef}>
       <div className={`main-panel ${isMobile ? 'mobile' : ''}`}>
+        <div className="app-header">
+          <h1 className="shakespearean-title">Cueballer</h1>
+          <div className="header-decoration">
+            <span className="decoration-line"></span>
+            <span className="decoration-ornament">✧</span>
+            <span className="decoration-line"></span>
+          </div>
+        </div>
+        
         {!hasLoadedFile ? (
           // Upload interface when no file is loaded
           <div className="upload-interface">
