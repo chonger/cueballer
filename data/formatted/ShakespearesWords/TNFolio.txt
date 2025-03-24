@@ -70,7 +70,7 @@ NS: Act 1, scene 2
 SD: Enter +VIOLA, a +CAPTAIN, and Saylors.
 
 +VIOLA
-What Country [Friends] is this?
+What Country (Friends) is this?
 
 +CAPTAIN
 This is Illyria Ladie.
@@ -92,7 +92,7 @@ Assure your selfe, after our ship did split,
 When you, and those poore number saued with you,
 Hung on our driuing boate: I saw your brother
 Most prouident in perill, binde himselfe,
-[Courage and hope both teaching him the practise]
+(Courage and hope both teaching him the practise)	
 To a strong Maste, that liu'd vpon the sea:
 Where like Orion on the Dolphines backe,
 I saw him hold acquaintance with the waues,
@@ -127,8 +127,8 @@ He was a Batchellor then.
 +CAPTAIN
 And so is now, or was so very late:
 For but a month ago I went from hence,
-And then 'twas fresh in murmure [as you know
-What great ones do, the lesse will prattle of,]
+And then 'twas fresh in murmure (as you know	
+What great ones do, the lesse will prattle of,)	
 That he did seeke the loue of faire Oliuia.
 
 +VIOLA
@@ -139,7 +139,7 @@ A vertuous maid, the daughter of a Count
 That dide some tweluemonth since, then leauing her
 In the protection of his sonne, her brother,
 Who shortly also dide: for whose deere loue
-[They say] she hath abiur'd the sight
+(They say) she hath abiur'd the sight	
 And company of men.
 
 +VIOLA
@@ -159,7 +159,7 @@ And though that nature, with a beauteous wall
 Doth oft close in pollution: yet of thee
 I will beleeue thou hast a minde that suites
 With this thy faire and outward charracter.
-I prethee [and Ile pay thee bounteously]
+I prethee (and Ile pay thee bounteously)	
 Conceale me what I am, and be my ayde,
 For such disguise as haply shall become
 The forme of my intent. Ile serue this Duke,
@@ -210,7 +210,7 @@ my Lady talke of it yesterday: and of a foolish knight that
 you brought in one night here, to be hir woer.
 
 +SIR TOBY
-Who, Sir ANDREW Ague-cheeke?
+Who, Sir Andrew Ague-cheeke?
 
 +MARIA
 I he.
@@ -254,7 +254,7 @@ her as long as there is a passage in my throat, & drinke
 in Illyria: he's a Coward and a Coystrill that will not
 drinke to my Neece. till his braines turne o'th toe, like a
 parish top. What wench? Castiliano vulgo : for here
-coms Sir ANDREW Agueface.
+coms Sir Andrew Agueface.
 SD: Enter +SIR ANDREW.
 
 +SIR ANDREW
@@ -467,18 +467,18 @@ inconstant sir, in his fauours.
 
 +VALENTINE
 No beleeue me.
-SD: Enter +DUKE, +CURIO, and Attendants.
+SD: Enter +ORSINO, +CURIO, and Attendants.
 
 +VIOLA
 I thanke you: heere comes the Count.
 
-+DUKE
++ORSINO
 Who saw Cesario hoa?
 
 +VIOLA
 On your attendance my Lord heere.
 
-+DUKE
++ORSINO
 Stand you a-while aloofe. Cesario,
 Thou knowst no lesse, but all: I haue vnclasp'd
 To thee the booke euen of my secret soule.
@@ -492,14 +492,14 @@ Sure my Noble Lord,
 If she be so abandon'd to her sorrow
 As it is spoke, she neuer will admit me.
 
-+DUKE
++ORSINO
 Be clamorous, and leape all ciuill bounds,
 Rather then make vnprofited returne,
 
 +VIOLA
-Say I do speake with her [my Lord] what then?
+Say I do speake with her (my Lord) what then?
 
-+DUKE
++ORSINO
 O then, vnfold the passion of my loue,
 Surprize her with discourse of my deere faith;
 It shall become thee well to act my woes:
@@ -509,7 +509,7 @@ Then in a Nuntio's of more graue aspect.
 +VIOLA
 I thinke not so, my Lord.
 
-+DUKE
++ORSINO
 Deere Lad, beleeue it;
 For they shall yet belye thy happy yeeres,
 That say thou art a man: Dianas lip
@@ -527,7 +527,7 @@ To call his fortunes thine.
 Ile do my best
 To woe your Lady: yet a barrefull strife,
 Who ere I woe, my selfe would be his wife.
-SD: Exeunt +VALENTINE, +VIOLA, +DUKE, +CURIO
+SD: Exeunt +VALENTINE, +VIOLA, +ORSINO, +CURIO
 
 
 
@@ -573,12 +573,12 @@ That if one breake, the other will hold: or if both
 breake, your gaskins fall.
 +CLOWNE
 Apt in good faith, very apt: well go thy way, if
-sir TOBY would leaue drinking, thou wert as witty a
+sir Toby would leaue drinking, thou wert as witty a	
 piece of Eues flesh, as any in Illyria.
 +MARIA
 Peace you rogue, no more o'that: here comes my
 Lady: make your excuse wisely, you were best.
-SD: Enter LADY OLIVIA, with +MALUOLIO.
+SD: Enter +LADY OLIVIA, with +MALUOLIO.
 +CLOWNE
 Wit, and't be thy will, put me into good fooling:
 those wits that thinke they haue thee, doe very oft proue
@@ -644,7 +644,7 @@ him: Infirmity that decaies the wise, doth euer make the
 better foole.
 +CLOWNE
 God send you sir, a speedie Infirmity, for the better
-increasing your folly: Sir TOBY will be sworn that I am
+increasing your folly: Sir Toby will be sworn that I am	
 no Fox, but he wil not passe his word for two pence that
 you are no Foole.
 +OLIVIA
@@ -675,12 +675,12 @@ much desires to speake with you.
 +OLIVIA
 From the Count Orsino, is it?
 +MARIA
-I know not [Madam] 'tis a faire young man, and
+I know not (Madam) 'tis a faire young man, and
 well attended.
 +OLIVIA
 Who of my people hold him in delay:
 +MARIA
-Sir TOBY Madam, your kinsman.
+Sir Toby Madam, your kinsman.
 +OLIVIA
 Fetch him off I pray you, he speakes nothing but
 madman: Fie on him. Go you Maluolio; If it be a suit
@@ -694,17 +694,17 @@ dislike it.
 Thou hast spoke for vs [Madona] as if thy eldest
 sonne should be a foole: whose scull, Ioue cramme with braines,
 for heere he comes.
-SD: Enter +Sir TOBY.
+SD: Enter +SIR TOBY.
 +CLOWNE
 One of thy kin has a most weake Pia-mater.
 +OLIVIA
 By mine honor halfe drunke. What is he at the
 gate Cosin?
-+TOBY
++SIR TOBY
 A Gentleman.
 +OLIVIA
 A Gentleman? What Gentleman?
-+TOBY
++SIR TOBY
 'Tis a Gentleman heere. A plague o'these
 pickle herring: How now Sot.
 +CLOWNE
@@ -712,15 +712,15 @@ Good Sir Toby.
 +OLIVIA
 Cosin, Cosin, how haue you come so earely by
 this Lethargie?
-+TOBY
++SIR TOBY
 Letcherie, I defie Letchery: there's one at the
 gate.
 +OLIVIA
 I marry, what is he?
-+TOBY
++SIR TOBY
 Let him be the diuell and he will, I care not: giue
 me faith say I. Well, it's all one.
-+TOBY exits
++SIR TOBY exits
 +OLIVIA
 What's a drunken man like, foole?
 +CLOWNE
@@ -931,7 +931,7 @@ I am a Gentleman.
 +OLIVIA
 Get you to your Lord:
 I cannot loue him: let him send no more,
-Vnlesse [perchance] you come to me againe,
+Vnlesse (perchance) you come to me againe,
 To tell me how he takes it: Fare you well:
 I thanke you for your paines: spend this for mee.
 +VIOLENTA
@@ -993,8 +993,8 @@ extrauagancie. But I perceiue in you so excellent a touch
 of modestie, that you will not extort from me, what I am
 willing to keepe in: therefore it charges me in manners,
 the rather to expresse my selfe: you must know of mee
-then Antonio, my name is Sebastian [which I call'd
-Rodorigo] my father was that Sebastian of Messaline,
+then Antonio, my name is Sebastian (which I call'd	
+Rodorigo) my father was that Sebastian of Messaline,	
 whom I know you haue heard of. He left behinde him,
 my selfe, and a sister, both borne in an houre: if the
 Heanens had beene pleas'd, would we had so ended. But
@@ -1042,7 +1042,7 @@ Oliuia?
 Euen now sir, on a moderate pace, I haue since
 ariu'd but hither.
 +MALUOLIO
-She returnes this Ring to you [sir] you might
+She returnes this Ring to you (sir) you might
 haue saued mee my paines, to haue taken it away your selfe.
 She adds moreouer, that you should put your Lord into
 a desperate assurance, she will none of him. And one
@@ -1075,11 +1075,11 @@ In womens waxen hearts to set their formes:
 Alas, O frailtie is the cause, not wee,
 For such as we are made, if such we bee:
 How will this fadge? My master loues her deerely,
-And I [poore monster] fond asmuch on him:
-And she [mistaken] seemes to dote on me:
+And I (poore monster) fond asmuch on him:
+And she (mistaken) seemes to dote on me:	
 What will become of this? As I am man,
 My state is desperate for my maisters loue:
-As I am woman [now alas the day]
+As I am woman (now alas the day)	
 What thriftlesse sighes shall poore Oliuia breath?
 O time, thou must vntangle this, not I,
 It is too hard a knot for me t'vnty.
@@ -1088,34 +1088,34 @@ It is too hard a knot for me t'vnty.
 
 
 NS: Act 2 Scene 3
-SD: Enter +TOBY, and +ANDREW.
-+TOBY
+SD: Enter +SIR TOBY, and +SIR ANDREW.
++SIR TOBY
 Approach Sir Andrew: not to bee a bedde after
 midnight, is to be vp betimes, and Deliculo surgere,
 thou know'st.
-+ANDREW
++SIR ANDREW
 Nay by my troth I know not: but I know,
 to be vp late, is to be vp late.
-+TOBY
++SIR TOBY
 A false conclusion: I hate it as an vnfill'd Canne.
 To be vp after midnight, and to go to bed then is early:
 so that to go to bed after midnight, is to goe to bed betimes.
 Does not our liues consist of the foure Elements?
-+ANDREW
++SIR ANDREW
 Faith so they say, but I thinke it rather consists
 of eating and drinking.
-+TOBY
++SIR TOBY
 Th'art a scholler; let vs therefore eate and
 drinke. Marian I say, a stoope of wine.
 SD: Enter +CLOWNE.
-+ANDREW
++SIR ANDREW
 Heere comes the foole yfaith.
 +CLOWNE
 How now my harts: Did you neuer see the Picture
 of we three?
-+TOBY
++SIR TOBY
 Welcome asse, now let's haue a catch.
-+ANDREW
++SIR ANDREW
 By my troth the foole has an excellent breast.
 I had rather then forty shillings I had such a legge, and so
 sweet a breath to sing, as the foole has. Insooth thou
@@ -1127,20 +1127,20 @@ thee sixe pence for thy Lemon, hadst it?
 I did impeticos thy gratillity: for Maluolios nose
 is no Whip-stocke. My Lady has a white hand, and the
 Mermidons are no bottle-ale houses.
-+ANDREW
++SIR ANDREW
 Excellent: Why this is the best fooling,
 when all is done. Now a song.
-+TOBY
++SIR TOBY
 Come on, there is sixe pence for you. Let's haue a
 song.
-+ANDREW
++SIR ANDREW
 There's a testrill of me too: if one knight
 giue a
 +CLOWNE
 Would you haue a loue-song, or a song of good life?
-+TOBY
++SIR TOBY
 A loue song, a loue song.
-+ANDREW
++SIR ANDREW
 I, I. I care not for good life.
 +CLOWNE
 O Mistris mine where are you roming:
@@ -1149,9 +1149,9 @@ That can sing both high and low.
 Trip no further prettie sweeting.
 Iourneys end in louers meeting,
 Euery wise mans sonne doth know.
-+ANDREW
++SIR ANDREW
 Excellent good, ifaith.
-+TOBY
++SIR TOBY
 Good, good.
 +CLOWNE
 What is loue, tis not heereafter,
@@ -1160,42 +1160,42 @@ What's to come, is still vnsure.
 In delay there lies no plentie,
 Then come kisse me sweet and twentie:
 Youths a stuffe will not endure.
-+ANDREW
++SIR ANDREW
 A mellifluous voyce, as I am true knight.
-+TOBY
++SIR TOBY
 A contagious breath.
-+ANDREW
++SIR ANDREW
 Very sweet, and contagious ifaith.
-+TOBY
++SIR TOBY
 To heare by the nose, it is dulcet in contagion.
 But shall we make the Welkin dance indeed? Shall wee
 rowze the night-Owle in a Catch, that will drawe three soules
 out of one Weauer? Shall we do that?
-+ANDREW
++SIR ANDREW
 And you loue me, let's doo't: I am dogge at a
 Catch.
 +CLOWNE
 Byrlady sir, and some dogs will catch well.
-+ANDREW
++SIR ANDREW
 Most certaine: Let our Catch be, Thou
 Knaue.
 +CLOWNE
 Hold thy peace, thou Knaue knight. I shall be
 constrain'd in't, to call thee knaue, Knight.
-+ANDREW
++SIR ANDREW
 'Tis not the first time I haue constrained
 one to call me knaue. Begin foole: it begins,
 Hold thy peace.
 +CLOWNE
 I shall neuer begin if I hold my peace.
-+ANDREW
++SIR ANDREW
 Good ifaith: Come begin.
 SD: Catch sung / Enter +MARIA.
 +MARIA
 What a catterwalling doe you keepe heere? If my Ladie
-haue not call'd vp her Steward MALUOLIO, and bid him
+haue not call'd vp her Steward Maluolio, and bid him
 turne you out of doores, neuer trust me.
-+TOBY
++SIR TOBY
 My Lady's a Catayan, we are politicians,
 Maluolios a Peg-a-ramsie, and
 Three merry men be wee.
@@ -1204,11 +1204,11 @@ tilly vally. Ladie,
 There dwelt a man in Babylon, Lady, Lady.
 +CLOWNE
 Beshrew me, the knights in admirable fooling.
-+ANDREW
++SIR ANDREW
 I, he do's well enough if he be dispos'd,
 and so do I too: he does it with a better grace, but I do
 it more naturall.
-+TOBY
++SIR TOBY
 O the twelfe day of December.
 +MARIA
 For the loue o'God peace.
@@ -1221,7 +1221,7 @@ of my Ladies house, that ye squeak out your
 Coziers Catches without any mitigation or remorse of
 voice? Is there no respect of place, persons, nor time in
 you?
-+TOBY
++SIR TOBY
 We did keepe time sir in our Catches. Snecke vp.
 +MALUOLIO
 Sir Toby, I must be round with you. My Lady
@@ -1230,7 +1230,7 @@ kinsman, she's nothing ally'd to your disorders. If you
 can separate your selfe and your misdemeanors, you are
 welcome to the house: if not, and it would please you to
 take leaue of her, she is very willing to bid you farewell.
-+TOBY
++SIR TOBY
 Farewell deere heart, since I must needs be gone.
 +MARIA
 Nay good Sir Toby.
@@ -1238,28 +1238,28 @@ Nay good Sir Toby.
 His eyes do shew his dayes are almost done.
 +MALUOLIO
 Is't euen so?
-+TOBY
++SIR TOBY
 But I will neuer dye.
 +CLOWNE
 Sir Toby there you lye.
 +MALUOLIO
 This is much credit to you.
-+TOBY
++SIR TOBY
 Shall I bid him go.
 +CLOWNE
 What and if you do?
-+TOBY
++SIR TOBY
 Shall I bid him go, and spare not?
 +CLOWNE
 O no, no, no, no, you dare not.
-+TOBY
++SIR TOBY
 Out o'tune sir, ye lye: Art any
 more then a Steward? Dost thou thinke because thou art
 vertuous, there shall be no more Cakes and Ale?
 +CLOWNE
 Yes by S. Anne, and Ginger shall bee hotte y'th
 mouth too.
-+TOBY
++SIR TOBY
 Th'art i'th right. Goe sir, rub
 your Chaine with crums. A stope of Wine Maria.
 +MALUOLIO
@@ -1270,11 +1270,11 @@ hand.
 SD: +MALUOLIO exits
 +MARIA
 Go shake your eares.
-+ANDREW
++SIR ANDREW
 'Twere as good a deede as to drink when a
 mans a hungrie, to challenge him the field, and then to
 breake promise with him, and make a foole of him.
-+TOBY
++SIR TOBY
 Doo't knight, Ile write thee a Challenge: or Ile
 deliuer thy indignation to him by word of mouth.
 +MARIA
@@ -1284,27 +1284,27 @@ much out of quiet. For Monsieur Maluolio, let me alone
 with him: If I do not gull him into an ayword, and make
 him a common recreation, do not thinke I haue witte
 enough to lye straight in my bed: I know I can do it.
-+TOBY
++SIR TOBY
 Possesse vs, possesse vs, tell vs something of him.
 +MARIA
 Marrie sir, sometimes he is a kinde of Puritane.
-+ANDREW
++SIR ANDREW
 O, if I thought that, Ide beate him like a dogge.
-+TOBY
++SIR TOBY
 What for being a Puritan, thy exquisite reason,
 deere knight.
-+ANDREW
++SIR ANDREW
 I haue no exquisite reason for't, but I haue
 reason good enough.
 +MARIA
 The diu'll a Puritane that hee is, or any thing constantly
 but a time-pleaser, an affection'd Asse, that cons
 State without booke, and vtters it by great swarths. The
-best perswaded of himselfe: so cram'd [as he thinkes]
+best perswaded of himselfe: so cram'd (as he thinkes)	
 with excellencies, that it is his grounds of faith, that all
 that looke on him, loue him: and on that vice in him, will
 my reuenge finde notable cause to worke.
-+TOBY
++SIR TOBY
 What wilt thou do?
 +MARIA
 I will drop in his way some obscure Epistles of
@@ -1314,22 +1314,22 @@ forehead, and complection, he shall finde himselfe most
 feelingly personated. I can write very like my Ladie your
 Neece, on a forgotten matter wee can hardly make
 distinction of our hands.
-+TOBY
++SIR TOBY
 Excellent, I smell a deuice.
-+ANDREW
++SIR ANDREW
 I hau't in my nose too.
-+TOBY
++SIR TOBY
 He shall thinke by the Letters that thou wilt
 drop that they come from my Neece, and that shee's in
 loue with him.
 +MARIA
 My purpose is indeed a horse of that colour.
-+ANDREW
++SIR ANDREW
 And your horse now would make him an
 Asse.
 +MARIA
 Asse, I doubt not.
-+ANDREW
++SIR ANDREW
 O twill be admirable.
 +MARIA
 Sport royall I warrant you: I know my Physicke will
@@ -1338,35 +1338,35 @@ make a third, where he shall finde the Letter: obserue his
 construction of it: For this night to bed, and dreame on
 the euent: Farewell.
 SD: +MARIA exits
-+TOBY
++SIR TOBY
 Good night Penthisilea.
-+ANDREW
++SIR ANDREW
 Before me she's a good wench.
-+TOBY
++SIR TOBY
 She's a beagle true bred, and one that adores
 me: what o'that?
-+ANDREW
++SIR ANDREW
 I was ador'd once too.
-+TOBY
++SIR TOBY
 Let's to bed knight: Thou hadst neede send for
 more money.
-+ANDREW
++SIR ANDREW
 If I cannot recouer your Neece, I am a foule
 way out.
-+TOBY
++SIR TOBY
 Send for money knight, if thou hast her not
 i'th end, call me Cut.
-+ANDREW
++SIR ANDREW
 If I do not, neuer trust me, take it how you
 will.
-+TOBY
++SIR TOBY
 Come, come, Ile go burne some Sacke, tis too
 late to go to bed now: Come knight, come knight.
-SD: Exeunt +TOBY, +ANDREW, +CLOWNE
+SD: Exeunt +SIR TOBY, +SIR ANDREW, +CLOWNE
 
 NS: Act 2, scene 4
-SD: Enter +DUKE, +VIOLA, +CURIO, and others.
-+DUKE
+SD: Enter +ORSINO, +VIOLA, +CURIO, and others.
++ORSINO
 Giue me some Musick; Now good morow frends.
 Now good Cesario , but that peece of song,
 That old and Anticke song we heard last night;
@@ -1375,15 +1375,15 @@ More then light ayres, and recollected termes
 Of these most briske and giddy-paced times.
 Come, but one verse.
 +CURIO
-He is not heere [so please your Lordshippe] that should
+He is not heere (so please your Lordshippe) that should
 sing it?
-+DUKE
++ORSINO
 Who was it?
 +CURIO
 Feste the Iester my Lord, a foole that the Ladie
 Oliuiaes Father tooke much delight in. He is about the
 house.
-+DUKE
++ORSINO
 Seeke him out, and play the tune the while.
 SD: Musicke playes.
 Come hither Boy, if euer thou shalt loue
@@ -1395,22 +1395,22 @@ That is belou'd. How dost thou like this tune?
 +VIOLA
 It giues a verie eccho to the seate
 Where loue is thron'd.
-+DUKE
++ORSINO
 Thou dost speake masterly,
 My life vpon't, yong though thou art, thine eye
 Hath staid vpon some fauour that it loues:
 Hath it not boy?
 +VIOLA
 A little, by your fauour.
-+DUKE
++ORSINO
 What kinde of woman ist?
 +VIOLA
 Of your complection.
-+DUKE
++ORSINO
 She is not worth thee then. What yeares ifaith?
 +VIOLA
 About your yeeres my Lord.
-+DUKE
++ORSINO
 Too old by heauen: Let still the woman take
 An elder then her selfe, so weares she to him;
 So swayes she leuell in her husbands heart:
@@ -1420,7 +1420,7 @@ More longing, wauering, sooner lost and worne,
 Then womens are.
 +VIOLA
 I thinke it well my Lord.
-+DUKE
++ORSINO
 Then let thy Loue be yonger then thy selfe,
 Or thy affection cannot hold the bent:
 For women are as Roses, whose faire flowre
@@ -1429,7 +1429,7 @@ Being once displaid, doth fall that verie howre.
 And so they are: alas, that they are so:
 To die, euen when they to perfection grow.
 SD: Enter +CURIO & +CLOWNE.
-+DUKE
++ORSINO
 O fellow come, the song we had last night:
 Marke it Cesario, it is old and plaine;
 The Spinsters and the Knitters in the Sun,
@@ -1439,7 +1439,7 @@ And dallies with the innocence of loue,
 Like the old age.
 +CLOWNE
 Are you ready Sir?
-+DUKE
++ORSINO
 I prethee sing.
 
 Come away, come away death,
@@ -1459,16 +1459,16 @@ A thousand thousand sighes to saue,
 lay me ô where
 Sad true louer neuer find my graue,
 to weepe there.
-+DUKE
++ORSINO
 There's for thy paines.
 +CLOWNE
 No paines sir, I take pleasure in singing sir.
-+DUKE
++ORSINO
 Ile pay thy pleasure then.
 +CLOWNE
 Truely sir, and pleasure will be paide one time, or
 another.
-+DUKE
++ORSINO
 Giue me now leaue, to leaue thee.
 +CLOWNE
 Now the melancholly God protect thee, and the
@@ -1478,7 +1478,7 @@ put to Sea, that their businesse might be euery thing,
 and their intent euerie where, for that's it, that
 alwayes makes a good voyage of nothing. Farewell.
 SD: +CLOWNE exits
-+DUKE
++ORSINO
 Let all the rest giue place:
 Once more Cesario,
 Get thee to yond same soueraigne crueltie:
@@ -1490,7 +1490,7 @@ But 'tis that miracle, and Queene of Iems
 That nature prankes her in, attracts my soule.
 +VIOLA
 But if she cannot loue you sir.
-+DUKE
++ORSINO
 It cannot be so answer'd.
 +VIOLA
 Sooth but you must.
@@ -1498,7 +1498,7 @@ Say that some Lady, as perhappes there is,
 Hath for your loue as great a pang of heart
 As you haue for Oliuia: you cannot loue her:
 You tel her so: Must she not then be answer'd?
-+DUKE
++ORSINO
 There is no womans sides
 Can bide the beating of so strong a passion,
 As loue doth giue my heart: no womans heart
@@ -1512,7 +1512,7 @@ Betweene that loue a woman can beare me,
 And that I owe Oliuia.
 +VIOLA
 I but I know.
-+DUKE
++ORSINO
 What dost thou knowe?
 +VIOLA
 Too well what loue women to men may owe:
@@ -1520,7 +1520,7 @@ In faith they are as true of heart, as we.
 My Father had a daughter lou'd a man
 As it might be perhaps, were I a woman
 I should your Lordship.
-+DUKE
++ORSINO
 And what's her history?
 +VIOLA
 A blanke my Lord: she neuer told her loue,
@@ -1532,40 +1532,40 @@ Smiling at greefe. Was not this loue indeede?
 We men may say more, sweare more, but indeed
 Our shewes are more then will: for still we proue
 Much in our vowes, but little in our loue.
-+DUKE
++ORSINO
 But di'de thy sister of her loue my Boy?
 +VIOLA
 I am all the daughters of my Fathers house,
 And all the brothers too: and yet I know not.
 Sir, shall I to this Lady?
-+DUKE
++ORSINO
 I that's the Theame,
 To her in haste: giue her this Iewell: say,
 My loue can giue no place, bide no denay.
-SD: Exeunt +DUKE, +VIOLA, +CURIO
+SD: Exeunt +ORSINO, +VIOLA, +CURIO
 
 NS: Act 2, scene 5
-SD: Enter +TOBY, +ANDREW, and +FABIAN.
-+TOBY
+SD: Enter +SIR TOBY, +SIR ANDREW, and +FABIAN.
++SIR TOBY
 Come thy wayes Signior Fabian.
 +FABIAN
 Nay Ile come: if I loose a scruple of this sport,
 let me be boyl'd to death with Melancholly.
-+TOBY
++SIR TOBY
 Wouldst thou not be glad to haue the niggardly
 Rascally sheepe-biter, come by some notable
 shame?
 +FABIAN
 I would exult man: you know he brought me
 out o'fauour with my Lady, about a Beare-baiting heere.
-+TOBY
++SIR TOBY
 To anger him wee'l haue the Beare againe, and
 we will foole him blacke and blew, shall we not sir
 Andrew?
-+ANDREW
++SIR ANDREW
 And we do not, it is pittie of our liues.
 SD: Enter +MARIA.
-+TOBY
++SIR TOBY
 Heere comes the little villaine: How now my
 Mettle of India?
 +MARIA
@@ -1575,8 +1575,9 @@ practising behauiour to his own shadow this halfe houre:
 obserue him for the loue of Mockerie: for I know this
 Letter wil make a contemplatiue Ideot of him. Close in
 the name of ieasting,
-SD: MARIA drops the letter.
-MARIA exits
+lye thou there: for heere comes the Trowt, that must be	
+caught with tickling.
++MARIA exits
 SD: Enter +MALUOLIO.
 +MALUOLIO
 'Tis but Fortune, all is fortune. Maria once
@@ -1585,27 +1586,27 @@ come thus neere, that should shee fancie, it should bee one
 of my complection. Besides she vses me with a more
 exalted respect, then any one else that followes her. What
 should I thinke on't?
-+TOBY
++SIR TOBY
 Heere's an ouer-weening rogue.
 +FABIAN
 Oh peace: Contemplation makes a rare Turkey Cocke
 of him, how he iets vnder his aduanc'd plumes.
-+ANDREW
++SIR ANDREW
 Slight I could so beate the Rogue.
-+TOBY
++SIR TOBY
 Peace I say.
 +MALUOLIO
 To be Count Maluolio.
-+TOBY
++SIR TOBY
 Ah Rogue.
-+ANDREW
++SIR ANDREW
 Pistoll him, pistoll him.
-+TOBY
++SIR TOBY
 Peace, peace.
 +MALUOLIO
 There is example for't: The Lady of the
 Strachy, married the yeoman of the wardrobe.
-+ANDREW
++SIR ANDREW
 Fie on him Iezabel.
 +FABIAN
 O peace, now he's deepely in: looke how
@@ -1613,13 +1614,13 @@ imagination blowes him.
 +MALUOLIO
 Hauing beene three moneths married to her,
 sitting in my state.
-+TOBY
++SIR TOBY
 O for a stone-bow to hit him in the eye.
 +MALUOLIO
 Calling my Officers about me, in my branch'd
 Veluet gowne: hauing come from a day bedde, where I haue
 left Oliuia sleeping.
-+TOBY
++SIR TOBY
 Fire and Brimstone.
 +FABIAN
 O peace, peace.
@@ -1628,7 +1629,7 @@ And then to haue the humor of state: and
 after a demure trauaile of regard: telling them I knowe my
 place, as I would they should doe theirs: to aske for my
 kinsman Toby.
-+TOBY
++SIR TOBY
 Boltes and shackles.
 +FABIAN
 Oh peace, peace, peace, now, now.
@@ -1638,7 +1639,7 @@ make out for him: I frowne the while, and perchance
 winde vp my watch, or play with my
 some rich Iewell: Toby
 approaches; curtsies there to me.
-+TOBY
++SIR TOBY
 Shall this fellow liue?
 +FABIAN
 Though our silence be drawne from vs with cars,
@@ -1646,43 +1647,43 @@ yet peace.
 +MALUOLIO
 I extend my hand to him thus: quenching
 my familiar smile with an austere regard of controll.
-+TOBY
++SIR TOBY
 And do's not Toby take you a blow o'the lippes,
 then?
 +MALUOLIO
 Saying, Cosine Toby, my Fortunes hauing
 cast me on your Neece, giue me this prerogatiue of
 speech.
-+TOBY
++SIR TOBY
 What, what?
 +MALUOLIO
 You must amend your drunkennesse.
-+TOBY
++SIR TOBY
 Out scab.
 +FABIAN
 Nay patience, or we breake the sinewes of our plot?
 +MALUOLIO
 Besides you waste the treasure of your time,
 with a foolish knight.
-+ANDREW
++SIR ANDREW
 That's mee I warrant you.
 +MALUOLIO
 One sir Andrew.
-+ANDREW
++SIR ANDREW
 I knew 'twas I, for many do call mee foole.
 +MALUOLIO
 What employment haue
 we heere?
 +FABIAN
 Now is the Woodcocke neere the gin.
-+TOBY
++SIR TOBY
 Oh peace, and the spirit of humors intimate
 reading aloud to him.
 +MALUOLIO
 By my life this is my Ladies hand: these bee
 her very C's, her V's, and her T's, and thus makes shee
 her great P's. It is in contempt of question her hand.
-+ANDREW
++SIR ANDREW
 Her C's, her V's, and her T's: why that?
 +MALUOLIO
 To the vnknowne belou'd, this, and my good Wishes:
@@ -1696,11 +1697,10 @@ Ioue knowes I loue,
 but who,
 Lips do not mooue,
 no man must know.
-
 No man must know. What followes? The numbers
 alter'd: No man must know, If this should be thee
 Maluolio?
-+TOBY
++SIR TOBY
 Marrie hang thee brocke.
 +MALUOLIO
 I may command where I adore,
@@ -1709,14 +1709,14 @@ With bloodlesse stroke my heart doth gore,
 M.O.A.I. doth sway my life.
 +FABIAN
 A fustian riddle.
-+TOBY
++SIR TOBY
 Excellent Wench, say I.
 +MALUOLIO
 M.O.A.I. doth sway my life. Nay but first
 let me see, let me see, let me see.
 +FABIAN
 What dish a poyson has she drest him?
-+TOBY
++SIR TOBY
 And with what wing the stallion checkes at it?
 +MALUOLIO
 I may command, where I adore: Why shee
@@ -1725,7 +1725,7 @@ this is euident to any formall capacitie. There is no
 obstruction in this, and the end: What should that Alphabeticall
 position portend, if I could make that resemble
 something in me? Softly, M.O.A.I.
-+TOBY
++SIR TOBY
 O I, make vp that, he is now at a cold sent.
 +FABIAN
 Sowter will cry vpon't for all this, though it bee as
@@ -1742,7 +1742,7 @@ sequell that suffers vnder probation: A. should follow,
 but O. does.
 +FABIAN
 And O shall end, I hope.
-+TOBY
++SIR TOBY
 I, or Ile cudgell him, and make him cry O.
 +MALUOLIO
 And then I. comes behind.
@@ -1793,33 +1793,33 @@ SD: +MALUOLIO exits
 +FABIAN
 I will not giue my part of this sport for a pension
 of thousands to be paid from the Sophy.
-+TOBY
++SIR TOBY
 I could marry this wench for this deuice.
-+ANDREW
++SIR ANDREW
 So could I too.
-+TOBY
++SIR TOBY
 And aske no other dowry with her, but such another
 iest.
-+ANDREW
++SIR ANDREW
 Nor I neither.
 SD: Enter +MARIA.
 +FABIAN
 Heere comes my noble gull catcher.
-+TOBY
++SIR TOBY
 Wilt thou set thy foote o'my necke.
-+ANDREW
++SIR ANDREW
 Or o'mine either?
-+TOBY
++SIR TOBY
 Shall I play my freedome at tray-trip, and becom
 thy bondslaue?
-+ANDREW
++SIR ANDREW
 Ifaith, or I either?
-+TOBY
++SIR TOBY
 Why, thou hast put him in such a dreame, that
 when the image of it leaues him, he must run mad.
 +MARIA
 Nay but say true, do's it worke vpon him?
-+TOBY
++SIR TOBY
 Like Aqua vite with a Midwife.
 +MARIA
 If you will then see the fruites of the sport, mark
@@ -1830,12 +1830,12 @@ her, which will now be so vnsuteable to her disposition,
 being addicted to a melancholly, as shee is, that it cannot
 but turn him into a notable contempt: if you wil see it
 follow me.
-+TOBY
++SIR TOBY
 To the gates of Tartar, thou most excellent
 diuell of wit.
-+ANDREW
++SIR ANDREW
 Ile make one too.
-SD: Exeunt +TOBY, +ANDREW, +FABIAN, +MARIA
+SD: Exeunt +SIR TOBY, +SIR ANDREW, +FABIAN, +MARIA
 
 
 
@@ -1964,24 +1964,24 @@ That comes before his eye. This isa practice,
 As full of labour as a Wise-mans Art:
 For folly that he wisely shewes, is fit;
 But wisemens folly falne, quite taint their wit.
-SD: Enter +SIR TOBY and +ANDREW.
+SD: Enter +SIR TOBY and +SIR ANDREW.
 
-+TOBY
++SIR TOBY
 Saue you Gentleman.
 
 +VIOLA
 And you sir.
 
-+ANDREW
++SIR ANDREW
 Dieu vou guard Monsieur.
 
 +VIOLA
 Et vouz ousie vostre seruiture.
 
-+ANDREW
++SIR ANDREW
 I hope sir, you are, and I am yours.
 
-+TOBY
++SIR TOBY
 Will you incounter the house, my Neece is
 desirous you should enter, if your trade be to her.
 
@@ -1989,24 +1989,24 @@ desirous you should enter, if your trade be to her.
 I am bound to your Neece sir, I meane she is the
 list of my voyage.
 
-+TOBY
++SIR TOBY
 Taste your legges sir, put them to motion.
 
 +VIOLA
 My legges do better vnderstand me sir, then I
 vnderstand what you meane by bidding me taste my legs.
 
-+TOBY
++SIR TOBY
 I meane to go sir, to enter.
 
 +VIOLA
 I will answer you with gate and entrance,
-SD: Enter +OLIUIA, and +GENTLEWOMAN.
+SD: Enter +OLIUIA, and Gentlewoman.
 +VIOLA
 but we are preuented. Most excellent
 accomplish'd Lady, the heauens raine Odours on you.
 
-+ANDREW
++SIR ANDREW
 That youth's a rare Courtier, raine
 odours, wel.
 
@@ -2014,7 +2014,7 @@ odours, wel.
 My matter hath no voice Lady, but to your owne
 most pregnant and vouchsafed eare.
 
-+ANDREW
++SIR ANDREW
 Odours, pregnant, and vouchsafed:
 Ile get 'em all three already.
 
@@ -2147,45 +2147,45 @@ Will I my Masters teares to you deplore.
 +OLIUIA
 Yet come againe: for thou perhaps mayst moue
 That heart which now abhorres, to like his loue.
-SD: Exeunt +VIOLA, +OLIUIA, +SIR TOBY, +ANDREW, +GENTLEWOMAN
+SD: Exeunt +VIOLA, +OLIUIA, +SIR TOBY, +SIR ANDREW
 
 NS: Act 3 Scene 2
 
 SD: Enter +SIR TOBY, +SIR ANDREW, and +FABIAN.
 
-+ANDREW
++SIR ANDREW
 No faith, Ile not stay a iot longer:
 
-+TOBY
++SIR TOBY
 Thy reason deere venom, giue thy reason.
 
 +FABIAN
 You must needes yeelde your reason, Sir Andrew?
 
-+ANDREW
++SIR ANDREW
 Marry I saw your Neece do more fauours to
 the Counts Seruing-man, then euer she bestow'd vpon
 mee: I saw't i'th Orchard.
 
-+TOBY
++SIR TOBY
 Did she see the while, old boy, tell me
 that.
 
-+ANDREW
++SIR ANDREW
 As plaine as I see you now.
 
 +FABIAN
 This was a great argument of loue in her toward
 you.
 
-+ANDREW
++SIR ANDREW
 S'light; will you make an Asse o'me.
 
 +FABIAN
 I will proue it legitimate sir, vpon the Oathes of
 iudgement, and reason.
 
-+TOBY
++SIR TOBY
 And they haue beene grand Iurie men, since before
 Noah was a Saylor.
 
@@ -2203,11 +2203,11 @@ will hang like an ysickle on a Dutchmans beard, vnlesse you
 do redeeme it, by some laudable attempt, either of valour
 or policie.
 
-+ANDREW
++SIR ANDREW
 And't be any way, it must be with Valour, for
 policie I hate: I had as liefe be a Brownist, as a Politician.
 
-+TOBY
++SIR TOBY
 Why then build me thy fortunes vpon the basis
 of valour. Challenge me the Counts youth to fight with
 him / hurt him in eleuen places, my Neece shall take note
@@ -2218,11 +2218,11 @@ woman, then report of valour.
 +FABIAN
 There is no way but this sir Andrew.
 
-+ANDREW
++SIR ANDREW
 Will either of you beare me a challenge to
 him?
 
-+TOBY
++SIR TOBY
 Go, write it in a martial hand, be curst and
 briefe: it is no matter how wittie, so it bee eloquent, and
 full of inuention: taunt him with the license of Inke: if
@@ -2233,17 +2233,17 @@ set 'em downe, go about it. Let there bee gaulle enough
 in thy inke, though thou write with a Goose-pen, no
 matter: about it.
 
-+ANDREW
++SIR ANDREW
 Where shall I finde you?
 
-+TOBY
++SIR TOBY
 Wee'l call thee at the Cubiculo: Go.
 SD: +SIR ANDREW exits
 
 +FABIAN
 This is a deere Manakin to you Sir Toby.
 
-+TOBY
++SIR TOBY
 I haue beene deere to him lad, some two thousand
 strong, or so.
 
@@ -2251,7 +2251,7 @@ strong, or so.
 We shall haue a rare Letter from him; but you'le
 not deliuer't.
 
-+TOBY
++SIR TOBY
 Neuer trust me then: and by all meanes stirre on
 the youth to an answer. I thinke Oxen and waine-ropes
 cannot hale them together. For Andrew, if he were
@@ -2263,18 +2263,18 @@ And his opposit the youth beares in his visage no
 great presage of cruelty.
 SD: Enter +MARIA.
 
-+TOBY
++SIR TOBY
 Looke where the youngest Wren of mine comes.
 
 +MARIA
 If you desire the spleene, and will laughe your selues
-into stitches, follow me; yond gull MALUOLIO is turned
+into stitches, follow me; yond gull Maluolio is turned	
 Heathen, a verie Renegatho; for there is no christian that
 meanes to be saued by beleeuing rightly, can euer beleeue
 such impossible passages of grossenesse. Hee's in yellow
 stockings.
 
-+TOBY
++SIR TOBY
 And crosse garter'd?
 
 +MARIA
@@ -2288,24 +2288,24 @@ hardly forbeare hurling things at him, I know my Ladie
 will strike him: if shee doe, hee'l smile, and take't for a
 great fauour.
 
-+TOBY
++SIR TOBY
 Come bring vs, bring vs where he is.
 SD: Exeunt +SIR TOBY, +FABIAN, +MARIA
 
 NS: Act 3 Scene 3
 
-SD: Enter +SEBASTIAN and +ANTHONIO.
+SD: Enter +SEBASTIAN and +ANTONIO.
 
 +SEBASTIAN
 I would not by my will haue troubled you,
 But since you make your pleasure of your paines,
 I will no further chide you.
 
-+ANTHONIO
++ANTONIO
 I could not stay behinde you: my desire
-[More sharpe then filed steele] did spurre me forth,
-And not all loue to see you [though so much
-As might haue drawne one to a longer voyage]
+(More sharpe then filed steele) did spurre me forth,	
+And not all loue to see you (though so much	
+As might haue drawne one to a longer voyage)	
 But iealousie, what might befall your rrauell,
 Being skillesse in these parts: which to a stranger,
 Vnguided, and vnfriended, often proue
@@ -2322,7 +2322,7 @@ But were my worth, as is my conscience firme,
 You should finde better dealing: what's to do?
 Shall we go see the reliques of this Towne?
 
-+ANTHONIO
++ANTONIO
 To morrow sir, best first go see your Lodging?
 
 +SEBASTIAN
@@ -2331,7 +2331,7 @@ I pray you let vs satisfie our eyes
 With the memorials, and the things of fame
 That do renowne this City.
 
-+ANTHONIO
++ANTONIO
 Would youl'd pardon me:
 I do not without danger walke these streetes.
 Once in a sea-fight 'gainst the Count his gallies,
@@ -2341,7 +2341,7 @@ That were I tane heere, it would scarse be answer'd.
 +SEBASTIAN
 Belike you slew great number of his people.
 
-+ANTHONIO
++ANTONIO
 Th offence is not of such a bloody nature,
 Albeit the quality of the time, and quarrell
 Might well haue giuen vs bloody argument:
@@ -2354,7 +2354,7 @@ I shall pay deere.
 +SEBASTIAN
 Do not then walke too open.
 
-+ANTHONIO
++ANTONIO
 It doth not fit me: hold sir, here's my purse,
 In the South Suburbes at the Elephant
 Is best to lodge: I will bespeake our dyet,
@@ -2364,7 +2364,7 @@ With viewing of the Towne, there shall you haue me.
 +SEBASTIAN
 Why I your purse?
 
-+ANTHONIO
++ANTONIO
 Haply your eye shall light vpon some toy
 You haue desire to purchase: and your store
 I thinke is not for idle Markets, sir.
@@ -2373,12 +2373,12 @@ I thinke is not for idle Markets, sir.
 Ile be your purse-bearer, and leaue you
 For an houre.
 
-+ANTHONIO
++ANTONIO
 To th'Elephant.
 
 +SEBASTIAN
 I do remember.
-SD: Exeunt +SEBASTIAN, +ANTHONIO
+SD: Exeunt +SEBASTIAN, +ANTONIO
 
 
 
@@ -2523,7 +2523,7 @@ Cosine Toby, let some of my people haue a speciall care
 of him, I would not haue him miscarrie for the halfe of
 my Dowry.
 
-SD: +OLIVIA exits
+SD: +OLIVIA, +SERUANT, +MARIA exits
 +MALUOLIO
 Oh ho, do you come neere me now: no worse
 man then sir Toby to looke to me. This concurres directly
@@ -2545,8 +2545,8 @@ can be saide? Nothing that can be, can come betweene
 me, and the full prospect of my hopes. Well Ioue, not I,
 is the doer of this, and he is to be thanked.
 
-SD: Enter +TOBY, +FABIAN, and +MARIA.
-+TOBY
+SD: Enter +SIR TOBY, +FABIAN, and +MARIA.
++SIR TOBY
 Which way is hee in the name of sanctity. If all
 the diuels of hell be drawne in little, and Legion himselfe
 possest him, yet Ile speake to him.
@@ -2567,7 +2567,7 @@ care of him.
 +MALUOLIO
 Ah ha, does she so?
 
-+TOBY
++SIR TOBY
 Go too, go too: peace, peace, wee must deale gently
 with him: Let me alone. How do you Maluolio? How
 ist with you? What man, defie the diuell: consider,
@@ -2594,7 +2594,7 @@ How now mistris?
 +MARIA
 Oh Lord.
 
-+TOBY
++SIR TOBY
 Prethee hold thy peace, this is not the way: Doe
 you not see you moue him? Let me alone with him.
 
@@ -2602,14 +2602,14 @@ you not see you moue him? Let me alone with him.
 No way but gentlenesse, gently, gently: the Fiend
 is rough, and will not be roughly vs'd.
 
-+TOBY
++SIR TOBY
 Why how now my bawcock? how dost yu
 chuck?
 
 +MALUOLIO
 Sir.
 
-+TOBY
++SIR TOBY
 I biddy, come with me. What man, tis not
 for grauity to play at cherrie-pit with sathan Hang him
 foul Colliar.
@@ -2630,14 +2630,14 @@ things, I am not of your element, you shall knowe more
 heereafter.
 
 SD: +MALUOLIO exits
-+TOBY
++SIR TOBY
 Ist possible?
 
 +FABIAN
 If this were plaid vpon a stage now, I could
 condemne it as an improbable fiction.
 
-+TOBY
++SIR TOBY
 His very genius hath taken the infection of the
 deuice man.
 
@@ -2651,7 +2651,7 @@ Why we shall make him mad indeede.
 +MARIA
 The house will be the quieter.
 
-+TOBY
++SIR TOBY
 Come, wee'l haue him in a darke room &
 bound. My Neece is already in the beleefe that he's mad:
 we may carry it thus for our pleasure, and his pennance,
@@ -2664,24 +2664,24 @@ SD: Enter +SIR ANDREW.
 +FABIAN
 More matter for a May morning.
 
-+ANDREW
++SIR ANDREW
 Heere's the Challenge, reade it: I warrant
 there's vinegar and pepper in't.
 
 +FABIAN
 Ist so sawcy?
 
-+ANDREW
++SIR ANDREW
 I, ist? I warrant him: do but read.
 
-+TOBY
++SIR TOBY
 Giue me.
 Youth, whatsoeuer thou art, thou art but a scuruy fellow.
 
 +FABIAN
 Good, and valiant.
 
-+TOBY
++SIR TOBY
 Wonder not, nor admire not in thy minde
 why I doe call thee so, for I will shew thee no reason for't.
 
@@ -2689,7 +2689,7 @@ why I doe call thee so, for I will shew thee no reason for't.
 A good note, that keepes you from the blow of ye
 Law
 
-+TOBY
++SIR TOBY
 Thou comst to the Lady Oliuia, and in
 my sight she vses thee kindly: but thou lyest in thy throat,
 that is not the matter I challenge thee for.
@@ -2698,14 +2698,14 @@ that is not the matter I challenge thee for.
 Very breefe, and to exceeding good sence-
 lesse.
 
-+TOBY
++SIR TOBY
 I will way-lay thee going home, where if
 it be thy chance to kill me.
 
 +FABIAN
 Good.
 
-+TOBY
++SIR TOBY
 Thou kilst me like a rogue and a
 villaine.
 
@@ -2713,7 +2713,7 @@ villaine.
 Still you keepe o'th windie side of the Law:
 good.
 
-+TOBY
++SIR TOBY
 Fartheewell, and God haue mercie vpon
 one of our soules. He may haue mercie vpon mine, but my
 hope is better, and so looke to thy selfe. Thy friend as thou
@@ -2725,7 +2725,7 @@ Yon may haue verie fit occasion fot't: he is now in
 some commerce with my Ladie, and will by and by
 depart.
 
-+TOBY
++SIR TOBY
 Go sir Andrew: scout mee for him at the
 corner of the Orchard like a bum-Baylie: so soone as euer
 thou seest him, draw, and as thou draw'st, sweare horrible:
@@ -2734,11 +2734,11 @@ swaggering accent sharpely twang'd off, giues manhoode
 more approbation, then euer proofe it selfe would haue
 earn'd him. Away.
 
-+ANDREW
++SIR ANDREW
 Nay let me alone for swearing.
 
-SD: +ANDREW exits
-+TOBY
+SD: +SIR ANDREW exits
++SIR TOBY
 Now will not I deliuer his Letter: for the behauiour
 of the yong Gentleman, giues him out to be of
 good capacity, and breeding: his employment betweene
@@ -2747,7 +2747,7 @@ Letter being so excellently ignorant, will breed no terror
 in the youth: he will finde it comes from a Clodde-pole. But
 sir, I will deliuer his Challenge by word of mouth; set
 vpon Ague-cheeke a notable report of valor, and driue
-the Gentleman [as I know his youth will aptly receiue it]
+the Gentleman (as I know his youth will aptly receiue it)	
 into a most hideous opinion of his rage, skill, furie, and
 impetuositie. This will so fright them both, that they
 wil kill one another by the looke, like Cockatrices.
@@ -2757,7 +2757,7 @@ SD: Enter +OLIVIA and +VIOLA.
 Heere he comes with your Neece, giue them way
 till he take leaue, and presently after him.
 
-+TOBY
++SIR TOBY
 I wil meditate the while vpon some horrid
 message for a Challenge.
 
@@ -2777,7 +2777,7 @@ Heere, weare this Iewell for me, tis my picture:
 Refuse it not, it hath no tongue, to vex you:
 And I beseech you come againe to morrow.
 What shall you aske of me that Ile deny,
-That honour [sau'd] may vpon asking giue.
+That honour (sau'd) may vpon asking giue.
 
 +VIOLA
 Nothing but this, your true loue for my master.
@@ -2793,14 +2793,14 @@ I will acquit you.
 Well. come againe to morrow: far-thee-well,
 A Fiend like thee might beare my soule to hell.
 
-SD: Enter +TOBY and +FABIAN.
-+TOBY
+SD: Enter +SIR TOBY and +FABIAN.
++SIR TOBY
 Gentleman, God saue thee.
 
 +VIOLA
 And you sir.
 
-+TOBY
++SIR TOBY
 That defence thou hast, betake the too't: of
 what nature the wrongs are thou hast done him, I knowe
 not: but thy intercepter full of despight, bloody as the Hunter,
@@ -2813,7 +2813,7 @@ You mistake sir I am sure, no man hath any
 quarrell to me: my remembrance is very free and cleere
 from any image of offence done to any man.
 
-+TOBY
++SIR TOBY
 You'l finde it otherwise I assure you: therefore,
 if you hold your life at any price, betake you to
 your gard: for your opposite hath in him what youth,
@@ -2822,7 +2822,7 @@ strength, skill, and wrath, can furnish man withall.
 +VIOLA
 I pray you sir what is he?
 
-+TOBY
++SIR TOBY
 He is knight dubb'd with vnhatch'd Rapier, and
 on carpet consideration, but he is a diuell in priuate
 brall, soules and bodies hath he diuorc'd three, and his
@@ -2836,7 +2836,7 @@ conduct of the Lady. I am no fighter, I haue heard of
 some kinde of men, that put quarrells purposely on others,
 to taste their valour: belike this is a man of that quirke.
 
-+TOBY
++SIR TOBY
 Sir, no: his indignation deriues it selfe out of a
 very computent iniurie, therefore get you on, and giue
 him his desire. Backe you shall not to the house, vnlesse
@@ -2851,11 +2851,11 @@ this courteous office, as to know of the Knight what my
 offence to him is: it is something of my negligence,
 nothing of my purpose.
 
-+TOBY
++SIR TOBY
 I will doe so. Signiour Fabian, stay you by this
 Gentleman, till my returne.
 
-SD: +TOBY exits
+SD: Exit +SIR TOBY
 +VIOLA
 Pray you sir, do you know of this matter?
 
@@ -2880,8 +2880,8 @@ I shall bee much bound to you for't: I am one, that
 had rather go with sir Priest, then sir knight: I care not
 who knowes so much of my mettle.
 
-SD: +FABIAN, +VIOLA exuent. Enter +TOBY and +ANDREW.
-+TOBY
+SD: +FABIAN, +VIOLA exuent. Enter +SIR TOBY and +SIR ANDREW.
++SIR TOBY
 Why man hee s a verie diuell, I haue not seen
 such a firago: I had a passe with him, rapier, scabberd,
 and all: and he giues me the stucke in with such a mortall
@@ -2889,20 +2889,20 @@ motion that it is ineuitable: and on the answer, he payes
 you as surely, as your feete hits the ground they step on.
 They say, he has bin Fencer to the Sophy.
 
-+ANDREW
++SIR ANDREW
 Pox on't, Ile not meddle with him.
 
-+TOBY
++SIR TOBY
 I but he will not now be pacified, / Fabian can
 scarse hold him yonder.
 
-+ANDREW
++SIR ANDREW
 Plague on't, and I thought he had beene
 valiant, and so cunning in Fence, I'de haue seene him
 damn'd ere I'de haue challeng'd him. Let him let the
 matter slip, and Ile giue him my horse, gray Capilet.
 
-+TOBY
++SIR TOBY
 Ile make the motion: stand heere, make a good
 shew on't, this shall end without the perdition of soules,
 marry Ile ride your
@@ -2914,7 +2914,7 @@ a diuell.
 He is as horribly conceited of him: and pants, &
 lookes pale, as if a Beare were at his heeles.
 
-+TOBY
++SIR TOBY
 There's no remedie sir, he will fight
 with you for's oath sake: marrie hee hath better
 bethought him of his quarrell, and hee findes that now scarse
@@ -2928,14 +2928,14 @@ make me tell them how much I lacke of a man.
 +FABIAN
 Giue ground if you see him furious.
 
-+TOBY
++SIR TOBY
 Come sir Andrew,
 there's no remedie, the Gentleman will for his honors
 sake haue one bowt with you: he cannot by the Duello
 auoide it: but hee has promised me, as he is a Gentleman
 and a Soldiour, he will not hurt you. Come on, too't.
 
-+ANDREW
++SIR ANDREW
 Pray God he keepe his oath.
 
 SD: Enter +ANTONIO.
@@ -2947,28 +2947,28 @@ Put vp your sword: if this yong Gentleman
 Haue done offence, I take the fault on me:
 If you offend him, I for him defie you.
 
-+TOBY
++SIR TOBY
 You sir? Why, what are you?
 
 +ANTONIO
 One sir, that for his loue dares yet do more
 Then you haue heard him brag to you he will.
 
-+TOBY
++SIR TOBY
 Nay, if you be an vndertaker, I am for you.
 
-SD: Enter Officers.
+SD: Enter +OFFICER 1 and +OFFICER 2.
 +FABIAN
 O good sir Toby hold: heere come the Officers.
 
-+TOBY
++SIR TOBY
 Ile be with you anon.
 
 +VIOLA
 Pray sir, put your sword vp if
 you please.
 
-+ANDREW
++SIR ANDREW
 Marry will I sir: and for that I promis'd
 you Ile be as good as my word. Hee will beare you easily,
 and raines well.
@@ -3058,14 +3058,14 @@ The man growes mad, away with him: Come, come sir.
 +ANTONIO
 Leade me on.
 
-SD: +ANTONIO exits
+SD: +ANTONIO, +OFFICER 1, +OFFICER 2 exits
 +VIOLA
 Me thinkes his words do from such passion flye
 That he beleeues himselfe, so do not I:
 Proue true imagination, oh proue ttue,
 That I deere brother, be now tane for you.
 
-+TOBY
++SIR TOBY
 Come hither Knight, come hither Fabian:
 Weel whisper ore a couplet or two of most sage sawes.
 
@@ -3077,7 +3077,7 @@ Still in this fashion, colour, ornament,
 For him I imitate: Oh if it proue,
 Tempests are kinde, and salt waues fresh in loue.
 
-+TOBY
++SIR TOBY
 A very dishonest paltry boy, and more a
 coward then a Hare, his dishonesty appeares, in leauing
 his frend heere in necessity, and denying him: and for his
@@ -3086,23 +3086,23 @@ cowardship aske Fabian.
 +FABIAN
 A Coward, a most deuout Coward, religious in it.
 
-+ANDREW
++SIR ANDREW
 Slid Ile after him againe, and beate him.
 
-+TOBY
++SIR TOBY
 Do, cuffe him soundly, but neuer draw thy
 sword
 
-+ANDREW
++SIR ANDREW
 And I do not.
 
 +FABIAN
 Come, let's see the euent.
 
-+TOBY
++SIR TOBY
 I dare lay any money, twill be nothing yet.
 
-SD: +TOBY exits
+SD: +SIR TOBY, +FABIAN, +VIOLA exits
 
 NS: Act 4 Scene 1
 
@@ -3143,8 +3143,8 @@ By my troth thou hast an open hand: these Wise-
 men that giue fooles money, get themselues a good report,
 after foureteene yeares purchase.
 
-SD: Enter +ANDREW, +TOBY, and +FABIAN.
-+ANDREW
+SD: Enter +SIR ANDREW, +SIR TOBY, and +FABIAN.
++SIR ANDREW
 Now sir, haue I met you again: ther's
 for you.
 
@@ -3152,7 +3152,7 @@ for you.
 Why there's for thee, and there,
 and there, / Are all the people mad?
 
-+TOBY
++SIR TOBY
 Hold sir, or Ile throw your dagger ore the
 house.
 
@@ -3161,10 +3161,10 @@ This will I tell my Lady straight, I would not be in
 some of your coats for two pence.
 
 SD: +CLOWNE exits
-+TOBY
++SIR TOBY
 Come on sir, hold.
 
-+ANDREW
++SIR ANDREW
 Nay let him alone, Ile go another way to
 worke with him: Ile haue an action of Battery against
 him, if there be any law in Illyria: though I stroke him
@@ -3173,7 +3173,7 @@ first, yet it's no matter for that.
 +SEBASTIAN
 Let go thy hand.
 
-+TOBY
++SIR TOBY
 Come sir, I will not let you go. Come my
 yong souldier put vp your yron: you are well flesh'd:
 Come on.
@@ -3183,7 +3183,7 @@ I will be free from thee.
 What wouldst yu now?
 If thou dar'st tempt me further, draw thy sword.
 
-+TOBY
++SIR TOBY
 What, what? Nay then I must haue an Ounce
 or two of this malapert blood from you.
 
@@ -3191,7 +3191,7 @@ SD: Enter +OLIVIA.
 +OLIVIA
 Hold Toby, on thy life I charge thee hold.
 
-+TOBY
++SIR TOBY
 Madam.
 
 +OLIVIA
@@ -3225,7 +3225,7 @@ Madam, I will.
 +OLIVIA
 O say so, and so be.
 
-SD: +OLIVIA, +SEBASTIAN exuent
+SD: +OLIVIA, +SEBASTIAN, +SIR TOBY, +FABIAN, +SIR ANDREW exuent
 
 
 
@@ -3236,28 +3236,31 @@ SD: Enter +MARIA and +CLOWNE.
 +MARIA
 Nay, I prethee put on this gown, & this beard,
 make him beleeue thou art sir Topas the Curate, doe it
-quickly. Ile call sir +TOBY the whilst.
+quickly. Ile call sir Toby the whilst.
 +CLOWNE
 Well, Ile put it on, and I will dissemble my selfe in't,
 and I would I were the first that euer dissembled in in such
 a gowne. I am not tall enough to become the function
 well, nor leane enough to bee thought a good Studient: but
 to be said an honest man and a good hous-keeper goes as
-fairely, as to say, a carefull man, & a great scholler.
-SD: The Competitors enter. Enter +TOBY.
-+TOBY
+fairely, as to say, a carefull man, & a great scholler. The 
+Competitors enter. 
+
+SD: Enter +SIR TOBY.
+
++SIR TOBY
 Ioue blesse thee M. Parson.
 +CLOWNE
-Bonos dies sir +Toby: for as the old hermit of
+Bonos dies sir Toby: for as the old hermit of
 Prage that neuer saw pen and inke, very wittily sayd to
 a Neece of King Gorbodacke, that that is, is: so I being
 M. Parson, am M. Parson; for what is that, but
 that? and is, but is?
-+TOBY
++SIR TOBY
 To him sir Topas.
 +CLOWNE
 What hoa, I say, Peace in this prison.
-+TOBY
++SIR TOBY
 The knaue counterfets well: a good knaue.
 MALUOLIO
 within.
@@ -3271,7 +3274,7 @@ my Ladie.
 +CLOWNE
 Out hyperbolicall fiend, how vexest thou this man?
 Talkest thou nothing but of Ladies?
-+TOBY
++SIR TOBY
 Well said M. Parson.
 MALUOLIO
 Sir Topas, neuer was man thus wronged,
@@ -3319,55 +3322,55 @@ thy wits, and feare to kill a Woodcocke, lest thou dis-possesse
 the soule of thy grandam. Fare thee well.
 MALUOLIO
 Sir Topas, sir Topas.
-+TOBY
++SIR TOBY
 My most exquisite sir Topas.
 +CLOWNE
 Nay I am for all waters.
 +MARIA
 Thou mightst haue done this without thy berd
 and gowne, he sees thee not.
-+TOBY
++SIR TOBY
 To him in thine owne voyce, and bring me word
 how thou findst him: I would we were well ridde of this
 knauery. If he may bee conueniently deliuer'd, I would
 he were, for I am now so farre in offence with my Niece,
 that I cannot pursue with any safety this sport the vppeshot.
 Come by and by to my Chamber.
-SD: +Toby exits
+SD: +SIR TOBY exits
 +CLOWNE
 Hey Robin, iolly Robin,
 tell me how thy Lady does.
-MALUOLIO
++MALUOLIO
 Foole.
 +CLOWNE
 My Lady is vnkind, perdie.
-MALUOLIO
++MALUOLIO
 Foole.
 +CLOWNE
 Alas why is she so?
-MALUOLIO
++MALUOLIO
 Foole, I say.
 +CLOWNE
 She loues another.
 Who calles, ha?
-MALUOLIO
++MALUOLIO
 Good foole, as euer thou wilt deserue well at
 my hand, helpe me to a Candle, and pen, inke, and paper:
 as I am a Gentleman, I will liue to bee thankefull to thee
 for't.
 +CLOWNE
 M. Maluolio?
-MALUOLIO
++MALUOLIO
 I good Foole.
 +CLOWNE
 Alas sir, how fell you besides your fiue witts?
-MALL.
++MALUOLIO
 Foole, there was neuer man so notoriouslie
 abus'd: I am as well in my wits [foole] as thou art.
 +CLOWNE
 But as well: then you are mad indeede, if you be
 no better in your wits then a foole.
-MALUOLIO
++MALUOLIO
 They haue heere propertied me: keepe mee in
 darkenesse, send Ministers to me, Asses, and doe all they
 can to face me out of my wits.
@@ -3376,25 +3379,25 @@ Aduise you what you say: the Minister is heere.
 Maluolio, Maluolio, thy wittes the
 heauens restore: endeauour thy selfe to sleepe, and leaue
 thy vaine bibble babble.
-MALUOLIO
++MALUOLIO
 Sir Topas.
 +CLOWNE
 Maintaine no words with him good fellow.
 Who I sir, not I sir. God buy you good sir
 Topas: Marry Amen.
 I will sir, I will.
-MALUOLIO
++MALUOLIO
 Foole, foole, foole I say.
 +CLOWNE
 Alas sir be patient. What say you sir, I am shent
 for speaking to you.
-MALUOLIO
++MALUOLIO
 Good foole, helpe me to some light, and some
 paper, I tell thee I am as well in my wittes, as any man in
 Illyria.
 +CLOWNE
 Well-a-day, that you were sir.
-MALUOLIO
++MALUOLIO
 By this hand I am: good foole, some inke,
 paper, and light: and conuey what I will set downe to my
 Lady: it shall aduantage thee more, then euer the bearing
@@ -3402,12 +3405,12 @@ of Letter did.
 +CLOWNE
 I will help you too't. But tel me true, are you not
 mad indeed, or do you but counterfeit.
-MALUOLIO
++MALUOLIO
 Beleeue me I am not, I tell thee true.
 +CLOWNE
 Nay, Ile nere beleeue a madman till I see his
-brains [ I will fetch you light, and paper, and inke.
-MALUOLIO
+brains / I will fetch you light, and paper, and inke.
++MALUOLIO
 Foole, Ile requite it in the highest degree: I
 prethee be goue.
 +CLOWNE
@@ -3419,7 +3422,7 @@ Who with dagger of lath, in his rage and his wrath,
 cries ah ha, to the diuell:
 Like a mad lad, paire thy nayles dad,
 Adieu good man diuell.
-SD: +Clowne exits
+SD: +CLOWNE exits
 
 NS: Act 4 Scene 3
 
@@ -3464,7 +3467,7 @@ And hauing sworne truth, euer will be true.
 +OLIUIA
 Then lead the way good father, & heauens so shine,
 That they may fairely note this acte of mine.
-SD: +Olivia, +Sebastian, +Priest exuent
+SD: +OLIUIA, +SEBASTIAN, +PRIEST exuent
 
 
 
@@ -3483,22 +3486,22 @@ Do not desire to see this Letter.
 +FABIAN
 This is to giue a dogge, and in recompence desire
 my dogge againe.
-SD: Enter +DUKE, +VIOLA, +CURIO, and Lords.
-+DUKE
+SD: Enter +ORSINO, +VIOLA, +CURIO, and Lords.
++ORSINO
 Belong you to the Lady Oliuia, friends?
 +CLOWNE
 I sir, we are some of her trappings.
-+DUKE
++ORSINO
 I know thee well: how doest thou my good
 Fellow?
 +CLOWNE
 Truely sir, the better for my foes, and the worse for
 my friends.
-+DUKE
++ORSINO
 Iust the contrary: the better for thy friends.
 +CLOWNE
 No sir, the worse.
-+DUKE
++ORSINO
 How can that be?
 +CLOWNE
 Marry sir, they praise me, and make an asse of me,
@@ -3508,22 +3511,22 @@ friends I am abused: so that conclusions to be as
 kisses, if your foure negatiues make your two affirmatiues,
 why then the worse for my friends, and the better
 for my foes.
-+DUKE
++ORSINO
 Why this is excellent.
 +CLOWNE
 By my troth sir, no: though it please you to be
 one of my friends.
-+DUKE
++ORSINO
 Thou shalt not be the worse for me, there's gold.
 +CLOWNE
 But that it would be double dealing sir, I would
 you could make it another.
-+DUKE
++ORSINO
 O you giue me ill counsell.
 +CLOWNE
 Put your grace in your pocket sir, for this once,
 and let your flesh and blood obey it.
-+DUKE
++ORSINO
 Well, I will be so much a sinner to be a double dealer:
 there's another.
 +CLOWNE
@@ -3531,7 +3534,7 @@ Primo, secundo, tertio, is a good play, and the olde
 saying is, the third payes for all: the triplex sir, is a good
 tripping measure, or the belles of S. Bennet sir, may
 put you in minde, one, two, three.
-+DUKE
++ORSINO
 You can foole no more money out of mee at this
 throw: if you will let your Lady know I am here to speak
 with her, and bring her along with you, it may awake my
@@ -3542,11 +3545,11 @@ agen. I go sir, but I would not haue you to thinke, that
 my desire of hauing is the sinne of couetousnesse: but as
 you say sir, let your bounty take a nappe, I will awake it
 anon.
-SD: +Clowne exits
-SD: Enter +ANTHONIO and Officers.
+SD: +CLOWNE exits
+SD: Enter +ANTONIO and +OFFICER.
 +VIOLA
 Here comes the man sir, that did rescue mee.
-+DUKE
++ORSINO
 That face of his I do remember well,
 yet when I saw it last, it was besmear'd
 As blacke as Vulcan, in the smoake of warre:
@@ -3556,7 +3559,7 @@ With which such scathfull grapple did he make,
 With the most noble bottome of our Fleete,
 That very enuy, and the tongue of losse
 Cride fame and honor on him: What's the matter?
-+Officer
++OFFICER
 Orsino, this is that Anthonio
 That tooke the Phoenix, and her fraught from Candy,
 And this is he that did the Tiger boord,
@@ -3567,12 +3570,12 @@ In priuate brabble did we apprehend him.
 He did me kindnesse sir, drew on my side,
 But in conclusion put strange speech vpon me,
 I know not what 'twas, but distraction.
-+DUKE
++ORSINO
 Notable Pyrate, thou salt-water Theefe,
 What foolish boldnesse brought thee to their mercies,
 Whom thou in termes so bloudie, and so deere
 Hast made thine enemies?
-+ANTHONIO
++ANTONIO
 Orsino: Noble sir,
 Be pleas'd that I shake off these names you giue mee:
 Anthonio neuer yet was Theefe, or Pyrate,
@@ -3584,11 +3587,11 @@ Did I redeeme: a wracke past hope he was:
 His life I gaue him, and did thereto adde
 My loue without retention, or restraint,
 All his in dedication. For his sake,
-Did I expose my selfe [pure for his loue]
+Did I expose my selfe (pure for his loue)	
 Into the danger of this aduerse Towne,
 Drew to defend him, when he was beset:
 Where being apprehended, his false cunning
-[Not meaning to partake with me in danger]
+(Not meaning to partake with me in danger)	
 Taught him to face me out of his acquaintance,
 And grew a twentie yeeres remoued thing
 While one would winke: denide me mine owne purse,
@@ -3596,14 +3599,14 @@ Which I had recommended to his vse,
 Not halfe an houre before.
 +VIOLA
 How can this be?
-+DUKE
++ORSINO
 When came he to this Towne?
-+ANTHONIO
++ANTONIO
 To day my Lord: and for three months before,
 No intrim, not a minutes vacancie,
 Both day and night did we keepe companie.
 SD: Enter +OLIUIA and attendants.
-+DUKE
++ORSINO
 Heere comes the Countesse, now heauen walkes on earth:
 But for thee fellow, fellow thy words are madnesse,
 Three monthes this youth hath tended vpon mee,
@@ -3614,7 +3617,7 @@ Wherein Oliuia may seeme seruiceable?
 Cesario, you do not keepe promise with me.
 +VIOLA
 Madam:
-+DUKE
++ORSINO
 Gracious Oliuia.
 +OLIUIA
 What do you say Cesario? Good my Lord.
@@ -3624,22 +3627,22 @@ My Lord would speake, my dutie hushes me.
 If it be ought to the old tune my Lord,
 It is as fat and fulsome to mine eare
 As howling after Musicke.
-+DUKE
++ORSINO
 Still so cruell?
 +OLIUIA
 Still so constant Lord.
-+DUKE
++ORSINO
 What to peruersenesse? you vnciuill Ladie
 To whose ingrate, and vnauspicious Altars
 My soule the faithfull'st offrings haue breath'd out
 That ere deuotion tender'd. What shall I do?
 +OLIUIA
 Euen what it please my Lord, that shal becom him
-+DUKE
-Why should I not, [had I the heart to do it]
++ORSINO
+Why should I not, (had I the heart to do it)
 Like to th'Egyptian theefe, at point of death
-Kill what I loue: [a sauage iealousie,
-That sometime sauours nobly] but heare me this:
+Kill what I loue: (a sauage iealousie,	
+That sometime sauours nobly) but heare me this:	
 Since you to non-regardance cast my faith,
 And that I partly know the instrument
 That screwes me from my true place in your fauour:
@@ -3669,15 +3672,15 @@ Who does beguile you? who does do you wrong?
 +OLIUIA
 Hast thou forgot thy selfe? Is it so long?
 Call forth the holy Father.
-+DUKE
++ORSINO
 Come, away.
 +OLIUIA
 Whether my Lord? Cesario, Husband, stay.
-+DUKE
++ORSINO
 Husband?
 +OLIUIA
 I Husband. Can he that deny?
-+DUKE
++ORSINO
 Her husband, sirrah?
 +VIOLA
 No my Lord, not I.
@@ -3687,7 +3690,7 @@ That makes thee strangle thy propriety:
 Feare not Cesario, take thy fortunes vp,
 Be that thou know'st thou art, and then thou art
 As great as that thou fear'st.
-SD: Enter Priest.
+SD: Enter +PRIEST.
 +OLIUIA
 O welcome Father:
 Father, I charge thee by thy reuerence
@@ -3704,7 +3707,7 @@ And all the Ceremonie of this compact
 Seal'd in my function, by my testimony:
 Since when, my watch hath told me, toward my graue
 I haue trauail'd but two houres.
-+DUKE
++ORSINO
 O thou dissembling Cub: what wilt thou be
 When time hath sow'd a grizzle on thy case?
 Or will not else thy craft so quickely grow,
@@ -3732,7 +3735,7 @@ Who has done this sir Andrew?
 The Counts Gentleman, one Cesario: we
 tooke him for a Coward, but hee's the verie diuell,
 incardinate.
-+DUKE
++ORSINO
 My Gentleman Cesario?
 +SIR ANDREW
 Odd's lifelings heere he is: you broke my
@@ -3742,22 +3745,22 @@ by sir Toby.
 Why do you speake to me, I neuer hurt you:
 you drew your sword vpon me without cause,
 But I bespake you faire, and hurt you not.
-SD: Enter +TOBY and +CLOWNE.
+SD: Enter +SIR TOBY and +CLOWNE.
 +SIR ANDREW
 If a bloody coxcombe be a hurt, you haue
 hurt me: I thinke you set nothing by a bloody Coxecombe.
 Heere comes sir Toby halting, you shall heare more: but
 if he had not beene in drinke, hee would haue tickel'd you
 other gates then he did.
-+DUKE
++ORSINO
 How now Gentleman? how ist with you?
-+TOBY
++SIR TOBY
 That's all one, has hurt me, and there's th'
 end on't: Sot, didst see Dicke Surgeon, sot?
 +CLOWNE
 O he's drunke sir Toby an houre agone: his eyes
 were set at eight i'th morning.
-+TOBY
++SIR TOBY
 Then he's a Rogue, and a passy measures panyn:
 I hate a drunken rogue.
 +OLIUIA
@@ -3766,7 +3769,7 @@ them?
 +SIR ANDREW
 Ile helpe you sir Toby, because we'll be
 drest to-gether.
-+TOBY
++SIR TOBY
 Will you helpe an Asse-head, and a coxcombe,
 & a knaue: a thin fac'd knaue, a gull?
 +OLIUIA
@@ -3778,20 +3781,20 @@ But had it beene the brother of my blood,
 I must haue done no lesse with wit and safety.
 You throw a strange regard vpon me, and by that
 I do perceiue it hath offended you:
-Pardon me [sweet one] euen for the vowes
+Pardon me (sweet one) euen for the vowes	
 We made each other, but so late ago.
-+DUKE
++ORSINO
 One face, one voice, one habit, and two persons,
 A naturall Perspectiue, that is, and is not.
 +SEBASTIAN
 Anthonio: O my deere Anthonio,
 How haue the houres rack'd, and tortur'd me,
 Since I haue lost thee?
-+ANTHONIO
++ANTONIO
 Sebastian are you?
 +SEBASTIAN
 Fear'st thou that Anthonio?
-+ANTHONIO
++ANTONIO
 How haue you made diuision of your selfe,
 An apple cleft in two, is not more twin
 Then these two creatures. Which is Sebastian?
@@ -3843,9 +3846,9 @@ Hath beene betweene this Lady, and this Lord.
 So comes it Lady, you haue beene mistooke:
 But Nature to her bias drew in that.
 You would haue bin contracted to a Maid,
-Nor are you therein [by my life] deceiu'd,
+Nor are you therein (by my life) deceiu'd,	
 You are betroth'd both to a maid and man.
-+DUKE
++ORSINO
 Be not amaz'd, right noble is his blood:
 If this be so, as yet the glasse seemes true,
 I shall haue share in this most happy wracke,
@@ -3856,7 +3859,7 @@ And all those sayings, will I ouer sweare,
 And all those swearings keepe as true in soule,
 As doth that Orbed Continent, the fire,
 That seuers day from night.
-+DUKE
++ORSINO
 Giue me thy hand,
 And let me see thee in thy womans weedes.
 +VIOLA
@@ -3865,7 +3868,7 @@ Hath my Maides garments: he vpon some Action
 Is now in durance, at Maluolio's suite,
 A Gentleman, and follower of my Ladies.
 +OLIUIA
-He shall inlarge him: fetch +MALUOLIO hither,
+He shall inlarge him: fetch Maluolio hither,
 And yet alas, now I remember me,
 They say poore Gentleman, he's much distract.
 SD: Enter +CLOWNE with a Letter, and +FABIAN.
@@ -3915,15 +3918,15 @@ Maluolio.
 Did he write this?
 +CLOWNE
 I Madame.
-+DUKE
++ORSINO
 This sauours not much of distraction.
 +OLIUIA
-See him deliuer'd Fabian, bring +MALUOLIO hither:
+See him deliuer'd Fabian, bring him hither:
 My Lord, so please you, these things further thought on,
 To thinke me as well a sister, as a wife,
 One day shall crowne th'alliance on't, so please you,
 Heere at my house, and at my proper cost.
-+DUKE
++ORSINO
 Madam, I am most apt t'embrace your offer:
 Your Master quits you: and for your seruice done him,
 So much against the mettle of your sex,
@@ -3934,7 +3937,7 @@ Your Masters Mistris.
 +OLIUIA
 A sister, you are she.
 SD: Enter +MALUOLIO.
-+DUKE
++ORSINO
 Is this the Madman?
 +OLIUIA
 I my Lord, this same:
@@ -4001,17 +4004,17 @@ the whirlegigge of time, brings in his reuenges.
 Ile be reueng'd on the whole packe of you?
 +OLIUIA
 He hath bene most notoriously abus'd.
-+DUKE
++ORSINO
 Pursue him, and entreate him to a peace:
 He hath not told vs of the Captaine yet,
 When that is knowne, and golden time conuents
 A solemne Combination shall be made
 Of our deere soules. Meane time sweet sister,
 We will not part from hence. Cesario come
-[For so you shall be while you are a man:]
+(For so you shall be while you are a man:)
 But when in other habites you are seene,
 Orsino's Mistris, and his fancies Queene.
-SD: Exeunt +DUKE, +OLIUIA, +VIOLA, +SEBASTIAN, +ANTHONIO, +SIR ANDREW, +TOBY, +FABIAN, +MALUOLIO
+SD: Exeunt +ORSINO, +OLIUIA, +VIOLA, +SEBASTIAN, +ANTONIO, +SIR ANDREW, +SIR TOBY, +FABIAN, +MALUOLIO
 +CLOWNE
 sings.
 When that I was and a little tine boy,

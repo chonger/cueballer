@@ -3160,7 +3160,6 @@ house.
 This will I tell my Lady straight, I would not be in
 some of your coats for two pence.
 
-SD: +CLOWNE exits
 +SIR TOBY
 Come on sir, hold.
 
@@ -3263,7 +3262,7 @@ What hoa, I say, Peace in this prison.
 +SIR TOBY
 The knaue counterfets well: a good knaue.
 MALUOLIO
-within.
+[within.]
 Who cals there?
 +CLOWNE
 Sir Topas the Curate, who comes to visit Maluolio
@@ -3904,7 +3903,7 @@ eare.
 Read
 it you, sirrah.
 +FABIAN
-Reads.
+[Reads.]
 By the Lord Madam, you wrong me, and the world shall
 know it: Though you haue put mee into darkenesse, and giuen
 your drunken Cosine rule ouer me, yet haue I the benefit of

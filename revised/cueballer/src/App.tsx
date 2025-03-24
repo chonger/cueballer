@@ -3,6 +3,7 @@ import './App.css'
 import { useState, useEffect } from 'react'
 import Button from '@mui/material/Button';
 import AddIcon from '@mui/icons-material/Add'
+import UploadFileIcon from '@mui/icons-material/UploadFile';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
 import { FormControlLabel, FormGroup, Slider } from '@mui/material'
@@ -38,6 +39,7 @@ interface MyState {
   nWordsInCueScript: number
   nCharsInLine: number
   selectedCharacters: Set<string>
+  fileName: string | null
 }
 
 
@@ -50,12 +52,13 @@ const MAX_CHARS_PER_LINE = 100
 const DEFAULT_NUM_CHARS_PER_LINE = 53
 
 const INIT_STATE : MyState  ={ 
-  originalScript: comedyerr, 
+  originalScript: '', 
   parsedScript: null, 
   cueScript: '', 
   nWordsInCueScript: DEFAULT_NUM_CUE_WORDS, 
   nCharsInLine: DEFAULT_NUM_CHARS_PER_LINE, 
-  selectedCharacters: new Set() 
+  selectedCharacters: new Set(),
+  fileName: null
 }
 
 /**
@@ -68,7 +71,6 @@ export const App = () => {
 
   const [state, setState] = useState<MyState>(INIT_STATE);
 
-  const onChangeOriginalScript = s => setState((state) => ({ ...state, originalScript: s }));
   const onChangeCueScript = s => setState((state) => ({ ...state, cueScript: s }));
   const setSelectedCharacters = a => setState((state) => ({ ...state, selectedCharacters: a }));
 
@@ -93,6 +95,32 @@ export const App = () => {
     setState((state) => ({ ...state, parsedScript: parsed, selectedCharacters: new Set() }));
   }
 
+  const handleFileUpload = (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      const content = e.target?.result as string;
+      setState((state) => ({ 
+        ...state, 
+        originalScript: content,
+        fileName: file.name
+      }));
+      
+      // Parse the script immediately after loading
+      setTimeout(() => {
+        const parsed = parseScript(content);
+        setState((prevState) => ({ 
+          ...prevState, 
+          parsedScript: parsed, 
+          selectedCharacters: new Set() 
+        }));
+      }, 100);
+    };
+    reader.readAsText(file);
+  };
+
   const changeSelectedActor = (c : string) => (event) => {
     let newSelectedActors = state.selectedCharacters;
     if (event.target.checked && !state.selectedCharacters.has(c)) {
@@ -107,21 +135,27 @@ export const App = () => {
 
   return <div className="main-container flexcols">
     <div className="full-script flexrows flexkid">
-      <div className="script-header flexkid white-back"><h2>Paste your script here.</h2></div>
-      <div className="script-editor flexkid white-back">
-        <EditableText text={state.originalScript} onChange={onChangeOriginalScript} />
-      </div>
-      <div className="script-buttons flexkid flexcols white-back">
-        <Button
-          variant="outlined"
-          size="large"
-          color="primary"
-          className="footer-button"
-          endIcon={<AddIcon />}
-          onClick={() => parseOriginalScript()}
-        >
-          Parse the Script
-        </Button>
+      <div className="script-header flexkid white-back"><h2>Upload your script file</h2></div>
+      <div className="script-editor flexkid white-back upload-container">
+        <input
+          accept="text/plain,.txt"
+          style={{ display: 'none' }}
+          id="raised-button-file"
+          type="file"
+          onChange={handleFileUpload}
+        />
+        <label htmlFor="raised-button-file">
+          <Button
+            variant="contained"
+            color="primary"
+            component="span"
+            startIcon={<UploadFileIcon />}
+            sx={{ height: '50px', margin: '20px auto', display: 'flex' }}
+          >
+            Upload Script File
+          </Button>
+        </label>
+        {state.fileName && <p>Loaded: {state.fileName}</p>}
       </div>
     </div>
     {(state.parsedScript?.allActors.size ?? 0) > 0 &&
