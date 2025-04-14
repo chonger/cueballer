@@ -90,7 +90,7 @@ export function parseScript(formattedScript: string): ParsedScript {
          */
 
         if (line.length > 0 && line.toUpperCase() === line) {
-            const actorNames = line.trim().split(',').map(x => x.trim())
+            const actorNames = line.trim().split(',').map(x => x.trim().replace(/^\+/, ''))
 
             currentScene['content'].push({
                 eventType: EventType.LINE,
