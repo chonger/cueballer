@@ -9,11 +9,13 @@ import CloseIcon from '@mui/icons-material/Close';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
-import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar } from '@mui/material'
+import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar, Typography } from '@mui/material'
 import SettingsIcon from '@mui/icons-material/Settings';
 import PeopleIcon from '@mui/icons-material/People';
+import MenuIcon from '@mui/icons-material/Menu';
 import { createCueScript, ParsedScript, parseScript } from './munging';
 import { comedyerr } from './demo_data'
+import tito from './images/tito.png';
 
 /**
  * Convenience wrapper to be used for both the original script and cue script 
@@ -98,8 +100,78 @@ export const App = () => {
   const [state, setState] = useState<MyState>(INIT_STATE);
   const [openSettings, setOpenSettings] = useState(false);
   const [characterDrawerOpen, setCharacterDrawerOpen] = useState(false);
+  const [infoDrawerOpen, setInfoDrawerOpen] = useState(false);
   const [snackbarOpen, setSnackbarOpen] = useState(false);
+  const [orientation, setOrientation] = useState(window.innerHeight > window.innerWidth ? 'portrait' : 'landscape');
   const containerRef = useRef<HTMLDivElement>(null);
+
+  const handleOpenInfoDrawer = () => {
+    setInfoDrawerOpen(true);
+  };
+  
+  const handleCloseInfoDrawer = () => {
+    setInfoDrawerOpen(false);
+  };
+
+  // Fix viewport height for mobile browsers
+  useEffect(() => {
+    const setVh = () => {
+      const vh = window.innerHeight * 0.01;
+      document.documentElement.style.setProperty('--vh', `${vh}px`);
+    };
+    
+    setVh();
+    window.addEventListener('resize', setVh);
+    window.addEventListener('orientationchange', setVh);
+    
+    return () => {
+      window.removeEventListener('resize', setVh);
+      window.removeEventListener('orientationchange', setVh);
+    };
+  }, []);
+
+  // Handle orientation changes
+  useEffect(() => {
+    const handleResize = () => {
+      // Force a redraw of the page when orientation changes
+      const newOrientation = window.innerHeight > window.innerWidth ? 'portrait' : 'landscape';
+      if (orientation !== newOrientation) {
+        setOrientation(newOrientation);
+        
+        // Force refresh layout to fix fullscreen issues on orientation change
+        document.documentElement.style.height = '100%';
+        document.body.style.height = '100%';
+        
+        // In some mobile browsers, we need to scroll to top to fix fullscreen issues
+        window.scrollTo(0, 0);
+        
+        // Force repaint
+        if (containerRef.current) {
+          containerRef.current.style.display = 'none';
+          void containerRef.current.offsetHeight; // Trigger reflow
+          containerRef.current.style.display = 'flex';
+        }
+
+        // On iOS specifically, additional delay might help with fullscreen restoration
+        if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+          setTimeout(() => {
+            window.scrollTo(0, 0);
+          }, 300);
+        }
+      }
+    };
+
+    window.addEventListener('resize', handleResize);
+    window.addEventListener('orientationchange', handleResize);
+    
+    // Run once on mount to set initial state
+    handleResize();
+    
+    return () => {
+      window.removeEventListener('resize', handleResize);
+      window.removeEventListener('orientationchange', handleResize);
+    };
+  }, [orientation]);
 
   const handleOpenSettings = () => setOpenSettings(true);
   const handleCloseSettings = () => setOpenSettings(false);
@@ -262,17 +334,98 @@ export const App = () => {
   );
 
   return (
-    <div className="main-container" ref={containerRef}>
+    <div className="main-container" ref={containerRef} style={{
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat',
+      minHeight: '100vh',
+      width: '100%'
+    }}>
       <div className={`main-panel ${isMobile ? 'mobile' : ''}`}>
-        <div className="app-header">
-          <h1 className="shakespearean-title">Cueballer</h1>
-          <div className="header-decoration">
-            <span className="decoration-line"></span>
-            <span className="decoration-ornament">✧</span>
-            <span className="decoration-line"></span>
+        <div className="top-header">
+          <div className="header-left">
+            <img 
+              src={tito} 
+              alt="Shakespeare" 
+              className="shakespeare-logo"
+            />
+          </div>
+          <div className="header-center">
+            <h1 className="main-title">Tis your cue.</h1>
+            <h2 className="subtitle">The cue script generator</h2>
+          </div>
+          <div className="header-right">
+            <IconButton
+              aria-label="menu"
+              onClick={handleOpenInfoDrawer}
+              size="large"
+              color="primary"
+            >
+              <MenuIcon />
+            </IconButton>
           </div>
         </div>
         
+        
+        {/* Info Drawer */}
+        <Drawer
+          anchor="right"
+          open={infoDrawerOpen}
+          onClose={handleCloseInfoDrawer}
+          sx={{
+            width: isMobile ? '100%' : '400px',
+            flexShrink: 0,
+            '& .MuiDrawer-paper': {
+              width: isMobile ? '100%' : '400px',
+              boxSizing: 'border-box',
+              borderLeft: '1px solid rgba(0, 0, 0, 0.12)',
+            },
+          }}
+        >
+          <div className="info-drawer-content">
+            <div className="info-drawer-header">
+              <Typography variant="h5" component="h2">
+                About Cueballer
+              </Typography>
+              <IconButton 
+                aria-label="close info drawer"
+                onClick={handleCloseInfoDrawer}
+                className="close-drawer-button"
+                size="small"
+              >
+                <CloseIcon />
+              </IconButton>
+            </div>
+            <div className="info-drawer-section">
+              <Typography variant="h6" component="h3">
+                What is it?
+              </Typography>
+              <Typography variant="body1">
+                Cueballer is a tool designed to help actors and performers create cue scripts from their original scripts. It extracts just the lines and cues you need, making it easier to focus on your performance.
+              </Typography>
+            </div>
+            <div className="info-drawer-section">
+              <Typography variant="h6" component="h3">
+                How to Use it
+              </Typography>
+              <Typography variant="body1">
+                1. Upload your script file<br />
+                2. Select your character(s)<br />
+                3. Adjust cue settings if needed<br />
+                4. Copy your personalized cue script
+              </Typography>
+            </div>
+            <div className="info-drawer-section">
+              <Typography variant="h6" component="h3">
+                Who Made it
+              </Typography>
+              <Typography variant="body1">
+                Cueballer was created by a team of theater enthusiasts and developers who understand the challenges of managing scripts during rehearsals and performances.
+              </Typography>
+            </div>
+          </div>
+        </Drawer>
+
         {!hasLoadedFile ? (
           // Upload interface when no file is loaded
           <div className="upload-interface">
