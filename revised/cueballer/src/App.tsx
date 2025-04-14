@@ -1,21 +1,26 @@
 import React from 'react'
 import './App.css'
 import { useState, useEffect, useRef } from 'react'
+import { BrowserRouter as Router, Routes, Route, useParams, useNavigate } from 'react-router-dom'
 import Button from '@mui/material/Button';
 import AddIcon from '@mui/icons-material/Add'
 import UploadFileIcon from '@mui/icons-material/UploadFile';
 import FileUploadIcon from '@mui/icons-material/FileUpload';
 import CloseIcon from '@mui/icons-material/Close';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
+import DescriptionIcon from '@mui/icons-material/Description';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
-import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar, Typography } from '@mui/material'
+import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar, Typography, Divider } from '@mui/material'
 import SettingsIcon from '@mui/icons-material/Settings';
 import PeopleIcon from '@mui/icons-material/People';
 import MenuIcon from '@mui/icons-material/Menu';
+import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import { createCueScript, ParsedScript, parseScript } from './munging';
 import { comedyerr } from './demo_data'
 import tito from './images/tito.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faScroll } from '@fortawesome/free-solid-svg-icons';
 
 /**
  * Convenience wrapper to be used for both the original script and cue script 
@@ -93,17 +98,66 @@ const INIT_STATE : MyState  ={
  * 
  */
 export const App = () => {
+  return (
+    <Routes>
+      <Route path="/text/:textName" element={<PreloadedText />} />
+      <Route path="/" element={<AppContent state={INIT_STATE} setState={useState(INIT_STATE)[1]} />} />
+    </Routes>
+  );
+}
+
+// Add new component for handling preloaded texts
+const PreloadedText = () => {
+  const { textName } = useParams();
+  const [state, setState] = useState<MyState>(INIT_STATE);
+  
+  useEffect(() => {
+    const loadText = async () => {
+      try {
+        // Use process.env.PUBLIC_URL to ensure correct path in development and production
+        const response = await fetch(`${process.env.PUBLIC_URL}/texts/${textName}`);
+        if (!response.ok) throw new Error('Text not found');
+        const content = await response.text();
+        console.log('Loaded text:', textName);
+        setState(prevState => ({
+          ...prevState,
+          originalScript: content,
+          fileName: textName || null
+        }));
+        
+        // Parse the script after loading
+        const parsed = parseScript(content);
+        setState(prevState => ({
+          ...prevState,
+          parsedScript: parsed,
+          selectedCharacters: new Set<string>()
+        }));
+      } catch (error) {
+        console.error('Error loading text:', error);
+      }
+    };
+
+    if (textName) {
+      loadText();
+    }
+  }, [textName]);
+
+  return <AppContent state={state} setState={setState} />;
+};
+
+// Extract main content into a separate component
+const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispatch<React.SetStateAction<MyState>> }) => {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
   const isTablet = useMediaQuery(theme.breakpoints.down('md'));
   
-  const [state, setState] = useState<MyState>(INIT_STATE);
   const [openSettings, setOpenSettings] = useState(false);
   const [characterDrawerOpen, setCharacterDrawerOpen] = useState(false);
   const [infoDrawerOpen, setInfoDrawerOpen] = useState(false);
   const [snackbarOpen, setSnackbarOpen] = useState(false);
   const [orientation, setOrientation] = useState(window.innerHeight > window.innerWidth ? 'portrait' : 'landscape');
   const containerRef = useRef<HTMLDivElement>(null);
+  const navigate = useNavigate();
 
   const handleOpenInfoDrawer = () => {
     setInfoDrawerOpen(true);
@@ -225,6 +279,10 @@ export const App = () => {
   }
 
   const handleFileUpload = (event) => {
+    if (!event.target || !event.target.files || event.target.files.length === 0) {
+      return;
+    }
+    
     const file = event.target.files[0];
     if (!file) return;
     
@@ -238,14 +296,12 @@ export const App = () => {
       }));
       
       // Parse the script immediately after loading
-      setTimeout(() => {
-        const parsed = parseScript(content);
-        setState((prevState) => ({ 
-          ...prevState, 
-          parsedScript: parsed, 
-          selectedCharacters: new Set() 
-        }));
-      }, 100);
+      const parsed = parseScript(content);
+      setState((prevState) => ({ 
+        ...prevState, 
+        parsedScript: parsed, 
+        selectedCharacters: new Set() 
+      }));
     };
     reader.readAsText(file);
   };
@@ -333,6 +389,119 @@ export const App = () => {
     </div>
   );
 
+  const ScriptDropdown = ({ onUpload }) => {
+    const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+    const open = Boolean(anchorEl);
+    const fileInputRef = useRef<HTMLInputElement>(null);
+    const navigate = useNavigate();
+
+    const handleClick = (event: React.MouseEvent<HTMLElement>) => {
+      setAnchorEl(event.currentTarget);
+    };
+
+    const handleClose = () => {
+      setAnchorEl(null);
+    };
+
+    const handleUploadClick = () => {
+      if (fileInputRef.current) {
+        fileInputRef.current.click();
+      }
+      handleClose();
+    };
+
+    const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+      onUpload(event);
+    };
+
+    const handlePreloadedText = (textName: string) => {
+      navigate(`/text/${textName}`);
+      handleClose();
+    };
+
+    return (
+      <>
+        <Button
+          variant="contained"
+          color="primary"
+          startIcon={<FontAwesomeIcon icon={faScroll} />}
+          onClick={handleClick}
+          sx={{ 
+            height: { xs: '55px', sm: '60px' }, 
+            margin: '20px auto', 
+            display: 'flex',
+            fontFamily: '"Playfair Display", "Times New Roman", serif',
+            fontSize: '1.2rem',
+            letterSpacing: '0.5px',
+            textTransform: 'none',
+            backgroundColor: '#2c3e50',
+            '&:hover': {
+              backgroundColor: '#34495e',
+            },
+            boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
+            borderRadius: '4px',
+            padding: '8px 24px',
+            '& .MuiButton-startIcon': {
+              marginRight: '12px',
+              '& svg': {
+                fontSize: '1.5rem'
+              }
+            }
+          }}
+        >
+          Choose thy script
+        </Button>
+        <Menu
+          anchorEl={anchorEl}
+          open={open}
+          onClose={handleClose}
+          PaperProps={{
+            elevation: 0,
+            sx: {
+              overflow: 'visible',
+              filter: 'drop-shadow(0px 2px 8px rgba(0,0,0,0.32))',
+              mt: 1.5,
+              minWidth: '200px',
+              backgroundColor: '#f5f5f5',
+              '& .MuiMenuItem-root': {
+                fontFamily: '"Playfair Display", "Times New Roman", serif',
+                fontSize: '1rem',
+                padding: '12px 16px',
+                '&:hover': {
+                  backgroundColor: '#e0e0e0',
+                },
+              },
+              '& .MuiDivider-root': {
+                margin: '8px 0',
+                backgroundColor: '#bdbdbd',
+              },
+            },
+          }}
+          transformOrigin={{ horizontal: 'right', vertical: 'top' }}
+          anchorOrigin={{ horizontal: 'right', vertical: 'bottom' }}
+        >
+          <MenuItem onClick={handleUploadClick}>
+            Upload thy script
+          </MenuItem>
+          <Divider />
+          <MenuItem onClick={() => handlePreloadedText('OthelloFolio.txt')}>Othello</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('MACFolio.txt')}>Macbeth</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('AYLFolio.txt')}>As You Like It</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('KLFolio.txt')}>King Lear</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('TwelfthNightModern.txt')}>Twelfth Night</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('R3Folio.txt')}>Richard III</MenuItem>
+        </Menu>
+        <input
+          type="file"
+          ref={fileInputRef}
+          style={{ display: 'none' }}
+          accept=".txt"
+          onChange={handleFileChange}
+        />
+      </>
+    );
+  };
+
   return (
     <div className="main-container" ref={containerRef} style={{
       backgroundSize: 'cover',
@@ -356,12 +525,30 @@ export const App = () => {
           </div>
           <div className="header-right">
             <IconButton
-              aria-label="menu"
+              aria-label="help"
               onClick={handleOpenInfoDrawer}
               size="large"
               color="primary"
+              sx={{ 
+                '&:hover': {
+                  backgroundColor: 'transparent'
+                }
+              }}
             >
-              <MenuIcon />
+              <Typography 
+                variant="h2" 
+                component="span"
+                sx={{ 
+                  fontSize: '4rem',
+                  fontWeight: 'bold',
+                  lineHeight: 1,
+                  color: 'black',
+                  fontFamily: '"Playfair Display", "Times New Roman", serif',
+                  transform: 'translateY(-2px)'
+                }}
+              >
+                ?
+              </Typography>
             </IconButton>
           </div>
         </div>
@@ -429,30 +616,8 @@ export const App = () => {
         {!hasLoadedFile ? (
           // Upload interface when no file is loaded
           <div className="upload-interface">
-            <h2>Upload your script file</h2>
             <div className="upload-container">
-              <input
-                accept="text/plain,.txt"
-                style={{ display: 'none' }}
-                id="raised-button-file"
-                type="file"
-                onChange={handleFileUpload}
-              />
-              <label htmlFor="raised-button-file">
-                <Button
-                  variant="contained"
-                  color="primary"
-                  component="span"
-                  startIcon={<UploadFileIcon />}
-                  sx={{ 
-                    height: { xs: '45px', sm: '50px' }, 
-                    margin: '20px auto', 
-                    display: 'flex' 
-                  }}
-                >
-                  Upload Script File
-                </Button>
-              </label>
+              <ScriptDropdown onUpload={handleFileUpload} />
             </div>
           </div>
         ) : (
@@ -469,7 +634,7 @@ export const App = () => {
                 >
                   <PeopleIcon fontSize={isMobile ? "medium" : "large"} />
                 </IconButton>
-                <span className={`character-count ${isMobile ? 'mobile' : ''}`}>
+                <span className={`character-count ${isMobile ? 'mobile' : ''} ${state.selectedCharacters.size === 0 ? 'no-characters' : ''}`}>
                   {state.selectedCharacters.size > 0 
                     ? `${state.selectedCharacters.size} ${isMobile ? '' : 'character'}${state.selectedCharacters.size > 1 && !isMobile ? 's' : ''}` 
                     : isMobile ? '0' : 'No characters selected'}
@@ -491,14 +656,14 @@ export const App = () => {
                     <ContentCopyIcon fontSize={isMobile ? "small" : "medium"} />
                   </IconButton>
                 </Tooltip>
-                <Tooltip title="Upload new script">
+                <Tooltip title="Choose a new script">
                   <IconButton 
-                    aria-label="upload new script"
+                    aria-label="choose a new script"
                     onClick={handleLoadNewScript}
                     className="upload-new-button"
                     size={isMobile ? "small" : "medium"}
                   >
-                    <FileUploadIcon fontSize={isMobile ? "small" : "medium"} />
+                    <FontAwesomeIcon icon={faScroll} style={{ fontSize: isMobile ? "1.2rem" : "1.4rem" }} />
                   </IconButton>
                 </Tooltip>
                 <IconButton 
