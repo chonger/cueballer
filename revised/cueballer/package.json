@@ -1,7 +1,7 @@
 {
   "name": "cueballer",
   "version": "0.1.0",
-  "homepage": "https://chonger.github.io/cueballer",
+  "homepage": "https://chonger.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",

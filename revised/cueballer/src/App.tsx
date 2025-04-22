@@ -9,6 +9,7 @@ import FileUploadIcon from '@mui/icons-material/FileUpload';
 import CloseIcon from '@mui/icons-material/Close';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import DescriptionIcon from '@mui/icons-material/Description';
+import FileDownloadIcon from '@mui/icons-material/FileDownload';
 import Checkbox from '@mui/material/Checkbox';
 import TextField from '@mui/material/TextField'
 import { FormControlLabel, FormGroup, Slider, Modal, Box, IconButton, Menu, MenuItem, Paper, Tooltip, useMediaQuery, useTheme, Drawer, Snackbar, Typography, Divider } from '@mui/material'
@@ -254,6 +255,35 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
     }
   };
 
+  const downloadCueScript = () => {
+    if (state.cueScript) {
+      // Create a blob from the text content
+      const blob = new Blob([state.cueScript], { type: 'text/plain' });
+      // Create a URL for the blob
+      const url = URL.createObjectURL(blob);
+      
+      // Create a temporary anchor element
+      const a = document.createElement('a');
+      // Set the filename - use character name if only one is selected, otherwise use generic name
+      const selectedChars = Array.from(state.selectedCharacters);
+      const fileName = selectedChars.length === 1 
+        ? `${selectedChars[0]}_cue_script.txt` 
+        : 'cue_script.txt';
+      
+      a.href = url;
+      a.download = fileName;
+      // Trigger the download
+      document.body.appendChild(a);
+      a.click();
+      // Clean up
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      
+      // Show notification
+      setSnackbarOpen(true);
+    }
+  };
+
   const onChangeCueScript = s => setState((state) => ({ ...state, cueScript: s }));
   const setSelectedCharacters = a => setState((state) => ({ ...state, selectedCharacters: a }));
 
@@ -449,7 +479,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
             }
           }}
         >
-          Choose thy script
+          Choose your script
         </Button>
         <Menu
           anchorEl={anchorEl}
@@ -481,15 +511,15 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
           anchorOrigin={{ horizontal: 'right', vertical: 'bottom' }}
         >
           <MenuItem onClick={handleUploadClick}>
-            Upload thy script
+            Upload your script
           </MenuItem>
           <Divider />
-          <MenuItem onClick={() => handlePreloadedText('OthelloFolio.txt')}>Othello</MenuItem>
-          <MenuItem onClick={() => handlePreloadedText('MACFolio.txt')}>Macbeth</MenuItem>
-          <MenuItem onClick={() => handlePreloadedText('AYLFolio.txt')}>As You Like It</MenuItem>
-          <MenuItem onClick={() => handlePreloadedText('KLFolio.txt')}>King Lear</MenuItem>
-          <MenuItem onClick={() => handlePreloadedText('TwelfthNightModern.txt')}>Twelfth Night</MenuItem>
-          <MenuItem onClick={() => handlePreloadedText('R3Folio.txt')}>Richard III</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('OthelloFolio.txt')}>Othello (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('MACFolio.txt')}>Macbeth (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('AYLFolio.txt')}>As You Like It (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('KLFolio.txt')}>King Lear (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('TwelfthNightModern.txt')}>Twelfth Night (Modern)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('R3Folio.txt')}>Richard III (Folio)</MenuItem>
         </Menu>
         <input
           type="file"
@@ -508,10 +538,21 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
       minHeight: '100vh',
-      width: '100%'
+      width: '100%',
+      backgroundColor: '#e6e0d4'
     }}>
-      <div className={`main-panel ${isMobile ? 'mobile' : ''}`}>
-        <div className="top-header">
+      <div className={`main-panel ${isMobile ? 'mobile' : ''}`} style={{
+        maxWidth: '1500px',
+        margin: '0 auto',
+        width: '100%',
+        backgroundColor: 'transparent'
+      }}>
+        <div className="top-header" style={{
+          marginBottom: '30px',
+          backgroundColor: 'white',
+          borderRadius: '0 0 8px 8px',
+          boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
+        }}>
           <div className="header-left">
             <img 
               src={tito} 
@@ -552,7 +593,6 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
             </IconButton>
           </div>
         </div>
-        
         
         {/* Info Drawer */}
         <Drawer
@@ -615,14 +655,23 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
 
         {!hasLoadedFile ? (
           // Upload interface when no file is loaded
-          <div className="upload-interface">
+          <div className="upload-interface" style={{
+            backgroundColor: 'white',
+            borderRadius: '8px'
+          }}>
             <div className="upload-container">
               <ScriptDropdown onUpload={handleFileUpload} />
             </div>
           </div>
         ) : (
           // Cue script interface when a file is loaded
-          <div className="cue-interface">
+          <div className="cue-interface" style={{
+            backgroundColor: 'white',
+            borderRadius: '8px',
+            margin: '0 auto',
+            width: `${(state.nCharsInLine * 10) + 300}px`,
+            maxWidth: '100%'
+          }}>
             <div className="cue-script-header">
               <div className="left-controls">
                 <IconButton 
@@ -656,6 +705,16 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
                     <ContentCopyIcon fontSize={isMobile ? "small" : "medium"} />
                   </IconButton>
                 </Tooltip>
+                <Tooltip title="Download as text file">
+                  <IconButton 
+                    aria-label="download as text file"
+                    onClick={downloadCueScript}
+                    className="download-button"
+                    size={isMobile ? "small" : "medium"}
+                  >
+                    <FileDownloadIcon fontSize={isMobile ? "small" : "medium"} />
+                  </IconButton>
+                </Tooltip>
                 <Tooltip title="Choose a new script">
                   <IconButton 
                     aria-label="choose a new script"
@@ -678,9 +737,29 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
               </div>
             </div>
             <div className="cue-script-content">
-              <div style={{ height: '100%', overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
-                <EditableText text={state.cueScript} onChange={onChangeCueScript} />
-              </div>
+              {state.selectedCharacters.size === 0 ? (
+                <div className="no-characters-message" style={{ 
+                  height: '100%', 
+                  display: 'flex', 
+                  flexDirection: 'column', 
+                  justifyContent: 'center', 
+                  alignItems: 'center',
+                  textAlign: 'center',
+                  padding: '2rem'
+                }}>
+                  <PeopleIcon sx={{ fontSize: 60, color: '#777', mb: 2 }} />
+                  <Typography variant="h5" sx={{ fontFamily: '"Playfair Display", "Times New Roman", serif', mb: 1 }}>
+                    No characters selected
+                  </Typography>
+                  <Typography variant="body1" color="text.secondary">
+                    Click the character icon <PeopleIcon sx={{ fontSize: 'small', verticalAlign: 'middle' }} /> in the top left to select characters and generate your cue script.
+                  </Typography>
+                </div>
+              ) : (
+                <div style={{ height: '100%', overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+                  <EditableText text={state.cueScript} onChange={onChangeCueScript} />
+                </div>
+              )}
             </div>
 
             {/* Character Selection Drawer */}

@@ -24,6 +24,8 @@ export interface ParsedScript {
 }
 
 export function parseScript(formattedScript: string): ParsedScript {
+    // Normalize line endings by replacing multiple newlines and carriage returns with a single newline
+    formattedScript = formattedScript.replace(/[\r\n]+/g, '\n')
 
     const parsedScript: ParsedScript = { scenes: [], allActors: new Set() }
 
