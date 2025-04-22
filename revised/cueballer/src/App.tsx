@@ -102,7 +102,7 @@ export const App = () => {
   return (
     <Routes>
       <Route path="/text/:textName" element={<PreloadedText />} />
-      <Route path="/" element={<AppContent state={INIT_STATE} setState={useState(INIT_STATE)[1]} />} />
+      <Route path="/cueballer" element={<AppContent state={INIT_STATE} setState={useState(INIT_STATE)[1]} />} />
     </Routes>
   );
 }
