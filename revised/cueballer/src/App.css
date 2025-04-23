@@ -734,12 +734,11 @@ body {
 }
 
 .shakespeare-logo {
-  height: 180px;
+  height: 100px;
   width: auto;
   object-fit: contain;
   display: block;
   max-width: 100%;
-  border: 1px solid rgba(0, 0, 0, 0.1); /* Add a subtle border to see the image boundaries */
 }
 
 .header-right {

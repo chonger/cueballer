@@ -520,6 +520,10 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
           <MenuItem onClick={() => handlePreloadedText('KLFolio.txt')}>King Lear (Folio)</MenuItem>
           <MenuItem onClick={() => handlePreloadedText('TwelfthNightModern.txt')}>Twelfth Night (Modern)</MenuItem>
           <MenuItem onClick={() => handlePreloadedText('R3Folio.txt')}>Richard III (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('RJFolio.txt')}>Romeo and Juliet (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('KLModern.txt')}>King Lear (Modern)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('TempestFolio.txt')}>Tempest (Folio)</MenuItem>
+          <MenuItem onClick={() => handlePreloadedText('MNDFolio.txt')}>Midsummer Nights Dream (Folio)</MenuItem>
         </Menu>
         <input
           type="file"

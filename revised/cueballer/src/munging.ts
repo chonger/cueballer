@@ -91,7 +91,7 @@ export function parseScript(formattedScript: string): ParsedScript {
          * Empty lines are retained for now, and handled during cleanup
          */
 
-        if (line.length > 0 && line.toUpperCase() === line) {
+        if (line.length > 0 && line.toUpperCase() === line && line.replace(/[^a-zA-Z]/g, '') !== 'I') {
             const actorNames = line.trim().split(',').map(x => x.trim().replace(/^\+/, ''))
 
             currentScene['content'].push({
