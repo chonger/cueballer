@@ -99,10 +99,12 @@ const INIT_STATE : MyState  ={
  * 
  */
 export const App = () => {
+  // App-level state, persists across renders
+  const [state, setState] = useState<MyState>(INIT_STATE);
   return (
     <Routes>
       <Route path="/text/:textName" element={<PreloadedText />} />
-      <Route path="/cueballer" element={<AppContent state={INIT_STATE} setState={useState(INIT_STATE)[1]} />} />
+      <Route path="/cueballer" element={<AppContent state={state} setState={setState} />} />
     </Routes>
   );
 }
@@ -331,7 +333,16 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
       setState((state) => ({ ...state, cueScript: cscript }))
     }
   }
-  useEffect(updateCueScript, [state]);
+  useEffect(() => {
+    setFileLoaded(state.parsedScript !== null);
+    updateCueScript();
+  }, [
+    state.parsedScript,
+    state.selectedCharacters,
+    state.nWordsInCueScript,
+    state.nCharsInLine,
+    state.cueScript
+  ]);
 
   const parseOriginalScript = () => {
     const parsed = parseScript(state.originalScript)
@@ -342,39 +353,34 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
     if (!event.target || !event.target.files || event.target.files.length === 0) {
       return;
     }
-    
     const file = event.target.files[0];
     if (!file) return;
-    
     const reader = new FileReader();
     reader.onload = (e) => {
       const content = e.target?.result as string;
-      setState((state) => ({ 
-        ...state, 
-        originalScript: content,
-        fileName: file.name
-      }));
-      
-      // Parse the script immediately after loading
       const parsed = parseScript(content);
-      setState((prevState) => ({ 
-        ...prevState, 
-        parsedScript: parsed, 
-        selectedCharacters: new Set() 
+      setState((state) => ({
+        ...state,
+        originalScript: content,
+        fileName: file.name,
+        parsedScript: parsed,
+        selectedCharacters: new Set()
       }));
     };
     reader.readAsText(file);
   };
 
   const handleLoadNewScript = () => {
-    setState(INIT_STATE);
+  setState(INIT_STATE);
+  setFileLoaded(false);
   };
 
   const changeSelectedActor = (c : string) => (event) => {
     const newSelectedActors = new Set(state.selectedCharacters);
-    if (event.target.checked && !state.selectedCharacters.has(c)) {
+    const evt = event as React.ChangeEvent<HTMLInputElement>;
+    if (evt.target.checked && !state.selectedCharacters.has(c)) {
       newSelectedActors.add(c)  
-    } else if (!event.target.checked && state.selectedCharacters.has(c)) {
+    } else if (!evt.target.checked && state.selectedCharacters.has(c)) {
       newSelectedActors.delete(c)
     }
     setSelectedCharacters(newSelectedActors)
@@ -414,8 +420,9 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
   // Character drawer width
   const drawerWidth = isMobile ? '85vw' : isTablet ? '350px' : '400px';
 
-  // Decide what to render based on whether a file has been loaded
-  const hasLoadedFile = state.parsedScript !== null;
+  // Use a dedicated state for file loaded status
+  const [fileLoaded, setFileLoaded] = useState(false);
+
 
   // Character selection drawer content
   const characterDrawerContent = (
@@ -449,8 +456,8 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
     </div>
   );
 
-  const ScriptDropdown = ({ onUpload }) => {
-    const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+  const ScriptDropdown = ({ onUpload }: { onUpload: (event: React.ChangeEvent<HTMLInputElement>) => void }) => {
+  const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
     const open = Boolean(anchorEl);
     const fileInputRef = useRef<HTMLInputElement>(null);
     const navigate = useNavigate();
@@ -685,7 +692,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
           </div>
         </Drawer>
 
-        {!hasLoadedFile ? (
+  {!fileLoaded ? (
           // Upload interface when no file is loaded
           <div className="upload-interface" style={{
             backgroundColor: 'white',
