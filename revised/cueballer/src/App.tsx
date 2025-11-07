@@ -156,6 +156,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
   const [characterDrawerOpen, setCharacterDrawerOpen] = useState(false);
   const [infoDrawerOpen, setInfoDrawerOpen] = useState(false);
   const [snackbarOpen, setSnackbarOpen] = useState(false);
+  const [snackbarMessage, setSnackbarMessage] = useState('');
   const [orientation, setOrientation] = useState(window.innerHeight > window.innerWidth ? 'portrait' : 'landscape');
   const containerRef = useRef<HTMLDivElement>(null);
   const navigate = useNavigate();
@@ -247,6 +248,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
     if (state.cueScript) {
       navigator.clipboard.writeText(state.cueScript)
         .then(() => {
+          setSnackbarMessage('Copied to clipboard!');
           setSnackbarOpen(true);
         })
         .catch(err => {
@@ -280,6 +282,34 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
       URL.revokeObjectURL(url);
       
       // Show notification
+      setSnackbarMessage('Cue script downloaded');
+      setSnackbarOpen(true);
+    }
+  };
+
+  const downloadOriginalScript = () => {
+    if (state.originalScript) {
+      // Create a blob from the text content
+      const blob = new Blob([state.originalScript], { type: 'text/plain' });
+      // Create a URL for the blob
+      const url = URL.createObjectURL(blob);
+      
+      // Create a temporary anchor element
+      const a = document.createElement('a');
+      // Use the original filename if available, otherwise use generic name
+      const fileName = state.fileName || 'original_script.txt';
+      
+      a.href = url;
+      a.download = fileName;
+      // Trigger the download
+      document.body.appendChild(a);
+      a.click();
+      // Clean up
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      
+      // Show notification
+      setSnackbarMessage('Original script downloaded');
       setSnackbarOpen(true);
     }
   };
@@ -559,7 +589,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
         }}>
           <div className="header-left">
             <img 
-              src={tito} 
+              src={tito}
               alt="Shakespeare" 
               className="shakespeare-logo"
             />
@@ -588,7 +618,7 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
                   fontWeight: 'bold',
                   lineHeight: 1,
                   color: 'black',
-                  fontFamily: '"Playfair Display", "Times New Roman", serif',
+                  fontFamily: '"Jancieni", "Times New Roman", serif',
                   transform: 'translateY(-2px)'
                 }}
               >
@@ -632,7 +662,11 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
                 What is it?
               </Typography>
               <Typography variant="body1">
-                Cueballer is a tool designed to help actors and performers create cue scripts from their original scripts. It extracts just the lines and cues you need, making it easier to focus on your performance.
+              <p><strong>'Tis Your Cue</strong> is the world's first digital cue script generator. It takes your play script and breaks it out into each actor's individual "part": just their lines, stage directions, and cues.</p>
+
+              <p>Created by Theater in the Open artistic director Edward Speck and built by his friend Ben Swanson in exchange for the promise of one laser cut hurdy gurdy which Ben has yet to recieve, using digital texts from our friends at ShakespearesWords.com, <strong>'Tis Your Cue</strong> for the first time allows anyone with an internet connection to produce theater the way that Shakespeare's own company did.</p>
+
+              <p>Most importantly, you can download our files to edit or upload your own, so your cue scripts are unique to your production.</p>
               </Typography>
             </div>
             <div className="info-drawer-section">
@@ -640,18 +674,12 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
                 How to Use it
               </Typography>
               <Typography variant="body1">
-                1. Upload your script file<br />
-                2. Select your character(s)<br />
-                3. Adjust cue settings if needed<br />
-                4. Copy your personalized cue script
-              </Typography>
-            </div>
-            <div className="info-drawer-section">
-              <Typography variant="h6" component="h3">
-                Who Made it
-              </Typography>
-              <Typography variant="body1">
-                Cueballer was created by a team of theater enthusiasts and developers who understand the challenges of managing scripts during rehearsals and performances.
+              <p>1. Upload your script file or choose one of ours</p>
+              <p>2. Select your character(s)</p>
+              <p>3. Adjust cue settings if needed</p>
+              <p>4. Copy or download your personalized cue script to print</p>
+              <p>To learn more visit <a href="https://theaterintheopen.org/tisyourcue">theaterintheopen.org/tisyourcue</a></p>
+              <p>Questions? Reach out to <a href="mailto:edward@theaterintheopen.org">edward@theaterintheopen.org</a></p>
               </Typography>
             </div>
           </div>
@@ -709,10 +737,10 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
                     <ContentCopyIcon fontSize={isMobile ? "small" : "medium"} />
                   </IconButton>
                 </Tooltip>
-                <Tooltip title="Download as text file">
+                <Tooltip title="Download original script">
                   <IconButton 
-                    aria-label="download as text file"
-                    onClick={downloadCueScript}
+                    aria-label="download original script"
+                    onClick={downloadOriginalScript}
                     className="download-button"
                     size={isMobile ? "small" : "medium"}
                   >
@@ -787,12 +815,12 @@ const AppContent = ({ state, setState }: { state: MyState, setState: React.Dispa
         )}
       </div>
 
-      {/* Copy to Clipboard Snackbar */}
+      {/* Snackbar */}
       <Snackbar
         open={snackbarOpen}
         autoHideDuration={3000}
         onClose={handleSnackbarClose}
-        message="Copied to clipboard!"
+        message={snackbarMessage}
         anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
       />
 

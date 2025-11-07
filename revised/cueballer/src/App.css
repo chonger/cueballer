@@ -28,6 +28,13 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 
 @font-face {
+  font-family: 'Jancieni';
+  src: url('../public/fonts/jancient.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
   font-family: 'OldStyleFont';
   src: url('https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtXK-F2qC0s.woff') format('woff');
   font-style: normal;
