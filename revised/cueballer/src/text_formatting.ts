@@ -2,7 +2,7 @@ export const wrapMultiline = (s : string, nLettersInLine: number) : string => {
     return s.split('\n').map(x => wrap(x, true, nLettersInLine)).join('\n')        
 }
 
-const PAD : string = '   '
+const PAD : string = ''
 
 export const wrap = (s : string, leading: boolean, nLettersInLine: number) : string => {
     const maxLength = leading ? nLettersInLine : nLettersInLine - PAD.length
