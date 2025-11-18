@@ -1,15 +1,11 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { useVhSetter, useOrientationHandler } from './orientationUtils';
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import Tooltip from '@mui/material/Tooltip';
 import Snackbar from '@mui/material/Snackbar';
-import Typography from '@mui/material/Typography';
 import Drawer from '@mui/material/Drawer';
-import Modal from '@mui/material/Modal';
-import Box from '@mui/material/Box';
-import Slider from '@mui/material/Slider';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import FileDownloadIcon from '@mui/icons-material/FileDownload';
 import SettingsIcon from '@mui/icons-material/Settings';
@@ -22,8 +18,9 @@ import CharacterDrawer from './CharacterDrawer';
 import InfoDrawer from './InfoDrawer';
 import tito from '../images/tito.png';
 import { createCueScript, parseScript } from '../munging';
-import { MyState, INIT_STATE, MAX_NUM_CUE_WORDS, DEFAULT_NUM_CUE_WORDS, MIN_CHARS_PER_LINE, MAX_CHARS_PER_LINE, DEFAULT_NUM_CHARS_PER_LINE } from '../stateTypes';
+import { MyState, INIT_STATE } from '../stateTypes';
 import '../styles/AppContent.css';
+import CueScriptSettingsModal from './CueScriptSettingsModal';
 
 interface AppContentProps {
   state: MyState;
@@ -44,48 +41,8 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const [fileLoaded, setFileLoaded] = useState(false);
 
-  useEffect(() => {
-    const setVh = () => {
-      const vh = window.innerHeight * 0.01;
-      document.documentElement.style.setProperty('--vh', `${vh}px`);
-    };
-    setVh();
-    window.addEventListener('resize', setVh);
-    window.addEventListener('orientationchange', setVh);
-    return () => {
-      window.removeEventListener('resize', setVh);
-      window.removeEventListener('orientationchange', setVh);
-    };
-  }, []);
-
-  useEffect(() => {
-    const handleResize = () => {
-      const newOrientation = window.innerHeight > window.innerWidth ? 'portrait' : 'landscape';
-      if (orientation !== newOrientation) {
-        setOrientation(newOrientation);
-        document.documentElement.style.height = '100%';
-        document.body.style.height = '100%';
-        window.scrollTo(0, 0);
-        if (containerRef.current) {
-          containerRef.current.style.display = 'none';
-          void containerRef.current.offsetHeight;
-          containerRef.current.style.display = 'flex';
-        }
-        if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
-          setTimeout(() => {
-            window.scrollTo(0, 0);
-          }, 300);
-        }
-      }
-    };
-    window.addEventListener('resize', handleResize);
-    window.addEventListener('orientationchange', handleResize);
-    handleResize();
-    return () => {
-      window.removeEventListener('resize', handleResize);
-      window.removeEventListener('orientationchange', handleResize);
-    };
-  }, [orientation]);
+  useVhSetter();
+  useOrientationHandler(orientation, setOrientation, containerRef);
 
   useEffect(() => {
     setFileLoaded(state.parsedScript !== null);
@@ -194,47 +151,12 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
     </React.Fragment>
   ));
 
-  const modalStyle = {
-    position: 'absolute' as const,
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: {
-      xs: '85%',
-      sm: '70%',
-      md: 400,
-    },
-    maxWidth: '90vw',
-    bgcolor: 'background.paper',
-    boxShadow: 24,
-    p: { xs: 2, sm: 3, md: 4 },
-    borderRadius: 2,
-    outline: 'none',
-  };
-
   const drawerWidth = isMobile ? '85vw' : isTablet ? '350px' : '400px';
 
   return (
-    <div className="main-container" ref={containerRef} style={{
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat',
-      minHeight: '100vh',
-      width: '100%',
-      backgroundColor: '#e6e0d4'
-    }}>
-      <div className={`main-panel ${isMobile ? 'mobile' : ''}`} style={{
-        maxWidth: '1500px',
-        margin: '0 auto',
-        width: '100%',
-        backgroundColor: 'transparent'
-      }}>
-        <div className="top-header" style={{
-          marginBottom: '30px',
-          backgroundColor: 'white',
-          borderRadius: '0 0 8px 8px',
-          boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-        }}>
+    <div className="main-container background-cover" ref={containerRef}>
+      <div className={`main-panel${isMobile ? ' mobile' : ''}`}> 
+        <div className="top-header">
           <div className="header-left">
             <img 
               src={tito}
@@ -252,26 +174,9 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
               onClick={handleOpenInfoDrawer}
               size="large"
               color="primary"
-              sx={{ 
-                '&:hover': {
-                  backgroundColor: 'transparent'
-                }
-              }}
+              className="help-icon-button"
             >
-              <Typography 
-                variant="h2" 
-                component="span"
-                sx={{ 
-                  fontSize: '4rem',
-                  fontWeight: 'bold',
-                  lineHeight: 1,
-                  color: 'black',
-                  fontFamily: '"Jancieni", "Times New Roman", serif',
-                  transform: 'translateY(-2px)'
-                }}
-              >
-                ?
-              </Typography>
+              <span className="help-icon">?</span>
             </IconButton>
           </div>
         </div>
@@ -279,19 +184,13 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
         <InfoDrawer open={infoDrawerOpen} onClose={handleCloseInfoDrawer} isMobile={isMobile} />
 
         {!fileLoaded ? (
-          <div className="upload-interface" style={{ backgroundColor: 'white', borderRadius: '8px' }}>
+          <div className="upload-interface">
             <div className="upload-container">
               <ScriptDropdown onUpload={handleFileUpload} />
             </div>
           </div>
         ) : (
-          <div className="cue-interface" style={{
-            backgroundColor: 'white',
-            borderRadius: '8px',
-            margin: '0 auto',
-            width: `${(state.nCharsInLine * 10) + 300}px`,
-            maxWidth: '100%'
-          }}>
+          <div className="cue-interface" style={{ width: `${(state.nCharsInLine * 10) + 300}px` }}>
             <div className="cue-script-header">
               <div className="left-controls">
                 <IconButton 
@@ -358,25 +257,15 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
             </div>
             <div className="cue-script-content">
               {state.selectedCharacters.size === 0 ? (
-                <div className="no-characters-message" style={{ 
-                  height: '100%', 
-                  display: 'flex', 
-                  flexDirection: 'column', 
-                  justifyContent: 'center', 
-                  alignItems: 'center',
-                  textAlign: 'center',
-                  padding: '2rem'
-                }}>
-                  <PeopleIcon sx={{ fontSize: 60, color: '#777', mb: 2 }} />
-                  <Typography variant="h5" sx={{ fontFamily: '"Playfair Display", "Times New Roman", serif', mb: 1 }}>
-                    No characters selected
-                  </Typography>
-                  <Typography variant="body1" color="text.secondary">
-                    Click the character icon <PeopleIcon sx={{ fontSize: 'small', verticalAlign: 'middle' }} /> in the top left to select characters and generate your cue script.
-                  </Typography>
+                <div className="no-characters-message">
+                  <PeopleIcon className="no-characters-icon" />
+                  <span className="no-characters-title">No characters selected</span>
+                  <span className="no-characters-desc">
+                    Click the character icon <PeopleIcon className="no-characters-inline-icon" /> in the top left to select characters and generate your cue script.
+                  </span>
                 </div>
               ) : (
-                <div style={{ height: '100%', overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
+                <div className="cue-editable-wrapper">
                   <EditableText text={state.cueScript} onChange={onChangeCueScript} />
                 </div>
               )}
@@ -385,15 +274,8 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
               anchor="left"
               open={characterDrawerOpen}
               onClose={handleCloseCharacterDrawer}
-              sx={{
-                width: drawerWidth,
-                flexShrink: 0,
-                '& .MuiDrawer-paper': {
-                  width: drawerWidth,
-                  boxSizing: 'border-box',
-                  borderRight: '1px solid rgba(0, 0, 0, 0.12)',
-                },
-              }}
+              className="character-drawer"
+              PaperProps={{ className: 'character-drawer-paper', style: { width: drawerWidth } }}
             >
               <CharacterDrawer
                 open={characterDrawerOpen}
@@ -412,65 +294,14 @@ const AppContent: React.FC<AppContentProps> = ({ state, setState }) => {
         message={snackbarMessage}
         anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
       />
-      <Modal
+      <CueScriptSettingsModal
         open={openSettings}
         onClose={handleCloseSettings}
-        aria-labelledby="settings-modal-title"
-      >
-        <Box sx={modalStyle}>
-          <div className="modal-header">
-            <h2 id="settings-modal-title">Cue Script Settings</h2>
-            <IconButton 
-              aria-label="close settings"
-              onClick={handleCloseSettings}
-              className="close-modal-button"
-              size="small"
-            >
-              <SettingsIcon />
-            </IconButton>
-          </div>
-          <div className="modal-content">
-            <div><h3># of words in cue</h3></div>
-            <Slider
-              aria-label="n words in cue"
-              defaultValue={DEFAULT_NUM_CUE_WORDS}
-              value={state.nWordsInCueScript}
-              valueLabelDisplay="auto"
-              step={1}
-              marks
-              min={1}
-              max={MAX_NUM_CUE_WORDS}
-              onChange={(_, v) => {
-                setState({ ...state, nWordsInCueScript: v as number})
-              }}
-            />
-            <div><h3># of letters in a line</h3></div>
-            <Slider
-              aria-label="line length"
-              defaultValue={DEFAULT_NUM_CHARS_PER_LINE}
-              value={state.nCharsInLine}
-              valueLabelDisplay="auto"
-              step={1}
-              marks
-              min={MIN_CHARS_PER_LINE}
-              max={MAX_CHARS_PER_LINE}
-              onChange={(_, v) => {
-                setState({ ...state, nCharsInLine: v as number})
-              }}
-            />
-            <div className="modal-actions">
-              <Button 
-                variant="contained" 
-                color="primary" 
-                onClick={handleCloseSettings}
-                sx={{ mt: 2 }}
-              >
-                Apply
-              </Button>
-            </div>
-          </div>
-        </Box>
-      </Modal>
+        nWordsInCueScript={state.nWordsInCueScript}
+        nCharsInLine={state.nCharsInLine}
+        setNWordsInCueScript={(n) => setState({ ...state, nWordsInCueScript: n })}
+        setNCharsInLine={(n) => setState({ ...state, nCharsInLine: n })}
+      />
     </div>
   );
 };
