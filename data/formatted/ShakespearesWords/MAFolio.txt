@@ -1,14 +1,14 @@
+T: Much Ado About Nothing
 
+NS: Act 1, Scene 1
 
-NS: Act 1 Scene 1
-
-SD: Enter +LEONATO Gouernour of Messina, +INNOGEN his wife, +HERO his daughter, and +BEATRICE his Neece, with a messenger.
+SD: Enter +LEONATO Gouernour of Messina, Innogen his wife, +HERO his daughter, and +BEATRICE his Neece, with a messenger.
 
 +LEONATO
 I Learne in this Letter, that Don Peter of Arragon,
 comes this night to Messina.
 
-+MESS
++MESSENGER
 He is very neere by this: he was not three
 Leagues off when I left him.
 
@@ -16,7 +16,7 @@ Leagues off when I left him.
 How many Gentlemen haue you lost in this
 action?
 
-+MESS
++MESSENGER
 But few of any sort, and none of name.
 
 +LEONATO
@@ -25,7 +25,7 @@ home full numbers: I finde heere, that Don Peter hath
 bestowed much honor on a yong Florentine, called
 Claudio.
 
-+MESS
++MESSENGER
 Much deseru'd on his part, and equally remembred
 by Don Pedro, he hath borne himselfe beyond
 the promise of his age, doing in the figure of a
@@ -36,7 +36,7 @@ expectation, then you must expect of me to tell you how.
 He hath an Vnckle heere in Messina, wil be very
 much glad of it.
 
-+MESS
++MESSENGER
 I haue alreadie deliuered him letters, and
 there appeares much ioy in him, euen so much, that ioy
 could not shew it selfe modest enough, without a badg of
@@ -45,7 +45,7 @@ bitternesse.
 +LEONATO
 Did he breake out into teares?
 
-+MESS
++MESSENGER
 In great measure.
 
 +LEONATO
@@ -57,7 +57,7 @@ it to weepe at ioy, then to ioy at weeping?
 I pray you, is Signior Mountanto return'd from
 the warres, or no?
 
-+MESS
++MESSENGER
 I know none of that name, Lady, there was
 none such in the armie of any sort.
 
@@ -67,7 +67,7 @@ What is he that you aske for Neece?
 +HERO
 My cousin meanes Signior Benedick of Padua
 
-+MESS
++MESSENGER
 O he's return'd, and as pleasant as euer he
 was.
 
@@ -80,10 +80,10 @@ eaten in these warres? But how many hath he kil'd? for
 indeed, I promis'd to eate all of his killing.
 
 +LEONATO
-'Faith Neece, you taxe Signior Benedicke too much,
+'Faith Neece, you taxe Signior +BENEDICKE too much,
 but hee'l be meet with you, I doubt it not.
 
-+MESS
++MESSENGER
 He hath done good seruice Lady in these
 wars.
 
@@ -92,14 +92,14 @@ You had musty victuall, and he hath holpe to ease
 it: he's a very valiant Trencher-man, hee hath an excellent
 stomacke.
 
-+MESS
++MESSENGER
 And a good souldier too Lady.
 
 +BEATRICE
 And a good souldier to a Lady. But what is he to a
 Lord?
 
-+MESS
++MESSENGER
 A Lord to a Lord, a man to a man, stuft with
 all honourable vertues.
 
@@ -108,7 +108,7 @@ It is so indeed, he is no lesse then a stuft man:
 but for the stuffing well, we are all mortall.
 
 +LEONATO
-You must not [sir] mistake my Neece, there is a
+You must not (sir) mistake my Neece, there is a
 kind of merry war betwixt Signior Benedick, & her:
 they neuer meet, but there's a skirmish of wit between
 them.
@@ -123,7 +123,7 @@ wealth that he hath left, to be knowne a reasonable creature.
 Who is his companion now? He hath euery month
 a new sworne brother.
 
-+MESS
++MESSENGER
 I'st possible?
 
 +BEATRICE
@@ -131,8 +131,8 @@ Very easily possible: he weares his faith but as
 the fashion of his hat, it euer changes with ye next
 block.
 
-+MESS
-I see [Lady] the Gentleman is not in your bookes.
++MESSENGER
+I see (Lady) the Gentleman is not in your bookes.
 
 +BEATRICE
 No, and he were, I would burne my study. But
@@ -140,7 +140,7 @@ I pray you, who is his companion? Is there no young
 squarer now, that will make a voyage with him to the
 diuell?
 
-+MESS
++MESSENGER
 He is most in the company of the right noble
 Claudio.
 
@@ -151,7 +151,7 @@ runs presently mad. God helpe the noble Claudio, if hee
 haue caught the Benedict, it will cost him a thousand
 pound ere he be cur'd.
 
-+MESS
++MESSENGER
 I will hold friends with you Lady.
 
 +BEATRICE
@@ -163,9 +163,10 @@ You'l ne're run mad Neece.
 +BEATRICE
 No, not till a hot Ianuary.
 
-+MESS
++MESSENGER
 Don Pedro is approach'd.
-SD: Enter +DON PEDRO, +CLAUDIO, +BENEDICKE, +BALTHASAR, and +IOHN the bastard.
+
+SD: Enter don +PEDRO, +CLAUDIO, +BENEDICKE, +BALTHASAR, and +IOHN the bastard.
 
 +PEDRO
 Good Signior Leonato, you are come to meet
@@ -189,10 +190,10 @@ Her mother hath many times told me so.
 Were you in doubt that you askt her?
 
 +LEONATO
-Signior Benedicke, no, for then were you a childe.
+Signior +BENEDICKE, no, for then were you a childe.
 
 +PEDRO
-You haue it full Benedicke, we may ghesse by
+You haue it full +BENEDICKE, we may ghesse by
 this, what you are, being a man, truely the Lady fathers
 her selfe: be happie Lady, for you are like an honorable
 father.
@@ -204,7 +205,7 @@ him as she is.
 
 +BEATRICE
 I wonder that you will still be talking, signior
-Benedicke, no body markes you.
++BENEDICKE, no body markes you.
 
 +BENEDICKE
 What my deere Ladie Disdaine! are you yet
@@ -212,7 +213,7 @@ liuing?
 
 +BEATRICE
 Is it possible Disdaine should die, while shee hath
-such meete foode to feede it, as Signior Benedicke? Curtesie
+such meete foode to feede it, as Signior +BENEDICKE? Curtesie
 it selfe must conuert to Disdaine, if you come in her
 presence.
 
@@ -256,7 +257,7 @@ of old.
 
 +PEDRO
 This is the summe of all: Leonato, signior
-Claudio, and signior Benedicke; my deere friend Leonato,
+Claudio, and signior +BENEDICKE; my deere friend Leonato,
 hath inuited you all, I tell him we shall stay here, at the
 least a moneth, and he heartily praies some occasion may
 detaine vs longer: I dare sweare hee is no hypocrite, but
@@ -268,7 +269,7 @@ forsworne, let mee bid you welcome, my
 Lord, being reconciled to the Prince your brother: I owe
 you all duetie.
 
-+JOHN
++IOHN
 I thanke you, I am not of many words, but I
 thanke you.
 
@@ -277,11 +278,11 @@ Please it your grace leade on?
 
 +PEDRO
 Your hand Leonato, we will goe together.
-SD: Exeunt +LEONATO, +INNOGEN, +HERO, +BEATRICE, +MESSENGER, +PEDRO, +BALTHASAR, +JOHN. Manet +BENEDICKE and +CLAUDIO.
+
+SD: Exeunt +LEONATO, +HERO, +BEATRICE, +PEDRO, +BALTHASAR, +IOHN.
 
 +CLAUDIO
-Benedicke, didst thou note the daughter of signior
-Leonato?
++BENEDICKE, didst thou note the daughter of signior Leonato?
 
 +BENEDICKE
 I noted her not, but I lookt on her.
@@ -344,7 +345,8 @@ I neuer see a batcheller of three score againe? goe to yfaith,
 and thou wilt needes thrust thy necke into a yoke, weare the
 print of it, and sigh away sundaies: looke, don Pedro
 is returned to seeke you.
-SD: Enter +DON PEDRO, +JOHN the bastard.
+
+SD: Enter don +PEDRO, +IOHN the bastard.
 
 +PEDRO
 What secret hath held you here, that you
@@ -358,8 +360,8 @@ I charge thee on thy allegeance.
 
 +BENEDICKE
 You heare, Count Claudio, I can be secret as a
-dumbe man, I would haue you thinke so [but on my allegiance,
-marke you this, on my allegiance] hee is in loue,
+dumbe man, I would haue you thinke so (but on my allegiance,	
+marke you this, on my allegiance) hee is in loue,
 With who? now that is your Graces part: marke how short
 his answere is, with Hero, Leonatoes short daughter.
 
@@ -417,7 +419,7 @@ thankes: but that I will haue a rechate winded in my
 forehead, or hang my bugle in an inuisible baldricke, all
 women shall pardon me: because I will not do them the
 wrong to mistrust any, I will doe my selfe the right to trust
-none: and the fine is, [for the which I may goe the finer] I
+none: and the fine is, (for the which I may goe the finer) I
 will liue a Batchellor.
 
 +PEDRO
@@ -446,11 +448,11 @@ In time the sauage / Bull doth beare tne yoake.
 
 +BENEDICKE
 The sauage bull may, but if euer the sensible
-Benedicke beare it, plucke off the bulles hornes, and set them
++BENEDICKE beare it, plucke off the bulles hornes, and set them
 in my forehead, and let me be vildely painted, and in such
 great Letters as they write, heere is good horse to hire:
 let them signifie vnder my signe, here you may see
-Benedicke the married man.
++BENEDICKE the married man.
 
 +CLAUDIO
 If this should euer happen, thou wouldst bee
@@ -465,7 +467,7 @@ I looke for an earthquake too then.
 
 +PEDRO
 Well, you will temporize with the houres, in
-the meane time, good Signior Benedicke, repaire to Leonatoes,
+the meane time, good Signior +BENEDICKE, repaire to Leonatoes,
 commend me to him, and tell him I will not faile
 him at supper, for indeede he hath made great
 preparation.
@@ -488,7 +490,8 @@ discourse is sometime guarded with fragments, and the
 guardes are but slightly basted on neither, ere you flout
 old ends any further, examine your conscience, and so I
 leaue you.
-SD: BENEDICK exits
+
+SD: +BENEDICKE exits
 
 +CLAUDIO
 My Liege, your Highnesse now may doe mee good.
@@ -545,23 +548,26 @@ And strong incounter of my amorous tale:
 Then after, to her father will I breake,
 And the conclusion is, shee shall be thine,
 In practise let vs put it presently.
-SD: Exeunt +PEDRO, +JOHN, +CLAUDIO.
+
+SD: Exeunt +PEDRO, +IOHN, +CLAUDIO.
+
 
 NS: Act 1, scene 2
-SD: Enter +LEONATO and an old man, brother to Leonato.
+
+SD: Enter +LEONATO and an old man, brother to Leonato {+BROTHER}.
 
 +LEONATO
 How now brother, where is my cosen your
 son: hath he prouided this musicke?
 
-+OLD
++BROTHER
 He is very busie about it, but brother, I can tell
 you newes that you yet dreamt not of.
 
 +LEONATO
 Are they good?
 
-+OLD
++BROTHER
 As the euents stamps them, but they haue a
 good couer: they shew well outward, the Prince and
 Count Claudio walking in a thick pleached alley in
@@ -575,7 +581,7 @@ breake with you of it.
 +LEONATO
 Hath the fellow any wit that told you this?
 
-+OLD
++BROTHER
 A good sharpe fellow, I will send for him, and
 question him your selfe.
 
@@ -584,29 +590,28 @@ No, no; wee will hold it as a dreame, till it appeare
 it selfe: but I will acquaint my daughter withall, that she
 may be the better prepared for an answer, if peraduenture
 this bee true: goe you and tell her of it:
-SD: LEONATO, to cosins, says
-
-+LEONATO
 coosins, you know what you haue to doe,
 O I crie you mercie friend, goe you with mee and I will
 vse your skill, / good cosin haue a care this busie time.
-SD: Exeunt +LEONATO and +OLD.
+
+SD: Exeunt +LEONATO and +BROTHER.
 
 NS: Act 1, scene 3
-SD: Enter +JOHN the Bastard, and +CONRADE his companion.
+
+SD: Enter +IOHN the Bastard, and +CONRADE his companion.
 
 +CONRADE
 What the good yeere my Lord, why are you thus
 out of measure sad?
 
-+JOHN
++IOHN
 There is no measure in the occasion that
 breeds, therefore the sadnesse is without limit.
 
 +CONRADE
 You should heare reason.
 
-+JOHN
++IOHN
 And when I haue heard it, what blessing bringeth
 it?
 
@@ -614,9 +619,9 @@ it?
 If not a present remedy, yet a patient
 sufferance.
 
-+JOHN
-I wonder that thou [being as thou saist thou
-art, borne vnder Saturne] goest about to apply a morall
++IOHN
+I wonder that thou (being as thou saist thou
+art, borne vnder Saturne) goest about to apply a morall
 medicine, to a mortifying mischiefe: I cannot hide what
 I am: I must bee sad when I haue cause, and smile at no
 mans iests, eat when I haue stomacke, and wait for no
@@ -633,12 +638,12 @@ take root, but by the faire weather that you make
 your selfe, it is needful that you frame the season for your
 owne haruest.
 
-+JOHN
++IOHN
 I had rather be a canker in a hedge, then a rose
 in his grace, and it better fits my bloud to be disdain'd
 of all, then to fashion a carriage to rob loue from any: in
-this [though I cannot be said to be a flattering honest
-man] it must not be denied but I am a plaine dealing
+this (though I cannot be said to be a flattering honest
+man) it must not be denied but I am a plaine dealing
 villaine, I am trusted with a mussell, and enfranchisde with
 a clog, therefore I haue decreed, not to sing in my cage:
 if I had my mouth, I would bite: if I had my liberty, I
@@ -648,12 +653,13 @@ am, and seeke not to alter me.
 +CONRADE
 Can you make no vse of your discontent?
 
-+JOHN
++IOHN
 I will make all vse of it, for I vse it onely. Who
 comes here?
+
 SD: Enter +BORACHIO.
 
-+JOHN
++IOHN
 what newes Borachio?
 
 +BORACHIO
@@ -661,7 +667,7 @@ I came yonder from a great supper, the Prince
 your brother is royally entertained by Leonato, and I can
 giue you intelligence of an intended marriage.
 
-+JOHN
++IOHN
 Will it serue for any Modell to build mischiefe
 on? What is hee for a foole that betrothes himselfe to
 vnquietnesse?
@@ -669,13 +675,13 @@ vnquietnesse?
 +BORACHIO
 Mary it is your brothers right hand.
 
-+JOHN
++IOHN
 Who, the most exquisite Claudio?
 
 +BORACHIO
 Euen he.
 
-+JOHN
++IOHN
 A proper squier, and who, and who, which
 way lookes he?
 
@@ -683,7 +689,7 @@ way lookes he?
 Mary on Hero, the daughter and Heire of
 Leonato.
 
-+JOHN
++IOHN
 A very forward March-chicke, how came you
 to this?
 
@@ -695,7 +701,7 @@ behind the Arras, and there heard it agreed vpon, that
 the Prince should wooe Hero for himselfe, and hauing
 obtain'd her, giue her to Count Claudio.
 
-+JOHN
++IOHN
 Come, come, let vs thither, this may proue
 food to my displeasure, that young start-vp hath all the
 glorie of my ouerthrow: if I can crosse him any way,
@@ -705,21 +711,20 @@ assist mee?
 +CONRADE
 To the death my Lord.
 
-+JOHN
++IOHN
 Let vs to the great supper, their cheere is the
 greater that I am subdued, would the Cooke were of my
 minde: shall we goe proue whats to be done?
 
 +BORACHIO
 Wee'll wait vpon your Lordship.
-SD: Exeunt +JOHN, +CONRADE, +BORACHIO.
+
+SD: Exeunt +IOHN, +CONRADE, +BORACHIO.
 
 
+NS: Act 2, Scene 1
 
-
-NS: Act 2 Scene 1
-
-SD: Enter +LEONATO, his brother, his wife, HERO his daughter, and BEATRICE his neece, and a kinsman.
+SD: Enter +LEONATO, his +BROTHER, his wife, +HERO his daughter, and +BEATRICE his neece, and a kinsman.
 
 +LEONATO
 Was not Count Iohn here at supper?
@@ -736,7 +741,7 @@ He is of a very melancholy disposition.
 
 +BEATRICE
 Hee were an excellent man that were made iust
-in the mid-way betweene him and Benedicke, the one is
+in the mid-way betweene him and +BENEDICKE, the one is
 too like an image and saies nothing, and the other too
 like my Ladies eldest sonne, euermore tatling.
 
@@ -830,8 +835,8 @@ tell him there is measure in euery thing, & so dance
 out the answere, for heare me Hero, wooing, wedding,
 & repenting, is as a Scotch ijgge, a measure, and a
 cinque-pace: the first suite is hot and hasty like a Scotch
-ijgge [and full as fantasticall] the wedding manerly modest,
-[as a measure] full of state & aunchentry, and
+ijgge (and full as fantasticall) the wedding manerly modest,
+(as a measure) full of state & aunchentry, and	
 then comes repentance, and with his bad legs falls into
 the cinque-pace faster and faster, till he sinkes into his
 graue.
@@ -847,7 +852,7 @@ by daylight.
 The reuellers are entring brother, make good
 roome.
 
-SD: Enter +PRINCE, +PEDRO, +CLAUDIO, and +BENEDICK, and +BALTHASAR, or dumbe +IOHN, Maskers with a drum.
+SD: Enter +PRINCE, +PEDRO, +CLAUDIO, and +BENEDICKE, and +BALTHASAR, or dumbe +IOHN, Maskers with a drum.
 
 +PEDRO
 Lady, will you walke about with your friend?
@@ -880,20 +885,20 @@ Why then your visor should be thatcht.
 Speake low if you speake
 Loue.
 
-+BENEDICK
++BENEDICKE
 Well, I would you did like me.
 
 +MAR
 So would not I for your owne sake, for I haue
 manie ill qualities.
 
-+BENEDICK
++BENEDICKE
 Which is one?
 
 +MAR
 I say my prayers alowd.
 
-+BENEDICK
++BENEDICKE
 I loue you the better, the hearers may cry
 Amen.
 
@@ -938,33 +943,33 @@ you are he, graces will appeare, and there's an end.
 +BEATRICE
 Will you not tell me who told you so?
 
-+BENEDICK
++BENEDICKE
 No, you shall pardon me.
 
 +BEATRICE
 Nor will you not tell me who you are?
 
-+BENEDICK
++BENEDICKE
 Not now.
 
 +BEATRICE
 That I was disdainfull, and that I had my good
 wit out of the hundred merry tales: well, this was
-Signior Benedicke that said so.
+Signior +BENEDICKE that said so.
 
-+BENEDICK
++BENEDICKE
 What's he?
 
 +BEATRICE
 I am sure you know him well enough.
 
-+BENEDICK
++BENEDICKE
 Not I, beleeue me.
 
 +BEATRICE
 Did he neuer make you laugh?
 
-+BENEDICK
++BENEDICKE
 I pray you what is he?
 
 +BEATRICE
@@ -976,7 +981,7 @@ and angers them, and then they laugh at him, and beat
 him: I am sure he is in the Fleet, I would he had boorded
 me.
 
-+BENEDICK
++BENEDICKE
 When I know the Gentleman, Ile tell him what
 you say.
 
@@ -990,13 +995,13 @@ that night.
 +PEDRO
 We must follow the Leaders.
 
-+BENEDICK
++BENEDICKE
 In euery good thing.
 
 +BEATRICE
 Nay, if they leade to any ill, I will leaue them at
 the next turning.
-SD: BEATRICE, +BENEDICK, +URSULA, +ANTH, +BALTHASAR, +MAR, +HERO, +LEONATO, +CLAUDIO, +PEDRO, +PRINCE exits.
+SD: BEATRICE, +BENEDICKE, +URSULA, +ANTH, +BALTHASAR, +MAR, +HERO, +LEONATO, +CLAUDIO, +PEDRO, +PRINCE exits.
 
 SD: Musicke for the dance.
 
@@ -1010,7 +1015,7 @@ And that is Claudio, I know him by his
 bearing.
 
 +IOHN
-Are not you signior Benedicke?
+Are not you signior +BENEDICKE?
 
 +CLAUDIO
 You know me well, I am hee.
@@ -1037,7 +1042,7 @@ SD: +IOHN, +BORACHIO exits.
 SD: manet +CLAUDIO
 
 +CLAUDIO
-Thus answere I in name of Benedicke,
+Thus answere I in name of +BENEDICKE,
 But heare these ill newes with the eares of Claudio:
 'Tis certaine so, the Prince woes for himselfe:
 Friendship is constant in all other things,
@@ -1049,21 +1054,21 @@ Against whose charmes, faith melteth into blood:
 This is an accident of hourely proofe,
 Which I mistrusted not. Farewell therefore Hero.
 
-SD: Enter +BENEDICK.
+SD: Enter +BENEDICKE.
 
-+BENEDICK
++BENEDICKE
 Count Claudio.
 
 +CLAUDIO
 Yea, the same.
 
-+BENEDICK
++BENEDICKE
 Come, will you go with me?
 
 +CLAUDIO
 Whither?
 
-+BENEDICK
++BENEDICKE
 Euen to the next Willow, about your own businesse,
 Count. What fashion will you weare the Garland
 off? About your necke, like an Vsurers chaine? Or vnder
@@ -1073,7 +1078,7 @@ one way, for the Prince hath got your Hero.
 +CLAUDIO
 I wish him ioy of her.
 
-+BENEDICK
++BENEDICKE
 Why that's spoken like an honest Drouier, so
 they sel Bullockes: but did you thinke the Prince wold
 haue serued you thus?
@@ -1081,7 +1086,7 @@ haue serued you thus?
 +CLAUDIO
 I pray you leaue me.
 
-+BENEDICK
++BENEDICKE
 Ho now you strike like the blindman, 'twas
 the boy that stole your meate, and you'l beat the post.
 
@@ -1089,7 +1094,7 @@ the boy that stole your meate, and you'l beat the post.
 If it will not be, Ile leaue you.
 SD: +CLAUDIO exits.
 
-+BENEDICK
++BENEDICKE
 Alas poore hurt fowle, now will he creepe into
 sedges: But that my Ladie Beatrice should know me,
 & not know me: the Princes foole! Hah? It may be I
@@ -1105,7 +1110,7 @@ SD: Enter the +PRINCE.
 Now Signior, where's the Count, did you
 see him?
 
-+BENEDICK
++BENEDICKE
 Troth my Lord, I haue played the part of Lady
 Fame, I found him heere as melancholy as a Lodge in a
 Warren, I told him, and I thinke, told him true, that
@@ -1117,7 +1122,7 @@ a rod, as being worthy to be whipt.
 +PEDRO
 To be whipt, what's his fault?
 
-+BENEDICK
++BENEDICKE
 The flat transgression of a Schoole-boy, who
 being ouer-ioyed with finding a birds nest, shewes it his
 companion, and he steales it.
@@ -1126,7 +1131,7 @@ companion, and he steales it.
 Wilt thou make a trust, a transgression? the
 transgression is in the stealer.
 
-+BENEDICK
++BENEDICKE
 Yet it had not beene amisse the rod had beene
 made, and the garland too, for the garland he might
 haue worne himselfe, and the rod hee might haue bestowed
@@ -1136,7 +1141,7 @@ on you, who [as I take it] haue stolne his birds nest.
 I will but teach them to sing, and restore them
 to the owner.
 
-+BENEDICK
++BENEDICKE
 If their singing answer your saying, by my
 faith you say honestly.
 
@@ -1145,7 +1150,7 @@ The Lady Beatrice hath a quarrell to you, the
 Gentleman that daunst with her, told her shee is much
 wrong'd by you.
 
-+BENEDICK
++BENEDICKE
 O she misusde me past the indurance of a
 block: an oake but with one greene leafe on it, would haue
 answered her: my very visor began to assume life, and
@@ -1173,7 +1178,7 @@ SD: Enter +CLAUDIO and +BEATRICE, +LEONATO, +HERO.
 +PEDRO
 Looke heere she comes.
 
-+BENEDICK
++BENEDICKE
 Will your Grace command mee any seruice to
 the worlds end? I will goe on the slightest arrand now
 to the Antypodes that you can deuise to send me on: I
@@ -1187,14 +1192,14 @@ for me?
 +PEDRO
 None, but to desire your good company.
 
-+BENEDICK
++BENEDICKE
 O God sir, heeres a dish I loue not, I cannot
 indure this Lady tongue.
-SD: +BENEDICK exits.
+SD: +BENEDICKE exits.
 
 +PEDRO
 Come Lady, come, you haue lost the heart of
-Signior Benedicke.
+Signior +BENEDICKE.
 
 +BEATRICE
 Indeed my Lord, hee lent it me a while, and I
@@ -1306,7 +1311,8 @@ of?
 +BEATRICE
 I cry you mercy Vncle, by
 your Graces pardon.
-SD: BEATRICE exits.
+
+SD: +BEATRICE exits.
 
 +PRINCE
 By my troth a pleasant spirited Lady.
@@ -1349,7 +1355,7 @@ things answer minde.
 Come, you shake the head at so long a
 breathing, but I warrant thee Claudio, the time shall
 not goe dully by vs, I will in the interim, vndertake one
-of Hercules labors, which is, to bring Signior Benedicke
+of Hercules labors, which is, to bring Signior +BENEDICKE
 and the Lady Beatrice into a mountaine of affection,
 th'one with th'other, I would faine haue it a match, and
 I doubt not but to fashion it, if you three will but
@@ -1374,8 +1380,8 @@ And Benedick is not the vnhopefullest husband
 that I know: thus farre can I praise him, hee is of a
 noble straine, of approued valour, and confirm'd honesty,
 I will teach you how to humour your cosin, that shee
-shall fall in loue with Benedicke, and I, with your two
-helpes, will so practise on Benedicke, that in despight of
+shall fall in loue with +BENEDICKE, and I, with your two
+helpes, will so practise on +BENEDICKE, that in despight of
 his quicke wit, and his queasie stomacke, hee shall fall in
 loue with Beatrice: if wee can doe this, Cupid is no
 longer an Archer, his glory shall be ours, for wee are the
@@ -1473,20 +1479,24 @@ I will presentlie goe learne their day of marriage.
 SD: +IOHN exits.
 
 
+NS: Act 2, Scene 3
 
-
-NS: Act 2 Scene 3
 SD: Enter +BENEDICKE alone.
-+BENEDICK
+
++BENEDICKE
 Boy.
-Boy.
+
++BOY
 Signior.
-+BENEDICK
+
++BENEDICKE
 In my chamber window lies a booke, bring it
 hither to me in the orchard.
-Boy.
+
++BOY
 I am heere already sir.
-+BENEDICK
+
++BENEDICKE
 I know that, but I would haue thee hence, and
 heere againe.
 I doe much wonder, that one man seeing how much
@@ -1499,8 +1509,8 @@ drum and the fife, and now had hee rather heare the taber
 and the pipe: I haue knowne when he would haue walkt
 ten mile afoot, to see a good armor, and now will he lie
 ten nights awake caruing the fashion of a new dublet:
-he was wont to speake plaine, & to the purpose [like an
-honest man & a souldier] and now is he turn'd orthography,
+he was wont to speake plaine, & to the purpose (like an
+honest man & a souldier) and now is he turn'd orthography,	
 his words are a very fantasticall banquet, iust so
 many strange dishes: may I be so conuerted, & see with
 these eyes? I cannot tell, I thinke not: I will not bee
@@ -1514,50 +1524,65 @@ be, that's certaine: wise, or Ile none: vertuous, or Ile
 neuer cheapen her: faire, or Ile neuer looke on her: milde,
 or come not neere me: Noble, or not for an Angell: of
 good discourse: an excellent Musitian, and her haire shal
-be of what colour it please God, hah! the PRINCE and
+be of what colour it please God, hah! the Prince and
 Monsieur Loue, I will hide me in the Arbor.
-SD: Enter +PRINCE, +LEONATO, +CLAUDIO, and +JACKE WILSON.
+
+SD: Enter +PRINCE, +LEONATO, +CLAUDIO, and Iacke Wilson {+BALTHASAR}.
+
 +PRINCE
 Come, shall we heare this musicke?
+
 +CLAUDIO
 Yea my good Lord: how still the euening is,
 As husht on purpose to grace harmonie.
+
 +PRINCE
+
 See you where Benedicke hath hid himselfe?
+
 +CLAUDIO
 O very well my Lord: the musicke ended,
 Wee'll fit the kid-foxe with a penny worth.
 +PRINCE
-Come +BALTHASAR, wee'll heare that song again.
+Come Balthasar, wee'll heare that song again.
+
 +BALTHASAR
 O good my Lord, taxe not so bad a voyce,
 To slander musicke any more then once.
+
 +PRINCE
-It is the witnesse still of excellency, / To slander Musicke any more then once. / +PRINCE. It is the witnesse still of excellencie,
+It is the witnesse still of excellency, / To slander Musicke any more then once. / Prince. It is the witnesse still of excellencie,
 To put a strange face on his owne perfection,
 I pray thee sing, and let me woe no more.
+
 +BALTHASAR
 Because you talke of wooing, I will sing,
 Since many a wooer doth commence his suit,
 To her he thinkes not worthy, yet he wooes,
 Yet will he sweare he loues.
+
 +PRINCE
 Nay pray thee come,
 Or if thou wilt hold longer argument,
 Doe it in notes.
+
 +BALTHASAR
 Note this before my notes,
 Theres not a note of mine that's worth the noting.
+
 +PRINCE
 Why these are very crotchets that he speaks,
 Note notes forsooth, and nothing.
-+BENEDICK
+
++BENEDICKE
 Now diuine aire, now is his soule rauisht, is
 it not strange that sheepes guts should hale soules out of
 mens bodies? well, a horne for my money when all's
 done.
-SD: The Song.
-Sigh no more Ladies, sigh no more,
+
++BALTHASAR
+[The Song.]
+*Sigh no more Ladies, sigh no more,
 Men were deceiuers euer,
 One foote in Sea, and one on shore,
 To one thing constant neuer,
@@ -1569,104 +1594,136 @@ Sing no more ditties, sing no moe,
 Of dumps so dull and heauy,
 The fraud of men were euer so,
 Since summer first was leauy,
-Then sigh not so, &c.
+Then sigh not so, &c.*
+
 +PRINCE
 By my troth a good song.
+
 +BALTHASAR
 And an ill singer, my Lord.
+
 +PRINCE
 Ha, no, no faith, thou singst well enough
 for a shift.
-+BENEDICK
+
++BENEDICKE
 And he had been a dog that should haue
 howld thus, they would haue hang'd him, and I pray
 God his bad voyce bode no mischiefe, I had as liefe haue
 heard the night-rauen, come what plague could haue
 come after it.
+
 +PRINCE
-Yea marry, dost thou heare +BALTHASAR? I
+Yea marry, dost thou heare Balthasar? I
 pray thee get vs some excellent musick: for to morrow
 night we would haue it at the Lady Heroes
 chamber window.
+
 +BALTHASAR
 The best I can, my Lord.
+
 +PRINCE
 Do so, farewell.
-SD: +Balthasar exits.
+
+SD: +BALTHASAR exits.
+
 +PRINCE
-Come hither +LEONATO, what was it you told me of to day,
-that your Niece +BEATRICE was in loue with signior
-Benedicke?
+Come hither Leonato, what was it you told me of to day,
+that your Niece Beatrice was in loue with signior
+Benedicke?	
+
 +CLAUDIO
 O I, stalke on, stalke on/span>, the foule sits. I
 did neuer thinke that Lady would haue loued any man.
+
 +LEONATO
 No, nor I neither, but most wonderful, that
 she should so dote on Signior Benedicke, whom shee hath
 in all outward behauiours seemed euer to abhorre.
-+BENEDICK
+
++BENEDICKE
 Is't possible? sits the winde in that
 corner?
+
 +LEONATO
 By my troth my Lord, I cannot tell what to
 thinke of it, but that she loues him with an inraged affection,
 it is past the infinite of thought.
+
 +PRINCE
 May be she doth but counterfeit.
+
 +CLAUDIO
 Faith like enough.
+
 +LEONATO
 O God! counterfeit? there was neuer counterfeit
 of passion, came so neere the life of passion as she
 discouers it.
+
 +PRINCE
 Why what effects of passion shewes she?
+
 +CLAUDIO
 Baite the hooke well,
 this fish will bite.
+
 +LEONATO
 What effects my Lord? shee will sit you, you
 heard my daughter tell you how.
+
 +CLAUDIO
 She did indeed.
+
 +PRINCE
 How, how I pray you? you amaze me, I
 would haue thought her spirit had beene inuincible
 against all assaults of affection.
+
 +LEONATO
 I would haue sworne it had, my Lord, especially
 against Benedicke.
-+BENEDICK
+
++BENEDICKE
 I should thinke this a gull, but that the
 white-bearded fellow speakes it: knauery cannot sure
 hide himselfe in such reuerence.
+
 +CLAUDIO
 He hath tane th'
 infection, hold it vp.
+
 +PRINCE
 Hath shee made her affection known to
 Benedicke?
+
 +LEONATO
 No, and sweares she neuer will, that's her
 torment.
+
 +CLAUDIO
 'Tis true indeed, so your daughter saies: shall
 I, saies she, that haue so oft encountred him with
 scorne, write to him that I loue him?
+
 +LEONATO
 This saies shee now when shee is beginning to
 write to him, for shee'll be vp twenty times a night, and
 there will she sit in her smocke, till she haue writ a sheet
 of paper: my daughter tells vs all.
+
 +CLAUDIO
 Now you talke of a sheet of paper, I remember
 a pretty iest your daughter told vs of.
+
 +LEONATO
 O when she had writ it, & was reading it
 ouer, she found Benedicke and Beatrice betweene the
 sheete.
+
 +CLAUDIO
 That.
+
 +LEONATO
 O she tore the letter into a thousand halfpence,
 raild at her self, that she should be so immodest
@@ -1674,21 +1731,26 @@ to write, to one that shee knew would flout her:
 I measure him, saies she, by my owne spirit, for I
 should flout him if hee writ to mee, yea though I loue
 him, I should.
+
 +CLAUDIO
 Then downe vpon her knees she falls, weepes,
 sobs, beates her heart, teares her hayre, praies, curses, O
 sweet Benedicke, God giue me patience.
+
 +LEONATO
 She doth indeed, my daughter saies so, and the
 extasie hath so much ouerborne her, that my daughter
 is somtime afeard she will doe a desperate out-rage to
 her selfe, it is very true.
+
 +PRINCE
 It were good that Benedicke knew of it by
 some other, if she will not discouer it.
+
 +CLAUDIO
 To what end? he would but make a sport of it,
 and torment the poore Lady worse.
+
 +PRINCE
 And he should, it were an almes to hang him,
 shee's an excellent sweet Lady, and [out of all suspition,]
@@ -1696,7 +1758,7 @@ she is vertuous.
 CLAUDIO
 And she is exceeding wise.
 +PRINCE
-In euery thing, but in louing Benedicke.
+In euery thing, but in louing +BENEDICKE.
 +LEONATO
 O my Lord, wisedome and bloud combating in so
 tender a body, we haue ten proofes to one, that bloud
@@ -1705,7 +1767,7 @@ being her Vncle, and her Guardian.
 +PRINCE
 I would shee had bestowed this dotage on mee,
 I would haue daft all other respects, and made her halfe
-my selfe: I pray you tell Benedicke of it, and heare what
+my selfe: I pray you tell +BENEDICKE of it, and heare what
 he will say.
 +LEONATO
 Were it good thinke you?
@@ -1743,7 +1805,7 @@ quarrell with feare and trembling.
 And so will he doe, for the man doth fear God,
 howsoeuer it seemes not in him, by some large ieasts hee
 will make: well, I am sorry for your niece, shall we goe
-see Benedicke, and tell him of her loue.
+see +BENEDICKE, and tell him of her loue.
 +CLAUDIO
 Neuer tell him, my Lord, let her weare it out with
 good counsell.
@@ -1752,7 +1814,7 @@ Nay that's impossible, she may weare her heart
 out first.
 +PRINCE
 Well, we will heare further of it by your
-daughter, let it coole the while, I loue Benedicke well, and
+daughter, let it coole the while, I loue +BENEDICKE well, and
 I could wish he would modestly examine himselfe, to see
 how much he is vnworthy to haue so good a Lady.
 +LEONATO
@@ -1767,8 +1829,8 @@ carry: the sport will be, when they hold one
 an opinion of anothers dotage, and no such matter,
 that's the Scene that I would see, which will be meerely a
 dumbe shew: let vs send her to call him into dinner.
-SD: Exuent +PRINCE, +CLAUDIO, +BENEDICK, +LEONATO.
-+BENEDICK
+SD: Exuent +PRINCE, +CLAUDIO, +BENEDICKE, +LEONATO.
++BENEDICKE
 This can be no tricke, the
 conference was sadly borne, they haue the truth of this
 from Hero, they seeme to pittie the Lady: it seemes her
@@ -1797,20 +1859,20 @@ SD: Enter +BEATRICE.
 +BEATRICE
 Against my wil I am sent to bid you come in to
 dinner.
-+BENEDICK
++BENEDICKE
 Faire +BEATRICE, I thanke you for your paines.
 +BEATRICE
 I tooke no more paines for those thankes, then
 you take paines to thanke me, if it had been painefull, I
 would not haue come.
-+BENEDICK
++BENEDICKE
 You take pleasure then in the message.
 +BEATRICE
 Yea iust so much as you may take vpon a
 kniues point, and choake a daw withall: you haue no
 stomacke signior, fare you well.
 SD: +Beatrice exits.
-+BENEDICK
++BENEDICKE
 Ha, against my will I am sent to bid you
 come into dinner: there's a double meaning in that: I
 tooke no more paines for those thankes then you tooke paines
@@ -1818,7 +1880,7 @@ to thanke me, that's as much as to say, any paines that
 I take for you is as easie as thankes: if I do not take pitty of
 her I am a villaine, if I doe not loue her I am a Iew, I will
 goe get her picture.
-SD: +Benedick exits.
+SD: +BENEDICKE exits.
 NS: Act 3 Scene 1
 SD: Enter +HERO and two Gentlemen, +MARGARET, and +URSULA.
 +HERO
@@ -1840,10 +1902,10 @@ Ile make her come I warrant you presently.
 +HERO
 Now +URSULA, when +BEATRICE doth come,
 As we do trace this alley vp and downe,
-Our talke must onely be of Benedicke,
+Our talke must onely be of +BENEDICKE,
 When I doe name him, let it be thy part,
 To praise him more then euer man did merit,
-My talke to thee must be how Benedicke
+My talke to thee must be how +BENEDICKE
 Is sicke in loue with +BEATRICE: of this matter,
 Is little Cupids crafty arrow made,
 That onely wounds by heare-say: now begin,
@@ -1865,14 +1927,14 @@ I know her spirits are as coy and wilde,
 As Haggerds of the rocke.
 URSULA
 But are you sure,
-That Benedicke loues +BEATRICE so intirely?
+That +BENEDICKE loues +BEATRICE so intirely?
 +HERO
 So saies the Prince, and my new trothed Lord.
 +URSULA
 And did they bid you tell her of it, Madam?
 +HERO
 They did intreate me to acquaint her of it,
-But I perswaded them, if they lou'd Benedicke,
+But I perswaded them, if they lou'd +BENEDICKE,
 To wish him wrastle with affection,
 And neuer to let +BEATRICE know of it.
 URSULA
@@ -1915,14 +1977,14 @@ As +BEATRICE is, cannot be commendable,
 But who dare tell her so? if I should speake,
 She would mocke me into ayre, O she would laugh me
 Out of my selfe, presse me to death with wit,
-Therefore let Benedicke like couered fire,
+Therefore let +BENEDICKE like couered fire,
 Consume away in sighes, waste inwardly:
 It were a better death, to die with mockes,
 Which is as bad as die with tickling.
 Vrsu.
 Yet tell her of it, heare what shee will say.
 +HERO
-No, rather I will goe to Benedicke,
+No, rather I will goe to +BENEDICKE,
 And counsaile him to fight against his passion,
 And truly Ile deuise some honest slanders,
 To staine my cosin with, one doth not know,
@@ -1932,13 +1994,13 @@ O doe not doe your cosin such a wrong,
 She cannot be so much without true iudgement,
 Hauing so swift and excellent a wit
 As she is prisde to haue, as to refuse
-So rare a Gentleman as signior Benedicke.
+So rare a Gentleman as signior +BENEDICKE.
 +HERO
 He is the onely man of Italy,
 Alwaies excepted, my deare Claudio.
 Vrsu.
 I pray you be not angry with me, Madame,
-Speaking my fancy: Signior Benedicke,
+Speaking my fancy: Signior +BENEDICKE,
 For shape, for bearing argument and valour,
 Goes formost in report through Italy.
 +HERO
@@ -1961,7 +2023,7 @@ What fire is in mine eares? can this be true?
 Stand I condemn'd for pride and scorne so much?
 Contempt, farewell, and maiden pride, adew,
 No glory liues behinde the backe of such.
-And Benedicke, loue on, I will requite thee,
+And +BENEDICKE, loue on, I will requite thee,
 Taming my wilde heart to thy louing hand:
 If thou dost loue, my kindenesse shall incite thee
 To binde our loues vp in a holy band.
@@ -1969,7 +2031,7 @@ For others say thou dost deserue, and I
 Beleeue it better then reportingly.
 SD: +Beatrice exits.
 NS: Act 3 Scene 2
-SD: Enter +PRINCE, +CLAUDIO, +BENEDICK, and +LEONATO.
+SD: Enter +PRINCE, +CLAUDIO, +BENEDICKE, and +LEONATO.
 +PRINCE
 I doe but stay till your marriage be consummate,
 and then go I toward Arragon.
@@ -1979,14 +2041,14 @@ me.
 +PRINCE
 Nay, that would be as great a soyle in the new
 glosse of your marriage, as to shew a childe his new coat
-and forbid him to weare it, I will onely bee bold with Benedicke
+and forbid him to weare it, I will onely bee bold with +BENEDICKE
 for his companie, for from the crowne of his head,
 to the sole of his foot, he is all mirth, he hath twice or
 thrice cut Cupids bow-string, and the little hang-man
 dare not shoot at him, he hath a heart as sound as a
 bell, and his tongue is the clapper, for what his heart
 thinkes, his tongue speakes.
-+BENEDICK
++BENEDICKE
 Gallants, I am not as I haue bin.
 +LEONATO
 So say I, methinkes you are sadder.
@@ -1996,11 +2058,11 @@ I hope he be in loue.
 Hang him truant, there's no true drop of
 bloud in him to be truly toucht with loue, if he be sad,
 he wants money.
-+BENEDICK
++BENEDICKE
 I haue the tooth-ach.
 +PRINCE
 Draw it.
-+BENEDICK
++BENEDICKE
 Hang it.
 +CLAUDIO
 You must hang it first, and draw it afterwards.
@@ -2008,7 +2070,7 @@ You must hang it first, and draw it afterwards.
 What? sigh for the tooth-ach.
 +LEONATO
 Where is but a humour or a worme.
-+BENEDICK
++BENEDICKE
 Well, euery one cannot master a griefe, but hee that
 has it.
 +CLAUDIO
@@ -2062,7 +2124,7 @@ Yes, and his ill conditions, and in despight of all,
 dies for him.
 +PRINCE
 Shee shall be buried with her face vpwards.
-+BENEDICK
++BENEDICKE
 Yet is this no charme for the tooth-ake, old
 signior, walke aside with mee, I haue studied eight or nine
 wise words to speake to you, which these hobby-horses
@@ -2073,7 +2135,7 @@ For my life to breake with him about +BEATRICE.
 'Tis euen so, Hero and +MARGARET haue by this
 played their parts with +BEATRICE, and then the two Beares
 will not bite one another when they meete.
-SD: Enter +JOHN the Bastard.
+SD: Enter +IOHN the Bastard.
 BAST
 My Lord and brother, God saue you.
 +PRINCE
@@ -2633,7 +2695,7 @@ am not such a foole to thinke what I list, nor I list not to
 thinke what I can, nor indeed I cannot thinke, if I would
 thinke my hart out of thinking, that you are in loue, or
 that you will be in loue, or that you can be in loue: yet
-Benedicke was such another, and now is he become a
++BENEDICKE was such another, and now is he become a
 man, he swore hee would neuer marry, and yet now in
 despight of his heart he eates his meat without grudging,
 and how you may be conuerted I know not, but me thinkes
@@ -2649,7 +2711,7 @@ SD: Enter +URSULA.
 
 +URSULA
 Madam, withdraw, the Prince, the Count, signior
-Benedicke, Don Iohn, and all the gallants of the towne are
++BENEDICKE, Don Iohn, and all the gallants of the towne are
 come to fetch you to Church.
 
 +HERO
@@ -2784,7 +2846,7 @@ and meet me at the Iaile.
 
 NS: Act 4, Scene 1
 
-SD: Enter +Prince, +Bastard, +Leonato, +Frier, +Claudio, +Benedicke, +Hero, and +Beatrice.
+SD: Enter +Prince, +Bastard, +Leonato, +Frier, +Claudio, +BENEDICKE, +Hero, and +Beatrice.
 
 +LEONATO
 Come Frier Francis, be briefe, onely to the plaine
@@ -2997,7 +3059,7 @@ How doth the Lady?
 
 +BEATRICE
 Dead I thinke, helpe vncle,
-Hero, why Hero, Vncle, Signor Benedicke, Frier.
+Hero, why Hero, Vncle, Signor +BENEDICKE, Frier.
 
 +LEONATO
 O Fate! take not away thy heauy hand,
@@ -3721,11 +3783,11 @@ And shall, or some of vs will smart for it.
 +PRINCE
 See, see, here comes the man we went to seeke.
 
-SD: Enter +BENEDICK.
+SD: Enter +BENEDICKE.
 +CLAUDIO
 Now signior, what newes?
 
-+BENEDICK
++BENEDICKE
 Good day my Lord.
 
 +PRINCE
@@ -3741,7 +3803,7 @@ off with two old men without teeth.
 had wee fought, I doubt we should haue beene too yong
 for them.
 
-+BENEDICK
++BENEDICKE
 In a false quarrell there is no true valour, I
 came to seeke you both.
 
@@ -3750,7 +3812,7 @@ We haue beene vp and downe to seeke thee, for we
 are high proofe melancholly, and would faine haue it
 beaten away, wilt thou vse thy wit?
 
-+BENEDICK
++BENEDICKE
 It is in my scabberd, shall I draw it?
 
 +PRINCE
@@ -3769,7 +3831,7 @@ art thou sicke, or angrie?
 What, courage man: what though care kil'd
 a cat, thou hast mettle enough in thee to kill care.
 
-+BENEDICK
++BENEDICKE
 Sir, I shall meete your wit in the careere, and you
 charge it against me, I pray you chuse another subiect.
 
@@ -3784,13 +3846,13 @@ thinke he be angrie indeede.
 +CLAUDIO
 If he be, he knowes how to turne his girdle.
 
-+BENEDICK
++BENEDICKE
 Shall I speake a word in your eare?
 
 +CLAUDIO
 God blesse me from a challenge.
 
-+BENEDICK
++BENEDICKE
 You are a villaine, I iest not,
 I will make it good how you dare, with what you dare,
 and when you dare: do me right, or I will protest your
@@ -3809,7 +3871,7 @@ head and a Capon, the which if I doe not carue most
 curiously, say my knife's naught, shall I not finde a
 wood-cocke too?
 
-+BENEDICK
++BENEDICKE
 Sir, your wit ambles well, it goes easily.
 
 +PRINCE
@@ -3845,10 +3907,10 @@ But when shall we set the sauage Bulls
 hornes on the sensible Benedicks head?
 
 +CLAUDIO
-Yea and text vnder-neath, heere dwells +BENEDICK
+Yea and text vnder-neath, heere dwells +BENEDICKE
 the married man.
 
-+BENEDICK
++BENEDICKE
 Fare you well, Boy, you know my minde, I will
 leaue you now to your gossep-like humor, you breake
 iests as braggards do their blades, which God be
@@ -4094,8 +4156,8 @@ Exuent PRINCE, CLAUDIO
 
 NS: Act 5 Scene 2
 
-SD: Enter +BENEDICK and +MARGARET.
-+BENEDICK
+SD: Enter +BENEDICKE and +MARGARET.
++BENEDICKE
 Praie thee sweete Mistris +MARGARET, deserue
 well at my hands, by helping mee to the speech of
 Beatrice.
@@ -4104,7 +4166,7 @@ Beatrice.
 Will you then write me a Sonnet in praise of
 my beautie?
 
-+BENEDICK
++BENEDICKE
 In so high a stile +MARGARET, that no man liuing
 shall come ouer it, for in most comely truth thou
 deseruest it.
@@ -4113,7 +4175,7 @@ deseruest it.
 To haue no man come ouer me, why, shall I
 alwaies keepe below staires?
 
-+BENEDICK
++BENEDICKE
 Thy wit is as quicke as the grey-hounds mouth,
 it catches.
 
@@ -4121,7 +4183,7 @@ it catches.
 And yours, as blunt as the Fencers foiles, which
 hit, but hurt not.
 
-+BENEDICK
++BENEDICKE
 A most manly wit +MARGARET, it will not hurt a
 woman: and so I pray thee call Beatrice, I giue thee
 the bucklers.
@@ -4130,7 +4192,7 @@ the bucklers.
 Giue vs the swords, wee haue bucklers of our
 owne.
 
-+BENEDICK
++BENEDICKE
 If you vse them +MARGARET, you must put in
 the pikes with a vice, and they are dangerous weapons
 for Maides.
@@ -4139,7 +4201,7 @@ for Maides.
 Well, I will call Beatrice to you, who I thinke
 hath legges.
 MARGARET exits
-+BENEDICK
++BENEDICKE
 And therefore will come.
 The God of loue
 that sits aboue,
@@ -4158,13 +4220,13 @@ time: verie ominous endings, no, I was not borne vnder
 a riming Plannet, for I cannot wooe in festiuall tearmes:
 
 SD: Enter +BEATRICE.
-+BENEDICK
++BENEDICKE
 sweete +BEATRICE would'st thou come when I cal'd thee?
 
 +BEATRICE
 Yea Signior, and depart when you bid me.
 
-+BENEDICK
++BENEDICKE
 O stay but till then.
 
 +BEATRICE
@@ -4172,7 +4234,7 @@ Then, is spoken: fare you well now, and yet
 ere I goe, let me goe with that I came, which is, with knowing
 what hath past betweene you and +CLAUDIO.
 
-+BENEDICK
++BENEDICKE
 Onely foule words, and thereupon I will kisse thee.
 
 +BEATRICE
@@ -4180,7 +4242,7 @@ Foule words is but foule wind, and foule wind is
 but foule breath, and foule breath is noisome, therefore I
 will depart vnkist.
 
-+BENEDICK
++BENEDICKE
 Thou hast frighted the word out of his right
 sence, so forcible is thy wit, but I must tell thee plainely,
 +CLAUDIO vndergoes my challenge, and either I must
@@ -4194,7 +4256,7 @@ politique a state of euill, that they will not admit any good
 part to intermingle with them: but for which of my good
 parts did you first suffer loue for me?
 
-+BENEDICK
++BENEDICKE
 Suffer loue! a good epithite, I do suffer loue
 indeede, for I loue thee against my will.
 
@@ -4203,14 +4265,14 @@ In spight of your heart I think, alas poore
 heart, if you spight it for my sake, I will spight it for yours,
 for I will neuer loue that which my friend hates.
 
-+BENEDICK
++BENEDICKE
 Thou and I are too wise to wooe peaceablie.
 
 +BEATRICE
 It appeares not in this confession, there's not
 one wise man among twentie that will praise himselfe.
 
-+BENEDICK
++BENEDICKE
 An old, an old instance +BEATRICE, that liu'd in
 the time of good neighbours, if a man doe not erect in
 this age his owne tombe ere he dies, hee shall liue no longer
@@ -4219,7 +4281,7 @@ in monuments, then the Bels ring, & the Widdow weepes.
 +BEATRICE
 And how long is that thinke you?
 
-+BENEDICK
++BENEDICKE
 Question, why an hower in clamour and a
 quarter in rhewme, therfore is it most expedient for the
 wise, if Don worme [his conscience] finde no impediment
@@ -4231,13 +4293,13 @@ me, how doth your cosin?
 +BEATRICE
 Verie ill.
 
-+BENEDICK
++BENEDICKE
 And how doe you?
 
 +BEATRICE
 Verie ill too.
 
-+BENEDICK
++BENEDICKE
 Serue God, loue me, and mend, there will I
 leaue you too, for here comes one in haste.
 
@@ -4252,7 +4314,7 @@ will you come presentlie?
 +BEATRICE
 Will you go heare this newes Signior?
 
-+BENEDICK
++BENEDICKE
 I will liue in thy heart, die in thy lap, and be
 buried in thy eies: and moreouer, I will goe with thee to
 thy Vncles.
@@ -4329,7 +4391,7 @@ But Margaret was in some fault for this,
 Although against her will as it appeares,
 In the true course of all the question.
 
-+OLD
++BROTHER
 Well, I am glad that all things sort so well.
 
 +BENE
@@ -4347,7 +4409,7 @@ And giue her to young Claudio.
 
 SD: Exeunt Ladies.
 
-+OLD
++BROTHER
 Which I will doe with confirm'd countenance.
 
 +BENE
@@ -4401,7 +4463,7 @@ Ile hold my minde were she an Ethiope.
 Call her forth brother, heres the Frier ready.
 
 +PRIN
-Good morrow Benedicke, why what's the matter?
+Good morrow +BENEDICKE, why what's the matter?
 That you haue such a Februarie face,
 So full of frost, of storme, and clowdinesse.
 
@@ -4512,7 +4574,7 @@ Fashioned to Beatrice.
 +HERO
 And heeres another,
 Writ in my cosins hand, stolne from her pocket,
-Containing her affection vnto Benedicke.
+Containing her affection vnto +BENEDICKE.
 
 +BENE
 A miracle, here's our owne hands against our
@@ -4528,7 +4590,7 @@ life, for I was told, you were in a consumption.
 Peace I will stop your mouth.
 
 +PRIN
-How dost thou Benedicke the married man?
+How dost thou +BENEDICKE the married man?
 
 +BENE
 Ile tell thee what Prince: a Colledge of witte-crackers

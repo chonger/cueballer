@@ -16,8 +16,6 @@ If an actor is named in the stage direction, you will write their name in all ca
 
 You will respect all original punctation in spoken lines.
 
-Do not change () to [] in spoken lines.  Do not change parantheses to square brackets in spoken lines.
-
 If a character speaks lines in a scene you will write their name in all capital letters when they are named in stage directions.
 
 If an actor is named between parenthesis with just the word "To, as "(To x)" where x is the actor's name , you will capitalize only the first letter of their name.
@@ -31,8 +29,6 @@ When a stage direction begins with "She" replace "She" with the name of whicheve
 When a stage direction begins with "They" replace "They" with the name of whichever actor last spoke.
 
 When multiple stage directions occur in succesion, with no speech between them, combine them into one stage direction on one line.
-
-you will replace all parenthesis with brackets.
 
 If the stage direction "Exit" follows an actor's line, you will write their name at the start of the stage direction, as "X exits", where X is the name of the actor.
 
@@ -137,7 +133,7 @@ def call(text):
     return response.text
 
 basepath = "data"
-raw_scripts = os.path.join(basepath, "raw_scripts", "ShakespearesWords")
+raw_scripts = os.path.join(basepath, "raw_scripts", "Tem")
 for fname in os.listdir(raw_scripts):
     path = os.path.join(raw_scripts, fname)
     if not os.path.isfile(path):

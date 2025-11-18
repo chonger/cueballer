@@ -1,27 +1,27 @@
 Act 1, scene 1
 Enter Flauius, Murellus, and certaine Commoners ouer	
 the Stage.	
-Flauius.	
++FLAVIUS
 HEnce: home you idle Creatures, get you home:	
 Is this a Holiday? What, know you not	
 (Being Mechanicall) you ought not walke	
 Vpon a labouring day, without the signe	
 Of your Profession? Speake, what Trade art thou?	
-Car.	
++CARPENTER	
 Why Sir, a Carpenter.	
-Mur.	
++MURELLUS
 Where is thy Leather Apron, and thy Rule?	
 What dost thou with thy best Apparrell on?	
 You sir, what Trade are you?	
-Cobl.	
++COBLER
 Truely Sir, in respect of a fine Workman, I	
 am but as you would say, a Cobler.	
-Mur.	
++MURELLUS
 But what Trade art thou? Answer me directly.	
-Cob.	
++COBLER	
 A Trade Sir, that I hope I may vse, with a safe	
 Conscience, which is indeed Sir, a Mender of bad soules.	
-Fla.	
++FLAVIUS	
 What Trade thou knaue? Thou naughty knaue, what Trade?	
 Cobl.	
 Nay I beseech you Sir, be not out with me:	

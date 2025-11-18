@@ -1771,8 +1771,7 @@ Of this most greeuous murther.
 SD: Enter +FIRST MURTHERER
 
 +FIRST MURTHERER
-How now? what mean'st thou that thou help'st me not?
-By Heauen the Duke shall know how slacke you haue beene.
+How now? what mean'st thou that thou help'st me not? By Heauen the Duke shall know how slacke you haue beene.
 
 +SECOND MURTHERER
 I would he knew that I had sau'd his brother,
@@ -6192,3 +6191,5 @@ Now Ciuill wounds are stopp'd, Peace liues agen;
 That she may long liue heere, God say, Amen.
 
 SD: Exeunt
+
+

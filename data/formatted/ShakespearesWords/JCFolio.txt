@@ -4,49 +4,49 @@ NS: Act 1 Scene 1
 
 SD: Enter +FLAUIUS, +MURELLUS, and certaine Commoners ouer the Stage.
 
-+FLAUIUS
++FLAVIUS
 HEnce: home you idle Creatures, get you home:
 Is this a Holiday? What, know you not
-[Being Mechanicall] you ought not walke
+(Being Mechanicall) you ought not walke
 Vpon a labouring day, without the signe
 Of your Profession? Speake, what Trade art thou?
 
-+CAR
++CARPENTER
 Why Sir, a Carpenter.
 
-+MUR
++MURELLUS
 Where is thy Leather Apron, and thy Rule?
 What dost thou with thy best Apparrell on?
 You sir, what Trade are you?
 
-+COBL
++COBLER
 Truely Sir, in respect of a fine Workman, I
 am but as you would say, a Cobler.
 
-+MUR
++MURELLUS
 But what Trade art thou? Answer me directly.
 
-+COBL
++COBLER
 A Trade Sir, that I hope I may vse, with a safe
 Conscience, which is indeed Sir, a Mender of bad soules.
 
-+FLAUIUS
++FLAVIUS
 What Trade thou knaue? Thou naughty knaue, what Trade?
 
-+COBL
++COBLER
 Nay I beseech you Sir, be not out with me:
 yet if you be out Sir, I can mend you.
 
-+MUR
++MURELLUS
 What meanst thou by that? Mend mee, thou sawcy Fellow?
 
-+COBL
++COBLER
 Why sir, Cobble you.
 
-+FLAUIUS
++FLAVIUS
 Thou art a Cobler, art thou?
 
-+COBL
++COBLER
 Truly sir, all that I liue by, is with the Aule: I
 meddle with no Tradesmans matters, nor womens matters;
 but withal I am indeed Sir, a Surgeon to old shooes:
@@ -54,214 +54,212 @@ when they are in great danger, I recouer them. As proper
 men as euer trod vpon Neats Leather, haue gone vpon
 my handy-worke.
 
-+FLAUIUS
++FLAVIUS
 But wherefore art not in thy Shop to day?
 Why do'st thou leade these men about the streets?
 
-+COBL
++COBLER
 Truly sir, to weare out their shooes, to get my selfe
 into more worke. But indeede sir, we make Holy-day to see
-Casar, and to reioyce in his Triumph.
++cASAR, and to reioyce in his Triumph.
 
-+MUR
++MURELLUS
 Wherefore reioyce? / What Conquest brings he home?
 What Tributaries follow him to Rome,
 To grace in Captiue bonds his Chariot Wheeles?
 You Blockes, you stones, you worse then senslesse things:
 O you hard hearts, you cruell men of Rome,
-Knew you not Pompey many a time and oft?
+Knew you not +POMPEY many a time and oft?
 Haue you climb'd vp to Walles and Battlements,
 To Towres and Windowes? Yea, to Chimney tops,
 Your Infants in your Armes, and there haue sate
 The liue-long day, with patient expectation,
-To see great Pompey passe the streets of Rome:
+To see great +POMPEY passe the streets of Rome:
 And when you saw his Chariot but appeare,
 Haue you not made an Vniuersall shout,
-That Tyber trembled vnderneath her bankes
+That +TYBER trembled vnderneath her bankes
 To heare the replication of your sounds,
 Made in her Concaue Shores?
 And do you now put on your best attyre?
 And do you now cull out a Holyday?
 And do you now strew Flowers in his way,
-That comes in Triumph ouer Pompeyes blood?
+That comes in Triumph ouer +POMPEYES blood?
 Be gone,
 Runne to your houses, fall vpon your knees,
 Pray to the Gods to intermit the plague
 That needs must light on this Ingratitude.
 
-+FLAUIUS
++FLAVIUS
 Go, go, good Countrymen, and for this fault
 Assemble all the poore men of your sort;
-Draw them to Tyber bankes, and weepe your teares
+Draw them to +TYBER bankes, and weepe your teares
 Into the Channell, till the lowest streame
 Do kisse the most exalted Shores of all.
-SD: Exeunt all the Commoners.
-FLAUIUS
-See where their basest mettle be not mou'd,
-They vanish tongue-tyed in their guiltinesse:
-Go you downe that way towards the Capitoll,
-This way will I: Disrobe the Images,
-If you do finde them deckt with Ceremonies.
 
-+MUR
+SD: Exeunt all the Commoners.
+SD: +FLAVIUS See where their basest mettle be not mou'd, They vanish tongue-tyed in their guiltinesse: Go you downe that way towards the Capitoll, This way will I: Disrobe the Images, If you do finde them deckt with Ceremonies.
+
++MURELLUS
 May we do so?
 You know it is the Feast of Lupercall.
 
-+FLAUIUS
++FLAVIUS
 It is no matter, let no Images
-Be hung with Casars Trophees: Ile about,
+Be hung with +cASARS Trophees: Ile about,
 And driue away the Vulgar from the streets;
 So do you too, where you perceiue them thicke.
-These growing Feathers, pluckt from Casars wing,
+These growing Feathers, pluckt from +cASARS wing,
 Will make him flye an ordinary pitch,
 Who else would soare aboue the view of men,
 And keepe vs all in seruile fearefulnesse.
-SD: Exeunt
 
-NS: Act 1 Scene 2
+SD: Exuent +FLAVIUS, +MURELLUS
 
-SD: Enter +CASAR, +ANTONY for the Course, +CALPHURNIA, +PORTIA, +DECIUS, +CICERO, +BRUTUS, +CASSIUS, +CASKA, a Soothsayer: after them +MURELLUS and +FLAUIUS.
+NS: Act 1, scene 2
 
-+CAS
+SD: Enter +cASAR, +ANTONY for the Course, +CALPHURNIA, +PORTIA, +DECIUS, +CICERO, +BRUTUS, +CASSIUS, +cASKA, a Soothsayer: after them +MURELLUS and +FLAUIUS.
+
++CASAR
 Calphurnia.
 
-+CASK
-Peace ho, Casar speakes.
++CASKA
+Peace ho, +cASAR speakes.
 
-+CAS
++CASAR
 Calphurnia.
 
-+CALP
++CALPHURNIA
 Heere my Lord.
 
-+CAS
-Stand you directly in Antonio's way,
-When he doth run his course. Antonio.
++CASAR
+Stand you directly in +Antonio's way,
+When he doth run his course. +Antonio.
 
-+ANT
-Casar, my Lord.
++ANTONY
++cASAR, my Lord.
 
-+CAS
-Forget not in your speed Antonio,
-To touch Calphurnia: for our Elders say,
++CASAR
+Forget not in your speed +Antonio,
+To touch +CALPHURNIA: for our Elders say,
 The Barren touched in this holy chace,
 Shake off their sterrile curse.
 
-+ANT
++ANTONY
 I shall remember,
-When Casar sayes, Do this; it is perform'd.
+When +cASAR sayes, Do this; it is perform'd.
 
-+CAS
++CASAR
 Set on, and leaue no Ceremony out.
 
-+SOOTH
-Casar.
++SOOTHSAYER
++cASAR.
 
-+CAS
++CASAR
 Ha? Who calles?
 
-+CASK
++CASKA
 Bid euery noyse be still: peace yet againe.
 
-+CAS
++CASAR
 Who is it in the presse, that calles on me?
 I heare a Tongue shriller then all the Musicke
-Cry, Casar: Speake, Casar is turn'd to heare.
+Cry, +cASAR: Speake, +cASAR is turn'd to heare.
 
-+SOOTH
++SOOTHSAYER
 Beware the Ides of March.
 
-+CAS
++CASAR
 What man is that?
 
-+BR
++BRUTUS
 A Sooth-sayer bids you beware the Ides of March
 
-+CAS
++CASAR
 Set him before me, let me see his face.
 
-+CASSI
-Fellow, come from the throng, look vpon Casar.
++CASSIUS
+Fellow, come from the throng, look vpon +cASAR.
 
-+CAS
++CASAR
 What sayst thou to me now? Speak once againe:
 
-+SOOTH
++SOOTHSAYER
 Beware the Ides of March.
 
-+CAS
++CASAR
 He is a Dreamer, let vs leaue him: Passe.
-SD: Sennet. Exeunt. Manet +BRUT. & +CASSI.
 
-+CASSI
+SD: Sennet. Exeunt +cASAR, +ANTONY, +CALPHURNIA, +PORTIA, +DECIUS, +CICERO, +CASSIUS, +cASKA, +SOOTHSAYER, +MURELLUS, +FLAVIUS. Manet +BRUTUS & +CASSIUS.
+
++CASSIUS
 Will you go see the order of the course?
 
-+BRUT
++BRUTUS
 Not I.
 
-+CASSI
++CASSIUS
 I pray you do.
 
-+BRUT
++BRUTUS
 I am not Gamesom: I do lacke some part
-Of that quicke Spirit that is in Antony:
-Let me not hinder Cassius your desires;
+Of that quicke Spirit that is in +ANTONY:
+Let me not hinder +CASSIUS your desires;
 Ile leaue you.
 
-+CASSI
-Brutus, I do obserue you now of late:
++CASSIUS
++BRUTUS, I do obserue you now of late:
 I haue not from your eyes, that gentlenesse
 And shew of Loue, as I was wont to haue:
 You beare too stubborne, and too strange a hand
 Ouer your Friend, that loues you.
 
-+BRUT
-Cassius,
++BRUTUS
++CASSIUS,
 Be not deceiu'd: If I haue veyl'd my looke,
 I turne the trouble of my Countenance
 Meerely vpon my selfe. Vexed I am
 Of late, with passions of some difference,
 Conceptions onely proper to my selfe,
-Which giue some soyle [perhaps] to my Behauiours:
+Which giue some soyle (perhaps) to my Behauiours:
 But let not therefore my good Friends be greeu'd
-[Among which number Cassius be you one]
+(Among which number +CASSIUS be you one)
 Nor construe any further my neglect,
-Then that poore Brutus with himselfe at warre,
+Then that poore +BRUTUS with himselfe at warre,
 Forgets the shewes of Loue to other men.
 
-+CASSI
-Then Brutus, I haue much mistook your passion,
++CASSIUS
+Then +BRUTUS, I haue much mistook your passion,
 By meanes whereof, this Brest of mine hath buried
 Thoughts of great value, worthy Cogitations.
-Tell me good Brutus, Can you see your face?
+Tell me good +BRUTUS, Can you see your face?
 
-+BRUT
-No Cassius: / For the eye sees not it selfe but by reflection,
++BRUTUS
+No +CASSIUS: / For the eye sees not it selfe but by reflection,
 By some other things.
 
-+CASSI
++CASSIUS
 'Tis iust,
-And it is very much lamented Brutus,
+And it is very much lamented +BRUTUS,
 That you haue no such Mirrors, as will turne
 Your hidden worthinesse into your eye,
 That you might see your shadow: / I haue heard,
 Where many of the best respect in Rome,
-[Except immortall Casar] speaking of Brutus,
+(Except immortall +cASAR) speaking of +BRUTUS,
 And groaning vnderneath this Ages yoake,
-Haue wish'd, that Noble Brutus had his eyes.
+Haue wish'd, that Noble +BRUTUS had his eyes.
 
-+BRUT
-Into what dangers, would you / Leade me Cassius?
++BRUTUS
+Into what dangers, would you / Leade me +CASSIUS?
 That you would haue me seeke into my selfe,
 For that which is not in me?
 
-+CASSI
-Therefore good Brutus, be prepar'd to heare:
++CASSIUS
+Therefore good +BRUTUS, be prepar'd to heare:
 And since you know, you cannot see your selfe
 So well as by Reflection; I your Glasse,
 Will modestly discouer to your selfe
 That of your selfe, which you yet know not of.
-And be not iealous on me, gentle Brutus:
+And be not iealous on me, gentle +BRUTUS:
 Were I a common Laughter, or did vse
 To stale with ordinary Oathes my loue
 To euery new Protester: if you know,
@@ -269,18 +267,19 @@ That I do fawne on men, and hugge them hard,
 And after scandall them: Or if you know,
 That I professe my selfe in Banquetting
 To all the Rout, then hold me dangerous.
+
 SD: Flourish, and Shout.
 
-+BRUT
++BRUTUS
 What meanes this Showting? / I do feare, the People
-choose Casar / For their King.
+choose +cASAR / For their King.
 
-+CASSI
++CASSIUS
 I, do you feare it?
 Then must I thinke you would not haue it so.
 
-+BRUT
-I would not Cassius, yet I loue him well:
++BRUTUS
+I would not +CASSIUS, yet I loue him well:
 But wherefore do you hold me heere so long?
 What is it, that you would impart to me?
 If it be ought toward the generall good,
@@ -289,20 +288,20 @@ And I will looke on both indifferently:
 For let the Gods so speed mee, as I loue
 The name of Honor, more then I feare death.
 
-+CASSI
-I know that vertue to be in you Brutus,
++CASSIUS
+I know that vertue to be in you +BRUTUS,
 As well as I do know your outward fauour.
 Well, Honor is the subiect of my Story:
 I cannot tell, what you and other men
 Thinke of this life: But for my single selfe,
 I had as liefe not be, as liue to be
 In awe of such a Thing, as I my selfe.
-I was borne free as Casar, so were you,
+I was borne free as +cASAR, so were you,
 We both haue fed as well, and we can both
 Endure the Winters cold, as well as hee.
 For once, vpon a Rawe and Gustie day,
-The troubled Tyber, chafing with her Shores,
-Casar saide to me, Dar'st thou Cassius now
+The troubled +TYBER, chafing with her Shores,
++cASAR saide to me, Dar'st thou +CASSIUS now
 Leape in with me into this angry Flood,
 And swim to yonder Point? Vpon the word,
 Accoutred as I was, I plunged in,
@@ -311,14 +310,14 @@ The Torrent roar'd, and we did buffet it
 With lusty Sinewes, throwing it aside,
 And stemming it with hearts of Controuersie.
 But ere we could arriue the Point propos'd,
-Casar cride, Helpe me Cassius, or I sinke.
-I [as Aneas, our great Ancestor,
-Did from the Flames of Troy, vpon his shoulder
-The old Anchyses beare] so, from the waues of Tyber
-Did I the tyred Casar: And this Man,
-Is now become a God, and Cassius is
++cASAR cride, Helpe me +CASSIUS, or I sinke.
+I (as +AENEAS, our great Ancestor,
+Did from the Flames of +TROY, vpon his shoulder
+The old +ANCHYSES beare) so, from the waues of +TYBER
+Did I the tyred +cASAR: And this Man,
+Is now become a God, and +CASSIUS is
 A wretched Creature, and must bend his body,
-If Casar carelesly but nod on him.
+If +cASAR carelesly but nod on him.
 He had a Feauer when he was in Spaine,
 And when the Fit was on him, I did marke
 How he did shake: Tis true, this God did shake,
@@ -327,113 +326,115 @@ And that same Eye, whose bend doth awe the World,
 Did loose his Lustre: I did heare him grone:
 I, and that Tongue of his, that bad the Romans
 Marke him, and write his Speeches in their Bookes,
-Alas, it cried, Giue me some drinke Titinius,
+Alas, it cried, Giue me some drinke +TITINIUS,
 As a sicke Girle: Ye Gods, it doth amaze me,
 A man of such a feeble temper should
 So get the start of the Maiesticke world,
 And beare the Palme alone.
+
 SD: Shout. Flourish.
 
-+BRUT
++BRUTUS
 Another generall shout?
 I do beleeue, that these applauses are
-For some new Honors, that are heap'd on Casar.
+For some new Honors, that are heap'd on +cASAR.
 
-+CASSI
++CASSIUS
 Why man, he doth bestride the narrow world
 Like a Colossus, and we petty men
 Walke vnder his huge legges, and peepe about
 To finde our selues dishonourable Graues.
 Men at sometime, are Masters of their Fates.
-The fault [deere Brutus] is not in our Starres,
+The fault (deere +BRUTUS) is not in our Starres,
 But in our Selues, that we are vnderlings.
-Brutus and Casar: What should be in that Casar?
++BRUTUS and +cASAR: What should be in that +cASAR?
 Why should that name be sounded more then yours.
 Write them together: Yours, is as faire a Name:
 Sound them, it doth become the mouth as well:
 Weigh them, it is as heauy: Coniure with 'em,
-Brutus will start a Spirit as soone as Casar.
++BRUTUS will start a Spirit as soone as +cASAR.
 Now in the names of all the Gods at once,
-Vpon what meate doth this our Casar feede,
+Vpon what meate doth this our +cASAR feede,
 That he is growne so great? Age, thou art sham'd.
 Rome, thou hast lost the breed of Noble Bloods.
 When went there by an Age, since the great Flood,
 But it was fam'd with more then with one man?
-When could they say [till now] that talk'd of Rome,
+When could they say (till now) that talk'd of Rome,
 That her wide Walkes incompast but one man?
 Now is it Rome indeed, and Roome enough
 When there is in it but one onely man.
 O! you and I, haue heard our Fathers say,
-There was a Brutus once, that would haue brook'd
+There was a +BRUTUS once, that would haue brook'd
 Th'eternall Diuell to keepe his State in Rome,
 As easily as a King.
 
-+BRUT
++BRUTUS
 That you do loue me, I am nothing iealous:
 What you would worke me too, I haue some ayme:
 How I haue thought of this, and of these times
 I shall recount heereafter. For this present,
-I would not so [with loue I might intreat you]
+I would not so (with loue I might intreat you)
 Be any further moou'd: What you haue said,
 I will consider: what you haue to say
 I will with patience heare, and finde a time
 Both meete to heare, and answer such high things.
 Till then, my Noble Friend, chew vpon this:
-Brutus had rather be a Villager,
++BRUTUS had rather be a Villager,
 Then to repute himselfe a Sonne of Rome
 Vnder these hard Conditions, as this time
 Is like to lay vpon vs.
 
-+CASSI
++CASSIUS
 I am glad
 that my weake words / Haue strucke but thus much shew
-of fire from Brutus.
-SD: Enter +CASAR and his Traine.
+of fire from +BRUTUS.
 
-+BRUT
-The Games are done, / And Casar is returning.
+SD: Enter +cASAR and his Traine.
 
-+CASSI
-As they passe by, / Plucke +CASKA by the Sleeue,
-And he will [after his sowre fashion] tell you
++BRUTUS
+The Games are done, / And +cASAR is returning.
+
++CASSIUS
+As they passe by, / Plucke +cASKA by the Sleeue,
+And he will (after his sowre fashion) tell you
 What hath proceeded worthy note to day.
 
-+BRUT
-I will do so: but looke you Cassius,
-The angry spot doth glow on Casars brow,
++BRUTUS
+I will do so: but looke you +CASSIUS,
+The angry spot doth glow on +cASARS brow,
 And all the rest, looke like a chidden Traine;
-Calphurnia's Cheeke is pale, and Cicero
++CALPHURNIA's Cheeke is pale, and +CICERO
 Lookes with such Ferret, and such fiery eyes
 As we haue seene him in the Capitoll
 Being crost in Conference, by some Senators.
 
-+CASSI
-Caska will tell vs what the matter is.
++CASSIUS
++cASKA will tell vs what the matter is.
 
-+CAS
-Antonio.
++CASAR
++Antonio.
 
-+ANT
-Casar.
++ANTONY
++cASAR.
 
-+CAS
++CASAR
 Let me haue men about me, that are fat,
 Sleeke-headed men, and such as sleepe a-nights:
-Yond Cassius has a leane and hungry looke,
+Yond +CASSIUS has a leane and hungry looke,
 He thinkes too much: such men are dangerous.
 
-+ANT
-Feare him not Casar, he's not dangerous,
++ANTONY
+Feare him not +cASAR, he's not dangerous,
 He is a Noble Roman, and well giuen.
 
-+CAS
++CASAR
 Would he were fatter; But I feare him not:
 Yet if my name were lyable to feare,
 I do not know the man I should auoyd
-So soone as that spare Cassius. He reades much,
+So soone as that spare +CASSIUS. He reades much,
 He is a great Obseruer, and he lookes
 Quite through the Deeds of men. He loues no Playes,
-As thou dost Antony: he heares no Musicke;
+As thou dost +ANTONY: he heares no Musicke;
 Seldome he smiles, and smiles in such a sort
 As if he mock'd himselfe, and scorn'd his spirit
 That could be mou'd to smile at any thing.
@@ -441,61 +442,62 @@ Such men as he, be neuer at hearts ease,
 Whiles they behold a greater then themselues,
 And therefore are they very dangerous.
 I rather tell thee what is to be fear'd,
-Then what I feare: for alwayes I am Casar.
+Then what I feare: for alwayes I am +cASAR.
 Come on my right hand, for this eare is deafe,
 And tell me truely, what thou think'st of him.
-SD: Sennit. Exeunt +CASAR and his Traine.
 
-+CASK
+SD: Sennit. Exeunt +cASAR, +ANTONY, +CALPHURNIA, +PORTIA, +DECIUS, +CICERO, +CASKA, +SOOTHSAYER, +MURELLUS, +FLAVIUS
+
++CASKA
 You pul'd me by the cloake, would you speake with me?
 
-+BRUT
-I Caska, tell vs what hath chanc'd to day
-That Casar lookes so sad.
++BRUTUS
+I +cASKA, tell vs what hath chanc'd to day
+That +cASAR lookes so sad.
 
-+CASK
++CASKA
 Why you were with him, were you not?
 
-+BRUT
-I should not then aske Caska what had chanc'd.
++BRUTUS
+I should not then aske +cASKA what had chanc'd.
 
-+CASK
++CASKA
 Why there was a Crowne offer'd him; & being
 offer'd him, he put it by with the backe of his hand thus,
 and then the people fell a shouting.
 
-+BRUT
++BRUTUS
 What was the second noyse for?
 
-+CASK
++CASKA
 Why for that too.
 
-+CASSI
++CASSIUS
 They shouted thrice: what was the last cry for?
 
-+CASK
++CASKA
 Why for that too.
 
-+BRUT
++BRUTUS
 Was the Crowne offer'd him thrice?
 
-+CASK
++CASKA
 I marry was't, and hee put it by thrice, euerie
 time gentler then other; and at euery putting by, mine
 honest Neighbors showted.
 
-+CASSI
++CASSIUS
 Who offer'd him the Crowne?
 
-+CASK
-Why Antony.
++CASKA
+Why +ANTONY.
 
-+BRUT
-Tell vs the manner of it, gentle Caska.
++BRUTUS
+Tell vs the manner of it, gentle +cASKA.
 
-+CASK
++CASKA
 I can as well bee hang'd as tell the manner of it: It
-was meere Foolerie, I did not marke it. I sawe Marke Antony
+was meere Foolerie, I did not marke it. I sawe Marke +ANTONY
 offer him a Crowne, yet 'twas not a Crowne neyther, 'twas
 one of these Coronets: and as I told you, hee put it by
 once: but for all that, to my thinking, he would faine haue
@@ -505,37 +507,37 @@ fingers off it. And then he offered it the third time; hee
 put it the third time by, and still as hee refus'd it, the
 rabblement howted, and clapp'd their chopt hands,
 and threw vppe their sweatie Night-cappes, and vttered such
-a deale of stinking breath, because Casar refus'd the
-Crowne, that it had [almost] choaked Casar: for hee
+a deale of stinking breath, because +cASAR refus'd the
+Crowne, that it had (almost) choaked +cASAR: for hee
 swoonded, and fell downe at it: And for mine owne part, I
 durst not laugh, for feare of opening my Lippes, and receyuing
 the bad Ayre.
 
-+CASSI
-But soft I pray you: what, did Casar swound?
++CASSIUS
+But soft I pray you: what, did +cASAR swound?
 
-+CASK
++CASKA
 He fell downe in the Market-place, and foam'd at
 mouth, and was speechlesse.
 
-+BRUT
++BRUTUS
 'Tis very like he hath the Falling sicknesse.
 
-+CASSI
-No, Casar hath it not: but you, and I,
-And honest Caska, we haue the Falling sicknesse.
++CASSIUS
+No, +cASAR hath it not: but you, and I,
+And honest +cASKA, we haue the Falling sicknesse.
 
-+CASK
++CASKA
 I know not what you meane by that, but I am sure
-Casar fell downe. If the tag-ragge people did not clap him,
++cASAR fell downe. If the tag-ragge people did not clap him,
 and hisse him, according as he pleas'd, and displeas'd
 them, as they vse to doe the Players in the Theatre, I am
 no true man.
 
-+BRUT
++BRUTUS
 What said he, when he came vnto himselfe?
 
-+CASK
++CASKA
 Marry, before he fell downe, when he perceiu'd the
 common Heard was glad he refus'd the Crowne, he
 pluckt me ope his Doublet, and offer'd them his Throat
@@ -546,58 +548,56 @@ to himselfe againe, hee said, If hee had done, or said any thing
 amisse, he desir'd their Worships to thinke it was his
 infirmitie. Three or foure Wenches where I stood, cryed,
 Alasse good Soule, and forgaue him with all their hearts:
-But there's no heed to be taken of them; if Casar had
+But there's no heed to be taken of them; if +cASAR had
 stab'd their Mothers, they would haue done no lesse.
 
-+BRUT
++BRUTUS
 And after that, he came thus sad away.
 
-+CASK
++CASKA
 I.
 
-+CASSI
-Did Cicero say any thing?
++CASSIUS
+Did +CICERO say any thing?
 
-+CASK
++CASKA
 I, he spoke Greeke.
 
-+CASSI
++CASSIUS
 To what effect?
 
-+CASK
++CASKA
 Nay, and I tell you that, Ile ne're looke you i'th'face
 againe. But those that vnderstood him, smil'd at one another,
 and shooke their heads: but for mine owne part, it
 was Greeke to me. I could tell you more newes too:
-+MURELLUS and +FLAUIUS, for pulling Scarffes off Casars
++MURELLUS and +FLAUIUS, for pulling Scarffes off +cASARS
 Images, are put to silence. Fare you well. There was more
 Foolerie yet, if I could remember it.
 
-+CASSI
-Will you suppe with me to Night, Caska?
++CASSIUS
+Will you suppe with me to Night, +cASKA?
 
-+CASK
++CASKA
 No, I am promis'd forth.
 
-+CASSI
++CASSIUS
 Will you Dine with me to morrow?
 
-+CASK
++CASKA
 I, if I be aliue, and your minde hold, and your
 Dinner worth the eating.
 
-+CASSI
++CASSIUS
 Good, I will expect you.
 
-+CASK
++CASKA
 Doe so: farewell both.
-SD: +CASKA exits
++CASKA exits
 
-+CASSI
-What a blunt fellow is this growne to be?
-He was quick Mettle, when he went to Schoole.
+SD: +CASSIUS What a blunt fellow is this growne to be? He was quick Mettle, when he went to Schoole.
 
-+CASSI
++CASSIUS
 So is he now, in execution
 Of any bold, or Noble Enterprize,
 How-euer he puts on this tardie forme:
@@ -605,30 +605,31 @@ This Rudenesse is a Sawce to his good Wit,
 Which giues men stomacke to disgest his words
 With better Appetite.
 
-+BRUT
++BRUTUS
 And so it is: / For this time I will leaue you:
 To morrow, if you please to speake with me,
 I will come home to you: or if you will,
 Come home to me, and I will wait for you.
 
-+CASSI
++CASSIUS
 I will doe so: till then, thinke of the World.
-SD: +BRUTUS exits.
-+CASSI
-Well Brutus, thou art Noble: yet I see,
++BRUTUS exits
+
++CASSIUS
+Well +BRUTUS, thou art Noble: yet I see,
 Thy Honorable Mettle may be wrought
 From that it is dispos'd: therefore it is meet,
 That Noble mindes keepe euer with their likes:
 For who so firme, that cannot be seduc'd?
-Casar doth beare me hard, but he loues Brutus.
-If I were Brutus now, and he were Cassius,
++cASAR doth beare me hard, but he loues +BRUTUS.
+If I were +BRUTUS now, and he were +CASSIUS,
 He should not humor me. I will this Night,
 In seuerall Hands, in at his Windowes throw,
 As if they came from seuerall Citizens,
 Writings, all tending to the great opinion
 That Rome holds of his Name: wherein obscurely
-Casars Ambition shall be glanced at.
-And after this, let Casar seat him sure,
++cASARS Ambition shall be glanced at.
+And after this, let +cASAR seat him sure,
 For wee will shake him, or worse dayes endure.
 
 
@@ -694,7 +695,7 @@ is not to walke in.
 
 +CASKA
 Farewell Cicero.
-SD: +CICERO exits
+CICERO exits
 SD: Enter +CASSIUS.
 
 +CASSIUS
@@ -747,7 +748,7 @@ To monstrous qualitie; why you shall finde,
 That Heauen hath infus'd them with these Spirits,
 To make them Instruments of feare, and warning,
 Vnto some monstrous State.
-Now could I [Caska] name to thee a man,
+Now could I (Caska) name to thee a man,
 Most like this dreadfull Night,
 That Thunders, Lightens, opens Graues, and roares,
 As doth the Lyon in the Capitoll:
@@ -801,7 +802,7 @@ Begin it with weake Strawes. What trash is Rome?
 What Rubbish, and what Offall? when it serues
 For the base matter, to illuminate
 So vile a thing as Casar. But oh Griefe,
-Where hast thou led me? I [perhaps] speake this
+Where hast thou led me? I (perhaps) speake this
 Before a willing Bond-man: then I know
 My answere must be made. But I am arm'd,
 And dangers are to me indifferent.
@@ -869,7 +870,7 @@ And so bestow these Papers as you bad me.
 
 +CASSIUS
 That done, repayre to Pompeyes Theater.
-SD: +CINNA exits
+CINNA exits
 
 +CASSIUS
 Come Caska, you and I will yet, ere day,
@@ -888,7 +889,8 @@ Him, and his worth, and our great need of him,
 You haue right well conceited: let vs goe,
 For it is after Mid-night, and ere day,
 We will awake him, and be sure of him.
-SD: Exuent +CASKA, +CASSIUS
+
+SD: Exeunt +CASKA, +CASSIUS
 
 NS: Act 2, scene 1
 
@@ -911,7 +913,7 @@ When it is lighted, come and call me here.
 
 +LUCIUS
 I will, my Lord.
-SD: +LUCIUS exits
+LUCIUS exits
 
 +BRUTUS
 It must be by his death: and for my part,
@@ -950,7 +952,7 @@ SD: +LUCIUS gives him the Letter.
 
 +BRUTUS
 Get you to Bed againe, it is not day:
-Is not to morrow [Boy] the first of March?
+Is not to morrow (Boy) the first of March?
 
 +LUCIUS
 I know not, Sir.
@@ -960,12 +962,14 @@ Looke in the Calender, and bring me word.
 
 +LUCIUS
 I will, Sir.
-SD: +LUCIUS exits
+LUCIUS exits
 
 +BRUTUS
 The exhalations, whizzing in the ayre,
 Giue so much light, that I may reade by them.
-SD: +BRUTUS opens the Letter, and reades.
+SD: Opens the Letter, and reades.
+
++BRUTUS
 Brutus thou sleep'st; awake, and see thy selfe:
 Shall Rome, &c. speake, strike, redresse.
 Brutus, thou sleep'st: awake.
@@ -1098,7 +1102,7 @@ If these be Motiues weake, breake off betimes,
 And euery man hence, to his idle bed:
 So let high-sighted-Tyranny range on,
 Till each man drop by Lottery. But if these
-[As I am sure they do] beare fire enough
+(As I am sure they do) beare fire enough
 To kindle Cowards, and to steele with valour
 The melting Spirits of women. Then Countrymen,
 What neede we any spurre, but our owne cause
@@ -1170,7 +1174,7 @@ Let's be Sacrificers, but not Butchers Caius:
 We all stand vp against the spirit of Casar,
 And in the Spirit of men, there is no blood:
 O that we then could come by Casars Spirit,
-And not dismember Casar! But [alas]
+And not dismember Casar! But (alas)
 Casar must bleed for it. And gentle Friends,
 Let's kill him Boldly, but not Wrathfully:
 Let's carue him, as a Dish fit for the Gods,
@@ -1263,6 +1267,7 @@ Let not our lookes put on our purposes,
 But beare it as our Roman Actors do,
 With vntyr'd Spirits, and formall Constancie,
 And so good morrow to you euery one.
+
 SD: Exeunt +CASSIUS, +CASKA, +DECIUS, +CINNA, +METELLUS, +TREBONIUS
 SD: Manet +BRUTUS.
 
@@ -1379,7 +1384,7 @@ The secrets of my Heart.
 All my engagements, I will construe to thee,
 All the Charractery of my sad browes:
 Leaue me with hast.
-SD: +PORTIA exits
+PORTIA exits
 SD: Enter +LUCIUS and +LIGARIUS.
 
 +BRUTUS
@@ -1451,19 +1456,19 @@ Nor Heauen, nor Earth, / Haue beene at peace to night:
 Thrice hath Calphurnia, in her sleepe cryed out,
 Helpe, ho: They murther Casar. Who's within?
 
-SD: Enter a +SERUANT.
+SD: Enter a Seruant.
 
-+SERUANT
++SER
 My Lord.
 
 +CAESAR
 Go bid the Priests do present Sacrifice,
 And bring me their opinions of Successe.
 
-+SERUANT
++SER
 I will my Lord.
 
-SD: +SERUANT exits
+SD: +SER exits
 SD: Enter +CALPHURNIA.
 
 +CALPHURNIA
@@ -1509,12 +1514,12 @@ It seemes to me most strange that men should feare,
 Seeing that death, a necessary end
 Will come, when it will come.
 
-SD: Enter a +SERUANT.
+SD: Enter a Seruant.
 
 +CAESAR
 What say the Augurers?
 
-+SERUANT
++SER
 They would not haue you to stirre forth to day.
 Plucking the intrailes of an Offering forth,
 They could not finde a heart within the beast.
@@ -1543,9 +1548,7 @@ Mark Antony shall say I am not well,
 And for thy humor, I will stay at home.
 
 SD: Enter +DECIUS.
-
-+CAESAR
-Heere's Decius Brutus, he shall tell them so.
+SD: +CAESAR Here's +DECIUS BRUTUS, he shall tell them so.
 
 +DECIUS
 Caesar, all haile: Good morrow worthy Casar,
@@ -1619,9 +1622,7 @@ I am ashamed I did yeeld to them.
 Giue me my Robe, for I will go.
 
 SD: Enter +BRUTUS, +LIGARIUS, +METELLUS, +CASKA, +TREBONIUS, +CYNNA, and +PUBLIUS.
-
-+CAESAR
-And looke where Publius is come to fetch me.
+SD: +CAESAR And looke where +PUBLIUS is come to fetch me.
 
 +PUBLIUS
 Good morrow Casar.
@@ -1641,10 +1642,7 @@ Casar, 'tis strucken eight.
 I thanke you for your paines and curtesie.
 
 SD: Enter +ANTONY.
-
-+CAESAR
-See, Antony that Reuels long a-nights
-Is notwithstanding vp. Good morrow Antony.
+SD: +CAESAR See, Antony that Reuels long a-nights Is notwithstanding vp. Good morrow Antony.
 
 +ANTONY
 So to most Noble Casar.
@@ -1663,15 +1661,16 @@ That your best Friends shall wish I had beene further.
 
 +CAESAR
 Good Friends go in, and taste some wine with me.
-And we [like Friends] will straight way go together.
+And we (like Friends) will straight way go together.
 
 +BRUTUS
 That euery like is not the same, O Casar,
 The heart of Brutus earnes to thinke vpon.
 
-SD: Exuent +CAESAR, +BRUTUS, +LIGARIUS, +METELLUS, +CASKA, +TREBONIUS, +CYNNA, +PUBLIUS, +ANTONY, +DECIUS, +SERUANT
+SD: Exeunt +CAESAR, +BRUTUS, +LIGARIUS, +METELLUS, +CASKA, +TREBONIUS, +CYNNA, +PUBLIUS, +ANTONY, +DECIUS
 
-NS: Act 2, scene 3
+NS: Act 2, Scene 3
+
 SD: Enter +ARTEMIDORUS.
 
 +ARTEMIDORUS
@@ -1693,7 +1692,8 @@ If not, the Fates with Traitors do contriue.
 
 SD: +ARTEMIDORUS exits.
 
-NS: Act 2, scene 4
+NS: Act 2, Scene 4
+
 SD: Enter +PORTIA and +LUCIUS.
 
 +PORTIA
@@ -1735,31 +1735,31 @@ And the winde brings it from the Capitoll.
 +LUCIUS
 Sooth Madam, I heare nothing.
 
-SD: Enter the +SOOTHSAYER.
+SD: Enter the Soothsayer.
 
 +PORTIA
 Come hither Fellow, which way hast thou bin?
 
-+SOOTHSAYER
++SOOTH
 At mine owne house, good Lady.
 
 +PORTIA
 What is't a clocke?
 
-+SOOTHSAYER
++SOOTH
 About the ninth houre Lady.
 
 +PORTIA
 Is Casar yet gone to the Capitoll?
 
-+SOOTHSAYER
++SOOTH
 Madam not yet, I go to take my stand,
 To see him passe on to the Capitoll.
 
 +PORTIA
 Thou hast some suite to Casar, hast thou not?
 
-+SOOTHSAYER
++SOOTH
 That I haue Lady, if it will please Casar
 To be so good to Casar, as to heare me:
 I shall beseech him to befriend himselfe.
@@ -1767,16 +1767,16 @@ I shall beseech him to befriend himselfe.
 +PORTIA
 Why know'st thou any harme's intended towards him?
 
-+SOOTHSAYER
++SOOTH
 None that I know will be, / Much that I feare may chance:
 Good morrow to you: heere the street is narrow:
 The throng that followes Casar at the heeles,
 Of Senators, of Praetors, common Sutors,
-Will crowd a feeble man [almost] to death:
+Will crowd a feeble man (almost) to death:
 Ile get me to a place more voyd, and there
 Speake to great Casar as he comes along.
 
-SD: +SOOTHSAYER exits
+SD: Soothsayer exits
 
 +PORTIA
 I must go in: / Aye me! How weake a thing
@@ -1790,30 +1790,31 @@ And bring me word what he doth say to thee.
 
 SD: Exeunt +PORTIA, +LUCIUS
 
-NS: Act 3, scene 1
-SD: Flourish. Enter +CAESAR, +BRUTUS, +CASSIUS, +CASKA, +DECIUS, +METELLUS, +TREBONIUS, +CYNNA, +ANTONY, +LEPIDUS, +ARTIMEDORUS, +PUBLIUS, and the +SOOTHSAYER.
+NS: Act 3, Scene 1
+
+SD: Flourish. Enter +CAESAR, +BRUTUS, +CASSIUS, +CASKA, +DECIUS, +METELLUS, +TREBONIUS, +CYNNA, +ANTONY, +LEPIDUS, +ARTIMEDORUS, +PUBLIUS, and the Soothsayer.
 
 +CAESAR
 The Ides of March are come.
 
-+SOOTHSAYER
++SOOTH
 I Casar, but not gone.
 
-+ARTIMEDORUS
++ART
 Haile Casar: Read this Scedule.
 
 +DECIUS
 Trebonius doth desire you to ore-read
-[At your best leysure] this his humble suite.
+(At your best leysure) this his humble suite.
 
-+ARTIMEDORUS
++ART
 O Casar, reade mine first: for mine's a suite
 That touches Casar neerer. Read it great Casar.
 
 +CAESAR
 What touches vs our selfe, shall be last seru'd.
 
-+ARTIMEDORUS
++ART
 Delay not Casar, read it instantly.
 
 +CAESAR
@@ -1867,7 +1868,7 @@ And presently preferre his suite to Casar.
 +BRUTUS
 He is addrest: presse neere, and second him.
 
-+CINNA
++CIN
 Caska, you are the first that reares your hand.
 
 +CAESAR
@@ -1946,7 +1947,7 @@ Doth not Brutus bootlesse kneele?
 +CASKA
 Speake hands for me.
 
-SD: They stab +CAESAR.
+SD: They stab Casar.
 
 +CAESAR
 Et Tu Brute? ---Then fall Casar.
@@ -1977,7 +1978,7 @@ Where's Publius?
 +CINNA
 Heere, quite confounded with this mutiny.
 
-+METEL
++METELLUS
 Stand fast together, least some Friend of Casars
 Should chance---
 
@@ -2046,12 +2047,12 @@ I, euery man away.
 Brutus shall leade, and we will grace his heeles
 With the most boldest, and best hearts of Rome.
 
-SD: Enter a +SERUANT.
+SD: Enter a Seruant.
 
 +BRUTUS
 Soft, who comes heere? A friend of Antonies.
 
-+SERUANT
++SER
 Thus Brutus did my Master bid me kneele;
 Thus did Mark Antony bid me fall downe,
 And being prostrate, thus he bad me say:
@@ -2075,10 +2076,7 @@ Tell him, so please him come vnto this place
 He shall be satisfied: and by my Honor
 Depart vntouch'd.
 
-+SERUANT
-Ile fetch him presently.
-
-SD: +SERUANT exits.
+SD: Seruant exits.
 
 +BRUTUS
 I know that we shall haue him well to Friend.
@@ -2241,9 +2239,8 @@ I do desire no more.
 +BRUTUS
 Prepare the body then, and follow vs.
 
-SD: Exeunt +BRUTUS, +CASSIUS, +CASKA, +DECIUS, +METELLUS, +TREBONIUS, +CYNNA, +ANTONY, +LEPIDUS, +ARTIMEDORUS, +PUBLIUS, +SOOTHSAYER, +SERUANT
-
-SD: Manet +ANTONY.
+SD: Exeunt +BRUTUS, +CASSIUS, +CASKA, +DECIUS, +METELLUS, +TREBONIUS, +CYNNA, +ANTONY
+SD: Manet Antony.
 
 +ANTONY
 O pardon me, thou bleeding peece of Earth:
@@ -2252,8 +2249,8 @@ Thou art the Ruines of the Noblest man
 That euer liued in the Tide of Times.
 Woe to the hand that shed this costly Blood.
 Ouer thy wounds, now do I Prophesie,
-[Which like dumbe mouthes do ope their Ruby lips,
-To begge the voyce and vtterance of my Tongue]
+(Which like dumbe mouthes do ope their Ruby lips,
+To begge the voyce and vtterance of my Tongue)
 A Curse shall light vpon the limbes of men;
 Domesticke Fury, and fierce Ciuill strife,
 Shall cumber all the parts of Italy:
@@ -2269,18 +2266,18 @@ Cry hauocke, and let slip the Dogges of Warre,
 That this foule deede, shall smell aboue the earth
 With Carrion men, groaning for Buriall.
 
-SD: Enter +OCTAVIO'S SERUANT.
+SD: Enter Octauio's Seruant.
 
 +ANTONY
 You serue Octauius Casar, do you not?
 
-+OCTAVIO'S
++SER
 I do Marke Antony.
 
 +ANTONY
 Casar did write for him to come to Rome.
 
-+OCTAVIO'S
++SER
 He did receiue his Letters, and is comming,
 And bid me say to you by word of mouth---
 O Casar!
@@ -2291,7 +2288,7 @@ Passion I see is catching from mine eyes,
 Seeing those Beads of sorrow stand in thine,
 Began to water. Is thy Master comming?
 
-+OCTAVIO'S
++SER
 He lies to night within seuen Leagues of Rome.
 
 +ANTONY
@@ -2307,7 +2304,7 @@ According to the which, thou shalt discourse
 To yong Octauius, of the state of things.
 Lend me your hand.
 
-SD: Exeunt +ANTONY, +OCTAVIO'S
+SD: Exeunt +ANTONY, +SER
 
 
 
@@ -2331,11 +2328,11 @@ Of Casars death.
 1. PLE
 I will heare Brutus speake.
 
-2. 
+2
 I will heare Cassius, and compare their Reasons,
 When seuerally we heare them rendred.
 
-3. 
+3
 The Noble Brutus is ascended: Silence.
 
 +BRUTUS
@@ -2363,7 +2360,7 @@ Who is heere so vile, that will not loue his Countrey?
 If any, speake, for him haue I offended. I pause for a
 Reply.
 
-ALL
+BRUTUS, CASSIUS, PLE
 None Brutus, none.
 
 +BRUTUS
@@ -2373,88 +2370,81 @@ his death, is inroll'd in the Capitoll: his Glory not extenuated,
 wherein he was worthy; nor his offences enforc'd,
 for which he suffered death.
 
-SD: Enter Mark Antony, with Casars body.
-+BRUTUS
-Heere comes his Body, mourn'd by Marke Antony, who
-though he had no hand in his death, shall receiue the
-benefit of his dying, a place in the C[o]mmonwealth, as
-which of you shall not. With this I depart, that as I
-slewe my best Louer for the good of Rome, I haue the
-same Dagger for my selfe, when it shall please my Country
-to need my death.
+SD: Enter MARK ANTONY, with Casars body. Heere comes his Body, mourn'd by +MARKE ANTONY, who though he had no hand in his death, shall receiue the benefit of his dying, a place in the Cōmonwealth, as which of you shall not. With this I depart, that as I slewe my best Louer for the good of Rome, I haue the same Dagger for my selfe, when it shall please my Country to need my death.
 
-ALL
+BRUTUS, CASSIUS, MARK ANTONY, PLE
 Liue Brutus, liue, liue.
 
-1. 
+1
 Bring him with Triumph home vnto his house.
 
-2. 
+2
 Giue him a Statue with his Ancestors.
 
-3. 
+3
 Let him be Casar.
 
-4. 
+4
 Casars better parts,
 Shall be Crown'd in Brutus.
 
-1. 
+1
 Wee'l bring him to his House, / With Showts and Clamors.
 
 +BRUTUS
 My Country-men.
 
-2. 
+2
 Peace, silence, Brutus speakes.
 
-1. 
+1
 Peace ho.
 
 +BRUTUS
 Good Countrymen, let me depart alone,
-And [for my sake] stay heere with Antony:
+And (for my sake) stay heere with Antony:
 Do grace to Casars Corpes, and grace his Speech
 Tending to Casars Glories, which Marke Antony
-[By our permission] is allow'd to make.
+(By our permission) is allow'd to make.
 I do intreat you, not a man depart,
 Saue I alone, till Antony haue spoke.
 
 SD: +BRUTUS exits
-1. 
+
+1
 Stay ho, and let vs heare Mark Antony.
 
-3. 
+3
 Let him go vp into the publike Chaire,
 Wee'l heare him: Noble Antony go vp.
 
 +ANTONY
 For Brutus sake, I am beholding to you.
 
-4. 
+4
 What does he say of Brutus?
 
-3. 
+3
 He sayes, for Brutus sake
 He findes himselfe beholding to vs all.
 
-4. 
+4
 'Twere best he speake no harme of Brutus heere?
 
-1. 
+1
 This Casar was a Tyrant.
 
-3. 
+3
 Nay that's certaine:
 We are blest that Rome is rid of him.
 
-2. 
+2
 Peace, let vs heare what Antony can say.
 
 +ANTONY
 You gentle Romans.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Peace hoe, let vs heare him.
 
 +ANTONY
@@ -2467,8 +2457,8 @@ Hath told you Casar was Ambitious:
 If it were so, it was a greeuous Fault,
 And greeuously hath Casar answer'd it.
 Heere, vnder leaue of Brutus, and the rest
-[For Brutus is an Honourable man,
-So are they all; all Honourable men]
+(For Brutus is an Honourable man,
+So are they all; all Honourable men)
 Come I to speake in Casars Funerall.
 He was my Friend, faithfull, and iust to me;
 But Brutus sayes, he was Ambitious,
@@ -2494,31 +2484,31 @@ And Men haue lost their Reason. Beare with me,
 My heart is in the Coffin there with Casar,
 And I must pawse, till it come backe to me.
 
-1. 
+1
 Me thinkes there is much reason in his sayings.
 
-2. 
+2
 If thou consider rightly of the matter,
 Casar ha's had great wrong.
 
-3. 
+3
 Ha's hee Masters?
 I feare there will a worse come in his place.
 
-4. 
+4
 Mark'd ye his words? he would not take ye Crown,
 Therefore 'tis certaine, he was not Ambitious.
 
-1. 
+1
 If it be found so, some will deere abide it.
 
-2. 
+2
 Poore soule, his eyes are red as fire with weeping.
 
-3. 
+3
 There's not a Nobler man in Rome then Antony.
 
-4. 
+4
 Now marke him, he begins againe to speake.
 
 +ANTONY
@@ -2528,14 +2518,14 @@ And none so poore to do him reuerence.
 O Maisters! If I were dispos'd to stirre
 Your hearts and mindes to Mutiny and Rage,
 I should do Brutus wrong, and Cassius wrong:
-Who [you all know] are Honourable men.
+Who (you all know) are Honourable men.
 I will not do them wrong: I rather choose
 To wrong the dead, to wrong my selfe and you,
 Then I will wrong such Honourable men.
 But heere's a Parchment, with the Seale of Casar,
 I found it in his Closset, 'tis his Will:
 Let but the Commons heare this Testament:
-[Which pardon me] I do not meane to reade,
+(Which pardon me) I do not meane to reade,
 And they would go and kisse dead Casars wounds,
 And dip their Napkins in his Sacred Blood;
 Yea, begge a haire of him for Memory,
@@ -2543,10 +2533,10 @@ And dying, mention it within their Willes,
 Bequeathing it as a rich Legacie
 Vnto their issue.
 
-4. 
+4
 Wee'l heare the Will, reade it Marke Antony.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 The Will, the Will; we will heare Casars Will.
 
 +ANTONY
@@ -2558,7 +2548,7 @@ It will inflame you, it will make you mad:
 'Tis good you know not that you are his Heires,
 For if you should, O what would come of it?
 
-4. 
+4
 Read the Will, wee'l heare it Antony:
 You shall reade vs the Will, Casars Will.
 
@@ -2568,13 +2558,13 @@ I haue o're-shot my selfe to tell you of it,
 I feare I wrong the Honourable men,
 Whose Daggers haue stabb'd Casar: I do feare it.
 
-4. 
+4
 They were Traitors: Honourable men?
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 The Will, the Testament.
 
-2. 
+2
 They were Villaines, Murderers: the
 Will, read the Will.
 
@@ -2584,28 +2574,28 @@ Then make a Ring about the Corpes of Casar,
 And let me shew you him that made the Will:
 Shall I descend? And will you giue me leaue?
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Come downe.
 
-2. 
+2
 Descend.
 
-3. 
+3
 You shall haue leaue.
 
-4. 
+4
 A Ring, stand round.
 
-1. 
+1
 Stand from the Hearse, stand from the Body.
 
-2. 
+2
 Roome for Antony, most Noble Antony.
 
 +ANTONY
 Nay presse not so vpon me, stand farre off.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Stand backe: roome, beare backe.
 
 +ANTONY
@@ -2629,7 +2619,7 @@ Ingratitude, more strong then Traitors armes,
 Quite vanquish'd him: then burst his Mighty heart,
 And in his Mantle, muffling vp his face,
 Euen at the Base of Pompeyes Statue
-[Which all the while ran blood] great Casar fell.
+(Which all the while ran blood) great Casar fell.
 O what a fall was there, my Countrymen?
 Then I, and you, and all of vs fell downe,
 Whil'st bloody Treason flourish'd ouer vs.
@@ -2639,22 +2629,22 @@ Kinde Soules, what weepe you, when you but behold
 Our Casars Vesture wounded? Looke you heere,
 Heere is Himselfe, marr'd as you see with Traitors.
 
-1. 
+1
 O pitteous spectacle!
 
-2. 
+2
 O Noble Casar!
 
-3. 
+3
 O wofull day!
 
-4. 
+4
 O Traitors, Villaines!
 
-1. 
+1
 O most bloody sight!
 
-2. 
+2
 We will be reueng'd:
 Reuenge / About, seeke, burne, fire, kill, slay, / Let
 not a Traitor liue.
@@ -2662,10 +2652,10 @@ not a Traitor liue.
 +ANTONY
 Stay Country-men.
 
-1. 
+1
 Peace there, heare the Noble Antony.
 
-2. 
+2
 Wee'l heare him, wee'l follow him,
 wee'l dy with him.
 
@@ -2676,9 +2666,9 @@ They that haue done this Deede, are honourable.
 What priuate greefes they haue, alas I know not,
 That made them do it: They are Wise, and Honourable,
 And will no doubt with Reasons answer you.
-I come not [Friends] to steale away your hearts,
+I come not (Friends) to steale away your hearts,
 I am no Orator, as Brutus is;
-But [as you know me all] a plaine blunt man
+But (as you know me all) a plaine blunt man
 That loue my Friend, and that they know full well,
 That gaue me publike leaue to speake of him:
 For I haue neyther writ nor words, nor worth,
@@ -2692,19 +2682,19 @@ Would ruffle vp your Spirits, and put a Tongue
 In euery Wound of Casar, that should moue
 The stones of Rome, to rise and Mutiny.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Wee'l Mutiny.
 
-1. 
+1
 Wee'l burne the house of Brutus.
 
-3. 
+3
 Away then, come, seeke the Conspirators.
 
 +ANTONY
 Yet heare me Countrymen, yet heare me speake
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Peace hoe, heare Antony, most Noble Antony.
 
 +ANTONY
@@ -2713,7 +2703,7 @@ Wherein hath Casar thus deseru'd your loues?
 Alas you know not, I must tell you then:
 You haue forgot the Will I told you of.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Most true, the Will, let's stay and heare the Wil.
 
 +ANTONY
@@ -2721,16 +2711,16 @@ Heere is the Will, and vnder Casars Seale:
 To euery Roman Citizen he giues,
 To euery seuerall man, seuenty fiue Drachmaes.
 
-2 PLE
+2. PLE
 Most Noble Casar, wee'l reuenge his death.
 
-3 PLE
+3. PLE
 O Royall Casar.
 
 +ANTONY
 Heare me with patience.
 
-ALL
+ANTONY, CASSIUS, MARK ANTONY, PLE
 Peace hoe
 
 +ANTONY
@@ -2757,21 +2747,24 @@ Plucke downe Benches.
 Plucke downe Formes, Windowes,
 any thing.
 
-SD: Exit Plebeians.
+SD: Plebeians exits
 
 +ANTONY
 Now let it worke: Mischeefe thou art a-foot,
 Take thou what course thou wilt.
-Enter Seruant.
+
+SD: Enter +SERUANT
+
++ANTONY
 How now Fellow?
 
-SER
++SERUANT
 Sir, Octauius is already come to Rome.
 
 +ANTONY
 Where is hee?
 
-SER
++SERUANT
 He and Lepidus are at Casars house.
 
 +ANTONY
@@ -2779,7 +2772,7 @@ And thither will I straight, to visit him:
 He comes vpon a wish. Fortune is merry,
 And in this mood will giue vs any thing.
 
-SER
++SERUANT
 I heard him say, Brutus and Cassius
 Are rid like Madmen through the Gates of Rome.
 
@@ -2787,7 +2780,7 @@ Are rid like Madmen through the Gates of Rome.
 Belike they had some notice of the people
 How I had moued them. Bring me to Octauius.
 
-SD: Exeunt
+SD: Exeunt +ANTONY, +SERVANT
 
 NS: Act 3 Scene 3
 
@@ -2799,28 +2792,28 @@ And things vnluckily charge my Fantasie:
 I haue no will to wander foorth of doores,
 Yet something leads me foorth.
 
-1. 
+1
 What is your name?
 
-2. 
+2
 Whether are you going?
 
-3. 
+3
 Where do you dwell?
 
-4. 
+4
 Are you a married man, or a Batchellor?
 
-2. 
+2
 Answer euery man directly.
 
-1. 
+1
 I, and breefely.
 
-4. 
+4
 I, and wisely.
 
-3. 
+3
 I, and truly, you were best.
 
 +CINNA
@@ -2829,7 +2822,7 @@ do I dwell? Am I a married man, or a Batchellour? Then to
 answer euery man, directly and breefely, wisely and truly:
 wisely I say, I am a Batchellor.
 
-2. 
+2
 That's as much as to say, they are
 fooles that marrie: you'l beare me a bang for that I feare:
 proceede directly.
@@ -2837,51 +2830,51 @@ proceede directly.
 +CINNA
 Directly I am going to Casars Funerall.
 
-1. 
+1
 As a Friend, or an Enemy?
 
 +CINNA
 As a friend.
 
-2. 
+2
 That matter is answered directly.
 
-4. 
+4
 For your dwelling: breefely.
 
 +CINNA
 Breefely, I dwell by the Capitoll.
 
-3. 
+3
 Your name sir, truly.
 
 +CINNA
 Truly, my name is Cinna.
 
-1. 
+1
 Teare him to peeces, hee's a Conspirator.
 
 +CINNA
 I am Cinna the Poet, I am Cinna the Poet.
 
-4. 
+4
 Teare him for his bad verses, teare him
 for his bad Verses.
 
 +CINNA
 I am not Cinna the Conspirator.
 
-4. 
+4
 It is no matter, his name's Cinna,
 plucke but his name out of his heart, and turne him going.
 
-3. 
+3
 Teare him, tear him;
 Come Brands hoe, Firebrands: to Brutus, to Cassius,
 burne all. Some to Decius House, and some to Caska's;
 some to Ligarius: Away, go.
 
-SD: Exeunt all the Plebeians.
+SD: Exuent +CINNA, All the Plebeians
 
 NS: Act 4 Scene 1
 
@@ -2937,7 +2930,7 @@ To groane and swet vnder the Businesse,
 Either led or driuen, as we point the way:
 And hauing brought our Treasure, where we will,
 Then take we downe his Load, and turne him off
-[Like to the empty Asse] to shake his eares,
+(Like to the empty Asse) to shake his eares,
 And graze in Commons.
 
 +OCTAVIUS
@@ -2971,23 +2964,22 @@ And bayed about with many Enemies,
 And some that smile haue in their hearts I feare
 Millions of Mischeefes.
 
-SD: Exeunt
+SD: Exeunt +ANTONY, +OCTAVIUS
 
 NS: Act 4 Scene 2
 
-SD: Drum.
-Enter +BRUTUS, Lucillius, and the Army. Titinius and Pindarus meete them.
+SD: Drum. Enter +BRUTUS, Lucillius, and the Army. Titinius and Pindarus meete them.
 
 +BRUTUS
 Stand ho.
 
-LUCIL
++LUCILLIUS
 Giue the word ho, and Stand.
 
 +BRUTUS
 What now Lucillius, is Cassius neere?
 
-LUCIL
++LUCILLIUS
 He is at hand, and Pindarus is come
 To do you salutation from his Master.
 
@@ -2998,7 +2990,7 @@ Hath giuen me some worthy cause to wish
 Things done, vndone: But if he be at hand
 I shall be satisfied.
 
-PIN
++PIN
 I do not doubt
 But that my Noble Master will appeare
 Such as he is, full of regard, and Honour.
@@ -3007,7 +2999,7 @@ Such as he is, full of regard, and Honour.
 He is not doubted. A word Lucillius
 How he receiu'd you: let me be resolu'd.
 
-LUCIL
++LUCILLIUS
 With courtesie, and with respect enough,
 But not with such familiar instances,
 Nor with such free and friendly Conference
@@ -3022,21 +3014,16 @@ There are no trickes, in plaine and simple Faith:
 But hollow men, like Horses hot at hand,
 Make gallant shew, and promise of their Mettle:
 
-SD: Low March within.
-+BRUTUS
-But when they should endure the bloody Spurre,
+SD: Low March within. But when They should endure the bloody Spurre,
 They fall their Crests, and like deceitfull Iades
 Sinke in the Triall. Comes his Army on?
 
-LUCIL
++LUCILLIUS
 They meane this night in Sardis to be quarter'd:
 The greater part, the Horse in generall
 Are come with Cassius.
 
-SD: Enter +CASSIUS and his Powers.
-LUCIL
-Hearke, he is arriu'd:
-March gently on to meete him.
+SD: Enter +CASSIUS and his Powers. Hearke, he is arriu'd: March gently on to meete him.
 
 +CASSIUS
 Stand ho.
@@ -3061,7 +3048,7 @@ And when you do them---
 Cassius, be content,
 Speake your greefes softly, I do know you well.
 Before the eyes of both our Armies heere
-[Which should perceiue nothing but Loue from vs]
+(Which should perceiue nothing but Loue from vs)
 Let vs not wrangle. Bid them moue away:
 Then in my Tent Cassius enlarge your Greefes,
 And I will giue you Audience.
@@ -3076,46 +3063,46 @@ Lucillius, do you the like, and let no man
 Come to our Tent, till we haue done our Conference.
 Let Lucilius and Titinius guard our doore.
 
-SD: Exeunt / Manet +BRUTUS and +CASSIUS
+SD: Exeunt +LUCILLIUS, +TITINIUS Manet +BRUTUS and +CASSIUS
 
 
 
 
 NS: Act 4, Scene 3
 
-+CASSIUS
++CASSI
 That you haue wrong'd me, doth appear in this:
 You haue condemn'd, and noted Lucius Pella
 For taking Bribes heere of the Sardians;
 Wherein my Letters, praying on his side,
 Because I knew the man was slighted off.
 
-+BRUTUS
++BRU
 You wrong'd your selfe to write in such a case.
 
-+CASSIUS
++CASSI
 In such a time as this, it is not meet
 That euery nice offence should beare his Comment.
 
-+BRUTUS
++BRU
 Let me tell you Cassius, you your selfe
 Are much condemn'd to haue an itching Palme,
 To sell, and Mart your Offices for Gold
 To Vndeseruers.
 
-+CASSIUS
++CASSI
 I, an itching Palme?
 You know that you are Brutus that speakes this,
 Or by the Gods, this speech were else your last.
 
-+BRUTUS
++BRU
 The name of Cassius Honors this corruption,
 And Chasticement doth therefore hide his head.
 
-+CASSIUS
++CASSI
 Chasticement?
 
-+BRUTUS
++BRU
 Remember March, the Ides of March remẽber:
 Did not great Iulius bleede for Iustice sake?
 What Villaine touch'd his body, that did stab,
@@ -3128,41 +3115,41 @@ For so much trash, as may be grasped thus?
 I had rather be a Dogge, and bay the Moone,
 Then such a Roman.
 
-+CASSIUS
++CASSI
 Brutus, baite not me,
 Ile not indure it: you forget your selfe
 To hedge me in. I am a Souldier, I,
 Older in practice, Abler then your selfe
 To make Conditions.
 
-+BRUTUS
++BRU
 Go too: you are not Cassius.
 
-+CASSIUS
++CASSI
 I am.
 
-+BRUTUS
++BRU
 I say, you are not.
 
-+CASSIUS
++CASSI
 Vrge me no more, I shall forget my selfe:
 Haue minde vpon your health: Tempt me no farther.
 
-+BRUTUS
++BRU
 Away slight man.
 
-+CASSIUS
++CASSI
 Is't possible?
 
-+BRUTUS
++BRU
 Heare me, for I will speake.
 Must I giue way, and roome to your rash Choller?
 Shall I be frighted, when a Madman stares?
 
-+CASSIUS
++CASSI
 O ye Gods, ye Gods, Must I endure all this?
 
-+BRUTUS
++BRU
 All this? I more: Fret till your proud hart break.
 Go shew your Slaues how Chollericke you are,
 And make your Bondmen tremble. Must I bouge?
@@ -3173,46 +3160,46 @@ Though it do Split you. For, from this day forth,
 Ile vse you for my Mirth, yea for my Laughter
 When you are Waspish.
 
-+CASSIUS
++CASSI
 Is it come to this?
 
-+BRUTUS
++BRU
 You say, you are a better Souldier:
 Let it appeare so; make your vaunting true,
 And it shall please me well. For mine owne part,
 I shall be glad to learne of Noble men.
 
-+CASSIUS
++CASSI
 You wrong me euery way: / You wrong me Brutus:
 I saide, an Elder Souldier, not a Better.
 Did I say Better?
 
-+BRUTUS
++BRU
 If you did, I care not.
 
-+CASSIUS
++CASSI
 When Casar liu'd, he durst not thus haue mou'd me.
 
-+BRUTUS
++BRU
 Peace, peace, you durst not so haue tempted him.
 
-+CASSIUS
++CASSI
 I durst not.
 
-+BRUTUS
++BRU
 No.
 
-+CASSIUS
++CASSI
 What? durst not tempt him?
 
-+BRUTUS
++BRU
 For your life you durst not.
 
-+CASSIUS
++CASSI
 Do not presume too much vpon my Loue,
 I may do that I shall be sorry for.
 
-+BRUTUS
++BRU
 You haue done that you should be sorry for.
 There is no terror Cassius in your threats:
 For I am Arm'd so strong in Honesty,
@@ -3232,35 +3219,35 @@ To locke such Rascall Counters from his Friends,
 Be ready Gods with all your Thunder-bolts,
 Dash him to peeces.
 
-+CASSIUS
++CASSI
 I deny'd you not.
 
-+BRUTUS
++BRU
 You did.
 
-+CASSIUS
++CASSI
 I did not. He was but a Foole / That brought
 my answer back. Brutus hath riu'd my hart:
 A Friend should beare his Friends infirmities;
 But Brutus makes mine greater then they are.
 
-+BRUTUS
++BRU
 I do not, till you practice them on me.
 
-+CASSIUS
++CASSI
 You loue me not.
 
-+BRUTUS
++BRU
 I do not like your faults.
 
-+CASSIUS
++CASSI
 A friendly eye could neuer see such faults.
 
-+BRUTUS
++BRU
 A Flatterers would not, though they do appeare
 As huge as high Olympus.
 
-+CASSIUS
++CASSI
 Come Antony, and yong Octauius come,
 Reuenge your selues alone on Cassius,
 For Cassius is a-weary of the World:
@@ -3277,7 +3264,7 @@ Strike as thou did'st at Casar: For I know,
 When thou did'st hate him worst, yu loued'st him better
 Then euer thou loued'st Cassius.
 
-+BRUTUS
++BRU
 Sheath your Dagger:
 Be angry when you will, it shall haue scope:
 Do what you will, Dishonor, shall be Humour.
@@ -3286,49 +3273,49 @@ That carries Anger, as the Flint beares fire,
 Who much inforced, shewes a hastie Sparke,
 And straite is cold agen.
 
-+CASSIUS
++CASSI
 Hath Cassius liu'd
 To be but Mirth and Laughter to his Brutus,
 When greefe and blood ill temper'd, vexeth him?
 
-+BRUTUS
++BRU
 When I spoke that, I was ill remper'd too.
 
-+CASSIUS
++CASSI
 Do you confesse so much? Giue me your hand.
 
-+BRUTUS
++BRU
 And my heart too.
 
-+CASSIUS
++CASSI
 O Brutus!
 
-+BRUTUS
++BRU
 What's the matter?
 
-+CASSIUS
++CASSI
 Haue not you loue enough to beare with me,
 When that rash humour which my Mother gaue me
 Makes me forgetfull.
 
-+BRUTUS
++BRU
 Yes Cassius, and from henceforth
 When you are ouer-earnest with your Brutus,
 Hee'l thinke your Mother chides, and leaue you so.
-SD: Enter a Poet.
 
+SD: Enter a +Poet.
 +POET
 Let me go in to see the Generals,
 There is some grudge betweene 'em, 'tis not meete
 They be alone.
 
-+LUCILIUS
++LUCIL
 You shall not come to them.
 
 +POET
 Nothing but death shall stay me.
 
-+CASSIUS
++CASSI
 How now? What's the matter?
 
 +POET
@@ -3336,169 +3323,170 @@ For shame you Generals; what do you meane?
 Loue, and be Friends, as two such men should bee,
 For I haue seene more yeeres I'me sure then yee.
 
-+CASSIUS
++CASSI
 Ha, ha, how vildely doth this Cynicke rime?
 
-+BRUTUS
++BRU
 Get you hence sirra: Sawcy Fellow, hence.
 
-+CASSIUS
++CASSI
 Beare with him Brutus, 'tis his fashion.
 
-+BRUTUS
++BRU
 Ile know his humor, when he knowes his time:
 What should the Warres do with these Iigging Fooles?
 Companion, hence.
 
-+CASSIUS
++CASSI
 Away, away be gone.
-SD: +POET exits
-+BRUTUS
+
+CASSI exits
++BRU
 Lucillius and Titinius bid the Commanders
 Prepare to lodge their Companies to night.
 
-+CASSIUS
++CASSI
 And come your selues, & bring Messala with you
 Immediately to vs.
 
-+BRUTUS
++BRU
 Lucius, a bowle of Wine.
 
-+CASSIUS
++CASSI
 I did not thinke you could haue bin so angry.
 
-+BRUTUS
++BRU
 O Cassius, I am sicke of many greefes.
 
-+CASSIUS
++CASSI
 Of your Philosophy you make no vse,
 If you giue place to accidentall euils.
 
-+BRUTUS
++BRU
 No man beares sorrow better. Portia is dead.
 
-+CASSIUS
++CASSI
 Ha? Portia?
 
-+BRUTUS
++BRU
 She is dead.
 
-+CASSIUS
++CASSI
 How scap'd I killing, when I crost you so?
 O insupportable, and touching losse!
 Vpon what sicknesse?
 
-+BRUTUS
++BRU
 Impatient of my absence,
 And greefe, that yong Octauius with Mark Antony
 Haue made themselues so strong: For with her death
 That tydings came. With this she fell distract,
-And [her Attendants absent] swallow'd fire.
+And (her Attendants absent) swallow'd fire.
 
-+CASSIUS
++CASSI
 And dy'd so?
 
-+BRUTUS
++BRU
 Euen so.
 
-+CASSIUS
++CASSI
 O ye immortall Gods!
-SD: Enter Boy with Wine, and Tapers.
 
-+BRUTUS
+SD: Enter +Boy with Wine, and Tapers.
++BRU
 Speak no more of her: Giue me a bowl of wine,
 In this I bury all vnkindnesse Cassius.
-SD: +BRUTUS Drinkes
 
-+CASSIUS
+SD: Drinkes
++CASSI
 My heart is thirsty for that Noble pledge.
 Fill Lucius, till the Wine ore-swell the Cup:
 I cannot drinke too much of Brutus loue.
-SD: Enter +TITINIUS and +MESSALA.
 
-+BRUTUS
+SD: Enter +Titinius and +Messala.
++BRU
 Come in Titinius: / Welcome good Messala:
 Now sit we close about this Taper heere,
 And call in question our necessities.
 
-+CASSIUS
++CASSI
 Portia, art thou gone?
 
-+BRUTUS
++BRU
 No more I pray you.
 Messala, I haue heere receiued Letters,
 That yong Octauius, and Marke Antony
 Come downe vpon vs with a mighty power,
 Bending their Expedition toward Philippi.
 
-+MESSALA
++MESS
 My selfe haue Letters of the selfe-same Tenure.
 
-+BRUTUS
++BRU
 With what Addition.
 
-+MESSALA
++MESS
 That by proscription, and billes of Outlarie,
 Octauius, Antony, and Lepidus,
 Haue put to death, an hundred Senators.
 
-+BRUTUS
++BRU
 Therein our Letters do not well agree:
 Mine speake of seuenty Senators, that dy'de
 By their proscriptions, Cicero being one.
 
-+CASSIUS
++CASSI
 Cicero one?
 
-+MESSALA
++MESS
 Cicero is dead,
 and by that order of proscription
 Had you your Letters from your wife, my Lord?
 
-+BRUTUS
++BRU
 No Messala.
 
-+MESSALA
++MESS
 Nor nothing in your Letters writ of her?
 
-+BRUTUS
++BRU
 Nothing Messala.
 
-+MESSALA
++MESS
 That me thinkes is strange.
 Then like a Roman, beare the truth I tell,
 For certaine she is dead, and by strange manner.
 
-+BRUTUS
++BRU
 Why farewell Portia: We must die Messala:
 With meditating that she must dye once,
 I haue the patience to endure it now.
 
-+MESSALA
++MESS
 Euen so great men, great losses shold indure.
 
-+CASSIUS
++CASSI
 I haue as much of this in Art as you,
 But yet my Nature could not beare it so.
 
-+BRUTUS
++BRU
 Well, to our worke aliue. What do you thinke
 Of marching to Philippi presently.
 
-+CASSIUS
++CASSI
 I do not thinke it good.
 
-+BRUTUS
++BRU
 Your reason?
 
-+CASSIUS
++CASSI
 This it is:
 'Tis better that the Enemie seeke vs,
 So shall he waste his meanes, weary his Souldiers,
 Doing himselfe offence, whil'st we lying still,
 Are full of rest, defence, and nimblenesse.
 
-+BRUTUS
++BRU
 Good reasons must of force giue place to better:
 The people 'twixt Philippi, and this ground
 Do stand but in a forc'd affection:
@@ -3510,10 +3498,10 @@ From which aduantage shall we cut him off.
 If at Philippi we do face him there,
 These people at our backe.
 
-+CASSIUS
++CASSI
 Heare me good Brother.
 
-+BRUTUS
++BRU
 Vnder your pardon. You must note beside,
 That we haue tride the vtmost of our Friends:
 Our Legions are brim full, our cause is ripe,
@@ -3527,123 +3515,133 @@ On such a full Sea are we now a-float,
 And we must take the current when it serues,
 Or loose our Ventures.
 
-+CASSIUS
++CASSI
 Then with your will go on: wee'l along
 Our selues, and meet them at Philippi.
 
-+BRUTUS
++BRU
 The deepe of night is crept vpon our talke,
 And Nature must obey Necessitie,
 Which we will niggard with a little rest:
 There is no more to say.
 
-+CASSIUS
++CASSI
 No more, good night,
 Early to morrow will we rise, and hence.
 
-+BRUTUS
++BRU
 Lucius
-SD: Enter +LUCIUS.
+
+SD: Enter +Lucius.
++BRU
 my Gowne:
 farewell good Messala,
 Good night Titinius: Noble, Noble Cassius,
 Good night, and good repose.
 
-+CASSIUS
++CASSI
 O my deere Brother:
 This was an ill beginning of the night:
 Neuer come such diuision 'tweene our soules:
 Let it not Brutus.
-SD: Enter +LUCIUS with the Gowne.
 
-+BRUTUS
+SD: Enter +Lucius with the Gowne.
++BRU
 Euery thing is well.
 
-+CASSIUS
++CASSI
 Good night my Lord.
 
-+BRUTUS
++BRU
 Good night good Brother.
 
-+TITINIUS, +MESSALA
++TIT
 Good night Lord Brutus.
 
-+BRUTUS
-Farwell euery one.
-SD: +BRUTUS, +CASSIUS, +TITINIUS, +MESSALA exits
-SD: Giue me the Gowne. Where is thy Instrument?
++MESS
+Good night Lord Brutus.
 
-+LUCIUS
++BRU
+Farwell euery one.
+
+SD: BRUTUS exits
+SD: +TITANIUS, +MESSALA exuent
++BRU
+Giue me the Gowne. Where is thy Instrument?
+
++LUC
 Heere in the Tent.
 
-+BRUTUS
++BRU
 What, thou speak'st drowsily?
 Poore knaue I blame thee not, thou art ore-watch'd.
 Call Claudio, and some other of my men,
 Ile haue them sleepe on Cushions in my Tent.
 
-+LUCIUS
++LUC
 Varrus, and Claudio.
-SD: Enter +VARRUS and +CLAUDIO.
 
-+VARRUS
+SD: Enter +Varrus and +Claudio.
++VAR
 Cals my Lord?
 
-+BRUTUS
++BRU
 I pray you sirs, lye in my Tent and sleepe,
 It may be I shall raise you by and by
 On businesse to my Brother Cassius.
 
-+VARRUS
++VAR
 So please you, we will stand, / And watch your pleasure.
 
-+BRUTUS
++BRU
 I will it not haue it so: Lye downe good sirs,
 It may be I shall otherwise bethinke me.
 Looke Lucius, heere's the booke I sought for so:
 I put it in the pocket of my Gowne.
 
-+LUCIUS
++LUC
 I was sure your Lordship did not giue it me.
 
-+BRUTUS
++BRU
 Beare with me good Boy, I am much forgetfull.
 Canst thou hold vp thy heauie eyes a-while,
 And touch thy Instrument a straine or two.
 
-+LUCIUS
++LUC
 I my Lord, an't please you.
 
-+BRUTUS
++BRU
 It does my Boy:
 I trouble thee too much, but thou art willing.
 
-+LUCIUS
++LUC
 It is my duty Sir.
 
-+BRUTUS
++BRU
 I should not vrge thy duty past thy might,
 I know yong bloods looke for a time of rest.
 
-+LUCIUS
++LUC
 I haue slept my Lord already.
 
-+BRUTUS
++BRU
 It was well done, and thou shalt sleepe againe:
 I will not hold thee long. If I do liue,
 I will be good to thee.
+
 SD: Musicke, and a Song.
-SD: +BRUTUS This is a sleepy Tune: O Murd'rous slumbler!
++BRU
+This is a sleepy Tune: O Murd'rous slumbler!
 Layest thou thy Leaden Mace vpon my Boy,
 That playes thee Musicke? Gentle knaue good night:
 I will not do thee so much wrong to wake thee:
 If thou do'st nod, thou break'st thy Instrument,
-Ile take it from thee, and [good Boy] good night.
+Ile take it from thee, and (good Boy) good night.
 Let me see, let me see; is not the Leafe turn'd downe
 Where I left reading? Heere it is I thinke.
-SD: Enter the Ghost of Casar.
 
-+BRUTUS
+SD: Enter the +Ghost of Casar.
++BRU
 How ill this Taper burnes. Ha! Who comes heere?
 I thinke it is the weakenesse of mine eyes
 That shapes this monstrous Apparition.
@@ -3655,85 +3653,92 @@ Speake to me, what thou art.
 +GHOST
 Thy euill Spirit Brutus?
 
-+BRUTUS
++BRU
 Why com'st thou?
 
 +GHOST
 To tell thee thou shalt see me at Philippi.
 
-+BRUTUS
++BRU
 Well: then I shall see thee againe?
 
 +GHOST
 I, at Philippi.
 
-+BRUTUS
++BRU
 Why I will see thee at Philippi then:
 Now I haue taken heart, thou vanishest.
 Ill Spirit, I would hold more talke with thee.
 Boy, Lucius, Varrus, Claudio, Sirs: Awake:
-Claudio.
 
-+LUCIUS
++CLAU
 The strings my Lord, are false.
 
-+BRUTUS
++LUC
+The strings my Lord, are false.
+
++BRU
 He thinkes he still is at his Instrument.
 Lucius, awake.
 
-+LUCIUS
++LUC
 My Lord.
 
-+BRUTUS
++BRU
 Did'st thou dreame Lucius, that thou so cryedst out?
 
-+LUCIUS
++LUC
 My Lord, I do not know that I did cry.
 
-+BRUTUS
++BRU
 Yes that thou did'st: Did'st thou see any thing?
 
-+LUCIUS
++LUC
 Nothing my Lord.
 
-+BRUTUS
++BRU
 Sleepe againe Lucius: Sirra Claudio,
 Fellow, / Thou: Awake.
 
-+VARRUS
++VAR
 My Lord.
 
-+CLAUDIO
++CLAU
 My Lord.
 
-+BRUTUS
++BRU
 Why did you so cry out sirs, in your sleepe?
 
-+VARRUS, +CLAUDIO
++VAR
 Did we my Lord?
 
-+BRUTUS
++CLAU
+Did we my Lord?
+
++BRU
 I: saw you any thing?
 
-+VARRUS
++VAR
 No my Lord, I saw nothing.
 
-+CLAUDIO
++CLAU
 Nor I my Lord.
 
-+BRUTUS
++BRU
 Go, and commend me to my Brother Cassius:
 Bid him set on his Powres betimes before,
 
-+VARRUS, +CLAUDIO
++VAR
 It shall be done my Lord.
-SD: +VARRUS, +CLAUDIO exits
+
++CLAU
+It shall be done my Lord.
+
+SD: +VAR, +CLAU exuent
 
 NS: Act 5, Scene 1
-
-SD: Enter +OCTAVIUS, +ANTONY, and their Army.
-
-+OCTAVIUS
+SD: Enter +Octauius, +Antony, and their Army.
++OCTA
 Now Antony, our hopes are answered,
 You said the Enemy would not come downe,
 But keepe the Hilles and vpper Regions:
@@ -3741,81 +3746,80 @@ It proues not so: their battailes are at hand,
 They meane to warne vs at Philippi heere:
 Answering before we do demand of them.
 
-+ANTONY
++ANT
 Tut I am in their bosomes, and I know
 Wherefore they do it: They could be content
 To visit other places, and come downe
 With fearefull brauery: thinking by this face
 To fasten in our thoughts that they haue Courage;
 But 'tis not so.
-SD: Enter a Messenger.
 
-+MESSENGER
+SD: Enter a +Messenger.
++MES
 Prepare you Generals,
 The Enemy comes on in gallant shew:
 Their bloody signe of Battell is hung out,
 And something to be done immediately.
 
-+ANTONY
++ANT
 Octauius, leade your Battaile softly on
 Vpon the left hand of the euen Field.
 
-+OCTAVIUS
++OCTA
 Vpon the right hand I, keepe thou the left.
 
-+ANTONY
++ANT
 Why do you crosse me in this exigent.
 
-+OCTAVIUS
++OCTA
 I do not crosse you: but I will do so.
-SD: March. Drum.
-SD: Enter +BRUTUS, +CASSIUS, & their Army.
 
-+BRUTUS
+SD: March. Drum. Enter +Brutus, +Cassius, & their Army.
++BRU
 They stand, and would haue parley.
 
-+CASSIUS
++CASSI
 Stand fast Titinius, we must out and talke.
 
-+OCTAVIUS
++OCTA
 Mark Antony, shall we giue signe of Battaile?
 
-+ANTONY
++ANT
 No Casar, we will answer on their Charge.
 Make forth, the Generals would haue some words.
 
-+OCTAVIUS
++OCT
 Stirre not vntill the Signall.
 
-+BRUTUS
++BRU
 Words before blowes: is it so Countrymen?
 
-+OCTAVIUS
++OCTA
 Not that we loue words better, as you do.
 
-+BRUTUS
++BRU
 Good words are better then bad strokes Octauius.
 
-+ANTONY
++AN
 In your bad strokes Brutus, you giue good words
 Witnesse the hole you made in Casars heart,
 Crying long liue, Haile Casar.
 
-+CASSIUS
++CASSI
 Antony,
 The posture of your blowes are yet vnknowne;
 But for your words, they rob the Hibla Bees,
 And leaue them Hony-lesse.
 
-+ANTONY
++ANT
 Not stinglesse too.
 
-+BRUTUS
++BRU
 O yes, and soundlesse too:
 For you haue stolne their buzzing Antony,
 And very wisely threat before you sting.
 
-+ANTONY
++ANT
 Villains: you did not so, when your vile daggers
 Hackt one another in the sides of Casar:
 You shew'd your teethes like Apes, / And fawn'd like Hounds,
@@ -3823,12 +3827,12 @@ And bow'd like Bondmen, kissing Casars feete;
 Whil'st damned Caska, like a Curre, behinde
 Strooke Casar on the necke. O you Flatterers.
 
-+CASSIUS
++CASSI
 Flatterers? Now Brutus thanke your selfe,
 This tongue had not offended so to day,
 If Cassius might haue rul'd.
 
-+OCTAVIUS
++OCTA
 Come, come, the cause. If arguing make vs swet,
 The proofe of it will turne to redder drops:
 Looke,
@@ -3838,55 +3842,55 @@ Neuer till Casars three and thirtie wounds
 Be well aueng'd; or till another Casar
 Haue added slaughter to the Sword of Traitors.
 
-+BRUTUS
++BRU
 Casar, thou canst not dye by Traitors hands,
 Vnlesse thou bring'st them with thee.
 
-+OCTAVIUS
++OCTA
 So I hope:
 I was not borne to dye on Brutus Sword.
 
-+BRUTUS
++BRU
 O if thou wer't the Noblest of thy Straine,
 Yong-man, thou could'st not dye more honourable.
 
-+CASSIUS
++CASSI
 A peeuish School-boy, worthles of such Honor
 Ioyn'd with a Masker, and a Reueller.
 
-+ANTONY
++ANT
 Old Cassius still.
 
-+OCTAVIUS
++OCTA
 Come Antony: away:
 Defiance Traitors, hurle we in your teeth.
 If you dare fight to day, come to the Field;
 If not, when you haue stomackes.
-SD: +OCTAVIUS, +ANTONY, and Army exits
 
-+CASSIUS
+SD: Octavius, Antony, and Army exit
++CASSI
 Why now blow winde, swell Billow, / And swimme Barke:
 The Storme is vp, and all is on the hazard.
 
-+BRUTUS
++BRU
 Ho Lucillius, hearke, a word with you.
 
-+LUCILIUS
++LUC
 My Lord.
-SD: +LUCILIUS and Messala stand forth.
 
-+CASSIUS
+SD: +Lucillius and +Messala stand forth.
++CASSI
 Messala.
 
-+MESSALA
++MESS
 What sayes my Generall?
 
-+CASSIUS
++CASSI
 Messala,
 this is my Birth-day: as this very day
 Was Cassius borne. Giue me thy hand Messala:
 Be thou my witnesse, that against my will
-[As Pompey was] am I compell'd to set
+(As Pompey was) am I compell'd to set
 Vpon one Battell all our Liberties.
 You know, that I held Epicurus strong,
 And his Opinion: Now I change my minde,
@@ -3902,18 +3906,18 @@ As we were sickely prey; their shadowes seeme
 A Canopy most fatall, vnder which
 Our Army lies, ready to giue vp the Ghost.
 
-+MESSALA
++MESS
 Beleeue not so.
 
-+CASSIUS
++CASSI
 I but beleeue it partly,
 For I am fresh of spirit, and resolu'd
 To meete all perils, very constantly.
 
-+BRUTUS
++BRU
 Euen so Lucillius.
 
-+CASSIUS
++CASSI
 Now most Noble Brutus,
 The Gods to day stand friendly, that we may
 Louers in peace, leade on our dayes to age.
@@ -3923,7 +3927,7 @@ If we do lose this Battaile, then is this
 The very last time we shall speake together:
 What are you then determined to do?
 
-+BRUTUS
++BRU
 Euen by the rule of that Philosophy,
 By which I did blame Cato, for the death
 Which he did giue himselfe, I know not how:
@@ -3933,12 +3937,12 @@ The time of life, arming my selfe with patience,
 To stay the prouidence of some high Powers,
 That gouerne vs below.
 
-+CASSIUS
++CASSI
 Then, if we loose this Battaile,
 You are contented to be led in Triumph
 Thorow the streets of Rome.
 
-+BRUTUS
++BRU
 No Cassius, no: / Thinke not thou Noble Romane,
 That euer Brutus will go bound to Rome,
 He beares too great a minde. But this same day
@@ -3949,31 +3953,33 @@ For euer, and for euer, farewell Cassius,
 If we do meete againe, why we shall smile;
 If not, why then this parting was well made.
 
-+CASSIUS
++CASSI
 For euer, and for euer, farewell Brutus:
 If we do meete againe, wee'l smile indeede;
 If not, 'tis true, this parting was well made.
 
-+BRUTUS
++BRU
 Why then leade on. O that a man might know
 The end of this dayes businesse, ere it come:
 But it sufficeth, that the day will end,
 And then the end is knowne. Come ho, away.
-SD: +BRUTUS, +CASSIUS, +LUCILIUS, +MESSALA Exeunt.
+
+SD: +BRU, +CASSI, +LUC, +MESS exuent
 
 NS: Act 5, Scene 2
-SD: Alarum.
-SD: Enter +BRUTUS and +MESSALA.
-
-+BRUTUS
+SD: Alarum. Enter +Brutus and +Messala.
++BRU
 Ride, ride Messala, ride and giue these Billes
 Vnto the Legions, on the other side.
+
 SD: Lowd Alarum.
++BRU
 Let them set on at once: for I perceiue
 But cold demeanor in Octauio's wing:
 And sodaine push giues them the ouerthrow:
 Ride, ride Messala, let them all come downe.
-SD: +BRUTUS, +MESSALA Exeunt
+
+SD: +BRU, +MESS exuent
 
 
 
@@ -3981,6 +3987,7 @@ SD: +BRUTUS, +MESSALA Exeunt
 NS: Act 5 Scene 3
 
 SD: Alarums. Enter +CASSIUS and +TITINIUS.
+
 +CASSIUS
 O looke Titinius, looke, the Villaines flye:
 My selfe haue to mine owne turn'd Enemy:
@@ -3994,6 +4001,7 @@ Tooke it too eagerly: his Soldiers fell to spoyle,
 Whil'st we by Antony are all inclos'd.
 
 SD: Enter +PINDARUS.
+
 +PINDARUS
 Fly further off my Lord: flye further off,
 Mark Antony is in your Tents my Lord:
@@ -4017,6 +4025,7 @@ Whether yond Troopes, are Friend or Enemy.
 I will be heere againe, euen with a thought.
 
 SD: +TITINIUS exits.
+
 +CASSIUS
 Go Pindarus, get higher on that hill,
 My sight was euer thicke: regard Titinius,
@@ -4040,6 +4049,7 @@ Now Titinius. Now some light: O he lights too.
 Hee's tane.
 
 SD: Showt.
+
 +PINDARUS
 And hearke, they shout for ioy.
 
@@ -4049,6 +4059,7 @@ O Coward that I am, to liue so long,
 To see my best Friend tane before my face.
 
 SD: Enter +PINDARUS.
+
 +CASSIUS
 Come hither sirrah:
 In Parthia did I take thee Prisoner,
@@ -4068,8 +4079,10 @@ Durst I haue done my will. O Cassius,
 Farre from this Country Pindarus shall run,
 Where neuer Roman shall take note of him.
 
-SD: +PINDARUS exits.
+SD: +PINDARUS exits
+
 SD: Enter +TITINIUS and +MESSALA.
+
 +MESSALA
 It is but change, Titinius: for Octauius
 Is ouerthrowne by Noble Brutus power,
@@ -4138,7 +4151,8 @@ By your leaue Gods: This is a Romans part,
 Come Cassius Sword, and finde Titinius hart.
 
 SD: +TITINIUS dies
-SD: Alarum. Enter +BRUTUS, +MESSALA, +CATO, +STRATO, +VOLUMNIUS, and +LUCILLIUS.
+SD: Alarum. Enter +BRUTUS, +MESSALA, yong +CATO, +STRATO, +VOLUMNIUS, and +LUCILLIUS.
+
 +BRUTUS
 Where, where Messala, doth his body lye?
 
@@ -4157,6 +4171,7 @@ Thy Spirit walkes abroad, and turnes our Swords
 In our owne proper Entrailes.
 
 SD: Low Alarums.
+
 +CATO
 Braue Titinius,
 Looke where he haue not crown'd dead Cassius.
@@ -4176,11 +4191,12 @@ Labio and Flauio set our Battailes on:
 'Tis three a clocke, and Romans yet ere night,
 We shall try Fortune in a second fight.
 
-SD: Exeunt +BRUTUS, +MESSALA, +CATO, +STRATO, +VOLUMNIUS, +LUCILLIUS.
+SD: Exeunt +BRUTUS, +MESSALA, +CATO, +LUCILLIUS, +STRATO, +VOLUMNIUS
 
-NS: Act 5 Scene 4
+NS: Act 5, scene 4
 
 SD: Alarum. Enter +BRUTUS, +MESSALA, +CATO, +LUCILLIUS, and +FLAVIUS.
+
 +BRUTUS
 Yet Country-men: O yet, hold vp your heads.
 
@@ -4192,7 +4208,8 @@ A Foe to Tyrants, and my Countries Friend.
 I am the Sonne of Marcus Cato, hoe.
 
 SD: Enter Souldiers, and fight.
-+CATO
+
+SD: HE
 And I am Brutus, Marcus Brutus, I,
 Brutus my Countries Friend: Know me for Brutus.
 
@@ -4201,7 +4218,7 @@ O yong and Noble Cato, art thou downe?
 Why now thou dyest, as brauely as Titinius,
 And may'st be honour'd, being Cato's Sonne.
 
-+Sold
++SOLD
 Yeeld, or thou dyest.
 
 +LUCILLIUS
@@ -4209,14 +4226,15 @@ Onely I yeeld to dye:
 There is so much, that thou wilt kill me straight:
 Kill Brutus, and be honour'd in his death.
 
-+Sold
++SOLD
 We must not: a Noble Prisoner.
 
 SD: Enter +ANTONY.
-+Sold
+
++2. SOLD
 Roome hoe: tell Antony, Brutus is tane.
 
-+Sold
++1. SOLD
 Ile tell thee newes. Heere comes the Generall,
 Brutus is tane, Brutus is tane my Lord.
 
@@ -4240,11 +4258,12 @@ And see where Brutus be aliue or dead,
 And bring vs word, vnto Octauius Tent:
 How euery thing is chanc'd.
 
-SD: Exeunt.
+SD: Exeunt
 
-NS: Act 5 Scene 5
+NS: Act 5, scene 5
 
 SD: Enter +BRUTUS, +DARDANIUS, +CLITUS, +STRATO, and +VOLUMNIUS.
+
 +BRUTUS
 Come poore remaines of friends, rest on this Rocke.
 
@@ -4290,7 +4309,7 @@ That it runnes ouer euen at his eyes.
 +BRUTUS
 Come hither, good Volumnius, list a word.
 
-+VOLUMNIUS
++VOLUM
 What sayes my Lord?
 
 +BRUTUS
@@ -4300,7 +4319,7 @@ Two seuerall times by Night: at Sardis, once;
 And this last Night, here in Philippi fields:
 I know my houre is come.
 
-+VOLUMNIUS
++VOLUM
 Not so, my Lord.
 
 +BRUTUS
@@ -4309,6 +4328,7 @@ Thou seest the World, Volumnius, how it goes,
 Our Enemies haue beat vs to the Pit:
 
 SD: Low Alarums.
+
 +BRUTUS
 It is more worthy, to leape in our selues,
 Then tarry till they push vs. Good Volumnius,
@@ -4316,10 +4336,11 @@ Thou know'st, that we two went to Schoole together:
 Euen for that our loue of old, I prethee
 Hold thou my Sword Hilts, whilest I runne on it.
 
-+VOLUMNIUS
++VOLUM
 That's not an Office for a friend, my Lord.
 
 SD: Alarum still.
+
 +CLITUS
 Fly, flye my Lord, there is no tarrying heere.
 
@@ -4338,6 +4359,7 @@ Night hangs vpon mine eyes, my Bones would rest,
 That haue but labour'd, to attaine this houre.
 
 SD: Alarum. Cry within, Flye, flye, flye.
+
 +CLITUS
 Fly my Lord, flye.
 
@@ -4349,7 +4371,7 @@ Thy life hath had some smatch of Honor in it,
 Hold then my Sword, and turne away thy face,
 While I do run vpon it. Wilt thou Strato?
 
-+STRATO
++STRA
 Giue me your hand first. Fare you wel my Lord.
 
 +BRUTUS
@@ -4358,19 +4380,20 @@ I kill'd not thee with halfe so good a will.
 
 SD: +BRUTUS dies.
 SD: Alarum. Retreat. Enter +ANTONY, +OCTAVIUS, +MESSALA, +LUCILLIUS, and the Army.
+
 +OCTAVIUS
 What man is that?
 
 +MESSALA
 My Masters man. Strato, where is thy Master?
 
-+STRATO
++STRA
 Free from the Bondage you are in Messala,
 The Conquerors can but make a fire of him:
 For Brutus onely ouercame himselfe,
 And no man else hath Honor by his death.
 
-+LUCILLIUS
++LUCIL
 So Brutus should be found. I thank thee Brutus
 That thou hast prou'd Lucillius saying true.
 
@@ -4378,7 +4401,7 @@ That thou hast prou'd Lucillius saying true.
 All that seru'd Brutus, I will entertaine them.
 Fellow, wilt thou bestow thy time with me?
 
-+STRATO
++STRA
 I, if Messala will preferre me to you.
 
 +OCTAVIUS
@@ -4387,7 +4410,7 @@ Do so, good Messala.
 +MESSALA
 How dyed my Master Strato?
 
-+STRATO
++STRA
 I held the Sword, and he did run on it.
 
 +MESSALA
@@ -4412,6 +4435,6 @@ Most like a Souldier ordered Honourably:
 So call the Field to rest, and let's away,
 To part the glories of this happy day.
 
-SD: Exeunt omnes.
+SD: Exeunt +ANTONY, +OCTAVIUS, +MESSALA, +LUCILLIUS, +STRATO
 
 

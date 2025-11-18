@@ -1,28 +1,23 @@
-T: Othello
+
 
 NS: Act 1 Scene 1
-
 SD: Enter +RODORIGO, and +IAGO.
-
 +RODORIGO
 NEuer tell me, I take it much vnkindly
-That thou (Iago) who hast had my purse,
+That thou [Iago] who hast had my purse,
 As if ye strings were thine, should'st know of this.
-
 +IAGO
 But you'l not heare me.
 If euer I did dream / Of such a matter,
 abhorre me.
-
 +RODORIGO
 Thou told'st me, / Thou did'st hold him in thy hate.
-
 +IAGO
 Despise me / If I do not. Three Great-ones of the Cittie,
-(In personall suite to make me his Lieutenant)
+[In personall suite to make me his Lieutenant]
 Off-capt to him: and by the faith of man
 I know my price, I am worth no worsse a place.
-But he (as louing his owne pride, and purposes)
+But he [as louing his owne pride, and purposes]
 Euades them, with a bumbast Circumstance,
 Horribly stufft with Epithites of warre,
 Non-suites my Mediators. For certes, saies he,
@@ -30,23 +25,21 @@ I haue already chose my Officer.
 And what was he?
 For-sooth, a great Arithmatician,
 One Michaell Cassio, a Florentine,
-(A Fellow almost damn'd in a faire Wife)
+[A Fellow almost damn'd in a faire Wife]
 That neuer set a Squadron in the Field,
 Nor the deuision of a Battaile knowes
 More then a Spinster. Vnlesse the Bookish Theoricke:
 Wherein the Tongued Consuls can propose
-As Masterly as he. Meere pratle (without practise)
-Is all his Souldiership. But he (Sir) had th'election;
-And I (of whom his eies had seene the proofe
+As Masterly as he. Meere pratle [without practise]
+Is all his Souldiership. But he [Sir] had th'election;
+And I [of whom his eies had seene the proofe
 At Rhodes, at Ciprus, and on others grounds
-Christen'd, and Heathen) must be be-leed, and calm'd
+Christen'd, and Heathen] must be be-leed, and calm'd
 By Debitor, and Creditor. This Counter-caster,
-He (in good time) must his Lieutenant be,
-And I (blesse the marke) his Mooreships Auntient.
-
+He [in good time] must his Lieutenant be,
+And I [blesse the marke] his Mooreships Auntient.
 +RODORIGO
 By heauen, I rather would haue bin his hangman.
-
 +IAGO
 Why, there's no remedie. / 'Tis the cursse of Seruice;
 Preferment goes by Letter, and affection,
@@ -54,17 +47,15 @@ And not by old gradation, where each second
 Stood Heire to'th'first. Now Sir, be iudge your selfe,
 Whether I in any iust terme am Affin'd
 To loue the Moore?
-
 +RODORIGO
 I would not follow him then.
-
 +IAGO
 O Sir content you.
 I follow him, to serue my turne vpon him.
 We cannot all be Masters, nor all Masters
 Cannot be truely follow'd. You shall marke
 Many a dutious and knee-crooking knaue;
-That (doting on his owne obsequious bondage)
+That [doting on his owne obsequious bondage]
 Weares out his time, much like his Masters Asse,
 For naught but Prouender, & when he's old Casheer'd.
 Whip me such honest knaues. Others there are
@@ -74,7 +65,7 @@ And throwing but showes of Seruice on their Lords
 Doe well thriue by them. / And when they haue lin'd their Coates
 Doe themselues Homage. / These Fellowes haue some soule,
 And such a one do I professe my selfe.
-For (Sir)
+For [Sir]
 It is as sure as you are Rodorigo,
 Were I the Moore, I would not be Iago:
 In following him, I follow but my selfe.
@@ -85,11 +76,9 @@ The natiue act, and figure of my heart
 In Complement externe, 'tis not long after
 But I will weare my heart vpon my sleeue
 For Dawes to pecke at; I am not what I am.
-
 +RODORIGO
 What a fall Fortune do's the Thicks-lips owe
 If he can carry't thus?
-
 +IAGO
 Call vp her Father:
 Rowse him, make after him, poyson his delight,
@@ -98,36 +87,27 @@ And though he in a fertile Clymate dwell,
 Plague him with Flies: though that his Ioy be Ioy,
 Yet throw such chances of vexation on't,
 As it may loose some colour.
-
 +RODORIGO
 Heere is her Fathers house, Ile call aloud.
-
 +IAGO
 Doe, with like timerous accent, and dire yell,
-As when (by Night and Negligence) the Fire
+As when [by Night and Negligence] the Fire
 Is spied in populus Citties.
-
 +RODORIGO
 What hoa: Brabantio, Siginor Brabantio, hoa.
-
 +IAGO
 Awake: what hoa, Brabantio: Theeues, Theeues.
 Looke to your house, your daughter, and your Bags,
 Theeues, Theeues.
-
 +BRABANTIO
 What is the reason of this terrible / Summons?
 What is the matter there?
-
 +RODORIGO
 Signior is all your Familie within?
-
 +IAGO
 Are your Doores lock'd?
-
 +BRABANTIO
 Why? Wherefore ask you this?
-
 +IAGO
 Sir, y'are rob'd, for shame put on your Gowne,
 Your heart is burst, you haue lost halfe your soule
@@ -136,69 +116,59 @@ Is tupping your white Ewe. Arise, arise,
 Awake the snorting Cittizens with the Bell,
 Or else the deuill will make a Grand-sire of you.
 Arise I say.
-
 +BRABANTIO
 What, haue you lost your wits?
-
 +RODORIGO
 Most reuerend Signior, do you know my voice?
-
 +BRABANTIO
 Not I: what are you?
-
 +RODORIGO
 My name is Rodorigo.
-
 +BRABANTIO
 The worsser welcome:
 I haue charg'd thee not to haunt about my doores:
 In honest plainenesse thou hast heard me say,
 My Daughter is not for thee. And now in madnesse
-(Being full of Supper, and distempring draughtes)
+[Being full of Supper, and distempring draughtes]
 Vpon malitious knauerie, dost thou come
 To start my quiet.
-
 +RODORIGO
 Sir, Sir, Sir.
-
 +BRABANTIO
 But thou must needs be sure,
 My spirits and my place haue in their power
 To make this bitter to thee.
-
 +RODORIGO
 Patience good Sir.
-
 +BRABANTIO
-What tell'st thou me of Robbing?
-This is Venice : my house is not a Grange.
-
+What tell'st thou me of Robbing? / This is Venice :
+my house is not a Grange.
 +RODORIGO
 Most graue Brabantio,
 In simple and pure soule, I come to you.
-
 +IAGO
-Sir: you are one of those that will not serue God, if the deuill bid you. Because we come to do you seruice, and you thinke we are Ruffians, you'le haue your Daughter couer'd with a Barbary horse, you'le haue your Nephewes neigh to you, you'le haue Coursers for Cozens : and Gennets for Germaines.
-
+Sir: you are one of those that will not serue
+God, if the deuill bid you. Because we come to do you
+seruice, and you thinke we are Ruffians, you'le haue your
+Daughter couer'd with a Barbary horse, you'le haue your
+Nephewes neigh to you, you'le haue Coursers for Cozens :
+and Gennets for Germaines.
 +BRABANTIO
 What prophane wretch art thou?
-
 +IAGO
-I am one Sir, that comes to tell you, your Daughter and the Moore, are making the Beast with two backs.
-
+I am one Sir, that comes to tell you, your Daughter
+and the Moore, are making the Beast with two
+backs.
 +BRABANTIO
 Thou art a Villaine.
-
 +IAGO
 You are a Senator.
-
 +BRABANTIO
 This thou shalt answere. I know thee Rodorigo.
-
 +RODORIGO
 Sir, I will answere any thing. But I beseech you
 If't be your pleasure, and most wise consent,
-(As partly I find it is) that your faire Daughter,
+[As partly I find it is] that your faire Daughter,
 At this odde Euen and dull watch o'th'night
 Transported with no worse nor better guard,
 But with a knaue of common hire, a Gundelier,
@@ -209,7 +179,7 @@ But if you know not this, my Manners tell me,
 We haue your wrong rebuke. Do not beleeue
 That from the sence of all Ciuilitie,
 I thus would play and trifle with your Reuerence.
-Your Daughter (if you haue not giuen her leaue)
+Your Daughter [if you haue not giuen her leaue]
 I say againe, hath made a grosse reuolt,
 Tying her Dutie, Beautie, Wit, and Fortunes
 In an extrauagant, and wheeling Stranger,
@@ -217,49 +187,43 @@ Of here, and euery where: straight satisfie your selfe.
 If she be in her Chamber, or your house,
 Let loose on me the Iustice of the State
 For thus deluding you.
-
 +BRABANTIO
 Strike on the Tinder, hoa:
 Giue me a Taper: call vp all my people,
 This Accident is not vnlike my dreame,
 Beleefe of it oppresses me alreadie.
 Light, I say, light.
-
-SD: +BRABANTIO exits.
-
+SD: BRABANTIO exits
 +IAGO
 Farewell: for I must leaue you.
 It seemes not meete, nor wholesome to my place
-To be producted, (as if I stay, I shall,)
+To be producted, [as if I stay, I shall,]
 Against the Moore. For I do know the State,
-(How euer this may gall him with some checke)
+[How euer this may gall him with some checke]
 Cannot with safetie cast-him. For he's embark'd
 With such loud reason to the Cyprus Warres,
-(Which euen now stands in Act) that for their soules
+[Which euen now stands in Act] that for their soules
 Another of his Fadome, they haue none,
 To lead their Businesse. In which regard,
 Though I do hate him as I do hell apines,
 Yet, for necessitie of present life,
 I must show out a Flag, and signe of Loue,
-(Which is indeed but signe) that you shal surely find him
+[Which is indeed but signe] that you shal surely find him
 Lead to the Sagitary the raised Search:
 And there will I be with him. So farewell.
-
-SD: IAGO exits. Enter +BRABANTIO, with Seruants and Torches.
-
+SD: IAGO exits
+SD: Enter +BRABANTIO, with Seruants and Torches.
 +BRABANTIO
 It is too true an euill. Gone she is,
 And what's to come of my despised time,
 Is naught but bitternesse. Now Rodorigo,
-Where didst thou see her? (Oh vnhappie Girle)
-With the Moore saist thou? (Who would be a Father?)
-How didst thou know 'twas she? (Oh she deceaues me
-Past thought:) what said she to you? Get moe Tapers:
+Where didst thou see her? [Oh vnhappie Girle]
+With the Moore saist thou? [Who would be a Father?]
+How didst thou know 'twas she? [Oh she deceaues me
+Past thought:] what said she to you? Get moe Tapers:
 Raise all my Kindred. Are they married thinke you?
-
 +RODORIGO
 Truely I thinke they are.
-
 +BRABANTIO
 Oh Heauen: how got she out? / Oh treason of the blood.
 Fathers, from hence trust not your Daughters minds
@@ -267,42 +231,32 @@ By what you see them act. Is there not Charmes,
 By which the propertie of Youth, and Maidhood
 May be abus'd? Haue you not read Rodorigo,
 Of some such thing?
-
 +RODORIGO
 Yes Sir: I haue indeed.
-
 +BRABANTIO
 Call vp my Brother: oh would you had had her.
 Some one way, some another. Doe you know
 Where we may apprehend her, and the Moore?
-
 +RODORIGO
 I thinke I can discouer him, if you please
 To get good Guard, and go along with me.
-
 +BRABANTIO
 Pray you lead on. At euery house Ile call,
-(I may command at most) get Weapons (hoa)
+[I may command at most] get Weapons [hoa]
 And raise some speciall Officers of might:
 On good Rodorigo, I will deserue your paines.
+SD: Exeunt BRABANTIO, RODORIGO
 
-SD: Exuent +BRABANTIO, +RODORIGO
-
-
-NS: Act 1, scene 2
-
+NS: Act 1 Scene 2
 SD: Enter +OTHELLO, +IAGO, Attendants, with Torches.
-
 +IAGO
 Though in the trade of Warre I haue slaine men,
 Yet do I hold it very stuffe o'th'conscience
 To do no contriu'd Murder: I lacke Iniquitie
 Sometime to do me seruice. Nine, or ten times
 I had thought t'haue yerk'd him here vnder the Ribbes.
-
 +OTHELLO
 'Tis better as it is.
-
 +IAGO
 Nay but he prated,
 And spoke such scuruy, and prouoking termes
@@ -314,9 +268,8 @@ That the Magnifico is much belou'd,
 And hath in his effect a voice potentiall
 As double as the Dukes: He will diuorce you.
 Or put vpon you, what restraint or greeuance,
-The Law (with all his might, to enforce it on)
+The Law [with all his might, to enforce it on]
 Will giue him Cable.
-
 +OTHELLO
 Let him do his spight;
 My Seruices, which I haue done the Signorie
@@ -324,40 +277,32 @@ Shall out-tongue his Complaints. 'Tis yet to know,
 Which when I know, that boasting is an Honour,
 I shall promulgate. I fetch my life and being,
 From Men of Royall Seige. And my demerites
-May speake (vnbonnetted) to as proud a Fortune
+May speake [vnbonnetted] to as proud a Fortune
 As this that I haue reach'd. For know Iago,
 But that I loue the gentle Desdemona,
 I would not my vnhoused free condition
 Put into Circumscription, and Confine,
 For the Seas worth. But looke, what Lights come yond?
-
 +IAGO
 Those are the raised Father, and his Friends:
 You were best go in.
-
 +OTHELLO
 Not I: I must be found.
 My Parts, my Title, and my perfect Soule
 Shall manifest me rightly. Is it they?
-
 +IAGO
 By Ianus, I thinke no.
-
 SD: Enter +CASSIO, with Torches.
-
 +OTHELLO
 The Seruants of the Dukes? / And my Lieutenant?
-The goodnesse of the Night vpon you (Friends)
+The goodnesse of the Night vpon you [Friends]
 What is the Newes?
-
 +CASSIO
-The Duke do's greet you (Generall)
+The Duke do's greet you [Generall]
 And he requires your haste, Post-haste appearance,
 Enen on the instant.
-
 +OTHELLO
 What is the matter, thinke you?
-
 +CASSIO
 Something from Cyprus, as I may diuine:
 It is a businesse of some heate. The Gallies
@@ -368,70 +313,52 @@ Are at the Dukes already. You haue bin hotly call'd for,
 When being not at your Lodging to be found,
 The Senate hath sent about three seuerall Quests,
 To search you out.
-
 +OTHELLO
 'Tis well I am found by you:
 I will but spend a word here in the house,
 And goe with you.
-
 +CASSIO
 Aunciant, what makes he heere?
-
 +IAGO
 Faith, he to night hath boarded a Land Carract,
 If it proue lawfull prize, he's made for euer.
-
 +CASSIO
 I do not vnderstand.
-
 +IAGO
 He's married.
-
 +CASSIO
 To who?
-
 +IAGO
 Marry to---Come Captaine, will you go?
-
 +OTHELLO
 Haue with you.
-
+SD: Enter +BRABANTIO, +RODORIGO, with Officers, and Torches.
 +CASSIO
 Here comes another Troope to seeke for you.
-
-SD: Enter +BRABANTIO, +RODORIGO, with Officers {+OFFICER}, and Torches.
-
 +IAGO
 It is Brabantio: Generall be aduis'd,
 He comes to bad intent.
-
 +OTHELLO
 Holla, stand there.
-
 +RODORIGO
 Signior, it is the Moore.
-
 +BRABANTIO
 Downe with him, Theefe.
-
 +IAGO
 You, Rodorigoc?. Cme Sir, I am for you.
-
 +OTHELLO
 Keepe vp your bright Swords, for the dew will rust them.
 Good Signior, you shall more command with yeares,
 then with your Weapons.
-
 +BRABANTIO
-Oh thou foule Theefe,
-Where hast thou stow'd my Daughter?
+Oh thou foule Theefe, / Where hast thou stow'd my Daughter?
 Damn'd as thou art, thou hast enchaunted her
 For Ile referre me to all things of sense,
-(If she in Chaines of Magick were not bound)
+[If she in Chaines of Magick were not bound]
 Whether a Maid, so tender, Faire, and Happie,
 So opposite to Marriage, that she shun'd
 The wealthy curled Deareling of our Nation,
-Would euer haue (t'encurre a generall mocke)
+Would euer haue [t'encurre a generall mocke]
 Run from her Guardage to the sootie bosome,
 Of such a thing as thou: to feare, not to delight?
 Iudge me the world, if 'tis not grosse in sense,
@@ -444,19 +371,16 @@ For an abuser of the World, a practiser
 Of Arts inhibited, and out of warrant;
 Lay hold vpon him, if he do resist
 Subdue him, at his perill.
-
 +OTHELLO
 Hold your hands
 Both you of my inclining, and the rest.
 Were it my Cue to fight, I should haue knowne it
 Without a Prompter. Whether will you that I goe
 To answere this your charge?
-
 +BRABANTIO
 To Prison, till fit time
 Of Law, and course of direct Session
 Call thee to answer.
-
 +OTHELLO
 What if do obey?
 How may the Duke be therewith satisfi'd,
@@ -475,30 +399,31 @@ Or any of my Brothers of the State,
 Cannot but feele this wrong, as 'twere their owne:
 For if such Actions may haue passage free,
 Bond-slaues, and Pagans shall our Statesmen be.
+SD: Exeunt
 
-SD: Exuent
+
 
 
 NS: Act 1 Scene 3
 
-SD: Enter +DUKE, +SENATORS, and +OFFICERS.
+SD: Enter +DUKE, Senators, and Officers.
 
 +DUKE
 There's no composition in this Newes,
 That giues them Credite.
 
-+FIRST SENATOR
++FIRST_SENATOR
 Indeed, they are disproportioned;
 My Letters say, a Hundred and seuen Gallies.
 
 +DUKE
 And mine a Hundred fortie.
 
-+SECOND SENATOR
++SECOND_SENATOR
 And mine two Hundred:
 But though they iumpe not on a iust accompt,
-(As in these Cases where the ayme reports,
-'Tis oft with difference) yet do they all confirme
+[As in these Cases where the ayme reports,
+'Tis oft with difference] yet do they all confirme
 A Turkish Fleete, and bearing vp to Cyprus.
 
 +DUKE
@@ -506,20 +431,18 @@ Nay, it is possible enough to iudgement:
 I do not so secure me in the Error,
 But the maine Article I do approue
 In fearefull sense.
-
-+SAYLOR
-[within.]
+SAILOR
+within.
 What hoa, what hoa, what hoa.
 
 +OFFICER
 A Messenger from the Gallies.
-
-SD: Enter +SAYLOR.
+SD: Enter SAILOR.
 
 +DUKE
 Now? What's the businesse?
 
-+SAYLOR
++SAILOR
 The Turkish Preparation makes for Rhodes,
 So was I bid report here to the State,
 By Signior Angelo.
@@ -527,7 +450,7 @@ By Signior Angelo.
 +DUKE
 How say you by this change?
 
-+FIRST SENATOR
++FIRST_SENATOR
 This cannot be
 By no assay of reason. 'Tis a Pageant
 To keepe vs in false gaze, when we consider
@@ -548,15 +471,14 @@ Nay, in all confidence he's not for Rhodes.
 
 +OFFICER
 Here is more Newes.
-
-SD: Enter a +MESSENGER.
+SD: Enter a Messenger.
 
 +MESSENGER
 The Ottamites. Reueren'd, and Gracious,
 Steering with due course toward the Ile of Rhodes,
 Haue there inioynted them with an after Fleete.
 
-+FIRST SENATOR
++FIRST_SENATOR
 I, so I thought: how many, as you guesse?
 
 +MESSENGER
@@ -571,16 +493,15 @@ And prayes you to beleeue him.
 'Tis certaine then for Cyprus:
 Marcus Luccicos is not he in Towne?
 
-+FIRST SENATOR
++FIRST_SENATOR
 He's now in Florence.
 
 +DUKE
 Write from vs, / To him,
 Post, Post-haste, dispatch.
 
-+FIRST SENATOR
-Here comes Brabantio, and the Valiant Moore.
-
++FIRST_SENATOR
+Here comes BRABANTIO, and the Valiant MOOR.
 SD: Enter +BRABANTIO, +OTHELLO, +CASSIO, +IAGO, +RODORIGO, and Officers.
 
 +DUKE
@@ -604,7 +525,7 @@ Why? What's the matter?
 +BRABANTIO
 My Daughter: oh my Daughter!
 
-+SEN
++SENATOR
 Dead?
 
 +BRABANTIO
@@ -612,7 +533,7 @@ I, to me.
 She is abus'd, stolne from me, and corrupted
 By Spels, and Medicines, bought of Mountebanks;
 For Nature, so prepostrously to erre,
-(Being not deficient, blind, or lame of sense,)
+[Being not deficient, blind, or lame of sense,]
 Sans witch-craft could not.
 
 +DUKE
@@ -625,11 +546,10 @@ Stood in your Action.
 
 +BRABANTIO
 Humbly I thanke your Grace,
-Here is the man; this Moore, whom now it seemes
+Here is the man; this MOORE, whom now it seemes
 Your speciall Mandate, for the State affaires
 Hath hither brought.
-
-+ALL
+DUKE, FIRST_SENATOR, SECOND_SENATOR, OFFICER
 We are verie sorry for't.
 
 +DUKE
@@ -652,11 +572,11 @@ Their deerest action, in the Tented Field:
 And little of this great world can I speake,
 More then pertaines to Feats of Broiles, and Battaile,
 And therefore little shall I grace my cause,
-In speaking for my selfe. Yet, (by your gratious patience)
+In speaking for my selfe. Yet, [by your gratious patience]
 I will a round vn-varnish'd u Tale deliuer,
 Of my whole course of Loue. / What Drugges, what Charmes,
 What Coniuration, and what mighty Magicke,
-(For such proceeding I am charg'd withall)
+[For such proceeding I am charg'd withall]
 I won his Daughter.
 
 +BRABANTIO
@@ -671,14 +591,16 @@ Against all rules of Nature, and must be driuen
 To find out practises of cunning hell
 Why this should be. I therefore vouch againe,
 That with some Mixtures, powrefull o're the blood,
-Or with some Dram, (coniur'd to this effect)
+Or with some Dram, [coniur'd to this effect]
 He wtought vp on her.
+
++SENATOR
 To vouch this, is no proofe,
 Without more wider, and more ouer Test
 Then these thin habits, and poore likely-hoods
 Of moderne seeming, do prefer against him.
 
-+SEN
++SENATOR
 But Othello, speake,
 Did you, by indirect, and forced courses
 Subdue, and poyson this yong Maides affections?
@@ -752,8 +674,7 @@ She lou'd me for the dangers I had past,
 And I lou'd her, that she did pitty them.
 This onely is the witch-craft I haue vs'd.
 Here comes the Ladie: Let her witnesse it.
-
-SD: Enter +DESDEMONA, +IAGO, +ATTENDANTS.
+SD: Enter +DESDEMONA, +IAGO, Attendants.
 
 +DUKE
 I thinke this tale would win my Daughter too,
@@ -769,7 +690,7 @@ Light on the man. Come hither gentle Mistris,
 Do you perceiue in all this Noble Companie,
 Where most you owe obedience?
 
-+DES
++DESDEMONA
 My Noble Father,
 I do perceiue heere a diuided dutie.
 To you I am bound for life, and education:
@@ -788,7 +709,7 @@ I had rather to adopt a Child, then get it.
 Come hither Moore;
 I here do giue thee that with all my heart,
 Which but thou hast already, with all my heart
-I would keepe from thee. For your sake (Iewell)
+I would keepe from thee. For your sake [Iewell]
 I am glad at soule, I haue no other Child;
 For thy escape would teach me Tirranie
 To hang clogges on them. I haue done my Lord.
@@ -850,7 +771,7 @@ I will not haue it so.
 +OTHELLO
 Nor I.
 
-+DES
++DESDEMONA
 Nor would I there recide,
 To put my Father in impatient thoughts
 By being in his eye. Most Grcaious Duke,
@@ -861,7 +782,7 @@ T'assist my simplenesse.
 +DUKE
 What would you Desdemona?
 
-+DES
++DESDEMONA
 That I loue the Moore, to liue with him,
 My downe-right violence, and storme of Fortunes,
 May trumpet to the world. My heart's subdu'd
@@ -869,7 +790,7 @@ Euen to the very quality of my Lord;
 I saw Othello's visage in his mind,
 And to his Honours and his valiant parts,
 Did I my soule and Fortunes consecrate.
-So that (deere Lords) if I be left behind
+So that [deere Lords] if I be left behind
 A Moth of Peace, and he go to the Warre,
 The Rites for why I loue him, are bereft me:
 And I a heauie interim shall support
@@ -920,13 +841,13 @@ Good night to euery one. And Noble Signior,
 If Vertue no delighted Beautie lacke,
 Your Son-in-law is farre more Faire then Blacke.
 
-+SEN
++SENATOR
 Adieu braue Moore, vse Desdemona well.
 
 +BRABANTIO
-Looke to her (Moore) if thou hast eies to see:
+Looke to her [Moore] if thou hast eies to see:
 She ha's deceiu'd her Father, and may thee.
-+BRABANTIO exits.
+BRABANTIO exits.
 
 +OTHELLO
 My life vpon her faith.
@@ -937,8 +858,7 @@ And bring them after in the best aduantage.
 Come Desdemona, I haue but an houre
 Of Loue, of wordly matter, and direction
 To spend with thee. We must obey the the time.
-
-+OTHELLO exits.
+OTHELLO exits.
 
 +RODORIGO
 Iago.
@@ -1052,8 +972,7 @@ Go too, farewell. Do you heare Rodorigo?
 
 +RODORIGO
 Ile sell all my Land.
-
-+RODORIGO exits.
+RODORIGO exits.
 
 +IAGO
 Thus do I euer make my Foole, my purse:
@@ -1084,25 +1003,20 @@ Must bring this monstrous Birth, to the worlds light.
 
 NS: Act 2 Scene 1
 
-SD: Enter +MONTANO, and two Gentlemen {+FIRST GENTLEMAN, +SECOND GENTLEMAN}.
-
+SD: Enter +MONTANO, and two Gentlemen.
 +MONTANO
 What from the Cape, can you discerne at Sea?
-
-+FIRST GENTLEMAN
++1. GENT
 Nothing at all, it is a high wrought Flood:
 I cannot 'twixt the Heauen, and the Maine,
 Descry a Saile.
-
 +MONTANO
 Me thinks, the wind hath spoke aloud at Land,
 A fuller blast ne're shooke our Battlements:
 If it hath ruffiand so vpon the Sea,
 What ribbes of Oake, when Mountaines melt on them,
 Can hold the Morties. What shall we heare of this?
-
-
-+SECOND GENTLEMAN
++2
 A Segregation of the Turkish Fleet:
 For do but stand vpon the Foaming Shore,
 The chidden Billow seemes to pelt the Clowds,
@@ -1111,110 +1025,87 @@ Seemes to cast water on the burning Beare,
 And quench the Guards of th'euer-fixed Pole:
 I neuer did like mollestation view
 On the enchafed Flood.
-
 +MONTANO
 If that the Turkish Fleete
 Be not enshelter'd, and embay'd, they are drown'd,
 It is impossible to beare it out.
-
-SD: Enter a Gentleman {+THIRD GENTLEMAN}.
-
-+THIRD GENTLEMAN
+SD: Enter a Gentleman.
++3
 Newes Laddes: our warres are done:
 The desperate Tempest hath so bang'd the Turkes,
 That their designement halts. A Noble ship of Venice,
 Hath seene a greeuous wracke and sufferance
 On most part of their Fleet.
-
 +MONTANO
 How? Is this true ?
-
-+THIRD GENTLEMAN
++3
 The Ship is heere put in :
-A Verennessa, Michael Cassio	
-Lieutenant to the warlike Moore, Othello,	
+A Verennessa, +MICHAEL CASSIO
+Lieutenant to the warlike Moore, +OTHELLO,
 Is come on Shore: the Moore himselfe at Sea,
 And is in full Commission heere for Cyprus.
-
 +MONTANO
 I am glad on't: / 'Tis a worthy Gouernour.
-
-+THIRD GENTLEMAN
-But this same Cassio, though he speake of comfort,
++3
+But this same +CASSIO, though he speake of comfort,
 Touching the Turkish losse, yet he lookes sadly,
 And praye the Moore be safe; for they were parted
 With fowle and violent Tempest.
-
 +MONTANO
 Pray Heauens he be:
 For I haue seru'd him, and the man commands
-Like a full Soldier. Let's to the Sea-side (hoa)
+Like a full Soldier. Let's to the Sea-side [hoa]
 As well to see the Vessell that's come in,
-As to throw-out our eyes for braue Othello,
+As to throw-out our eyes for braue +OTHELLO,
 Euen till we make the Maine, and th'Eriall blew,
 An indistinct regard.
-
-+FIRST GENTLEMAN
++GENT
 Come, let's do so;
 For euery Minute is expectancie
 Of more Arriuancie.
-
 SD: Enter +CASSIO.
-
 +CASSIO
 Thankes you, the valiant of the warlike Isle,
 That so approoue the Moore: Oh let the Heauens
 Giue him defence against the Elements,
 For I haue lost him on a dangerous Sea.
-
 +MONTANO
 Is he well ship'd?
-
 +CASSIO
 His Barke is stoutly Timber'd, and his Pylot
 Of verie expert, and approu'd Allowance;
-Therefore my hope's (not surfetted to death)
+Therefore my hope's [not surfetted to death]
 Stand in bold Cure.
-
-SD: [Within] A Saile, a Saile, a Saile.
-
+SD: Within.
+A Saile, a Saile, a Saile.
 +CASSIO
 What noise?
-
-+FIRST GENTLEMAN
++GENT
 The Towne is empty; on the brow o'th'Sea
 Stand rankes of People, and they cry, a Saile.
-
 +CASSIO
 My hopes do shape him for the Gouernor.
-
-+FIRST GENTLEMAN
++GENT
 They do discharge their Shot of Courtesie,
 Our Friends, at least.
-
 +CASSIO
 I pray you Sir, go forth,
 And giue vs truth who 'tis that is arriu'd.
-
-SD: +FIRST GENTLEMAN exits
++GENT exits
+SD: +GENT exits
 +MONTANO
 But good Lieutenant, is your Generall wiu'd?
-
 +CASSIO
 Most fortunately: he hath atchieu'd a Maid
 That paragons description, and wilde Fame:
 One that excels the quirkes of Blazoning pens,
 And in th'essentiall Vesture of Creation,
 Do's tyre the Ingeniuer.
-
-SD: Enter +FIRST GENTLEMAN.
-
-+CASSIO
+SD: Enter Gentleman.
++GENT
 How now? Who ha's put in?
-
-+FIRST GENTLEMAN
-'Tis one Iago, Auncient to the Generall.
-
++GENT
+'Tis one +IAGO, Auncient to the Generall.
 +CASSIO
 Ha's had most fauourable, and happie speed:
 Tempests themselues, high Seas, and howling windes,
@@ -1222,23 +1113,19 @@ The gutter'd-Rockes, and Congregated Sands,
 Traitors ensteep'd, to enclogge the guiltlesse Keele,
 As hauing sence of Beautie, do omit
 Their mortall Natures, letting go safely by
-The Diuine Desdemona.
-
+The Diuine +DESDEMONA.
 +MONTANO
 What is she?
-
 +CASSIO
 She that I spake of: / Our great Captains Captaine,
-Left in the conduct of the bold Iago,
+Left in the conduct of the bold +IAGO,
 Whose footing heere anticipates our thoughts,
-A Senights speed. Great Ioue, Othello guard,
+A Senights speed. Great Ioue, +OTHELLO guard,
 And swell his Saile with thine owne powrefull breath,
 That he may blesse this Bay with his tall Ship,
-Make loues quicke pants in Desdemonaes Armes,	
+Make loues quicke pants in +DESDEMONAes Armes,
 Giue renew'd fire to our extincted Spirits.
-
 SD: Enter +DESDEMONA, +IAGO, +RODORIGO, and +AMILIA.
-
 +CASSIO
 Oh behold,
 The Riches of the Ship is come on shore:
@@ -1246,93 +1133,71 @@ You men of Cyprus, let her haue your knees.
 Haile to thee Ladie: and the grace of Heauen,
 Before, behinde thee, and on euery hand
 Enwheele thee round.
-
 +DESDEMONA
-I thanke you, Valiant Cassio,
+I thanke you, Valiant +CASSIO,
 What tydings can you tell of my Lord?
-
 +CASSIO
 He is not yet arriu'd, nor know I ought
 But that he's well, and will be shortly heere.
-
 +DESDEMONA
 Oh, but I feare: / How lost you company?
-
 +CASSIO
 The great Contention of Sea, and Skies
 Parted our fellowship.
-
-SD: [Within] A Saile, a Saile.
-
+SD: Within.
+A Saile, a Saile.
 +CASSIO
 But hearke, a Saile.
-
-+FIRST GENTLEMAN
++GENT
 They giue this greeting to the Cittadell:
 This likewise is a Friend.
-
 +CASSIO
 See for the Newes:
 Good Ancient, you are welcome. Welcome Mistris:
-Let it not gaule your patience (good Iago)
+Let it not gaule your patience [good +IAGO]
 That I extend my Manners. 'Tis my breeding,
 That giues me this bold shew of Curtesie.
-
 +IAGO
 Sir, would she giue you somuch of her lippes,
 As of her tongue she oft bestowes on me,
 You would haue enough.
-
 +DESDEMONA
 Alas: she ha's no speech.
-
 +IAGO
 Infaith too much:
 I finde it still, when I haue leaue to sleepe.
 Marry before your Ladyship, I grant,
 She puts het tongue a little in her heart,
 And chides with thinking.
-
 +AMILIA
 You haue little cause to say so.
-
 +IAGO
 Come on, come on: you are Pictures out of doore:
 Bells in your Parlours: Wilde-Cats in your Kitchens: Saints
 in your Iniuries: Diuels being offended: Players in your
 Huswiferie, and Huswiues in your Beds.
-
 +DESDEMONA
 Oh, fie vpon thee, Slanderer
-
 +IAGO
 Nay, it is true: or else I am a Turke,
 You rise to play, and go to bed to worke.
-
 +AMILIA
 You shall not write my praise.
-
 +IAGO
 No, let me not.
-
 +DESDEMONA
 What would'st write of me, if thou should'st praise me?
-
 +IAGO
 Oh, gentle Lady, do not put me too,t,
 For I am nothing, if not Criticall.
-
 +DESDEMONA
 Come on, assay. / There's one gone to the Harbour?
-
 +IAGO
 I Madam.
-
 +DESDEMONA
 I am not merry: but I do beguile
 The thing I am, by seeming otherwise.
 Come, how would'st thou praise me?
-
 +IAGO
 I am about it, but indeed my inuention
 comes from my pate, as Birdlyme do's from Freeze,
@@ -1340,39 +1205,30 @@ it pluckes out Braines and all. But my Muse labours,
 and thus she is deliuer'd.
 If she be faire, and wise: fairenesse, and wit,
 The ones for vse, the other vseth it.
-
 +DESDEMONA
 Well prais'd: How if she be Blacke and Witty?
-
 +IAGO
 If she be blacke, and thereto haue a wit,
 She'le find a white, that shall her blacknesse fit.
-
 +DESDEMONA
 Worse, and worse.
-
 +AMILIA
 How if Faire, and Foolish?
-
 +IAGO
 She neuer yet was foolish that was faire,
 For euen her folly helpt her to an heire.
-
 +DESDEMONA
 These are old fond Paradoxes, to make Fooles
 laugh i'th'Alehouse. What miserable praise hast thou for
 her that's Foule, and Foolish.
-
 +IAGO
 There's none so foule and foolish thereunto,
 But do's foule pranks, which faire, and wise-ones do.
-
 +DESDEMONA
 Oh heauy ignorance: thou praisest the worst
 best. But what praise could'st thou bestow on a deseruing
 woman indeed? One, that in the authorithy of her merit,
 did iustly put on the vouch of very malice it selfe.
-
 +IAGO
 She that was euer faire, and neuer proud,
 Had Tongue at will, and yet was neuer loud:
@@ -1384,28 +1240,23 @@ She that in wisedome neuer was so fraile,
 To change the Cods-head for the Salmons taile:
 She that could thinke, and neu'r disclose her mind,
 See Suitors following, and not looke behind:
-She was a wight, (if euer such wightes were)
-
+She was a wight, [if euer such wightes were]
 +DESDEMONA
 To do what?
-
 +IAGO
 To suckle Fooles, and chronicle small Beere.
-
 +DESDEMONA
 Oh most lame and impotent conclusion.
-Do not learne of him Amillia, though he be thy husband.
-How say you (Cassio) is he not a most prophane, and	
+Do not learne of him +AMILLIA, though he be thy husband.
+How say you [+CASSIO] is he not a most prophane, and
 liberall Counsailor?
-
 +CASSIO
-He speakes home (Madam) you may rellish him more
+He speakes home [Madam] you may rellish him more
 in the Souldier, then in the Scholler.
-
-+IAGO
+SD: IAGO
 He takes her by the palme: I, well said,
 whisper. With as little a web as this, will I ensnare as
-great a Fly as Cassio. I smile vpon her, do: I will
+great a Fly as +CASSIO. I smile vpon her, do: I will
 giue thee in thine owne Courtship. You say true, 'tis so
 indeed. If such tricks as these strip you out of your
 Lieutenantrie, it had beene better you had not kiss'd your
@@ -1414,24 +1265,17 @@ to play the Sir, in. Very good: well kiss'd, and excellent
 Curtsie: 'tis so indeed. Yet againe, your fingers to your
 lippes? Would they were Cluster-pipes for your sake.
 The Moore I know his Trumpet.
-
 +CASSIO
 'Tis truely so.
-
 +DESDEMONA
 Let's meete him, and recieue him.
-
 +CASSIO
 Loe, where he comes.
-
 SD: Enter +OTHELLO, and Attendants.
-
 +OTHELLO
 O, my faire Warriour.
-
 +DESDEMONA
-My deere Othello.
-
+My deere +OTHELLO.
 +OTHELLO
 It giues me wonder great, as my content
 To see you heere before me. / Oh my Soules Ioy:
@@ -1444,52 +1288,44 @@ As hell's from Heauen. If it were now to dye,
 My Soule hath her content so absolute,
 That not another comfort like to this,
 Succeedes in vnknowne Fate.
-
 +DESDEMONA
 The Heauens forbid
 But that our Loues / And Comforts should encrease
 Euen as our dayes do grow.
-
 +OTHELLO
-Amen to rhat (sweet Powers)
+Amen to rhat [sweet Powers]
 I cannot speake enough of this content,
 It stoppes me heere: it is too much of ioy.
 And this, and this the greatest discords be
 That ere our hearts shall make.
-
 +IAGO
 Oh you are well tun'd now:
 But Ile set downe the peggs that make this Musicke,
 as honest as I am.
-
 +OTHELLO
 Come: let vs to the Castle.
-Newes (Friends) our Warres are done: / The Turkes are drown'd.
+Newes [Friends] our Warres are done: / The Turkes are drown'd.
 How do's my old Acquaintance of this Isle?
-(Hony) you shall be well desir'd in Cyprus,
+[Hony] you shall be well desir'd in Cyprus,
 I haue found great loue among'st them. Oh my Sweet,
 I prattle out of fashion, and I doate
-In mine owne comforts. I prythee, good Iago,
+In mine owne comforts. I prythee, good +IAGO,
 Go to the Bay, and disimbarke my Coffers:
 Bring thou the Master to the Cittadell,
 He is a good one, and his worthynesse
-Do's challenge much respect. Come Desdemona,
+Do's challenge much respect. Come +DESDEMONA,
 Once more well met at Cyprus.
-
 SD: +OTHELLO and +DESDEMONA exits
-
-+IAGO
+SD: +IAGO
 Do thou meet me presently at
 the Harbour. Come thither, if thou be'st
-Valiant, (as they say base men being in Loue, haue then a
-Nobilitie in their Natures, more then is natiue to them)
+Valiant, [as they say base men being in Loue, haue then a
+Nobilitie in their Natures, more then is natiue to them]
 list-me; the Lieutenant to night watches on the Court of Guard.
-First, I must tell thee this: Desdemona, is directly
+First, I must tell thee this: +DESDEMONA, is directly
 in loue with him.
-
 +RODORIGO
 With him? Why,'tis not possible.
-
 +IAGO
 Lay thy finger thus: and let thy soule be instructed.
 Marke me with what violence she first lou'd the Moore,
@@ -1505,9 +1341,9 @@ requir'd Conueniences, her delicate tendernesse wil finde
 it selfe abus'd, begin to heaue the, gorge, disrellish and
 abhorre the Moore, very Nature wil instruct her in it, and
 compell her to some second choice. Now Sir, this granted
-(as it is a most pregnant and vnforc'd position) who
+[as it is a most pregnant and vnforc'd position] who
 stands so eminent in the degree of this Forune, as
-Cassio do's: a knaue very voluble: no further conscionable,
++CASSIO do's: a knaue very voluble: no further conscionable,
 then in putting on the meere forme of Ciuill, and
 Humaine seeming, for the better compasse of his salt,
 and most hidden loose Affection? Why none, why none:
@@ -1518,75 +1354,64 @@ knaue: besides, the knaue is handsome, young: and hath
 all those requisites in him, that folly and greene mindes
 looke after. A pestilent compleat knaue, and the woman
 hath found him already.
-
 +RODORIGO
 I cannot beleeue that in her, she's full of most
 bless'd condition.
-
 +IAGO
 Bless'd figges-end. The Wine she drinkes is made of
 grapes. If shee had beene bless'd, shee would neuer haue
 lou'd the Moore: Bless'd pudding. Didst thou not see her
 paddle with the palme of his hand? Didst not marke that?
-
 +RODORIGO
 Yes, that I did: but that was but curtesie.
-
 +IAGO
 Leacherie by this hand: an Index, and obscure prologue
 to the History of Lust and foule Thoughts. They met
 so neere with their lippes, that their breathes embrac'd
-together. Villanous thoughts Rodorigo, when these
+together. Villanous thoughts +RODORIGO, when these
 mutabilities so marshall the way, hard at hand comes the
 Master, and maine exercise, th'incorporate conclusion:
 Pish. But Sir, be you rul'd by me. I haue brought you
 from Venice. Watch you to night: for the Command, Ile
-lay't vpon you. Cassio knowes you not: Ile not be farre	
-from you. Do you finde some occasion to anger Cassio,	
+lay't vpon you. +CASSIO knowes you not: Ile not be farre
+from you. Do you finde some occasion to anger +CASSIO,
 either by speaking too loud, or tainting his discipline, or
 from what other course you please, which the time shall
 more fauorably minister.
-
 +RODORIGO
 Well.
-
 +IAGO
 Sir, he's rash, and very sodaine in Choller: and happely
 may strike at you, prouoke him that
 he may: for euen out of that will I cause these of Cyprus
 to Mutiny. Whose qualification shall come into no true
-taste againe, but by the displanting of Cassio. So shall you	
+taste againe, but by the displanting of +CASSIO. So shall you
 haue a shorter iourney to your desires, by the meanes I
 shall then haue to preferre them. And the impediment most
 profitably remoued, without the which there were no
 expectation of our prosperitie.
-
 +RODORIGO
 I will do this, if you can bring it to any
 opportunity.
-
 +IAGO
 I warrant thee. Meete me by and by at the Cittadell. I
 must fetch his Necessaries a Shore. Farewell.
-
 +RODORIGO
 Adieu.
-
 SD: +RODORIGO exits
-
-+IAGO
-That Cassio loues her, I do well beleeu't:
+SD: +IAGO
+That +CASSIO loues her, I do well beleeu't:
 That she loues him, 'tis apt, and of great Credite.
-The Moore (how beit that I endure him not)
+The Moore [how beit that I endure him not]
 Is of a constant, louing, Noble Nature,
-And I dare thinke, he'le proue to Desdemona	
+And I dare thinke, he'le proue to +DESDEMONA
 A most deere husband. Now I do loue her too,
-Not out of absolute Lust, (though peraduenture
-I stand accomptant for as great a sin)
+Not out of absolute Lust, [though peraduenture
+I stand accomptant for as great a sin]
 But partely led to dyet my Reuenge,
 For that I do suspect the lustie Moore
 Hath leap'd into my Seate. The thought whereof,
-Doth (like a poysonous Minerall) gnaw my Inwardes:
+Doth [like a poysonous Minerall] gnaw my Inwardes:
 And nothing can, or shall content my Soule
 Till I am eeuen'd with him, wife, for wift.
 Or fayling so, yet that I put the Moore,
@@ -1594,24 +1419,21 @@ At least into a Ielouzie so strong
 That iudgement cannot cure. Which thing to do,
 If this poore Trash of Venice, whom I trace
 For his quicke hunting, stand the putting on,
-Ile haue our Michael Cassio on the hip,
+Ile haue our +MICHAEL CASSIO on the hip,
 Abuse him to the Moore, in the right garbe
-(For I feare Cassio with my Night-Cape too)	
+[For I feare +CASSIO with my Night-Cape too]
 Make the Moore thanke me, loue me, and reward me,
 For making him egregiously an Asse,
 And practising vpon his peace, and quiet,
 Euen to madnesse. 'Tis heere: but yet confus'd,
 Knaueries plaine face, is neuer seene, till vs'd.
-
 SD: +IAGO exits
-
 
 NS: Act 2 Scene 2
 
-SD: Enter Othello's, +HERALD with a Proclamation.
-
+SD: Enter +OTHELLO's, Herald with a Proclamation.
 +HERALD
-It is Othello's pleasure, our Noble and Valiant
+It is +OTHELLO's pleasure, our Noble and Valiant
 Generall. That vpon certaine tydings now arriu'd, importing
 the meere perdition of the Turkish Fleete: euery man put
 himselfe into Triumph. Some to daunce, some to make
@@ -1621,9 +1443,10 @@ Celebration of his Nuptiall. So much was his pleasure
 should be proclaimed. All offices are open, & there is
 full libertie of Feasting from this presenr houre of fiue,
 till the Bell haue told eleuen. Blesse the Isle of
-Cyprus, and our Noble Generall Othello.
-
+Cyprus, and our Noble Generall +OTHELLO.
 SD: +HERALD exits
+
+
 
 
 NS: Act 2 Scene 3
@@ -1648,7 +1471,9 @@ The purchase made, the fruites are to ensue,
 That profit's yet to come 'tweene me, and you.
 Goodnight.
 
-SD: +OTHELLO exits. Enter +IAGO.
+SD: +Othello exits.
+
+SD: Enter +IAGO.
 
 +CASSIO
 Welcome Iago: we must to the Watch.
@@ -1670,14 +1495,14 @@ And Ile warrant her, full of Game.
 Indeed shes a most fresh and delicate creature.
 
 +IAGO
-What an eye she ha's?
-Methinkes it sounds a parley to prouocation.
+What an eye she ha's? / Methinkes it sounds a parley to
+prouocation.
 
 +CASSIO
-An inuiting eye: And yet me thinkes right modest.
+An inuiting eye:/ And yet me thinkes right modest.
 
 +IAGO
-And when she speakes, Is it not an Alarum to Loue?
+And when she speakes, / Is it not an Alarum to Loue?
 
 +CASSIO
 She is indeed perfection.
@@ -1716,29 +1541,27 @@ Heere, at the doore: I pray you call them in.
 +CASSIO
 Ile do't, but it dislikes me.
 
-SD: +CASSIO exits
+SD: +Cassio exits.
 
 +IAGO
 If I can fasten but one Cup vpon him
 With that which he hath drunke to night alreadie,
 He'l be as full of Quarrell, and offence
-As my yong Mistris dogge. 
-Now my sicke Foole Rodorigo,
+As my yong Mistris dogge. / Now my sicke Foole Rodorigo,
 Whom Loue hath turn'd almost the wrong side out,
 To Desdemona hath to night Carrows'd.
 Potations, pottle-deepe; and he's to watch.
 Three else of Cyprus, Noble swelling Spirites,
-(That hold their Honours in a wary distance,
-The very Elements of this Warrelike Isle)
+[That hold their Honours in a wary distance,
+The very Elements of this Warrelike Isle]
 Haue I to night fluster'd with flowing Cups,
-And they Watch too.
-Now 'mongst this Flocke of drunkards
+And they Watch too. / Now 'mongst this Flocke of drunkards
 Am I put to our Cassio in some Action
 That may offend the Isle. But here they come.
 If Consequence do but approue my dreame,
 My Boate sailes freely, both with winde and Streame.
 
-SD: Enter +CASSIO, +MONTANO, and +GENTLEMEN.
+SD: Enter +CASSIO, +MONTANO, and Gentlemen.
 
 +CASSIO
 'Fore heauen, they haue giuen me a rowse already.
@@ -1749,11 +1572,11 @@ a Souldier.
 
 +IAGO
 Some Wine hoa.
-*And let me the Cannakin clinke, clinke:
+And let me the Cannakin clinke, clinke:
 And let me the Cannakin clinke.
 A Souldiers a man:
 Oh, mans life's but a span,
-Why then let a Souldier drinke.*
+Why then let a Souldier drinke.
 Some Wine Boyes.
 
 +CASSIO
@@ -1762,7 +1585,7 @@ Some Wine Boyes.
 +IAGO
 I learn'd it in England: where indeed they are most
 potent in Potting. Your Dane, your Germaine, and your
-swag-belly'd Hollander, (drinke hoa) are nothing to
+swag-belly'd Hollander, [drinke hoa] are nothing to
 your English.
 
 +CASSIO
@@ -1783,14 +1606,14 @@ Iustice.
 
 +IAGO
 Oh sweet England.
-*King Stephen was and-a worthy Peere,
+King Stephen was and-a worthy Peere,
 His Breeches cost him but a Crowne,
 He held them Six pence all to deere,
 With that he cal'd the Tailor Lowne:
 He was a wight of high Renowne,
 And thou art but of low degree:
 'Tis Pride that pulls the Country downe,
-And take thy awl'd Cloake about thee.*
+And take thy awl'd Cloake about thee.
 Some Wine hoa.
 
 +CASSIO
@@ -1817,7 +1640,7 @@ nor any man of qualitie: I hope to be saued.
 And so do I too Lieutenant.
 
 +CASSIO
-I: (but by your leaue) not before me. The
+I: [but by your leaue] not before me. The
 Lieutenant is to be saued before the Ancient. Let's haue
 no more of this: let's to our Affaires. Forgiue vs our
 sinnes: Gentlemen let's looke to our businesse. Do not
@@ -1825,17 +1648,17 @@ thinke Gentlemen, I am drunke: this is my Ancient, this
 is my right hand, and this is my left. I am not drunke
 now: I can stand well enough, and I speake well enough.
 
-+GENTLEMEN
++GENT
 Excellent well.
 
 +CASSIO
 Why very well then: you must not thinke then, that I
 am drunke.
 
-SD: +CASSIO exits
+SD: +Cassio exits.
 
 +MONTANO
-To th'Platforme (Masters) come, let's set the
+To th'Platforme [Masters] come, let's set the
 Watch.
 
 +IAGO
@@ -1873,8 +1696,8 @@ I pray you after the Lieutenant, go.
 And 'tis great pitty, that the Noble Moore
 Should hazard such a Place, as his owne Second
 With one of an ingraft Infirmitie,
-It were an honest Action, to say so
-To the Moore.
+It were an honest Action, to say
+so / To the Moore.
 
 +IAGO
 Not I, for this faire Island,
@@ -1901,10 +1724,11 @@ Beate me?
 Dost thou prate, Rogue?
 
 +MONTANO
-Nay, good Lieutenant: I pray you Sir, hold your hand.
+Nay, good Lieutenant: / I pray you Sir, hold
+your hand.
 
 +CASSIO
-Let me go (Sir) Or Ile knocke you o're the Mazard.
+Let me go [Sir] / Or Ile knocke you o're the Mazard.
 
 +MONTANO
 Come, come: you're drunke.
@@ -1954,7 +1778,7 @@ Speake: who began this? On thy loue I charge thee?
 I do not know: Friends all, but now, euen now.
 In Quarter, and in termes like Bride, and Groome
 Deuesting them for Bed: and then, but now:
-(As if some Planet had vnwitted men)
+[As if some Planet had vnwitted men]
 Swords out, and tilting one at others breastes,
 In opposition bloody. I cannot speake
 Any begining to this peeuish oddes.
@@ -1962,7 +1786,7 @@ And would, in Action glorious, I had lost
 Those legges, that brought me to a part of it.
 
 +OTHELLO
-How comes it (Michaell) you are thus forgot?
+How comes it [Michaell] you are thus forgot?
 
 +CASSIO
 I pray you pardon me, I cannot speake.
@@ -1989,7 +1813,7 @@ When violence assailes vs.
 +OTHELLO
 Now by Heauen,
 My blood begins my safer Guides to rule,
-And passion (hauing my best iudgement collied)
+And passion [hauing my best iudgement collied]
 Assaies to leade the way. If I once stir,
 Or do but lift this Arme, the best of you
 Shall sinke in my rebuke. Giue me to know
@@ -2019,13 +1843,13 @@ And Cassio following him with determin'd Sword
 To execute vpon him. Sir, this Gentleman,
 Steppes in to Cassio, and entreats his pause;
 My selfe, the crying Fellow did pursue,
-Least by hisclamour (as it so fell out)
-The Towne might fall in fright. He, (swift of foote)
+Least by hisclamour [as it so fell out]
+The Towne might fall in fright. He, [swift of foote]
 Out-ran my purpose: and I return'd then rather
 For that I heard the clinke, and fall of Swords,
 And Cassio high in oath: Which till to night
 I nere might say before. When I came backe
-(For this was briefe) I found them close together
+[For this was briefe] I found them close together
 At blow, and thrust, euen as againe they were
 When you your selfe did part them.
 More of this matter cannot I report,
@@ -2049,18 +1873,17 @@ Looke if my gentle Loue be not rais'd vp:
 Ile make thee an example.
 
 +DESDEMONA
-What is the matter (Deere?)
+What is the matter [Deere?]
 
 +OTHELLO
-All's well, Sweeting:
-Come away to bed. Sir for your hurts,
-My selfe will be your Surgeon. Lead him off:
+All's well, Sweeting: / Come away to bed.
+Sir for your hurts, / My selfe will be your Surgeon. Lead him off:
 Iago, looke with care about the Towne,
 And silence those whom this vil'd brawle distracted.
 Come Desdemona, 'tis the Soldiers life,
 To haue their Balmy slumbers wak'd with strife.
 
-SD: +OTHELLO exits
+SD: +Othello exits.
 
 +IAGO
 What are you hurt Lieutenant?
@@ -2085,8 +1908,8 @@ imposition; oft got without merit, aud lost without
 deseruing. You haue lost no Reputation at all, vnlesse you
 repute your selfe such a looser. What man, there are
 more wayes to recouer the Generall againe. You are but now cast
-in his moode, (a punishment more in policie, then in
-malice) euen so as one would beate his offencelesse dogge, ro
+in his moode, [a punishment more in policie, then in
+malice] euen so as one would beate his offencelesse dogge, ro
 affright an Imperious Lyon. Sue to him againe, and he's
 yours.
 
@@ -2150,7 +1973,7 @@ I haue well approued it, Sir. I drunke?
 You, or any man liuing, may be drunke at a time man.
 I tell you what you shall do: Our General's Wife, is
 now the Generall. I may say so, in this respect, for that
-he hath deuoted, and giuen vp himselfe to the Contemplation,
+he hath deuoted, and giuen vp himself to the Contemplation,
 marke: and deuotement of her parts and Graces.
 Confesse your selfe freely to her: Importune her helpe to
 put you in your place againe. She is of so free, so kinde, so
@@ -2180,14 +2003,13 @@ to the Watch.
 +CASSIO
 Good night, honest Iago.
 
-SD: +CASSIO exits
+SD: +Cassio exits.
 
 +IAGO
-And what's he then, That saies I play the Villaine?
+And what's he then, / That saies I play the Villaine?
 When this aduise is free I giue, and honest,
 Proball to thinking, and indeed the course
-To win the Moore againe.
-For 'tis most easie
+To win the Moore againe. / For 'tis most easie
 Th'inclyning Desdemona to subdue
 In any honest Suite. She's fram'd as fruitefull
 As the free Elements. And then for her
@@ -2240,22 +2062,22 @@ Retire thee, go where thou art Billited:
 Away, I say, thou shalt know more heereafter:
 Nay get thee gone.
 
-SD: +RODORIGO exits
+SD: +Rodorigo exits.
 
 +IAGO
 Two things are to be done:
 My Wife must moue for Cassio to her Mistris:
-Ile set her on my selfe, a while, to draw the Moor apart,
+Ile set her on
+my selfe, a while, to draw the Moor apart,
 And bring him iumpe, when he may Cassio finde
 Soliciting his wife: I, that's the way:
 Dull not Deuice, by coldnesse, and delay.
 
-SD:+IAGO exits
-
+SD: +Iago exits.
 
 NS: Act 3 Scene 1
 
-SD: Enter +CASSIO, Musitians {+MUSITIAN}, and +CLOWNE.
+SD: Enter +CASSIO, Musitians, and +CLOWNE.
 
 +CASSIO
 Masters, play heere, I wil content your paines,
@@ -2265,19 +2087,19 @@ Something that's briefe: and bid, goodmorrow General.
 Why Masters, haue your Instruments bin in
 Naples, that they speake i'th'Nose thus?
 
-+MUSITIAN
++MUS
 How Sir? how?
 
 +CLOWNE
 Are these I pray you, winde Instruments?
 
-+MUSITIAN
++MUS
 I marry are they sir.
 
 +CLOWNE
 Oh, thereby hangs a tale.
 
-+MUSITIAN
++MUS
 Whereby hangs a tale, sir?
 
 +CLOWNE
@@ -2286,28 +2108,28 @@ know. But Masters, heere's money for you: and the
 Generall so likes your Musick, that he desires you for
 loues sake to make no more noise with it.
 
-+MUSITIAN
++MUS
 Well Sir, we will not.
 
 +CLOWNE
 If you haue any Musicke that may not be heard,
-too't againe. But (as they say) to heare Musicke, the Generall
+too't againe. But [as they say] to heare Musicke, the Generall
 do's not greatly care.
 
-+MUSITIAN
++MUS
 We haue none such, sir.
 
 +CLOWNE
 Then put vp your Pipes in your bagge, for Ile
 away. Go, vanish into ayre, away.
 
-SD: Exit Musitians {+MUSITIAN}.
+SD: +Mus exits.
 
 +CASSIO
 Dost thou heare me, mine honest Friend?
 
 +CLOWNE
-No, I heare not your honest Friend: I heare you.
+No, I heare not your honest Friend: / I heare you.
 
 +CASSIO
 Prythee keepe vp thy Quillets, ther's a poore peece
@@ -2319,7 +2141,9 @@ entreats her a little fauour of Speech. Wilt thou do this?
 She is stirring sir: if she will stirre hither, I shall
 seeme to notifie vnto her.
 
-SD: CLOWNE exits. Enter +IAGO.
+SD: +Clo exits.
+
+SD: Enter +IAGO.
 
 +CASSIO
 In happy time, Iago.
@@ -2329,8 +2153,9 @@ You haue not bin a-bed then?
 
 +CASSIO
 Why no: the day had broke before we parted.
-I haue made bold (Iago) to send in to your wife: 
-My suite to her is, that she will to vertuous Desdemona
+I haue made bold [Iago]
+to send in to your wife: / My suite to her
+is, that she will to vertuous Desdemona
 Procure me some accesse.
 
 +IAGO
@@ -2342,16 +2167,13 @@ May be more free.
 +CASSIO
 I humbly thanke you for't.
 
-SD: IAGO exits
-
-+CASSIO
-I neuer knew
-A Florentine more kinde, and honest.
+SD: +Iago exits
+I neuer knew / A Florentine more kinde, and honest.
 
 SD: Enter +AMILIA.
 
 +AMILIA
-Goodmorrow (good Lieutenant) I am sorrie
+Goodmorrow [good Lieutenant] I am sorrie
 For your displeasure: but all will sure be well.
 The Generall and his wife are talking of it,
 And she speakes for you stoutly. The Moore replies,
@@ -2375,13 +2197,12 @@ To speake your bosome freely.
 +CASSIO
 I am much bound to you.
 
-
 NS: Act 3 Scene 2
 
-SD: Enter +OTHELLO, +IAGO, and +GENTLEMEN.
+SD: Enter +OTHELLO, +IAGO, and Gentlemen.
 
 +OTHELLO
-These Letters giue (Iago) to the Pylot,
+These Letters giue [Iago] to the Pylot,
 And by him do my duties to the Senate:
 That done, I will be walking on the Workes,
 Repaire there to mee.
@@ -2390,12 +2211,14 @@ Repaire there to mee.
 Well, my good Lord, Ile doo't.
 
 +OTHELLO
-This Fortification (Gentlemen) shall we see't?
+This Fortification [Gentlemen] shall we see't?
 
-+GENTLEMEN
++GENT
 Well waite vpon your Lordship.
 
-Exuent +OTHELLO, +IAGO, and +GENTLEMEN
+SD: Exuent OTHELLO, IAGO, and Gentlemen
+
+
 
 
 NS: Act 3 Scene 3
@@ -2403,7 +2226,7 @@ NS: Act 3 Scene 3
 SD: Enter +DESDEMONA, +CASSIO, and +AMILIA.
 
 +DESDEMONA
-Be thou assur'd (good Cassio) I will do
+Be thou assur'd [good Cassio] I will do
 All my abilities in thy behalfe.
 
 +AMILIA
@@ -2463,8 +2286,7 @@ Vnfit for mine owne purposes.
 
 +DESDEMONA
 Well, do your discretion.
-
-SD: +CASSIO exits
+CASSIO exits
 
 +IAGO
 Hah? I like not that.
@@ -2512,13 +2334,13 @@ That he hath left part of his greefe with mee
 To suffer with him. Good Loue, call him backe.
 
 +OTHELLO
-Not now (sweet Desdemon) some other time.
+Not now [sweet Desdemon] some other time.
 
 +DESDEMONA
 But shall't be shortly?
 
 +OTHELLO
-The sooner (Sweet) for you.
+The sooner [Sweet] for you.
 
 +DESDEMONA
 Shall't be to night, at Supper?
@@ -2539,14 +2361,14 @@ On Tuesday noone, or night; on Wensday Morne.
 I prythee name the time, but let it not
 Exceed three dayes. Infaith hee's penitent:
 And yet his Trespasse, in our common reason
-(Saue that they say the warres must make example)
+[Saue that they say the warres must make example]
 Out of her best, is not almost a fault
 T'encurre a priuate checke. When shall he come?
 Tell me Othello. I wonder in my Soule
 What you would aske me, that I should deny,
 Or stand so mam'ring on? What? Michael Cassio,
 That came a woing wirh you? and so many a time
-(When I haue spoke of you dispraisingly)
+[When I haue spoke of you dispraisingly]
 Hath tane your part, to haue so much to do
 To bring him in? Trust me, I could do much.
 
@@ -2578,8 +2400,7 @@ Farewell my Desdemona, Ile come to thee strait.
 +DESDEMONA
 Amilia come; be as your Fancies teach you:
 What ere you be, I am obedient.
-
-SD: +DESDEMONA exits
+DESDEMONA exits
 
 +OTHELLO
 Excellent wretch: Perdition catch my Soule
@@ -2597,7 +2418,7 @@ Did Michael Cassio
 When he woo'd my Lady, know of your loue?
 
 +OTHELLO
-He did, from first to last: Why dost thou aske?
+He did, from first to last: / Why dost thou aske?
 
 +IAGO
 But for a satisfaction of my Thought,
@@ -2695,16 +2516,16 @@ Keepe Leetes, and Law-dayes, and in Sessions sit
 With meditations lawfull?
 
 +OTHELLO
-Thou do'st conspire against thy Friend (Iago)
+Thou do'st conspire against thy Friend [Iago]
 If thou but think'st him wrong'd, and mak'st his eare
 A stranger to thy Thoughts.
 
 +IAGO
 I do beseech you,
 Though I perchance am vicious in my guesse
-(As I confesse it is my Natures plague
+[As I confesse it is my Natures plague
 To spy into Abuses, and of my iealousie
-Shapes faults that are not) that your wisedome
+Shapes faults that are not] that your wisedome
 From one, that so imperfectly conceits,
 Would take no notice, nor build your selfe a trouble
 Out of his scattering, and vnsure obseruance:
@@ -2716,7 +2537,7 @@ To let you know my thoughts.
 What dost thou meane?
 
 +IAGO
-Good name in Man, & woman (deere my Lord)
+Good name in Man, & woman [deere my Lord]
 Is the immediate Iewell of their Soules;
 Who steales my purse, steales trash: / 'Tis something, nothing;
 'Twas mine, 'tis his, and has bin slaue to thousands:
@@ -2774,7 +2595,7 @@ Away at once with Loue, or Iealousie.
 +IAGO
 I am glad of this: For now I shall haue reason
 To shew the Loue and Duty that I beare you
-With franker spirit. Therefore (as I am bound)
+With franker spirit. Therefore [as I am bound]
 Receiue it from me. I speake not yet of proofe:
 Looke to your wife, obserue her well with Cassio,
 Weare your eyes, thus: not Iealious, nor Secure:
@@ -2782,7 +2603,7 @@ I would not haue your free, and Noble Nature,
 Out of selfe-Bounty, be abus'd: Looke too't:
 I know our Country disposition well:
 In Venice, they do let Heauen see the prankes
-They dare not shew their Husbands. Their best Conscience,
+They dare not shew their Husbands. / Their best Conscience,
 Is not to leaue't vndone, but kept vnknowne.
 
 +OTHELLO
@@ -2800,7 +2621,7 @@ And so she did.
 Why go too then:
 Shee that so young could giue out such a Seeming
 To seele her Fathers eyes vp, close as Oake,
-He thought 'twas Witchcraft. But I am much too blame:
+He thought 'twas Witchcraft. / But I am much too blame:
 I humbly do beseech you of your pardon
 For too much louing you.
 
@@ -2816,7 +2637,7 @@ Not a iot, not a iot.
 +IAGO
 Trust me, I feare it has:
 I hope you will consider what is spoke
-Comes from your Loue. But I do see y'are moou'd:
+Comes from your Loue. / But I do see y'are moou'd:
 I am to pray you, not to straine my speech
 To grosser issues, nor to larger reach,
 Then to Suspition.
@@ -2825,9 +2646,9 @@ Then to Suspition.
 I will not.
 
 +IAGO
-Should you do so (my Lord)
+Should you do so [my Lord]
 My speech should fall into such vilde successe,
-Which my Thoughts aym'd not. Cassio's my worthy Friend:
+Which my Thoughts aym'd not. / Cassio's my worthy Friend:
 My Lord, I see y'are mou'd.
 
 +OTHELLO
@@ -2835,19 +2656,19 @@ No, not much mou'd:
 I do not thinke but Desdemona's honest.
 
 +IAGO
-Long liue she so; And long liue you to thinke so.
+Long liue she so; / And long liue you to thinke so.
 
 +OTHELLO
 And yet how Nature erring from it selfe.
 
 +IAGO
-I, there's the point: As (to be bold with you)
+I, there's the point: / As [to be bold with you]
 Not to affect many proposed Matches
 Of her owne Clime, Complexion, and Degree,
 Whereto we see in all things, Nature tends:
 Foh, one may smel in such, a will most ranke,
 Foule disproportions, Thoughts vnnaturall.
-But (pardon me) I do not in position
+But [pardon me] I do not in position
 Distinctly speake of her, though I may feare
 Her will, recoyling to her better iudgement,
 May fal to match you with her Country formes,
@@ -2856,19 +2677,15 @@ And happily repent.
 +OTHELLO
 Farewell, farewell:
 If more thou dost perceiue, let me know more:
-Set on thy wife to obserue.
-Leaue me Iago.
+Set on thy wife to obserue. / Leaue me Iago.
 
 +IAGO
 My Lord, I take my leaue.
-
-SD: +IAGO exits
+IAGO exits
 
 +OTHELLO
-Why did I marry? This honest Creature (doubtlesse)
+Why did I marry? / This honest Creature [doubtlesse]
 Sees, and knowes more, much more then he vnfolds.
-
-SD: +IAGO enters
 
 +IAGO
 My Lord, I would I might intreat your Honor
@@ -2881,7 +2698,7 @@ Note if your Lady straine his Encertainment
 With any strong, or vehement importunitie,
 Much will be seene in that: In the meane time,
 Let me be thought too busie in my feares,
-(As worthy cause I haue to feare I am)
+[As worthy cause I haue to feare I am]
 And hold her free, I do beseech your Honor.
 
 +OTHELLO
@@ -2889,8 +2706,7 @@ Feare not my gouernment.
 
 +IAGO
 I once more take my leaue.
-
-SD: +IAGO exits
+IAGO exits
 
 +OTHELLO
 This Fellow's of exceeding honesty,
@@ -2901,7 +2717,7 @@ I'ld whistle her off, and let her downe the winde
 To prey at Fortune. Haply, for I am blacke,
 And haue not those soft parts of Conuersation
 That Chamberers haue: Or for I am declin'd
-Into the vale of yeares (yet that's not much)
+Into the vale of yeares [yet that's not much]
 Shee's gone. I am abus'd, and my releefe
 Must be to loath her. Oh Curse of Marriage!
 That we can call these delicate Creatures ours,
@@ -2946,19 +2762,20 @@ Let it alone: Come, Ile go in with you.
 
 +DESDEMONA
 I am very sorry that you are not well.
+DESDEMONA exits
 
-SD: +DESDEMONA exits
+SD: OTHELLO exits
 
 +AMILIA
 I am glad I haue found this Napkin:
 This was her first remembrance from the Moore,
 My wayward Husband hath a hundred times
 Woo'd me to steale it. But she so loues the Token,
-(For he coniur'd her, she should euer keepe it)
+[For he coniur'd her, she should euer keepe it]
 That she reserues it euermore about her,
 To kisse, and talke too. Ile haue the worke tane out,
-And giu't Iago: what he will do with it
-Heauen knowes, not I:
+And giu't Iago:
+what he will do with it / Heauen knowes, not I:
 I nothing, but to please his Fantasie.
 
 SD: Enter +IAGO.
@@ -2970,7 +2787,7 @@ How now? What do you heere alone?
 Do not you chide: I haue a thing for you.
 
 +IAGO
-You haue a thing for me? It is a common thing---
+You haue a thing for me? / It is a common thing---
 
 +AMILIA
 Hah?
@@ -3002,7 +2819,8 @@ Looke, heere 'tis.
 A good wench, giue it me.
 
 +AMILIA
-What will you do with't, that you haue bene so earnest to haue me filch it?
+What will you do with't, that you haue bene so earnest
+to haue me filch it?
 
 +IAGO
 Why, what is that to you?
@@ -3013,10 +2831,8 @@ Giu't me againe. Poore Lady, shee'l run mad
 When she shall lacke it.
 
 +IAGO
-Be not acknowne on't:
-I haue vse for it. Go, leaue me.	
-
-SD: Exit +AMILIA
+Be not acknowne on't: / I haue vse for it.
+AMILIA exits
 
 +IAGO
 I will in Cassio's Lodging loose this Napkin,
@@ -3092,7 +2908,7 @@ Then answer my wak'd wrath.
 Is't come to this?
 
 +OTHELLO
-Make me to see't: or (at the least) so proue it,
+Make me to see't: or [at the least] so proue it,
 That the probation beare no Hindge, nor Loope,
 To hang a doubt on: Or woe vpon thy life.
 
@@ -3112,7 +2928,7 @@ O Grace! O Heauen forgiue me!
 Are you a Man? Haue you a Soule? or Sense?
 God buy you: take mine Office. Oh wretched Foole,
 That lou'st to make thine Honesty, a Vice!
-Oh monstrous world! Take note, take note (O World)
+Oh monstrous world! Take note, take note [O World]
 To be direct and honest, is not safe.
 I thanke you for this profit, and from hence
 Ile loue no Friend, sith Loue breeds such offence.
@@ -3170,7 +2986,7 @@ Giue me a liuing reason she's disloyall.
 +IAGO
 I do not like the Office.
 But sith I am entred in this cause so farre
-(Prick'd too't by foolish Honesty, and Loue)
+[Prick'd too't by foolish Honesty, and Loue]
 I will go on. I lay with Cassio lately,
 And being troubled with a raging tooth,
 I could not sleepe.
@@ -3179,7 +2995,7 @@ that in their sleepes will mutter / Their Affayres:
 one of this kinde is Cassio:
 In sleepe I heard him say, sweet Desdemona,
 Let vs be wary, let vs hide our Loues,
-And then (Sir) would he gripe, and wring my hand:
+And then [Sir] would he gripe, and wring my hand:
 Cry, oh sweet Creature: then kisse me hard,
 As if he pluckt vp kisses by the rootes,
 That grew vpon my lippes, laid his Leg ore my Thigh,
@@ -3214,7 +3030,7 @@ I gaue her such a one: 'twas my first gift.
 
 +IAGO
 I know not that: but such a Handkerchiefe
-(I am sure it was your wiues) did I to day
+[I am sure it was your wiues] did I to day
 See Cassio wipe his Beard with.
 
 +OTHELLO
@@ -3231,7 +3047,7 @@ Now do I see 'tis true. Looke heere Iago,
 All my fond loue thus do I blow to Heauen.
 'Tis gone,
 Arise blacke vengeance, from the hollow hell,
-Yeeld vp (O Loue) thy Crowne, and hearted Throne
+Yeeld vp [O Loue] thy Crowne, and hearted Throne
 To tyrannous Hate. Swell bosome with thy fraught,
 For 'tis of Aspickes tongues.
 
@@ -3274,81 +3090,93 @@ Within these three dayes let me heare thee say,
 That Cassio's not aliue.
 
 +IAGO
-My Friend is dead: 'Tis done at your Request.
-But let her liue.
+My Friend is dead:
+'Tis done at your Request. / But let her liue.
 
 +OTHELLO
-Damne her lewde Minx: O damne her, damne her.
+Damne her lewde Minx: / O damne her, damne her.
 Come go with me a-part, I will withdraw
 To furnish me with some swift meanes of death
-For the faire Diuell.
-Now art thou my Lieutenant.
+For the faire Diuell. / Now art thou my Lieutenant.
 
 +IAGO
 I am your owne for euer.
+Exuent IAGO, OTHELLO
 
-SD: +OTHELLO, +IAGO exuent
+
 
 
 NS: Act 3 Scene 4
 
-SD: Enter +DESDEMONA, +AMILIA, and +CLOWNE.
-
+SD: Enter +DESDEMONA, +AMILIA, and +CLOWN.
 +DESDEMONA
+
 Do you know Sirrah, where Lieutenant
 Cassio lyes?
 
-+CLOWNE
++CLOWN
+
 I dare not say he lies any where.
 
 +DESDEMONA
+
 Why man?
 
-+CLOWNE
++CLOWN
+
 He's a Soldier, and for me to say a Souldier lyes, 'tis
 stabbing.
 
 +DESDEMONA
+
 Go too: where lodges he?
 
-+CLOWNE
++CLOWN
+
 To tell you where he lodges, is to tel you where I
 lye.
 
 +DESDEMONA
+
 Can any thing be made of this?
 
-+CLOWNE
++CLOWN
+
 I know not where he lodges, and for mee to deuise a
 lodging, and say he lies heere, or he lies there, were to lye
 in mine owne throat.
 
 +DESDEMONA
+
 Can you enquire him out? and be edified by
 report?
 
-+CLOWNE
++CLOWN
+
 I will Catechize the world for him, that is, make
 Questions, and by them answer.
 
 +DESDEMONA
+
 Seeke him, bidde him come hither: tell him, I
 haue moou'd my Lord on his behalfe, and hope all will be
 well.
 
-+CLOWNE
++CLOWN
+
 To do this, is within the compasse of mans Wit, and
 therefore I will attempt the doing it.
-
-SD: +CLOWNE exits
-
++CLOWN exits
 +DESDEMONA
+
 Where should I loose the Handkerchiefe, Amilia?
 
 +AMILIA
+
 I know not Madam.
 
 +DESDEMONA
+
 Beleeue me, I had rather haue lost my purse
 Full of Cruzadoes. And but my Noble Moore
 Is true of minde, and made of no such basenesse,
@@ -3356,35 +3184,43 @@ As iealious Creatures are, it were enough
 To put him to ill-thinking.
 
 +AMILIA
+
 Is he not iealious?
 
 +DESDEMONA
+
 Who, he? I thinke the Sun where he was borne,
 Drew all such humors from him.
 
 +AMILIA
+
 Looke where he comes.
 
 SD: Enter +OTHELLO.
-
 +DESDEMONA
-I will not leaue him now, till Cassio be
-Call'd to him. How is't with you, my Lord?
+
+I will not leaue him now, till Cassio
+be / Call'd to him. How is't with you, my Lord?
 
 +OTHELLO
+
 Well my good Lady. Oh hardnes to dissemble!
 How do you, Desdemona?
 
 +DESDEMONA
+
 Well, my good Lord.
 
 +OTHELLO
-Giue me your hand. This hand is moist, my Lady.
+
+Giue me your hand. / This hand is moist, my Lady.
 
 +DESDEMONA
+
 It hath felt no age, nor knowne no sorrow.
 
 +OTHELLO
+
 This argues fruitfulnesse, and liberall heart:
 Hot, hot, and moyst. This hand of yours requires
 A sequester from Liberty: Fasting, and Prayer,
@@ -3394,42 +3230,54 @@ That commonly rebels: 'Tis a good hand,
 A franke one.
 
 +DESDEMONA
-You may (indeed) say so:
+
+You may [indeed] say so:
 For 'twas that hand that gaue away my heart.
 
 +OTHELLO
+
 A liberall hand. The hearts of old, gaue hands:
 But our new Heraldry is hands, not hearts.
 
 +DESDEMONA
-I cannot speake of this: Come, now your promise.
+
+I cannot speake of this: / Come, now your promise.
 
 +OTHELLO
+
 What promise, Chucke?
 
 +DESDEMONA
+
 I haue sent to bid Cassio come speake with you.
 
 +OTHELLO
+
 I haue a salt and sorry Rhewme offends me:
 Lend me thy Handkerchiefe.
 
 +DESDEMONA
+
 Heere my Lord.
 
 +OTHELLO
+
 That which I gaue you.
 
 +DESDEMONA
+
 I haue it not about me.
 
 +OTHELLO
+
 Not?
 
 +DESDEMONA
+
 No indeed, my Lord.
 
 +OTHELLO
+
 That's a fault:
 That Handkerchiefe
 Did an Agyptian to my Mother giue:
@@ -3440,16 +3288,18 @@ Intirely to her loue: But if she lost it,
 Or made a Guift of it, my Fathers eye
 Should hold her loathed, and his Spirits should hunt
 After new Fancies. She dying, gaue it me,
-And bid me (when my Fate would haue me Wiu'd)
+And bid me [when my Fate would haue me Wiu'd]
 To giue it her. I did so; and take heede on't,
 Make it a Darling, like your precious eye:
 To loose't, or giue't away, were such perdition,
 As nothing else could match.
 
 +DESDEMONA
+
 Is't possible?
 
 +OTHELLO
+
 'Tis true: There's Magicke in the web of it:
 A Sybill that had numbred in the world
 The Sun to course, two hundred compasses,
@@ -3459,98 +3309,120 @@ And it was dyde in Mummey, which the Skilfull
 Conseru'd of Maidens hearts.
 
 +DESDEMONA
+
 Indeed? Is't true?
 
 +OTHELLO
+
 Most veritable, therefore looke too't well.
 
 +DESDEMONA
+
 Then would to Heauen, that I had neuer seene't?
 
 +OTHELLO
+
 Ha? wherefore?
 
 +DESDEMONA
+
 Why do you speake so startingly, and rash?
 
 +OTHELLO
+
 Is't lost? Is't gon? Speak, is't out o'th'way?
 
 +DESDEMONA
+
 Blesse vs.
 
 +OTHELLO
+
 Say you?
 
 +DESDEMONA
-It is not lost: but what and if it were?
+
+It is not lost:
+but what and if it were?
 
 +OTHELLO
+
 How?
 
 +DESDEMONA
+
 I say it is not lost.
 
 +OTHELLO
+
 Fetcht, let me see't.
 
 +DESDEMONA
+
 Why so I can: but I will not now:
 This is a tricke to put me from my suite,
 Pray you let Cassio be receiu'd againe.
 
 +OTHELLO
-Fetch me the Handkerchiefe, My minde mis-giues.
+
+Fetch me the Handkerchiefe, / My minde mis-giues.
 
 +DESDEMONA
-Come, come: you'l neuer meete a more sufficient man.
+
+Come, come:
+you'l neuer meete a more sufficient man.
 
 +OTHELLO
+
 The Handkerchiefe.
 
 +DESDEMONA
+
 A man that all his time
 Hath founded his good Fortunes on your loue;
 Shar'd dangers with you.
 
 +OTHELLO
+
 The Handkerchiefe.
 
 +DESDEMONA
+
 Insooth, you are too blame.
 
 +OTHELLO
+
 Away.
-
-SD: +OTHELLO exits
-
++OTHELLO exits
 +AMILIA
+
 Is not this man iealious?
 
 +DESDEMONA
+
 I neu'r saw this before.
 Sure, there's some wonder in this Handkerchikfe,
 I am most vnhappy in the losse of it.
 
 +AMILIA
+
 'Tis not a yeare or two shewes vs a man:
 They are all but Stomackes, and we all but Food,
 They eate vs hungerly, and when they are full
-They belch vs.
+They belch vs. / Looke you, Cassio and my Husband.
 
 SD: Enter +IAGO, and +CASSIO.
-
-+AMELIA
-Looke you, Cassio and my Husband.
-
 +IAGO
+
 There is no other way: 'tis she must doo't:
 And loe the happinesse: go, and importune her.
 
 +DESDEMONA
-How now (good Cassio) what's the newes with you?
+
+How now [good Cassio] what's the newes with you?
 
 +CASSIO
+
 Madam, my former suite. I do beseech you,
 That by your vertuous meanes, I may againe
 Exist, and be a member of his loue,
@@ -3566,7 +3438,8 @@ And shut my selfe vp in some other course
 To Fortunes Almes.
 
 +DESDEMONA
-Alas (thrice-gentle Cassio)
+
+Alas [thrice-gentle Cassio]
 My Aduocation is not now in Tune;
 My Lord, is not my Lord; nor should I know him,
 Were he in Fauour, as in Humour alter'd.
@@ -3578,13 +3451,16 @@ What I can do, I will: and more I will
 Then for my selfe, I dare. Let that suffice you.
 
 +IAGO
+
 Is my Lord angry?
 
 +AMILIA
+
 He went hence but now:
 And certainly in strange vnquietnesse.
 
 +IAGO
+
 Can he be angry? I haue seene the Cannon
 When it hath blowne his Rankes into the Ayre,
 And like the Diuell from his very Arme
@@ -3593,11 +3469,11 @@ Something of moment then: I will go meet him,
 There's matter in't indeed, if he be angry.
 
 +DESDEMONA
+
 I prythee do so.
-
-SD: +IAGO exits
-
++IAGO exits
 +DESDEMONA
+
 Something sure of State,
 Either from Venice, or some vnhatch'd practise
 Made demonstrable heere in Cyprus, to him,
@@ -3609,50 +3485,59 @@ Our other healthfull members, euen to a sense
 Of paine. Nay, we must thinke men are not Gods,
 Nor of them looke for such obseruancie
 As fits the Bridall. Beshrew me much, Amilia,
-I was (vnhandsome Warrior, as I am)
+I was [vnhandsome Warrior, as I am]
 Arraigning his vnkindnesse with my soule:
 But now I finde, I had suborn'd the Witnesse,
 And he's Indited falsely.
 
 +AMILIA
-Pray heauen it bee
-State matters, as you thinke, and no Conception,
-Nor no Iealious Toy, concerning you.
+
+Pray heauen it bee / State matters, as you thinke,
+and no Conception, / Nor no Iealious Toy,
+concerning you.
 
 +DESDEMONA
+
 Alas the day, I neuer gaue him cause.
 
 +AMILIA
+
 But Iealious soules will not be answer'd so;
 They are not euer iealious for the cause,
 But iealious, for they're iealious. It is a Monster
 Begot vpon it selfe, borne on it selfe.
 
 +DESDEMONA
+
 Heauen keepe the Monster from Othello's mind.
 
 +AMILIA
+
 Lady, Amen.
 
 +DESDEMONA
+
 I will go seeke him. Cassio, walke heere about:
 If I doe finde him fit, Ile moue your suite,
 And seeke to effect it to my vttermost.
 
 +CASSIO
+
 I humbly thanke your Ladyship.
-
-SD: +DESDEMONA, +AMELIA exit. Enter +BIANCA.
-
++DESDEMONA exits
+SD: Enter +BIANCA.
 +BIANCA
-'Saue you (Friend Cassio.)
+
+'Saue you [Friend Cassio.]
 
 +CASSIO
+
 What make you from home?
 How is't with you, my most faire Bianca?
-Indeed (sweet Loue) I was comming to your house.
+Indeed [sweet Loue] I was comming to your house.
 
 +BIANCA
+
 And I was going to your Lodging, Cassio.
 What? keepe a weeke away? Seuen dayes, and Nights?
 Eight score eight houres? And Louers absent howres
@@ -3660,6 +3545,7 @@ More tedious then the Diall, eight score times?
 Oh weary reck'ning.
 
 +CASSIO
+
 Pardon me, Bianca:
 I haue this while with leaden thoughts beene prest,
 But I shall in a more continuate time
@@ -3667,12 +3553,14 @@ Strike off this score of absence. Sweet Bianca
 Take me this worke out.
 
 +BIANCA
+
 Oh Cassio, whence came this?
 This is some Token from a newer Friend,
 To the felt-Absence: now I feele a Cause:
 Is't come to this? Well, well.
 
 +CASSIO
+
 Go too, woman:
 Throw your vilde gesses in the Diuels teeth,
 From whence you haue them. You are iealious now,
@@ -3680,169 +3568,203 @@ That this is from some Mistris, some remembrance;
 No, in good troth Bianca.
 
 +BIANCA
+
 Why, who's is it?
 
 +CASSIO
-I know not neither: I found it in my Chamber,
+
+I know not neither: / I found it in my Chamber,
 I like the worke well; Ere it be demanded
-(As like enough it will) I would haue it coppied:
+[As like enough it will] I would haue it coppied:
 Take it, and doo't, and leaue me for this time.
 
 +BIANCA
+
 Leaue you? Wherefore?
 
 +CASSIO
+
 I do attend heere on the Generall,
 And thinke it no addition nor my wish
 To haue him see me woman'd.
 
 +BIANCA
+
 Why, I ptay you?
 
 +CASSIO
+
 Not that I loue you not.
 
 +BIANCA
+
 But that you do not loue me.
 I pray you bring me on the way a little,
 And say, if I shall see you soone at night?
 
 +CASSIO
+
 'Tis but a little way that I can bring you,
 For I attend heere: But Ile see you soone.
 
 +BIANCA
+
 'Tis very good: I must be circumstanc'd.
 
-SD: Exeunt +BIANCA, +CASSIO
+SD: +AMILIA, +BIANCA, +CASSIO exuent.
 
-
-NS: Act 4, Scene 1
+NS: Act 4 Scene 1
 
 SD: Enter +OTHELLO, and +IAGO.
-
 +IAGO
+
 Will you thinke so?
 
 +OTHELLO
+
 Thinke so, Iago?
 
 +IAGO
+
 What,
 to kisse in priuate?
 
 +OTHELLO
+
 An vnauthoriz'd kisse?
 
 +IAGO
+
 Or to be naked with her Friend in bed,
 An houre, or more, not meaning any harme?
 
 +OTHELLO
-Naked in bed (Iago) and not meane harme?
+
+Naked in bed [Iago] and not meane harme?
 It is hypocrisie against the Diuell:
 They that meane vertuously, and yet do so,
 The Diuell their vertue tempts, and they tempt Heauen.
 
 +IAGO
+
 If they do nothing, 'tis a Veniall slip:
 But if I giue my wife a Handkerchiefe.
 
 +OTHELLO
+
 What then?
 
 +IAGO
-Why then 'tis hers (my Lord) and being hers,
-She may (I thinke) bestow't on any man.
+
+Why then 'tis hers [my Lord] and being hers,
+She may [I thinke] bestow't on any man.
 
 +OTHELLO
+
 She is Protectresse of her honor too:
 May she giue that?
 
 +IAGO
+
 Her honor is an Essence that's not seene,
 They haue it very oft, that haue it not.
 But for the Handkerchiefe.
 
 +OTHELLO
+
 By heauen, I would most gladly haue forgot it:
-Thou saidst (oh, it comes ore my memorie,
+Thou saidst [oh, it comes ore my memorie,
 As doth the Rauen o're the infectious house:
-Boading to all) he had my Handkerchiefe.
+Boading to all] he had my Handkerchiefe.
 
 +IAGO
+
 I: what of that?
 
 +OTHELLO
+
 That's not so good now.
 
 +IAGO
+
 What
 if I had said, I had seene him do you wrong?
-Or heard him say (as Knaues be such abroad,
+Or heard him say [as Knaues be such abroad,
 Who hauing by their owne importunate suit,
 Or voluntary dotage of some Mistris,
 Conuinced or supply'd them, cannot chuse
-But they must blab.)
+But they must blab.]
 
 +OTHELLO
+
 Hath he said any thing?
 
 +IAGO
-He hath (my Lord) but be you well assur'd,
+
+He hath [my Lord] but be you well assur'd,
 No more then he'le vn-sweare.
 
 +OTHELLO
+
 What hath he said?
 
 +IAGO
+
 Why, that he did: I know not what he did.
 
 +OTHELLO
+
 What? What?
 
 +IAGO
+
 Lye.
 
 +OTHELLO
+
 With her?
 
 +IAGO
+
 With her? On her: what you will.
 
 +OTHELLO
+
 Lye with her? lye on her? We say lye on her,
 when they be-lye-her. Lye with her: that's fullsome:
 Handkerchiefe: Confessions: Handkerchiefe. To
 confesse, and be hang'd for his labour. First, to be hang'd,
 and then to confesse: I tremble at it. Nature would not
 inuest her selfe in such shadowing passion, without some
-Iustruction. It is not words that shakes me thus, (pish)
+Iustruction. It is not words that shakes me thus, [pish]
 Noses, Eares, and Lippes: is't possible. Confesse?
 Handkerchiefe? O diuell.
 
 SD: +OTHELLO falls in a Traunce.
-
 +IAGO
+
 Worke on,
 My Medicine workes. Thus credulous Fooles are caught,
 And many worthy, and chast Dames euen thus,
-(All guiltlesse) meete reproach: what hoa? My Lord?
+[All guiltlesse] meete reproach: what hoa? My Lord?
 My Lord, I say: Othello.
 
 SD: Enter +CASSIO.
-
 +CASSIO
+
 What's the matter?
 
 +IAGO
+
 My Lord is falne into an Epilepsie,
 This is his second Fit: he had one yesterday.
 
 +CASSIO
+
 Rub him about the Temples.
 
 +IAGO
+
 The Lethargie must haue his quyet course:
 If not, he foames at mouth: and by and by
 Breakes out to sauage madnesse. Looke, he stirres:
@@ -3850,29 +3772,30 @@ Do you withdraw your selfe a little while,
 He will recouer straight: when he is gone,
 I would on great occasion, speake with you.
 
-SD: +CASSIO exits
-
-+IAGO
-How is it Generall? Haue you not hurt your head?
-
 +OTHELLO
+
 Dost thou mocke me?
 
 +IAGO
+
 I mocke you not, by Heauen:
 Would you would beare your Fortune like a Man.
 
 +OTHELLO
+
 A Horned man's a Monster, and a Beast.
 
 +IAGO
+
 Ther's many a Beast then in a populous Citty,
 And many a ciuill Monster.
 
 +OTHELLO
+
 Did he confesse it?
 
 +IAGO
+
 Good Sir, be a man:
 Thinke euery bearded fellow that's but yoak'd
 May draw with you. There's Millions now aliue,
@@ -3884,13 +3807,15 @@ And to suppose her chast. No, let me know,
 And knowing what I am, I know what she shallbe.
 
 +OTHELLO
+
 Oh, thou art wise: 'tis certaine.
 
 +IAGO
+
 Stand you a while apart,
 Confine your selfe but in a patient List,
 Whil'st you were heere, o're-whelmed with your griefe
-(A passion most resulting such a man)
+[A passion most resulting such a man]
 Cassio came hither. I shifted him away,
 And layd good scuses vpon your Extasie,
 Bad him anon returne: and heere speake with me,
@@ -3905,133 +3830,163 @@ Or I shall say y'are all in all in Spleene,
 And nothing of a man.
 
 +OTHELLO
+
 Do'st thou heare, Iago,
 I will be found most cunning in my Patience:
-But (do'st thou heare) most bloody.
+But [do'st thou heare] most bloody.
 
 +IAGO
+
 That's not amisse,
 But yet keepe time in all: will you withdraw?
 Now will I question Cassio of Bianca,
 A Huswife that by selling her desires
 Buyes her selfe Bread, and Cloath. It is a Creature
-That dotes on Cassio, (as 'tis the Strumpets plague
-To be-guile many, and be be-guil'd by one)
+That dotes on Cassio, [as 'tis the Strumpets plague
+To be-guile many, and be be-guil'd by one]
 He, when he heares of her, cannot restraine
 From the excesse of Laughter. Heere he comes.
 
 SD: Enter +CASSIO.
-
 +IAGO
-As he shall smile, Othello shall go mad:
+
+As he shall smile, OTHELLO shall go mad:
 And his vnbookish Ielousie must conserue
 Poore Cassio's smiles, gestures, and light behauiours
 Quite in the wrong. How do you Lieutenant?
 
 +CASSIO
+
 The worser, that you giue me the addition,
 Whose want euen killes me.
 
 +IAGO
+
 Ply Desdemona well, and you are sure on't:
 Now, if this Suit lay in Bianca's dowre,
 How quickely should you speed?
 
 +CASSIO
+
 Alas poore Caitiffe.
 
 +OTHELLO
+
 Looke how he laughes already.
 
 +IAGO
+
 I neuer knew woman loue man so.
 
 +CASSIO
+
 Alas poore Rogue, I thinke indeed she loues me.
 
 +OTHELLO
+
 Now he denies it faintly: and laughes it out.
 
 +IAGO
+
 Do you heare Cassio?
 
 +OTHELLO
-Now he importunes him
-To tell it o're: go too, well said, well said.
+
+Now he importunes him / To tell it o're:
+go too, well said, well said.
 
 +IAGO
+
 She giues it out, that you shall marry her.
 Do you intend it?
 
 +CASSIO
+
 Ha, ha, ha.
 
 +OTHELLO
+
 Do ye triumph, Romaine? do you triumph?
 
 +CASSIO
-I marry. What? A customer; prythee beare
-Some Charitie to my wit, do not thinke it
-So vnwholesome. Ha, ha, ha.
+
+I marry. What? A customer; prythee beare / Some
+Charitie to my wit, do not thinke it / So vnwholesome. Ha,
+ha, ha.
 
 +OTHELLO
+
 So, so, so, so: they laugh, that winnes.
 
 +IAGO
+
 Why the cry goes, that you marry her.
 
 +CASSIO
+
 Prythee say true.
 
 +IAGO
+
 I am a very Villaine else.
 
 +OTHELLO
+
 Haue you scoar'd me? Well.
 
 +CASSIO
-This is the Monkeys owne giuing out:
-She is perswaded I will marry her
-Out of her owne loue & flattery, not out of my promise.
+
+This is the Monkeys owne giuing out: / She is
+perswaded I will marry her / Out of her owne loue &
+flattery, not out of my promise.
 
 +OTHELLO
+
 Iago becomes me: now he begins the
 story.
 
 +CASSIO
+
 She was heere euen now: she haunts me in euery
 place. I was the other day talking on the Sea-banke with
 certaine Venetians, and thither comes the Bauble, and
 falls me thus about my neck.
 
 +OTHELLO
+
 Crying oh deere Cassio, as it were: his
 iesture imports it.
 
 +CASSIO
-So hangs, and lolls, and weepes vpon me:
-So shakes, and pulls me. Ha, ha, ha.
+
+So hangs, and lolls, and weepes vpon me: / So shakes,
+and pulls me. Ha, ha, ha.
 
 +OTHELLO
+
 Now he tells how she pluckt him to
 my Chamber: oh, I see that nose of yours, but not that
 dogge, I shall throw it to.
 
 +CASSIO
+
 Well, I must leaue her companie.
 
 +IAGO
+
 Before me: looke where she comes.
 
 +CASSIO
+
 'Tis such another Fitchew: marry a perfum'd one?
 
 SD: Enter +BIANCA.
-
 +CASSIO
+
 What do you meane by this haunting of me?
 
 +BIANCA
+
 Let the diuell, and his dam haunt you: what did
 you meane by that same Handkerchiefe, you gaue me euen
 now? I was a fine Foole to take it: I must take out the
@@ -4042,68 +3997,85 @@ There, giue it your Hobbey-horse, wheresoeuer you had
 it, Ile take out no worke on't.
 
 +CASSIO
+
 How now, my sweete Bianca? How now? How now?
 
 +OTHELLO
+
 By Heauen, that should be my
 Handkerchiefe.
 
 +BIANCA
+
 If you'le come to supper to night you may, if you
 will not, come when you are next prepar'd for.
-
-SD: +BIANCA exits
-
++BIANCA exits
 +IAGO
+
 After her: after her.
 
 +CASSIO
+
 I must, shee'l rayle in the streets else.
 
 +IAGO
+
 Will you sup there?
 
 +CASSIO
+
 Yes, I intend so.
 
 +IAGO
+
 Well, I may chance to see you: for I would very faine
 speake with you.
 
 +CASSIO
+
 Prythee come: will you?
 
 +IAGO
+
 Go too: say no more.
 
 +OTHELLO
+
 How shall I murther him, Iago.
 
 +IAGO
+
 Did you perceiue how he laugh'd at his vice?
 
 +OTHELLO
+
 Oh, Iago.
 
 +IAGO
+
 And did you see the Handkerchiefe?
 
 +OTHELLO
+
 Was that mine?
 
 +IAGO
+
 Yours by this hand: and to see how he prizes the
 foolish woman your wife: she gaue it him, and he hath
 giu'n it his whore.
 
 +OTHELLO
-I would haue him nine yeeres a killing:
-A fine woman, a faire woman, a sweete woman?
+
+I would haue him nine yeeres a killing: / A fine
+woman, a faire woman, a sweete woman?
 
 +IAGO
+
 Nay, you must forget that.
 
 +OTHELLO
+
 I, let her rot and perish, and be damn'd
 to night, for she shall not liue. No, my heart is turn'd to
 stone: I strike it, and it hurts my hand. Oh, the world
@@ -4111,206 +4083,256 @@ hath not a sweeter Creature: she might lye by an
 Emperours side, and command him Taskes.
 
 +IAGO
+
 Nay, that's not your way.
 
 +OTHELLO
+
 Hang her, I do but say what she is: so delicate
 with her Needle: an admirable Musitian. Oh she will sing
 the Sauagenesse out of a Beare: of so high and plenteous
 wit, and inuention?
 
 +IAGO
+
 She's the worse for all this.
 
 +OTHELLO
-Oh, a thousand, a thousand times:
-And then of so gentle a condition?
+
+Oh, a thousand, a thousand times: / And then of
+so gentle a condition?
 
 +IAGO
+
 I too gentle.
 
 +OTHELLO
-Nay that's certaine:
-But yet the pitty of it, Iago: oh Iago, the pitty of it Iago.
+
+Nay that's certaine: / But yet the pitty of it, Iago:
+oh Iago, the pitty of it Iago.
 
 +IAGO
+
 If you are so fond ouer her iniquitie: giue her pattent
 to offend, for if it touch not you, it comes neere
 no body.
 
 +OTHELLO
+
 I will chop her into Messes: Cuckold me?
 
 +IAGO
+
 Oh, 'tis foule in her.
 
 +OTHELLO
+
 With mine Officer?
 
 +IAGO
+
 That's fouler.
 
 +OTHELLO
+
 Get me some poyson, Iago, this night. Ile not
 expostulate with her: least her body and beautie vnprouide
 my mind againe: this night Iago.
 
 +IAGO
+
 Do it not with poyson, strangle her in her bed, / Euen
 the bed she hath contaminated.
 
 +OTHELLO
-Good, good:
-The Iustice of it pleases: very good.
+
+Good, good: / The Iustice of it pleases: very
+good.
 
 +IAGO
-And for Cassio, let me be his vndertaker:
-You shall heare more by midnight.
+
+And for Cassio, let me be his vndertaker: / You shall
+heare more by midnight.
 
 +OTHELLO
-Excellent good: What Trumpet is that same?
+
+Excellent good:
+What Trumpet is that same?
 
 +IAGO
+
 I warrant something from Venice,
-
 SD: Enter +LODOVICO, +DESDEMONA, and Attendants.
-
 +IAGO
-'Tis Lodouico, this, comes from the Duke.
-See, your wife's with him.
+
+'Tis Lodouico, this,
+comes from the Duke. / See, your wife's with him.
 
 +LODOVICO
+
 Saue you worthy Generall.
 
 +OTHELLO
+
 With all my heart Sir.
 
 +LODOVICO
+
 The Duke, and the Senators of Venice greet you.
 
 +OTHELLO
+
 I kisse the Instrument of their pleasures.
 
 +DESDEMONA
+
 And what's the newes, good cozen Lodouico?
 
 +IAGO
+
 I am very glad to see you Signior:
 Welcome to Cyprus.
 
 +LODOVICO
+
 I thanke you: how do's Lieutenant Cassio?
 
 +IAGO
+
 Liues Sir,
 
 +DESDEMONA
+
 Cozen, there's falne betweene him, & my Lord,
 An vnkind breach: but you shall make all well.
 
 +OTHELLO
+
 Are you sure of that?
 
 +DESDEMONA
+
 My Lord?
 
 +OTHELLO
+
 This faile you not to do, as you will---
 
 +LODOVICO
+
 He did not call: he's busie in the paper,
 Is there deuision 'twixt my Lord, and Cassio?
 
 +DESDEMONA
+
 A most vnhappy one: I would do much
 T'attone them, for the loue I beare to Cassio.
 
 +OTHELLO
+
 Fire, and brimestone.
 
 +DESDEMONA
+
 My Lord.
 
 +OTHELLO
+
 Are you wise?
 
 +DESDEMONA
+
 What is he angrie?
 
 +LODOVICO
+
 May be th Letter mou'd him.
 For as I thinke, they do command him home,
 Deputing Cassio in his Gouernment.
 
 +DESDEMONA
+
 Trust me, I am glad on't.
 
 +OTHELLO
+
 Indeed?
 
 +DESDEMONA
+
 My Lord?
 
 +OTHELLO
+
 I am glad to see you mad.
 
 +DESDEMONA
+
 Why, sweete Othello?
 
 +OTHELLO
+
 Diuell.
 
 +DESDEMONA
+
 I haue not deseru'd this.
 
 +LODOVICO
+
 My Lord, this would not be beleeu'd in Venice,
 Though I should sweare I saw't. 'Tis very much,
 Make her amends: she weepes.
 
 +OTHELLO
+
 Oh diuell, diuell:
 If that the Earth could teeme with womans teares,
 Each drop she falls, would proue a Crocodile:
 Out of my sight.
 
 +DESDEMONA
+
 I will not stay to offend you.
 
 +LODOVICO
+
 Truely obedient Lady:
 I do beseech your Lordship call her backe.
 
 +OTHELLO
+
 Mistris.
 
 +DESDEMONA
+
 My Lord.
 
 +OTHELLO
+
 What would you with her, Sir?
 
 +LODOVICO
+
 Who I, my Lord?
 
 +OTHELLO
+
 I, you did wish, that I would make her turne:
 Sir, she can turne, and turne: and yet go on
 And turne againe. And she can weepe, Sir, weepe.
 And she's obedient: as you say obedient.
 Very obedient: proceed you in your teares.
-Concerning this Sir, (oh well-painted passion)
+Concerning this Sir, [oh well-painted passion]
 I am commanded home: get you away:
 Ile send for you anon. Sir I obey the Mandate,
 And will returne to Venice. Hence, auaunt:
 Cassio shall haue my Place. And Sir, to night
 I do entreat, that we may sup together.
-You are welcome Sir to Cyprus.
-Goates, and Monkeys.
-
-SD: +OTHELLO exits
-
+You are welcome Sir to Cyprus. / Goates, and Monkeys.
++OTHELLO exits
 +LODOVICO
+
 Is this the Noble Moore, whom our full Senate
 Call all in all sufficient? Is this the Nature
 Whom Passion could not shake? Whose solid vertue
@@ -4318,29 +4340,36 @@ The shot of Accident, nor dart of Chance
 Could neither graze, nor pierce?
 
 +IAGO
+
 He is much chang'd.
 
 +LODOVICO
+
 Are his wits safe? Is he not light of Braine?
 
 +IAGO
+
 He's that he is: I may not breath my censure.
 What he might be: if what he might, he is not,
 I would to heauen he were.
 
 +LODOVICO
+
 What? Strike his wife?
 
 +IAGO
+
 'Faith that was not so well: yet would I knew
 That stroke would proue the worst.
 
 +LODOVICO
+
 Is it his vse?
 Or did the Letters, worke vpon his blood,
 And new create his fault?
 
 +IAGO
+
 Alas, alas:
 It is not honestie in me to speake
 What I haue seene, and knowne. You shall obserue him,
@@ -4349,13 +4378,15 @@ That I may saue my speech: do but go after
 And marke how he continues.
 
 +LODOVICO
+
 I am sorry that I am deceiu'd in him.
 
 
-NS: Act 4 Scene 2
+
+
+NS: Act 4, Scene 2
 
 SD: Enter +OTHELLO, and +AMILIA.
-
 +OTHELLO
 You haue seene nothing then?
 
@@ -4391,7 +4422,7 @@ Neuer my Lord.
 That's strange.
 
 +AMILIA
-I durst (my Lord) to wager, she is honest:
+I durst [my Lord] to wager, she is honest:
 Lay downe my Soule at stake: If you thinke other,
 Remoue your thought. It doth abuse your bosome:
 If any wretch haue put this in your head,
@@ -4403,16 +4434,13 @@ Is foule as Slander.
 +OTHELLO
 Bid her come hither: go.
 
-SD: +AMILIA exits
-
-+OTHELLO
-She saies enough: yet she's a simple Baud
+SD: +Amilia exits
+SD: He saies enough: yet she's a simple Baud
 That cannot say as much. This is a subtile Whore:
 A Closset Locke and Key of Villanous Secrets,
 And yet she'le kneele, and pray: I haue seene her do't.
 
 SD: Enter +DESDEMONA, and +AMILIA.
-
 +DESDEMONA
 My Lord, what is your will?
 
@@ -4435,8 +4463,7 @@ Leaue Procreants alone, and shut the doore:
 Cough, or cry hem; if any bodycome:
 Your Mystery, your Mystery: May dispatch.
 
-SD: +AMILIA exits
-
+SD: +Amilia exits
 +DESDEMONA
 Vpon my knee, what doth your speech import?
 I vnderstand a Fury in your words.
@@ -4460,7 +4487,7 @@ Heauen doth truely know it.
 Heauen truely knowes, that thou art false as hell.
 
 +DESDEMONA
-To whom my Lord? With whom? How am I false?
+To whom my Lord? / With whom? How am I false?
 
 +OTHELLO
 Ah Desdemon, away, away, away.
@@ -4500,8 +4527,7 @@ I hope my Noble Lord esteemes me honest.
 Oh I, as Sommer Flyes are in the Shambles,
 That quicken euen with blowing. Oh thou weed:
 Who art so louely faire, and smell'st so sweete,
-That the Sense akes at thee,
-Would thou had'st neuer bin borne.
+That the Sense akes at thee, / Would thou had'st neuer bin borne.
 
 +DESDEMONA
 Alas, what ignorant sin haue I committed?
@@ -4550,14 +4576,12 @@ That haue the office opposite to Saint Peter,
 And keepes the gate of hell.
 
 SD: Enter +AMILIA.
-
 +OTHELLO
 You, you: I you.
 We haue done our course: there's money for your paines:
 I pray you turne the key, and keepe our counsaile.
 
-SD: +OTHELLO exits
-
+SD: +Othello exits
 +AMILIA
 Alas, what do's this Gentleman conceiue?
 How do you Madam? how do you my good Lady?
@@ -4566,7 +4590,7 @@ How do you Madam? how do you my good Lady?
 Faith, halfe a sleepe.
 
 +AMILIA
-Good Madam, What's the matter with my Lord?
+Good Madam, / What's the matter with my Lord?
 
 +DESDEMONA
 With who?
@@ -4590,15 +4614,13 @@ And call thy husband hither.
 +AMILIA
 Heere's a change indeed.
 
-SD: +AMILIA exits
-
+SD: +Amilia exits
 +DESDEMONA
 'Tis meete I should be vs'd so: very meete.
 How haue I bin behau'd, that he might sticke
 The small'st opinion on my least misvse?
 
 SD: Enter +IAGO, and +AMILIA.
-
 +IAGO
 What is your pleasure Madam? How is't with you?
 
@@ -4612,7 +4634,7 @@ I am a Child to chiding.
 What is the matter Lady?
 
 +AMILIA
-Alas (Iago) my Lord hath so bewhor'd her,
+Alas [Iago] my Lord hath so bewhor'd her,
 Throwne such dispight, and heauy termes vpon her
 That true hearts cannot beare it.
 
@@ -4620,7 +4642,7 @@ That true hearts cannot beare it.
 Am I that name, Iago?
 
 +IAGO
-What name (faire Lady?)
+What name [faire Lady?]
 
 +DESDEMONA
 Such as she said my Lord did say I was.
@@ -4666,9 +4688,9 @@ Fie, there is no such man: it is impossible.
 If any such there be, Heauen pardon him.
 
 +AMILIA
-A halter pardon him: And hell gnaw his bones.
-Why should he call her Whore? Who keepes her companie?
-What Place? What Time? What Forme? What liklyhood?
+A halter pardon him: / And hell gnaw his bones.
+Why should he call her Whore? / Who keepes her companie?
+What Place? What Time? / What Forme? What liklyhood?
 The Moore's abus'd by some most villanous Knaue,
 Some base notorious Knaue, some scuruy Fellow.
 Oh Heauens, that such companions thou'd'st vnfold,
@@ -4697,8 +4719,8 @@ Either in discourse of thought, or actuall deed,
 Or that mine Eyes, mine Eares, or any Sence
 Delighted them: or any other Forme.
 Or that I do not yet, and euer did,
-And euer will, (though he do shake me off
-To beggerly diuorcement) Loue him deerely,
+And euer will, [though he do shake me off
+To beggerly diuorcement] Loue him deerely,
 Comfort forsweare me. Vnkindnesse may do much,
 And his vnkindnesse may defeat my life,
 But neuer taynt my Loue. I cannot say Whore,
@@ -4719,13 +4741,14 @@ Hearke how these Instruments summon to supper:
 The Messengers of Venice staies the meate,
 Go in, and weepe not: all things shall be well.
 
-SD: Exeunt +DESDEMONA and +AMILIA. Enter +RODORIGO.
-
+SD: +Desdemona and +Amilia exuent
+SD: Enter +RODORIGO.
 +IAGO
 How now Rodorigo?
 
 +RODORIGO
-I do not finde That thou deal'st iustly with me.
+I do not finde / That thou deal'st iustly with
+me.
 
 +IAGO
 What in the contrarie?
@@ -4742,8 +4765,8 @@ haue foolishly suffred.
 Will you heare me Rodorigo?
 
 +RODORIGO
-I haue heard too much: and your words and
-Performances are no kin together.
+I haue heard too much: and your words
+and / Performances are no kin together.
 
 +IAGO
 You charge me most vniustly.
@@ -4760,7 +4783,7 @@ and acquaintance, but I finde none.
 Well, go too: very well.
 
 +RODORIGO
-Very well, go too: I cannot go too, (man) nor tis
+Very well, go too: I cannot go too, [man] nor tis
 not very well. Nay I think it is scuruy: and begin to
 finde my selfe fopt in it.
 
@@ -4795,8 +4818,8 @@ It hath not appeer'd.
 I grant indeed it hath not appeer'd: and your suspition
 is not without wit and iudgement. But Rodorigo,
 if thou hast that in thee indeed, which I haue greater
-reason to beleeue now then euer (I meane purpose,
-Courage, and Valour) this night shew it. If thou the
+reason to beleeue now then euer [I meane purpose,
+Courage, and Valour] this night shew it. If thou the
 next night following enioy not Desdemona, take me from
 this world with Treacherie, and deuise Engines for my life.
 
@@ -4832,8 +4855,8 @@ And that you would haue me to do.
 I: if you dare do your selfe a profit, and a right. He
 sups to night with a Harlotry: and thither will I go to
 him. He knowes not yet of his Honourable Fortune, if
-you will watch his going thence (which I will fashion to
-fall out betweene twelue and one) you may take him at
+you will watch his going thence [which I will fashion to
+fall out betweene twelue and one] you may take him at
 your pleasure. I will be neere to second your Attempt,
 and he shall fall betweene vs. Come, stand not amaz'd
 at it, but go along with me: I will shew you such a
@@ -4847,20 +4870,18 @@ I will heare further reason for this.
 +IAGO
 And you shalbe satisfi'd.
 
-SD: Exeunt IAGO, RODORIGO
+SD: Exuent +IAGO, +RODORIGO
 
+NS: Act 4, Scene 3
 
-NS: Act 4 Scene 3
-
-SD: Enter +OTHELLO, +LODOVICO, +DESDEMONA, +AMILIA, and Atendants.
-
-+LODOVICO
+SD: Enter +OTHELLO, +LODOUICO, +DESDEMONA, +AMILIA, and +ATtendants.
++LODOUICO
 I do beseech you Sir, trouble your selfe no further.
 
 +OTHELLO
 Oh pardon me: 'twill do me good to walke.
 
-+LODOVICO
++LODOUICO
 Madam, good night: I humbly thanke your Ladyship.
 
 +DESDEMONA
@@ -4880,8 +4901,7 @@ forthwith: dismisse your Attendant there: look't be done.
 +DESDEMONA
 I will my Lord.
 
-SD: +OTHELLO exits
-
+SD: +Othello exits
 +AMILIA
 How goes it now? He lookes gentler then he did.
 
@@ -4904,7 +4924,7 @@ I, would you had neuer seene him.
 +DESDEMONA
 So would not I: my loue doth so approue him,
 That euen his stubbornesse, his checks, his frownes,
-(Prythee vn-pin me) haue grace and fauour.
+[Prythee vn-pin me] haue grace and fauour.
 
 +AMILIA
 I haue laid those Sheetes you bad me on the bed.
@@ -4945,28 +4965,28 @@ I know a Lady in Venice would haue walk'd barefoot
 to Palestine for a touch of his nether lip.
 
 +DESDEMONA
-*The poore Soule sat singing, by a Sicamour tree.
+The poore Soule sat singing, by a Sicamour tree.
 Sing all a greene Willough:
 Her hand on her bosome her head on her knee,
 Sing Willough, Willough, Wtllough.
 The fresh Streames ran by her, and murmur'd her moanes
 Sing Willough, &c.
 Her salt teares fell from her, and softned the stones,
-Sing Willough, &c.*
-(Lay by these)
-*Willough, Willough.*
-(Prythee high thee: he'le come anon)
-*Sing all a greene Willough must be my Garland.
-Let no body blame him, his scorne I approue.*
-(Nay that's not next. Harke, who is't that knocks?
+Sing Willough, &c.
+[Lay by these]
+Willough, Willough.
+[Prythee high thee: he'le come anon]
+Sing all a greene Willough must be my Garland.
+Let no body blame him, his scorne I approue.
+[Nay that's not next. Harke, who is't that knocks?
 
 +AMILIA
 It's the wind.
 
 +DESDEMONA
-*I call'd my Loue false Loue: but what said he then?
+I call'd my Loue false Loue: but what said he then?
 Sing Willough, &c.
-If I court mo women, you'le couch with mo men.*
+If I court mo women, you'le couch with mo men.
 So get thee gone, good night: mine eyes do itch:
 Doth that boade weeping?
 
@@ -4975,7 +4995,7 @@ Doth that boade weeping?
 
 +DESDEMONA
 I haue heard it said so. O these Men, these men!
-Do'st thou in conscience thinke (tell me Amilia)
+Do'st thou in conscience thinke [tell me Amilia]
 That there be women do abuse their husbands
 In such grosse kinde?
 
@@ -4992,16 +5012,16 @@ Why, would not you?
 No, by this Heauenly light.
 
 +AMILIA
-Nor I neither, by this Heauenly light:
-I might doo't as well i'th'darke.
+Nor I neither, by this Heauenly light: / I might doo't
+as well i'th'darke.
 
 +DESDEMONA
 Would'st thou do such a deed for al the
 world?
 
 +AMILIA
-The world's a huge thing:
-It is a great price, for a small vice.
+The world's a huge thing: / It is a great price, for a
+small vice.
 
 +DESDEMONA
 Introth, I thinke thou would'st not.
@@ -5016,8 +5036,8 @@ Cuckold, to make him a Monarch? I should venture
 Purgatory for't.
 
 +DESDEMONA
-Beshrew me, if I would do such a wrong
-For the whole world.
+Beshrew me, if I would do such a wrong / For
+the whole world.
 
 +AMILIA
 Why, the wrong is but a wrong i'th'world; and
@@ -5031,11 +5051,11 @@ I do not thinke there is any such woman.
 Yes, a dozen: and as many to'th'vantage, as would
 store the world they plaid for.
 But I do thinke it is their Husbands faults
-If Wiues do fall: (Say, that they slacke their duties,
+If Wiues do fall: [Say, that they slacke their duties,
 And powre our Treasures into forraigne laps;
 Or else breake out in peeuish Iealousies,
 Throwing restraint vpon vs: Or say they strike vs,
-Or scant our former hauing in despight)
+Or scant our former hauing in despight]
 Why we haue galles: and though we haue some Grace,
 Yet haue we some Reuenge. Let Husbands know,
 Their wiues haue sense like them: They see, and smell,
@@ -5050,272 +5070,203 @@ Then let them vse vs well: else let them know,
 The illes we do, their illes instruct vs so.
 
 +DESDEMONA
-Good night, good night: Heauen me such vses send,
+Good night, good night: / Heauen me such vses send,
 Not to picke bad, from bad; but by bad, mend.
 
 SD: Exeunt +DESDEMONA, +AMILIA
 
 
-NS: Act 5 Scene 1
+
+
+NS: Act 5, Scene 1
 
 SD: Enter +IAGO, and +RODORIGO.
-
 +IAGO
-Heere, stand behinde this Barke, Straight will he come:
+Heere, stand behinde this Barke, / Straight will he come:
 Weare thy good Rapier bare, and put it home:
 Quicke, quicke, feare nothing; Ile be at thy Elbow,
 It makes vs, or it marres vs, thinke on that,
 And fixe most firme thy Resolution.
-
 +RODORIGO
 Be neere at hand, I may miscarry in't.
-
 +IAGO
 Heere, at thy hand: Be bold, & take thy stand.
-
 +RODORIGO
 I haue no great deuotion to the deed,
 And yet he hath giuen me satisfying Reasons:
 'Tis but a man gone. Forth my Sword: he dies.
-
 +IAGO
 I haue rub'd this yong Quat almost to the sense,
-And he growes angry. Now, whether he kill Cassio,
-Or Cassio him, or each do kill the other,
-Euery way makes my gaine. Liue Rodorigo,
+And he growes angry. Now, whether he kill CASSIO,
+Or CASSIO him, or each do kill the other,
+Euery way makes my gaine. Liue RODORIGO,
 He calles me to a restitution large
 Of Gold, and Iewels, that I bob'd from him,
 As Guifts to Desdemona.
-It must not be: If Cassio do remaine,
+It must not be: If CASSIO do remaine,
 He hath a dayly beauty in his life,
 That makes me vgly: and besides, the Moore
 May vnfold me to him: there stand I in much perill:
 No, he must dye. But so, I heard him comming.
-
 SD: Enter +CASSIO.
-
 +RODORIGO
 I know his gate, 'tis he: Villaine thou dyest.
-
 +CASSIO
 That thrust had beene mine enemy indeed,
 But that my Coate is better then thou know'st:
 I will make proofe of thine.
-
 +RODORIGO
 Oh, I am slaine.
-
 +CASSIO
-I am maym'd for euer: Helpe hoa: Murther, murther.
-
+I am maym'd for euer: / Helpe hoa: Murther, murther.
 SD: Enter +OTHELLO.
-
 +OTHELLO
-The voyce of Cassio, Iago keepes his word.
-
+The voyce of CASSIO, IAGO keepes his word.
 +RODORIGO
 O Villaine that I am.
-
 +OTHELLO
 It is euen so.
-
 +CASSIO
 Oh helpe hoa: Light, a Surgeon.
-
 +OTHELLO
-'Tis he: O braue Iago, honest, and iust,
+'Tis he: O braue IAGO, honest, and iust,
 That hast such Noble sense of thy Friends wrong,
 Thou teachest me. Minion, your deere lyes dead,
 And your vnblest Fate highes: Strumpet I come:
 For of my heart, those Charmes thine Eyes, are blotted.
 Thy Bed lust-stain'd, shall with Lusts blood bee spotted.
-
-SD: +OTHELLO exits. Enter +LODOUICO and +GRATIANO.
-
+SD: +OTHELLO exits
+SD: Enter +LODOUICO and +GRATIANO.
 +CASSIO
-What hoa? no Watch? No passage? Murther, Murther.
-
+What hoa? no Watch? No passage? / Murther, Murther.
 +GRATIANO
 'Tis some mischance, the voyce is very direfull.
-
 +CASSIO
 Oh helpe.
-
 +LODOUICO
 Hearke.
-
 +RODORIGO
 Oh wretched Villaine.
-
 +LODOUICO
 Two or three groane. 'Tis heauy night;
 These may be counterfeits: Let's think't vnsafe
 To come into the cry, without more helpe.
-
 +RODORIGO
 Nobody come: then shall I bleed to death.
-
 +LODOUICO
 Hearke.
-
 SD: Enter +IAGO.
-
 +GRATIANO
 Here's one comes in his shirt, with Light, and Weapons.
-
 +IAGO
-Who's there? Who's noyse is this that cries on murther?
-
+Who's there? / Who's noyse is this that cries on murther?
 +LODOUICO
 We do not know.
-
 +IAGO
 Do not you heare a cry?
-
 +CASSIO
 Heere, heere: for heauen sake helpe me.
-
 +IAGO
 What's the matter?
-
 +GRATIANO
 This is Othello's Ancient, as I take it.
-
 +LODOUICO
 The same indeede, a very valiant Fellow.
-
 +IAGO
 What are you heere, that cry so greeuously?
-
 +CASSIO
-Iago? Oh I am spoyl'd, vndone by Villaines:
+IAGO? Oh I am spoyl'd, vndone by Villaines:
 Giue me some helpe.
-
 +IAGO
-O mee, Lieutenant! What Villaines haue done this?
-
+O mee, Lieutenant! / What Villaines haue done this?
 +CASSIO
 I thinke that one of them is heereabout.
 And cannot make away.
-
 +IAGO
 Oh treacherous Villaines:
 What are you there? Come in, and giue some helpe.
-
 +RODORIGO
 O helpe me there.
-
 +CASSIO
 That's one of them.
-
 +IAGO
 Oh murd'rous Slaue! O Villaine!
-
 +RODORIGO
-O damn'd Iago! O inhumane Dogge!
-
+O damn'd IAGO! O inhumane Dogge!
 +IAGO
-Kill men i'th'darke? Where be these bloody Theeues?
+Kill men i'th'darke? / Where be these bloody Theeues?
 How silent is this Towne? Hoa, murther, murther.
 What may you be? Are you of good, or euill?
-
 +LODOUICO
 As you shall proue vs, praise vs.
-
 +IAGO
 Signior Lodouico?
-
 +LODOUICO
 He Sir.
-
 +IAGO
-I cry you mercy: here's Cassio hurt by Villaines.
-
+I cry you mercy: here's CASSIO hurt by Villaines.
 +GRATIANO
-Cassio?
-
+CASSIO?
 +IAGO
 How is't Brother?
-
 +CASSIO
 My Legge is cut in two.
-
 +IAGO
 Marry heauen forbid:
 Light Gentlemen, Ile binde it with my shirt.
-
 SD: Enter +BIANCA.
-
 +BIANCA
 What is the matter hoa? Who is't that cry'd?
-
 +IAGO
 Who is't that cry'd?
-
 +BIANCA
-Oh my deere Cassio, My sweet Cassio:
-Oh Cassio, Cassio, Cassio.
-
+Oh my deere CASSIO, / My sweet CASSIO:
+Oh CASSIO, CASSIO, CASSIO.
 +IAGO
-O notable Strumpet. Cassio, may you suspect
+O notable Strumpet. CASSIO, may you suspect
 Who they should be, that haue thus mangled you?
-
 +CASSIO
 No.
-
 +GRATIANO
-I am sorry to finde you thus;
-I haue beene to seeke you.
-
+I am sorry to finde you thus; / I haue beene to seeke you.
 +IAGO
 Lend me a Garter. So: ---Oh for a Chaire
 To beare him easily hence.
-
 +BIANCA
 Alas he faints.
-Oh Cassio, Cassio, Cassio.
-
+Oh CASSIO, CASSIO, CASSIO.
 +IAGO
 Gentlemen all, I do suspect this Trash
 To be a party in this Iniurie.
-Patience awhile, good Cassio. Come, come;
+Patience awhile, good CASSIO. Come, come;
 Lend me a Light: know we this face, or no?
 Alas my Friend, and my deere Countryman
-Rodorigo? No: Yes sure: Yes, 'tis Rodorigo.
-
+RODORIGO? No: Yes sure: Yes, 'tis RODORIGO.
 +GRATIANO
 What, of Venice?
-
 +IAGO
 Euen he Sir: Did you know him?
-
 +GRATIANO
 Know him? I.
-
 +IAGO
 Signior Gratiano? I cry your gentle pardon:
 These bloody accidents must excuse my Manners,
 That so neglected you.
-
 +GRATIANO
 I am glad to see you.
-
 +IAGO
-How do you Cassio? Oh, a Chaire, a Chaire.
-
+How do you CASSIO? Oh, a Chaire, a Chaire.
 +GRATIANO
-Rodorigo?
-
+RODORIGO?
 +IAGO
-He, he, 'tis he: Oh that's well said, the Chaire.
+He, he, 'tis he:
+Oh that's well said, the Chaire.
 Some good man beare him carefully from hence,
 Ile fetch the Generall's Surgeon. For you Mistris,
-Saue you your labour. He that lies slaine heere (Cassio)
+Saue you your labour. He that lies slaine heere [CASSIO]
 Was my deere friend. What malice was between you?
-
 +CASSIO
 None in the world: nor do I know the man?
-
 +IAGO
 What? looke you pale? Oh beare him o'th'Ayre.
 Stay you good Gentlemen. Looke you pale, Mistris?
@@ -5324,48 +5275,39 @@ Nay, if you stare, we shall heare more anon.
 Behold her well: I pray you looke vpon her:
 Do you see Gentlemen? Nay, guiltinesse will speake
 Though tongues were out of vse.
-
-+AMILIA
-Alas, what is the matter? What is the matter, Husband?
-
++AMIL
+Alas, what is the matter? / What is the matter, Husband?
 +IAGO
-Cassio hath heere bin set on in the darke
-By Rodorigo, and Fellowes that are scap'd:
-He's almost slaine, and Rodorigo quite dead.
-
-+AMILIA
-Alas good Gentleman: alas good Cassio.
-
+CASSIO hath heere bin set on in the darke
+By RODORIGO, and Fellowes that are scap'd:
+He's almost slaine, and RODORIGO quite dead.
++AMIL
+Alas good Gentleman: alas good CASSIO.
 +IAGO
 This is the fruits of whoring. Prythe Amilia,
-Go know of Cassio where he supt to night.
+Go know of CASSIO where he supt to night.
 What, do you shake at that?
-
 +BIANCA
 He supt at my house, but I therefore shake not.
-
 +IAGO
 O did he so? I charge you go with me.
-
-+AMILIA
++AMIL
 Oh fie vpon thee Strumpet.
-
 +BIANCA
 I am no Strumpet, but of life as honest,
 As you that thus abuse me.
-
-+AMILIA
++AMIL
 As I? Fie vpon thee.
-
 +IAGO
-Kinde Gentlemen: Let's go see poore Cassio drest.
+Kinde Gentlemen: / Let's go see poore CASSIO drest.
 Come Mistris, you must tel's another Tale.
 Amilia, run you to the Cittadell,
 And tell my Lord and Lady, what hath happ'd:
 Will you go on afore? This is the night
 That either makes me, or foredoes me quight.
+SD: Exeunt IAGO, BIANCA, AMIL, CASSIO, LODOUICO, GRATIANO
 
-SD: Exeunt +IAGO, +RODORIGO, +CASSIO, +OTHELLO, +LODOUICO, +GRATIANO, +BIANCA, +AMIL.
+
 
 
 NS: Act 5, Scene 2
@@ -5373,7 +5315,7 @@ NS: Act 5, Scene 2
 SD: Enter +OTHELLO, and +DESDEMONA in her bed.
 
 +OTHELLO
-It is the Cause, it is the Cause (my Soule)
+It is the Cause, it is the Cause [my Soule]
 Let me not name it to you, you chaste Starres,
 It is the Cause. Yet Ile not shed her blood,
 Nor scarre that whiter skin of hers, then Snow,
@@ -5385,7 +5327,7 @@ I can againe thy former light restore,
 Should I repent me. But once put out thy Light,
 Thou cunning'st Patterne of excelling Nature,
 I know not where is that Promethaan heate
-That can thy Light re-Lume. When I haue pluck'd thy Rose,
+That can thy Light re-Lume. / When I haue pluck'd thy Rose,
 I cannot giue it vitall growth againe,
 It needs must wither. Ile smell thee on the Tree.
 Oh Balmy breath, that dost almost perswade
@@ -5417,7 +5359,7 @@ Vnreconcil'd as yet to Heauen, and Grace,
 Solicite for it straight.
 
 +DESDEMONA
-Alacke, my Lord, What may you meane by that?
+Alacke, my Lord, / What may you meane by that?
 
 +OTHELLO
 Well, do it, and be breefe, I will walke by:
@@ -5431,7 +5373,8 @@ Talke you of killing?
 I, I do.
 
 +DESDEMONA
-Then Heauen haue mercy on mee.
+Then Heauen
+haue mercy on mee.
 
 +OTHELLO
 Amen, with all my heart.
@@ -5444,7 +5387,7 @@ Humh.
 
 +DESDEMONA
 And yet I feare you: for you're fatall then
-When your eyes rowle so. Why I should feare, I know not,
+When your eyes rowle so. / Why I should feare, I know not,
 Since guiltinesse I know not: But yet I feele I feare.
 
 +OTHELLO
@@ -5470,15 +5413,16 @@ Peace, and be still.
 I will so: What's the matter?
 
 +OTHELLO
-That Handkerchiefe
-Which I so lou'd, and gaue thee, thou gau'st to Cassio.
+That Handkerchiefe / Which I so lou'd, and gaue thee,
+thou gau'st to Cassio.
 
 +DESDEMONA
-No by my Life, and Soule: send for the man, And aske him.
+No by my Life, and Soule:
+send for the man, / And aske him.
 
 +OTHELLO
-Sweet Soule, take heed, take heed of Periury,
-Thou art on thy death-bed.
+Sweet Soule, take heed,
+take heed of Periury, / Thou art on thy death-bed.
 
 +DESDEMONA
 I, but not yet to dye.
@@ -5572,11 +5516,9 @@ But while I say one prayer.
 
 +OTHELLO
 It is too late.
-
-SD: +OTHELLO Smothers her {+DESDEMONA}.
+SD: Smothers her. AMILIA at the doore.
 
 +AMILIA
-[at the doore]
 My Lord, my Lord? What hoa? My Lord, my Lord.
 
 +OTHELLO
@@ -5615,7 +5557,6 @@ That I may speake with you. Oh good my Lord.
 I had forgot thee: oh come in Amilia.
 Soft, by and by, let me the Curtaines draw.
 Where art thou? What's the matter with thee now?
-
 SD: Enter +AMILIA.
 
 +AMILIA
@@ -5633,11 +5574,12 @@ She comes more neerer Earth then she was wont,
 And makes men mad.
 
 +AMILIA
-Cassio, my Lord, hath kill'd
-A young Venetian, call'd Rodorigo.
+Cassio, my Lord, hath kill'd / A young Venetian,
+call'd Rodorigo.
 
 +OTHELLO
-Rodorigo kill'd? and Cassio kill'd?
+Rodorigo kill'd?
+and Cassio kill'd?
 
 +AMILIA
 No, Cassio is not kill'd.
@@ -5687,7 +5629,8 @@ She's like a Liar gone to burning hell,
 'Twas I that kill'd her.
 
 +AMILIA
-Oh the more Angell she, and you the blacker Diuell.
+Oh the more Angell she,
+and you the blacker Diuell.
 
 +OTHELLO
 She turn'd to folly: and she was a whore.
@@ -5735,10 +5678,10 @@ That stickes on filthy deeds.
 My Husband?
 
 +OTHELLO
-What needs this itterance, Woman? I say, thy Husband.
+What needs this itterance, Woman? / I say, thy Husband.
 
 +AMILIA
-Oh Mistris, Villany hath made mockes with loue:
+Oh Mistris, / Villany hath made mockes with loue:
 My Husband say she was false?
 
 +OTHELLO
@@ -5766,10 +5709,9 @@ Peace, you were best.
 Thou hast not halfe that powre to do me harm,
 As I haue to be hurt. Oh Gull, oh dolt,
 As ignorant as durt: thou hast done a deed
-(I care not for thy Sword) Ile make thee known,
+[I care not for thy Sword] Ile make thee known,
 Though I lost twenty liues. Helpe, helpe, hoa, helpe:
 The Moore hath kill'd my Mistris. Murther, murther.
-
 SD: Enter +MONTANO, +GRATIANO, and +IAGO.
 
 +MONTANO
@@ -5789,11 +5731,11 @@ I know thou did'st not: thou'rt not such a Villain.
 Speake, for my heart is full.
 
 +IAGO
-I told him what I thought, And told no more
+I told him what I thought, / And told no more
 Then what he found himselfe was apt, and true.
 
 +AMILIA
-But did you euer tell him, She was false?
+But did you euer tell him, / She was false?
 
 +IAGO
 I did.
@@ -5801,23 +5743,22 @@ I did.
 +AMILIA
 You told a Lye an odious damned Lye:
 Vpon my Soule, a Lye; a wicked Lye.
-Shee false with Cassio? Did you say with Cassio?
+Shee false with Cassio? / Did you say with Cassio?
 
 +IAGO
-With Cassio, Mistris? Go too, charme your tongue.
+With Cassio, Mistris? / Go too, charme your tongue.
 
 +AMILIA
-I will not charme my Tongue; I am bound to speake,
+I will not charme my Tongue; / I am bound to speake,
 My Mistris heere lyes murthered in her bed.
-
-+MONTANO, +GRATIANO,
++MONTANO, +GRATIANO, +IAGO, +OTHELLO
 Oh Heauens, forefend.
 
 +AMILIA
 And your reports haue set the Murder on.
 
 +OTHELLO
-Nay stare not Masters, It is true indeede.
+Nay stare not Masters, / It is true indeede.
 
 +GRATIANO
 'Tis a strange Truth.
@@ -5832,7 +5773,7 @@ I thought so then: Ile kill my selfe for greefe.
 O villany! villany!
 
 +IAGO
-What, are you mad? I charge you get you home.
+What, are you mad? / I charge you get you home.
 
 +AMILIA
 Good Gentlemen, let me haue leaue to speake:
@@ -5850,11 +5791,11 @@ That ere did lift vp eye.
 +OTHELLO
 Oh she was fowle!
 I scarse did know you Vnkle, there lies your Neece,
-Whose breath (indeed) these hands haue newly stopp'd:
+Whose breath [indeed] these hands haue newly stopp'd:
 I know this acte shewes horrible and grim.
 
 +GRATIANO
-Poore Desdemon: I am glad thy Father's dead,
+Poore Desdemon: / I am glad thy Father's dead,
 Thy Match was mortall to him: and pure greefe
 Shore his old thred in twaine. Did he liue now,
 This sight would make him do a desperate turne:
@@ -5890,13 +5831,14 @@ Be wise, and get you home.
 I will not.
 
 +GRATIANO
-Fye, your Sword vpon a Woman.
+Fye,
+your Sword vpon a Woman.
 
-+AMILIA
-Oh thou dull Moore, That Handkerchiefe thou speak'st of
++OTHELLO
+Oh thou dull Moore, / That Handkerchiefe thou speak'st of
 I found by Fortune, and did giue my Husband:
 For often, with a solemne earnestnesse,
-(More then indeed belong'd to such a Trifle)
+[More then indeed belong'd to such a Trifle]
 He begg'd of me, to steale't.
 
 +IAGO
@@ -5916,10 +5858,11 @@ Do with so good a wife?
 
 +OTHELLO
 Are there no stones in Heauen,
-But what serues for the Thunder? Precious Villaine.
+But what serues for the Thunder? / Precious Villaine.
+SD: +IAGO kills +AMILIA.
 
 +GRATIANO
-The woman falles: Sure he hath kill'd his Wife.
+The woman falles: / Sure he hath kill'd his Wife.
 
 +AMILIA
 I, I: oh lay me by my Mistris side.
@@ -5933,8 +5876,7 @@ Which I haue recouer'd from the Moore:
 Come guard the doore without, let him not passe,
 But kill him rather. Ile after that same villaine,
 For 'tis a damned Slaue.
-
-SD: +MONTANO exits.
+MONTANO exits.
 
 +OTHELLO
 I am not valiant neither:
@@ -5972,7 +5914,7 @@ A better neuer did it selfe sustaine
 Vpon a Soldiers Thigh. I haue seene the day,
 That with this little Arme, and this good Sword,
 I haue made my way through more impediments
-Then twenty times your stop. But (oh vaine boast)
+Then twenty times your stop. But [oh vaine boast]
 Who can controll his Fate? 'Tis not so now.
 Be not affraid, though you do see me weapon'd:
 Heere is my iournies end, heere is my butt
@@ -5984,13 +5926,12 @@ Now: how dost thou looke now? Oh ill-Starr'd wench,
 Pale as thy Smocke: when we shall meete at compt,
 This looke of thine will hurle my Soule from Heauen,
 And Fiends will snatch at it. Cold, cold, my Girle?
-Euen like thy Chastity. O cursed, cursed Slaue!
-Whip me ye Diuels,
+Euen like thy Chastity.
+O cursed, cursed Slaue! / Whip me ye Diuels,
 From the possession of this Heauenly sight:
 Blow me about in windes, roast me in Sulphure,
 Wash me in steepe-downe gulfes of Liquid fire.
 Oh Desdemon! dead Desdemon: dead. Oh, oh!
-
 SD: Enter +LODOUICO, +CASSIO, +MONTANO, and +IAGO, with Officers.
 
 +LODOUICO
@@ -6000,7 +5941,7 @@ Where is this rash, and most vnfortunate man?
 That's he that was Othello: heere I am.
 
 +LODOUICO
-Where is that Viper? Bring the Villaine forth.
+Where is that Viper? / Bring the Villaine forth.
 
 +OTHELLO
 I look down towards his feet; but that's a Fable,
@@ -6055,8 +5996,8 @@ Torments will ope your lips.
 Well, thou dost best.
 
 +LODOUICO
-Sir, You shall vnderstand what hath befalne,
-(Which, as I thinke, you know not) heere is a Letter
+Sir, / You shall vnderstand what hath befalne,
+[Which, as I thinke, you know not] heere is a Letter
 Found in the pocket of the slaine Rodorigo,
 And heere another, the one of them imports
 The death of Cassio, to be vndertooke
@@ -6072,12 +6013,12 @@ Most Heathenish, and most grosse.
 Now, heere's another discontented paper
 Found in his pocket too: and this it seemes
 Rodorigo meant t'haue sent this damned villaine:
-But that (belike) Iago in the interim
+But that [belike] Iago in the interim
 Came in, and satisfi'd him.
 
 +OTHELLO
 Oh thou pernitious Caitiffe;
-How came you (Cassio) by that Handkerchiefe
+How came you [Cassio] by that Handkerchiefe
 That was my wiues?
 
 +CASSIO
@@ -6094,7 +6035,7 @@ There is besides, in Rodorigo's Letter,
 How he vpbraides Iago, that he made him
 Braue me vpon the Watch: whereon it came
 That I was cast: and euen but now he spake
-(After long seeming dead) Iago hurt him,
+[After long seeming dead] Iago hurt him,
 Iago set him on.
 
 +LODOUICO
@@ -6113,11 +6054,11 @@ I haue done the State some seruice, and they know't:
 No more of that. I pray you in your Letters,
 When you shall these vnluckie deeds relate,
 Speake of me, as I am. Nothing extenuate,
-Nor set downe ought in malice. Then must you speake,
+Nor set downe ought in malice. / Then must you speake,
 Of one that lou'd not wisely, but too well:
 Of one, not easily Iealious, but being wrought,
 Perplexed in the extreame: Of one, whose hand
-(Like the base Iudean) threw a Pearle away
+[Like the base Iudean] threw a Pearle away
 Richer then all his Tribe: Of one, whose subdu'd Eyes,
 Albeit vn-vsed to the melting moode,
 Drops teares as fast as the Arabian Trees
@@ -6127,6 +6068,7 @@ Where a malignant, and a Turbond-Turke
 Beate a Venetian, and traduc'd the State,
 I tooke by th'throat the circumcised Dogge,
 And smoate him, thus.
+SD: +OTHELLO stabs himself.
 
 +LODOUICO
 Oh bloody period.
@@ -6137,7 +6079,6 @@ All that is spoke, is marr'd.
 +OTHELLO
 I kist thee, ere I kill'd thee: No way but this,
 Killing my selfe, to dye vpon a kisse.
-
 SD: +OTHELLO dies
 
 +CASSIO
@@ -6148,16 +6089,15 @@ For he was great of heart.
 Oh Sparton Dogge:
 More fell then Anguish, Hunger, or the Sea:
 Looke on the Tragicke Loading of this bed:
-This is thy worke:
-The Obiect poysons Sight,
-Let it be hid. Gratiano, keepe the house,
+This is thy worke: / The Obiect poysons Sight,
+Let it be hid.
+SD: Gratiano, keepe the house,
 And seize vpon the Fortunes of the Moore,
 For they succeede on you. To you, Lord Gouernor,
 Remaines the Censure of this hellish villaine:
 The Time, the Place, the Torture, oh inforce it:
 My selfe will straight aboord, and to the State,
 This heauie Act, with heauie heart relate.
-
-SD: Exuent +LODOUICO, +CASSIO, +GRATIANO, +IAGO
+SD: Exeunt +LODOUICO, +CASSIO, +GRATIANO, +IAGO, +OTHELLO
 
 

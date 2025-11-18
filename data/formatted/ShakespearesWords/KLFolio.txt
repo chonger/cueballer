@@ -1,32 +1,40 @@
-
+T: King Lear
 
 NS: Act 1 Scene 1
 
-SD: Enter +KENT, +GLOUCESTER, and +EDMOND.
+SD: Enter +KENT, +GLOUCESTER, and +BASTARD.
+
 +KENT
 I thought the King had more affected the Duke of
 Albany, then Cornwall.
+
 +GLOUCESTER
 It did alwayes seeme so to vs: But now in the
 diuision of the Kingdome, it appeares not which of the
 Dukes hee valewes most, for qualities are so weigh'd, that
 curiosity in neither, can make choise of eithers moity.
+
 +KENT
 Is not this your Son, my Lord?
+
 +GLOUCESTER
 His breeding Sir, hath bin at my charge.
 I haue so often blush'd to acknowledge him, that now I
 am braz'd too't.
+
 +KENT
 I cannot conceiue you.
+
 +GLOUCESTER
 Sir,this yong Fellowes mother could;
 wherevpon she grew round womb'd, and had indeede
-[Sir] a Sonne for her Cradle, ere she had husband for her
+(Sir) a Sonne for her Cradle, ere she had husband for her	
 bed. Do you smell a fault?
+
 +KENT
 I cannot wish the fault vndone, the issue of it, being
 so proper.
+
 +GLOUCESTER
 But I haue a Sonne, Sir, by order of Law, some
 yeere elder then this; who, yet is no deerer in my account,
@@ -35,28 +43,38 @@ before he was sent for: yet was his Mother fayre, there
 was good sport at his making, and the horson must be
 acknowledged. Doe you know this Noble Gentleman,
 Edmond?
-+EDMOND
+
++BASTARD
 No, my Lord.
+
 +GLOUCESTER
 My Lord of Kent: / Remember him heereafter,
 as my Honourable Friend.
-+EDMOND
+
++BASTARD
 My seruices to your Lordship.
+
 +KENT
 I must loue you, and sue to know you better.
-+EDMOND
+
++BASTARD
 Sir, I shall study deseruing.
+
 +GLOUCESTER
 He hath bin out nine yeares, and away he
 shall againe. The King is comming.
-SD: Sennet.
-SD: Enter +KING LEAR, +CORNWALL, +ALBANY, +GONERILL, +REGAN, +CORDELIA, and attendants.
+
+SD: Sennet. Enter +KING LEAR, +CORNWALL, +ALBANY, +GONERILL, +REGAN, +CORDELIA, and attendants.
+
 +KING LEAR
 Attend the Lords of France & Burgundy,
 Gloster.
+
 +GLOUCESTER
 I shall, my Lord.
-GLOUCESTER exits
+
+SD: GLOUCESTER exits.
+
 +KING LEAR
 Meane time we shal expresse our darker purpose.
 Giue me the Map there. Know, that we haue diuided
@@ -71,12 +89,13 @@ May be preuented now. The Princes, France & Burgundy,
 Great Riuals in our yongest daughters loue,
 Long in our Court, haue made their amorous soiourne,
 And heere are to be answer'd. Tell me my daughters
-[Since now we will diuest vs both of Rule,
-Interest of Territory, Cares of State]
+(Since now we will diuest vs both of Rule,	
+Interest of Territory, Cares of State)	
 Which of you shall we say doth loue vs most,
 That we, our largest bountie may extend
 Where Nature doth with merit challenge. Gonerill,
 Our eldest borne, speake first.
+
 +GONERILL
 Sir, I loue you more then word can weild ye matter,
 Deerer then eye-sight, space, and libertie,
@@ -85,8 +104,10 @@ No lesse then life, with grace, health, beauty, honor:
 As much as Childe ere lou'd, or Father found.
 A loue that makes breath poore, and speech vnable,
 Beyond all manner of so much I loue you.
+
 +CORDELIA
 What shall Cordelia speake? Loue, and be silent.
+
 +KING LEAR
 Of all these bounds euen from this Line, to this,
 With shadowie Forrests, and with Champains rich'd
@@ -94,6 +115,7 @@ With plenteous Riuers, and wide-skirted Meades
 We make thee Lady. To thine and Albanies issues
 Be this perpetuall. What sayes our second Daughter?
 Our deerest Regan, wife of Cornwall?
+
 +REGAN
 I am made of that selfe-mettle as my Sister,
 And prize me at her worth. In my true heart,
@@ -103,10 +125,12 @@ My selfe an enemy to all other ioyes,
 Which the most precious square of sense professes,
 And finde I am alone felicitate
 In your deere Highnesse loue.
+
 +CORDELIA
 Then poore Cordelia,
 And yet not so, since I am sure my loue's
 More ponderous then my tongue.
+
 +KING LEAR
 To thee, and thine hereditarie euer,
 Remaine this ample third of our faire Kingdome,
@@ -116,21 +140,28 @@ Although our last and least; to whose yong loue,
 The Vines of France, and Milke of Burgundie,
 Striue to be interest. What can you say, to draw
 A third, more opilent then your Sisters? speake.
+
 +CORDELIA
 Nothing my Lord.
+
 +KING LEAR
 Nothing?
+
 +CORDELIA
 Nothing.
+
 +KING LEAR
 Nothing will come of nothing, speake againe.
+
 +CORDELIA
 Vnhappie that I am, I cannot heaue
 My heart into my mouth: I loue your Maiesty
 According to my bond, no more nor lesse.
+
 +KING LEAR
 How, how Cordelia? mend your speech a little,
 Least you may marre your Fortunes.
+
 +CORDELIA
 Good my Lord,
 You haue begot me, bred me, lou'd me.
@@ -141,14 +172,19 @@ They loue you all? Happily when I shall wed,
 That Lord, whose hand must take my plight, shall carry
 Halfe my loue with him, halfe my Care, and Dutie,
 Sure I shall neuer marry like my Sisters.
+
 +KING LEAR
 But goes thy heart with this?
+
 +CORDELIA
 I my good Lord.
+
 +KING LEAR
 So young, and so vntender?
+
 +CORDELIA
 So young my Lord, and true.
+
 +KING LEAR
 Let it be so, thy truth then be thy dowre:
 For by the sacred radience of the Sunne,
@@ -163,8 +199,10 @@ Or he that makes his generation messes
 To gorge his appetite, shall to my bosome
 Be as well neighbour'd, pittied, and releeu'd,
 As thou my sometime Daughter.
+
 +KENT
 Good my Liege.
+
 +KING LEAR
 Peace Kent,
 Come not betweene the Dragon and his wrath,
@@ -185,13 +223,16 @@ The name, and all th'addition to a King: the Sway,
 Reuennew, Execution of the rest,
 Beloued Sonnes be yours, which to confirme,
 This Coronet part betweene you.
+
 +KENT
 Royall Lear,
 Whom I haue euer honor'd as my King,
 Lou'd as my Father, as my Master follow'd,
 As my great Patron thought on in my praiers.
+
 +KING LEAR
 The bow is bent & drawne, make from the shaft.
+
 +KENT
 Let it fall rather, though the forke inuade
 The region of my heart, be Kent vnmannerly,
@@ -204,31 +245,41 @@ This hideous rashnesse, answere my life, my iudgement:
 Thy yongest Daughter do's not loue thee least,
 Nor are those empty hearted, whose low sounds
 Reuerbe no hollownesse.
+
 +KING LEAR
 Kent, on thy life no more.
+
 +KENT
 My life I neuer held but as pawne
 To wage against thine enemies, nere feare to loose it,
 Thy safety being motiue.
+
 +KING LEAR
 Out of my sight.
+
 +KENT
 See better Lear, and let me still remaine
 The true blanke of thine eie.
+
 +KING LEAR
 Now by Apollo,
+
 +KENT
 Now by Apollo, King
 Thou swear.st thy Gods in vaine.
+
 +KING LEAR
 O Vassall! Miscreant.
+
 +ALBANY, +CORDELIA
 Deare Sir forbeare.
+
 +KENT
 Kill thy Physition, and thy fee bestow
 Vpon the foule disease, reuoke thy guift,
 Or whil'st I can vent clamour from my throate,
 Ile tell thee thou dost euill.
+
 +KING LEAR
 Heare me recreant, on thine allegeance heare me;
 That thou hast sought to make vs breake our vowes,
@@ -243,6 +294,7 @@ Vpon our kingdome; if on the tenth day following,
 Thy banisht trunke be found in our Dominions,
 The moment is thy death, away. By Iupiter,
 This shall not be reuok'd,
+
 +KENT
 Fare thee well King, sith thus thou wilt appeare,
 Freedome liues hence, and banishment is here;
@@ -252,20 +304,24 @@ And your large speeches,may your deeds approue,
 That good effects may spring from words of loue:
 Thus Kent, O Princes, bids you all adew,
 Hee'l shape his old course, in a Country new.
-KENT exits
-SD: Flourish. Enter +GLOUCESTER with France, and Burgundy, Attendants.
+
+SD: KENT exits. Flourish. Enter +GLOUCESTER with France, and Burgundy, Attendants.
+
 +CORDELIA
 Heere's France and Burgundy, my Noble Lord.
+
 +KING LEAR
 My Lord of Bugundie,
 We first addresse toward you, who with this King
 Hath riuald for our Daughter; what in the least
 Will you require in present Dower with her,
 Or cease your quest of Loue?
+
 +BURGUNDY
 Most Royall Maiesty,
 I craue no more then hath your Highnesse offer'd,
 Nor will you tender lesse?
+
 +KING LEAR
 Right Noble Burgundy,
 When she was deare to vs, we did hold her so,
@@ -274,16 +330,20 @@ If ought within that little seeming substance,
 Or all of it with our displeasure piec'd,
 And nothing more may fitly like your Grace,
 Shee's there, and she is yours.
+
 +BURGUNDY
 I know no answer.
+
 +KING LEAR
 Will you with those infirmities she owes,
 Vnfriended, new adopted to our hate,
 Dow'rd with our curse, and stranger'd with our oath,
 Take her or, leaue her.
+
 +BURGUNDY
 Pardon me Royall Sir,
 Election makes not vp in such conditions.
+
 +KING LEAR
 Then leaue her sir, for by the powre that made me,
 I tell you all her wealth. For you great King,
@@ -292,6 +352,7 @@ To match you where I hate, therefore beseech you
 T'auert your liking a more worthier way,
 Then on a wretch whom Nature is asham'd
 Almost t'acknowledge hers.
+
 +FRANCE
 This is most strange,
 That she whom euen but now, was your obiect,
@@ -304,6 +365,7 @@ That monsters it: Or your fore-voucht affection
 Fall into taint, which to beleeue of her
 Must be a faith that reason without miracle
 Should neuer plant in me.
+
 +CORDELIA
 I yet beseech your Maiesty.
 If for I want that glib and oylie Art,
@@ -316,9 +378,11 @@ But euen for want of that, for which I am richer,
 A still soliciting eye, and such a tongue,
 That I am glad I haue not, though not to haue it,
 Hath lost me in your liking.
+
 +KING LEAR
 Better thou had'st'
 Not beene borne, then not t haue pleas'd me better.
+
 +FRANCE
 Is it but this? A tardinesse in nature,
 Which often leaues the history vnspoke
@@ -327,20 +391,25 @@ What say you to the Lady? Loue's not loue
 When it is mingled with regards, that stands
 Aloofe from th'intire point, will you haue her?
 She is herselfe a Dowrie.
+
 +BURGUNDY
 Royall King,
 Giue but that portion which your selfe propos'd,
 And here I take Cordelia by the hand,
 Dutchesse of Burgundie.
+
 +KING LEAR
 Nothing, I haue sworne, I am firme.
+
 +BURGUNDY
 I am sorry then you haue so lost a Father,
 That you must loose a husband.
+
 +CORDELIA
 Peace be with Burgundie,
 Since that respect and Fortunes are his loue,
 I shall not be his wife.
+
 +FRANCE
 Fairest Cordelia, that art most rich being poore,
 Most choise forsaken, and most lou'd despis'd,
@@ -354,16 +423,19 @@ Not all the Dukes of watrish Burgundy,
 Can buy this vnpriz'd precious Maid of me.
 Bid them farewell Cordelia, though vnkinde,
 Thou loosest here a better where to finde.
+
 +KING LEAR
 Thou hast her France, let her be thine,for we
 Haue no such Daughter, nor shall euer see
 That face of hers againe, therfore be gone,
 Without our Grace, our Loue, our Benizon:
 Come Noble Burgundie.
-SD: Flourish.
-SD: +KING LEAR, +BURGUNDY exuent.
+
+SD: Flourish. +KING LEAR, +BURGUNDY exuent.
+
 +FRANCE
 Bid farwell to your Sisters.
+
 +CORDELIA
 The Iewels of our Father,with wash'd eies
 Cordelia leaues you, I know you what you are,
@@ -373,58 +445,75 @@ To your professed bosomes I commit him,
 But yet alas, stood I within his Grace,
 I would prefer him to a better place,
 So farewell to you both.
+
 +REGAN
 Prescribe not vs our dutie.
+
 +GONERILL
 Let your study
 Be to content your Lord, who hath receiu'd you
 At Fortunes almes, you haue obedience scanted,
 And well are worth the want that you haue wanted.
+
 +CORDELIA
 Time shall vnfold what plighted cunning hides,
 Who couers faults, at last with shame derides:
 Well may you prosper.
+
 +FRANCE
 Come my faire Cordelia.
+
 SD: +FRANCE and +CORDELIA exit
+
 +GONERILL
 Sister, it is not little I haue to say, / Of what most
 neerely appertaines to vs both, / I thinke our Father will
 hence to night.
+
 +REGAN
 That's most certaine, and with you: next moneth
 with vs.
+
 +GONERILL
 You see how full of changes his age is, the
 obseruation we haue made of it hath beene little; he
 alwaies lou'd our Sister most, and with what poore iudgement
 he hath now cast her off, appeares too grossely.
+
 +REGAN
 'Tis the infirmity of his age, yet he hath euer but
 slenderly knowne himselfe.
+
 +GONERILL
 The best and soundest of his time hath bin
 but rash, then must we looke from his age, to receiue not
 alone the imperfections of long ingraffed condition, but
 therewithall the vnruly way-wardnesse, that infirme and
 cholericke yeares bring with them.
+
 +REGAN
 Such vnconstant starts are we like to haue from
 him, as this of Kents banishment.
+
 +GONERILL
 There is further complement of leaue-taking
 betweene France and him, pray you let vs sit together,
 if our Father carry authority with such disposition as he
 beares, this last surrender of his will but offend vs.
+
 +REGAN
 We shall further thinke of it.
+
 +GONERILL
 We must do something, and i'th'heate.
+
 SD: +GONERILL, +REGAN exuent.
+
 
 NS: Act 1 Scene 2
 
 SD: Enter +BASTARD.
+
 +BASTARD
 Thou Nature art my Goddesse, to thy Law
 My seruices are bound, wherefore should I
@@ -448,45 +537,59 @@ Well, my Legittimate, if this Letter speed,
 And my inuention thriue, Edmond the base
 Shall to'th'Legitimate: I grow, I prosper:
 Now Gods, stand vp for Bastards.
+
 SD: Enter +GLOUCESTER.
+
 +GLOUCESTER
 Kent banish'd thus? and France in choller parted?
 And the King gone to night? Prescrib'd his powre,
 Confin'd to exhibition? All this done
 Vpon the gad? Edmond, how now? What newes?
+
 +BASTARD
 So please your Lordship, none.
+
 +GLOUCESTER
 Why so earnestly seeke you to put vp yt
 Letter?
+
 +BASTARD
 I know no newes, my Lord.
+
 +GLOUCESTER
 What Paper were you reading?
+
 +BASTARD
 Nothing my Lord.
+
 +GLOUCESTER
 No? what needed then that terrible dispatch
 of it into your Pocket? The quality of nothing,
 hath not such neede to hide it selfe. Let's see: come, if it
 bee nothing, I shall not neede Spectacles.
+
 +BASTARD
 I beseech you Sir, pardon mee; it is a Letter from
 my Brother, that I haue not all ore-read; and for so much
 as I haue perus'd, I finde it not fit for your ore-looking.
+
 +GLOUCESTER
 Giue me the Letter, Sir.
+
 +BASTARD
 I shall offend, either to detaine, or giue it: / The
 Contents, as in part I vnderstand them, / Are too blame.
+
 +GLOUCESTER
 Let's see, let's see.
+
 +BASTARD
 I hope for my Brothers iustification, hee wrote
 this but as an essay, or taste of my Vertue.
+
 +GLOUCESTER
-reads.
-This policie, and reuerence of Age,
+[reads.]
+*This policie, and reuerence of Age,
 makes the world bitter to the best of our times: keepes our
 Fortunes fromvs, till our oldnesse cannot rellish them. I begin
 to finde an idleand fond bondage, in the oppression of aged
@@ -494,40 +597,49 @@ tyranny, who swayes not as it hath power, but as it is
 suffer'd. Come to me, that of this I may speake more. If our
 Father would sleepe till I wak'd him, you should enioy halfe
 his Reuennew for euer, and liue the beloued of your Brother.
-Edgar.
+Edgar.*
 Hum? Conspiracy? Sleepe till I wake him, you should
 enioy halfe his Reuennew: my Sonne Edgar, had hee a hand to
 write this? A heart and braine to breede it in? When came
 you to this? Who brought it?
+
 +BASTARD
 It was not brought mee, my Lord; there's the
 cunning of it. I found it throwne in at the Casement of my
 Closset.
+
 +GLOUCESTER
 You know the character to be your
 Brothers?
+
 +BASTARD
 If the matter were good my Lord, I durst swear
 it were his: but in respect of that, I would faine thinke it
 were not.
+
 +GLOUCESTER
 It is his.
+
 +BASTARD
 It is his hand, my Lord: but I hope his heart is
 not in the Contents.
+
 +GLOUCESTER
 Has he neuer before sounded you in this
 busines?
+
 +BASTARD
 Neuer my Lord. But I haue heard him oft maintaine
 it to be fit, that Sonnes at perfect age, and Fathers
 declin'd, the Father should bee as Ward to the Son, and
 the Sonne manage his Reuennew.
+
 +GLOUCESTER
 O Villain, villain: his very opinion in the
 Letter. Abhorred Villaine, vnnaturall, detested, brutish
 Villaine; worse then brutish: Go sirrah, seeke him: Ile
 apprehend him. Abhominable Villaine, where is he?
+
 +BASTARD
 I do not well know my L. If it shall please
 you to suspend your indignation against my Brother, til
@@ -538,22 +650,27 @@ make a great gap in your owne Honor, and shake in
 peeces, the heart of his obedience. I dare pawne downe
 my life for him, that he hath writ this to feele my affection to
 your Honor, & to no other pretence of danger.
+
 +GLOUCESTER
 Thinke you so?
+
 +BASTARD
 If your Honor iudge it meete, I will place you
 where you shall heare vs conferre of this, and by an
 Auricular assurance haue your satisfaction, and that
 without any further delay, then this very Euening.
+
 +GLOUCESTER
 He cannot bee such a Monster.
 Edmond seeke him out:
 winde me into him, I pray you: frame the Businesse after
 your owne wisedome. I would vnstate my selfe, to be in a due
 resolution.
+
 +BASTARD
 I will seeke him Sir, presently: conuey the businesse
 as I shall find meanes, and acquaint you withall.
+
 +GLOUCESTER
 These late Eclipses in the Sun and Moone
 portend no good to vs: though the wisedome of Nature
@@ -570,7 +687,9 @@ to our Graues. Find out this Villain, Edmond,
 it shall lose thee nothing, do it carefully: and the Noble
 & true-harted Kent banish'd; his offence, honesty.
 'Tis strange.
-GLOUCESTER exits
+
+SD: GLOUCESTER exits
+
 +BASTARD
 This is the excellent foppery of the world, that
 when we are sicke in fortune, often the surfets of our
@@ -587,61 +706,81 @@ Dragons taile, and my Natiuity was vnder Vrsa Maior, so
 that it followes, I am rough and Leacherous. I should
 haue bin that I am, had the maidenlest Starre in the
 Firmament twinkled on my bastardizing.
+
 SD: Enter +EDGAR.
+
 +BASTARD
 Pat: he comes like the Catastrophe of the old Comedie:
 my Cue is villanous Melancholly, with a sighe like Tom
 o'Bedlam. --- O these Eclipses do portend these
 diuisions. Fa, Sol, La, Me.
+
 +EDGAR
 How now Brother Edmond, what serious
 contemplation are you in?
+
 +BASTARD
 I am thinking Brother of a prediction I read
 this other day, what should follow these Eclipses.
+
 +EDGAR
 Do you busie your selfe with that?
+
 +BASTARD
 I promise you, the effects he writes of, succeede
 vnhappily.
 When saw you my Father last?
+
 +EDGAR
 The night gone by.
+
 +BASTARD
 Spake you with him??
+
 +EDGAR
 I, two houres together.
+
 +BASTARD
 Parted you in good termes? Found you no
 displeasure in him, by word, nor countenance?
+
 +EDGAR
 None at all,
+
 +BASTARD
 Bethink your selfe wherein you may haue
 offended him: and at my entreaty forbeare his presence,
 vntill some little time hath qualified the heat of his
 displeasure, which at this instant so rageth in him, that with
 the mischiefe of your person, it would scarsely alay.
+
 +EDGAR
 Some Villaine hath done me wrong.
-+EDMOND
+
++BASTARD
 That's my feare, I pray you haue a continent
 forbearance till the speed of his rage goes slower: and
 as I say, retire with me to my lodging, from whence I
 will fitly bring you to heare my Lord speake: pray ye goe,
 there's my key: if you do stirre abroad, goe arm'd.
+
 +EDGAR
 Arm'd, Brother?
-+EDMOND
+
++BASTARD
 Brother, I aduise you to the best, I am no honest
 man, if ther be any good meaning toward you:I haue
 told you what I haue seene, and heard: But faintly. Nothing
 like the image, and horror of it, pray you away.
+
 +EDGAR
 Shall I heare from you anon?
-+EDMOND
+
++BASTARD
 I do serue you in this businesse:
-EDGAR exits
+
+SD: EDGAR exits.
+
 +BASTARD
 A Credulous Father, and a Brother Noble,
 Whose nature is so farre from doing harmes,
@@ -649,16 +788,21 @@ That he suspects none: on whose foolish honestie
 My practises ride easie: I see the businesse.
 Let me, if not by birth, haue lands by wit,
 All with me's meete, that I can fashion fit.
-BASTARD exits
+
+SD: BASTARD exits.
+
 
 NS: Act 1 Scene 3
 
 SD: Enter +GONERILL, and +STEWARD.
+
 +GONERILL
 Did my Father strike my Gentleman for chiding
 of his Foole?
+
 +STEWARD
 I Madam.
+
 +GONERILL
 By day and night, he wrongs me, euery howre
 He flashes into one grosse crime, or other,
@@ -668,29 +812,33 @@ On euery trifle. When he returnes from hunting,
 I will not speake with him, say I am sicke,
 If you come slacke of former seruices,
 You shall do well, the fault of it Ile answer.
+
 +STEWARD
 He's comming Madam, I heare him.
+
 +GONERILL
 Put on what weary negligence you please,
 You and your Fellowes: I'de haue it come to question;
 If he distaste it, let him to my Sister,
 Whose mind and mine I know in that are one,
 Remember what I haue said.
+
 +STEWARD
 Well Madam.
+
 +GONERILL
 And let his Knights haue colder lookes among you:
 what growes of it no matter, aduise your fellowes so,
 Ile write straight to my Sister
 to hold my course; prepare for dinner.
+
 SD: +GONERILL, +STEWARD exuent.
-
-
 
 
 NS: Act 1 Scene 4
 
 SD: Enter +KENT.
+
 +KENT
 If but as will I other accents borrow,
 That can my speech defuse, my good intent
@@ -699,83 +847,113 @@ For which I raiz'd my likenesse. Now banisht Kent,
 If thou canst serue where thou dost stand condemn'd,
 So may it come, thy Master whom thou lou'st,
 Shall find thee full of labours.
+
 SD: Hornes within. Enter +LEAR and Attendants.
+
 +LEAR
 Let me not stay a iot for dinner, go get it ready:
 how now, what art thou?
+
 +KENT
 A man Sir.
+
 +LEAR
 What dost thou professe? What would'st thou with
 vs?
+
 +KENT
 I do professe to be no lesse then I seeme; to serue him
 truely that will put me in trust, to loue him that is honest,
 to conuerse with him that is wise and saies little, to feare
 iudgement, to fight when I cannot choose, and to eate no
 fish.
+
 +LEAR
 What art thou?
+
 +KENT
 A very honest hearted Fellow, and as poore as the
 King.
+
 +LEAR
 If thou be'st as poore for a subiect, as hee's for a King,
 thou art poore enough. What wouldst thou?
+
 +KENT
 Seruice.
+
 +LEAR
 Who wouldst thou serue?
+
 +KENT
 You.
+
 +LEAR
 Do'st thou know me fellow?
+
 +KENT
 No Sir, but you haue that in your countenance,
 which I would faine call Master.
+
 +LEAR
 What's that?
+
 +KENT
 Authority.
+
 +LEAR
 What seruices canst thou do?
+
 +KENT
 I can keepe honest counsaile, ride, run, marre a curious
 tale in telling it, and deliuer a plaine message bluntly:
 that which ordinary men are fit for, I am quallified in,
 and the best of me, is Dilligence.
+
 +LEAR
 How old art thou?
+
 +KENT
 Not so young Sir to loue a woman for singing, nor
 so old to dote on her for any thing. I haue yeares on my
 backe forty eight.
+
 +LEAR
 Follow me,thou shalt serue me, if I like thee no
 worse after dinner, I will not part from thee yet. Dinner
 ho, dinner, where's my knaue? my Foole? Go you and
 call my Foole hither.
+
 SD: Enter +STEWARD.
+
 +LEAR
 You you Sirrah, where's my Daughter?
+
 +STEWARD
 So please you----
+
 SD: +STEWARD exits
+
 +LEAR
 What saies the Fellow there? Call the Clotpole backe:
 wher's my Foole? Ho, I thinke the world's asleepe,
 how now? Where's that Mungrell?
+
 +KNIGHT
 He saies my Lord, your Daughters is not
 well.
+
 +LEAR
 Why came not the slaue backe to me when I call'd
 him?
+
 +KNIGHT
 Sir,he answered me in the roundest
 manner, he would not.
+
 +LEAR
 He would not?
+
 +KNIGHT
 My Lord, I know not what the matter is,
 but to my iudgement your Highnesse is not entertain'd
@@ -783,12 +961,15 @@ with that Ceremonious affection as you were wont,
 theres a great abatement of kindnesse appeares as well
 in the generall dependants, as in the Duke himselfe also,
 and your Daughter.
+
 +LEAR
 Ha? Saist thou so?
+
 +KNIGHT
 I beseech you pardon me my Lord, if I
 bee mistaken, for my duty cannot be silent, when I thinke
 your Highnesse wrong'd.
+
 +LEAR
 Thou but remembrest me of mine owne Conception,
 I haue perceiued a most faint neglect of late,
@@ -796,51 +977,70 @@ which I haue rather blamed as mine owne iealous
 curiositie, then as a very pretence and purpose of
 vnkindnesse; I will looke further intoo't: but where's my
 Foole? I haue not seene him this two daies.
+
 +KNIGHT
 Since my young Ladies going into
 France Sir, the Foole hath much pined away.
+
 +LEAR
 No more of that, I haue noted it well, goe you and
 tell my Daughter, I would speake with her.
 Goe you call hither my Foole;
+
 SD: Enter +STEWARD.
+
 +LEAR
 Oh you Sir, you, come you hither / Sir, who am I Sir?
+
 +STEWARD
 My Ladies Father.
+
 +LEAR
 My Ladies Father? my Lords knaue, you whorson
 dog, you slaue, you curre.
+
 +STEWARD
 I am none of these my Lord, / I beseech your
 pardon.
+
 +LEAR
 Do you bandy lookes with me, you Rascall?
+
 +STEWARD
 Ile not be strucken my Lord.
+
 +KENT
 Nor tript neither, you base Foot-ball plaier.
+
 +LEAR
 I thanke thee fellow. / Thou seru'st me, and Ile loue
 thee.
+
 +KENT
 Come sir, arise, away, Ile teach you
 differences: away, away, if you will measure your
 lubbers length againe, tarry, but away, goe too, haue you
 wisedome,
 so.
+
 +LEAR
 Now my friendly knaue I thanke thee, there's
 earnest of thy seruice.
+
 SD: Enter +FOOLE.
+
 +FOOLE
 Let me hire him too, here's my Coxcombe.
+
 +LEAR
 How now my pretty knaue, how dost thou?
+
 +FOOLE
 Sirrah, you were best take my Coxcombe.
+
 +LEAR
 Why my Boy?
+
 +FOOLE
 Why? for taking ones part that's out of fauour,
 nay, & thou canst not smile as the wind sits, thou'lt
@@ -849,23 +1049,31 @@ fellow ha's banish'd two on's Daughters, and did the
 third a blessing against his will, if thou follow him, thou
 must needs weare my Coxcombe. How now Nunckle?
 would I had two Coxcombes and two Daughters.
+
 +LEAR
 Why my Boy?
-+FOOL
+
++FOOLE
 If I gaue them all my liuing,I'ld keepe my Coxcombes
 my selfe, there's mine, beg another of thy Daughters.
+
 +LEAR
 Take heed Sirrah, the whip.
+
 +FOOLE
 Truth's a dog must to kennell, hee must bee whipt
 out, when the Lady Brach may stand by'th'fire and
 stinke.
+
 +LEAR
 A pestilent gall to me.
+
 +FOOLE
 Sirha, Ile teach thee a speech.
+
 +LEAR
 Do.
+
 +FOOLE
 Marke it Nuncle;
 Haue more then thou showest,
@@ -878,29 +1086,39 @@ Leaue thy drinke and thy whore,
 And keepe in a dore,
 And thou shalt haue more,
 Then two tens to a score.
+
 +KENT
 This is nothing Foole.
+
 +FOOLE
 Then 'tis like the breath of an vnfeed Lawyer, you
 gaue me nothing for't, can you make no vse of nothing
 Nuncle?
+
 +LEAR
 Why no Boy, Nothing can be made out of nothing.
+
 +FOOLE
 Prythee tell him, so much the rent of his
 land comes to, he will not beleeue a Foole.
+
 +LEAR
 A bitter Foole.
+
 +FOOLE
 Do'st thou know the difference my Boy, betweene a
 bitter Foole, and a sweet one.
+
 +LEAR
 No Lad, reach me.
+
 +FOOLE
 Nunckle, giue me an egge, and
 Ile giue thee two Crownes.
+
 +LEAR
 What two Crownes shall they be?
+
 +FOOLE
 Why after I haue cut the egge i'th'middle and eate
 vp the meate, the two Crownes of the egge: when thou
@@ -913,8 +1131,10 @@ Fooles had nere lesse grace in a yeere,
 For wisemen are growne foppish,
 And know not how their wits to weare,
 Their manners are so apish.
+
 +LEAR
 When were you wont to be so full of Songs sirrah?
+
 +FOOLE
 I haue vsed it Nunckle, ere since thou mad'st thy
 Daughters thy Mothers, for when thou gau'st them the
@@ -925,8 +1145,10 @@ That such a King should play bo-peepe,
 And goe the Foole among.
 Pry'thy Nunckle keepe a Schoolemaster that can teach thy
 Foole to lie, I would faine learne to lie.
+
 +LEAR
 And you lie sirrah, wee'l haue you whipt.
+
 +FOOLE
 I maruell what kin thou and thy daughters are,
 they'l haue me whipt for speaking true: thou'lt
@@ -935,10 +1157,13 @@ whipt for holding my peace. I had rather be any kind
 o'thing then a foole, and yet I would not be thee Nunckle,
 thou hast pared thy wit o'both sides, and left nothing
 i'th'middle; heere comes one o'the parings.
+
 SD: Enter +GONERILL.
+
 +LEAR
 How now Daughter? what makes that Frontlet on?
 You are too much of late i'th'frowne.
+
 +FOOLE
 Thou wast a pretty fellow when thou hadst no need
 to care for her frowning, now thou art an O without a
@@ -949,11 +1174,12 @@ Mum, mum,
 he that keepes nor crust, not crum,
 Weary of all, shall want some.
 That's a sheal'd Pescod.
+
 +GONERILL
 Not only Sir this, your all-lycenc'd Foole,
 But other of your insolent retinue
 Do hourely Carpe and is Quarrell, breaking forth
-In ranke, and [not to be endur'd] riots Sir.
+In ranke, and (not to be endur'd) riots Sir.	
 I had thought by making this well knowne vnto you,
 To haue found a safe redresse, but now grow fearefull
 By what your selfe too late haue spoke and done,
@@ -964,32 +1190,40 @@ Which in the tender of a wholesome weale,
 Might in their working do you that offence,
 Which else were shame, that then necessitie
 Will call discreet proceeding.
+
 +FOOLE
 For you know Nunckle,
 the Hedge-Sparrow fed the Cuckoo so long,
 that it's had it head bit off by it young,
 so out went the Candle,and we were left darkling.
+
 +LEAR
 Are you our Daughter?
+
 +GONERILL
 I would you would make vse of your good wisedome
-[Whereof I know you are fraught], and put away
+(Whereof I know you are fraught), and put away	
 These dispositions, which of late transport you
 From what you rightly are.
+
 +FOOLE
 May not an Asse know, when the Cart drawes the
 Horse?
 Whoop Iugge I loue thee.
+
 +LEAR
 Do's any heere know me? / This is not Lear:
 Do's Lear walke thus? Speake thus? Where are his eies?
 Either his Notion weakens, his Discernings
 Are Lethargied. Ha! Waking? 'Tis not so?
 Who is it that can tell me who I am?
+
 +FOOLE
 Lears shadow.
+
 +LEAR
 Your name, faire Gentlewoman?
+
 +GONERILL
 This admiration Sir, is much o'th'sauour
 Of other your new prankes. I do beseech you
@@ -1007,23 +1241,29 @@ A little to disquantity your Traine,
 And the remainders that shall still depend,
 To be such men as may besort your Age,
 Which know themselues, and you.
+
 +LEAR
 Darknesse, and Diuels.
 Saddle my horses: call my Traine together.
 Degenerate Bastard, Ile not trouble thee;
 Yet haue I left a daughter.
+
 +GONERILL
 You strike my people, and your disorder'd rable,
 make Seruants of their Betters.
+
 SD: Enter +ALBANY.
+
 +LEAR
 Woe, that too late repents:
 Is it your will, speake Sir? Prepare my Horses.
 Ingratitude! thou Marble-hearted Fiend,
 More hideous when thou shew'st thee in a Child,
 Then the Sea-monster.
+
 +ALBANY
 Pray Sir be patient.
+
 +LEAR
 Detested Kite, thou lyest.
 My Traine are men of choice, and rarest parts,
@@ -1036,9 +1276,11 @@ From the fixt place: drew from my heart all loue,
 And added to the gall. O Lear, Lear, Lear!
 Beate at this gate that let thy Folly in,
 And thy deere Iudgement out. Go, go, my people.
+
 +ALBANY
 My Lord, I am guiltlesse, as I am ignorant
 Of what hath moued you.
+
 +LEAR
 It may be so, my Lord.
 Heare Nature, heare deere Goddesse, heare:
@@ -1056,19 +1298,26 @@ Turne all her Mothers paines, and benefits
 To laughter, and contempt: That she may feele,
 How sharper then a Serpents tooth it is,
 To haue a thanklesse Childe. Away, away.
-SD: +LEAR exits
+
+SD: +LEAR exits.
+
 +ALBANY
 Now Gods that we adore, / Whereof comes this?
+
 +GONERILL
 Neuer afflict your selfe to know more of it:
 But let his disposition haue that scope
 As dotage giues it.
+
 SD: Enter +LEAR.
+
 +LEAR
 What fiftie of my Followers at a clap?
 Within a fortnight?
+
 +ALBANY
 What's the matter, Sir?
+
 +LEAR
 Ile tell thee: / Life and death, I am asham'd
 That thou hast power to shake my manhood thus,
@@ -1085,15 +1334,20 @@ When she shall heare this of thee, with her nailes
 Shee'l flea thy Woluish visage. Thou shalt finde,
 That Ile resume the shape which thou dost thinke
 I haue cast off for euer.
+
 SD: +LEAR exits
+
 +GONERILL
 Do you marke that?
+
 +ALBANY
 I cannot be so partiall Gonerill,
 To the great loue I beare you.
+
 +GONERILL
 Pray you content. What Oswald, hoa?
 You Sir, more Knaue then Foole, after your Master.
+
 +FOOLE
 Nunkle Lear, Nunkle Lear, / Tarry, take the Foole
 with thee:
@@ -1102,7 +1356,9 @@ And such a Daughter,
 Should sure to the Slaughter,
 If my Cap would buy a Halter,
 So the Foole followes after.
+
 SD: +FOOLE exits
+
 +GONERILL
 This man hath had good Counsell, / A hundred Knights?
 'Tis politike, and safe to let him keepe
@@ -1110,8 +1366,10 @@ At point a hundred Knights: yes, that on euerie dreame,
 Each buz, each fancie, each complaint, dislike,
 He may enguard his dotage with their powres,
 And hold our liues in mercy. Oswald, I say.
+
 +ALBANY
 Well,you may feare too farre.
+
 +GONERILL
 Safer then trust too farre;
 Let me still take away the harmes I feare,
@@ -1119,12 +1377,16 @@ Not feare still to be taken. I know his heart,
 What he hath vtter'd I haue writ my Sister:
 If she sustaine him, and his hundred Knights
 When I haue shew'd th'vnfitnesse.
+
 SD: Enter +STEWARD.
+
 +GONERILL
 How now Oswald?
 What haue you writ that Letter to my Sister?
+
 +STEWARD
 I Madam.
+
 +GONERILL
 Take you some company, and away to horse,
 Informe her full of my particular feare,
@@ -1136,124 +1398,171 @@ This milky gentlenesse, and course of yours
 Though I condemne not, yet vnder pardon
 Your are much more at task for want of wisedome,
 Then prai'sd for harmefull mildnesse.
+
 +ALBANY
 How farre your eies may pierce I cannot tell;
 Striuing to better, oft we marre what's well.
+
 +GONERILL
 Nay then----
+
 +ALBANY
 Well, well, th'euent.
+
 SD: Exeunt +ALBANY, +GONERILL, +STEWARD
+
 
 NS: Act 1 Scene 5
 
 SD: Enter +LEAR, +KENT, +GENTLEMAN, and +FOOLE.
+
 +LEAR
 Go you before to Gloster with these
 Letters; acquaint my Daughter no further with any thing
 you know, then comes from her demand out of the Letter,
 if your Dilligence be not speedy, I shall be there afore
 you.
+
 +KENT
 I will not sleepe my Lord, till I haue deliuered your
 Letter.
+
 SD: +KENT exits
+
 +FOOLE
 If a mans braines were in's heeles, wert not in
 danger of kybes?
+
 +LEAR
 I Boy.
+
 +FOOLE
 Then I prythee be merry, thy wit shall not go
 slip-shod.
+
 +LEAR
 Ha, ha, ha.
-+FOOL
+
++FOOLE
 Shalt see thy other Daughter will vse thee kindly,
 for though she's as like this, as a Crabbe's like an Apple, yet
 I can tell what I can tell.
+
 +LEAR
 What can'st tell Boy?
+
 +FOOLE
 She will taste as like this as, a Crabbe do's to a Crab:
 thou canst tell why ones nose stands i'th'middle on's
 face?
+
 +LEAR
 No.
+
 +FOOLE
 Why to keepe ones eyes of either side's nose, that
 what a man cannot smell out, he may spy into.
+
 +LEAR
 I did her wrong.
+
 +FOOLE
 Can'st tell how an Oyster makes his shell?
+
 +LEAR
 No.
+
 +FOOLE
 Nor I neither; but I can tell why a Snaile ha's a house.
+
 +LEAR
 Why?
+
 +FOOLE
 Why to put's head in, not to giue it away to his
 daughters, and leaue his hornes without a case.
+
 +LEAR
 I will forget my Nature, so kind a Father? Be my
 Horsses ready?
+
 +FOOLE
 Thy Asses are gone about 'em; the reason why the
 seuen Starres are no mo then seuen, is a pretty reason.
+
 +LEAR
 Because they are not eight.
+
 +FOOLE
 Yes indeed, thou would'st make a good Foole.
+
 +LEAR
 To tak't againe perforce; Monster Ingratitude!
+
 +FOOLE
 If thou wert my Foole Nunckle, Il'd haue thee beaten
 for being old before thy time.
+
 +LEAR
 How's that?
+
 +FOOLE
 Thou shouldst not haue bin old, till thou hadst
 bin wise.
+
 +LEAR
 O let me not be mad, not mad sweet Heauen:
 keepe me in temper, I would not be mad.
 How now are the Horses ready?
+
 +GENTLEMAN
 Ready my Lord.
+
 +LEAR
 Come Boy.
-+FOOL
+
++FOOLE
 She that's a Maid now,& laughs at my departure,
 Shall not be a Maid long, vnlesse things be cut shorter.
+
 SD: Exeunt +LEAR, +GENTLEMAN, +FOOLE
+
 
 NS: Act 2 Scene 1
 
 SD: Enter +BASTARD, and +CURAN, seuerally.
+
 +BASTARD
 Saue thee Curan.
+
 +CURAN
 And your Sir, I haue bin / With your Father, and
 giuen him notice / That the Duke of Cornwall, and Regan
 his Duchesse / Will be here with him this night.
+
 +BASTARD
 How comes that?
+
 +CURAN
 Nay I know not, you haue heard of the newes
 abroad, I meane the whisper'd ones, for they are yet but
 ear-kissing arguments.
+
 +BASTARD
 Not I: pray you what are they?
+
 +CURAN
 Haue you heard of no likely Warres toward, / 'Twixt
 the Dukes of Cornwall, and Albany?
+
 +BASTARD
 Not a word.
+
 +CURAN
 You may do then in time, / Fare you well Sir.
-SD: +CURAN exits
+
+SD: +CURAN exits.
+
 +BASTARD
 The Duke be here to night? The better best,
 This weaues it selfe perforce into my businesse,
@@ -1261,7 +1570,9 @@ My Father hath set guard to take my Brother,
 And I haue one thing of a queazie question
 Which I must act, Briefenesse, and Fortune worke.
 Brother, a word, discend; Brother I say,
+
 SD: Enter +EDGAR.
+
 +BASTARD
 My Father watches: O Sir, fly this place,
 Intelligence is giuen where you are hid;
@@ -1271,39 +1582,52 @@ Hee's comming hither, now i'th'night, i'th'haste,
 And Regan with him, haue you nothing said
 Vpon his partie 'gainst the Duke of Albany?
 Aduise your selfe.
+
 +EDGAR
 I am sure on't, not a word.
+
 +BASTARD
 I heare my Father comming, pardon me:
 In cunning, I must draw my Sword vpon you:
 Draw, seeme to defend your selfe, / Now quit you well.
 Yeeld, come before my Father, light hoa, here,
 Fly Brother, Torches, Torches, so farewell.
-SD: +EDGAR exits
+
+SD: +EDGAR exits.
+
 +BASTARD
 Some blood drawne on me, would beget opinion
 Of my more fierce endeauour. I haue seene drunkards
 Do more then this in sport;
 Father, Father,
 Stop, stop, no helpe?
-SD: Enter +GLOSTER, and Seruants with Torches.
-+GLOSTER
+
+SD: Enter +GLOUCESTER, and Seruants with Torches.
+
++GLOUCESTER
 Now Edmund, where's the villaine?
+
 +BASTARD
 Here stood he in the dark, his sharpe Sword out,
 Mumbling of wicked charmes, coniuring the Moone
 To stand auspicious Mistris.
-+GLOSTER
+
++GLOUCESTER
 But where is he?
+
 +BASTARD
 Looke Sir, I bleed.
-+GLOSTER
+
++GLOUCESTER
 Where is the villaine, Edmund?
+
 +BASTARD
 Fled this way Sir, when by no meanes he could.
-+GLOSTER
+
++GLOUCESTER
 Pursue him, ho: go after.
 By no meanes, what?
+
 +BASTARD
 Perswade me to the murther of your Lordship,
 But that I told him the reuenging Gods,
@@ -1318,7 +1642,8 @@ And when he saw my best alarum'd spirits
 Bold in the quarrels right, rouz'd to th'encounter,
 Or whether gasted by the noyse I made,
 Full sodainely he fled.
-+GLOSTER
+
++GLOUCESTER
 Let him fly farre:
 Not in this Land shall he remaine vncaught
 And found; dispatch, the Noble Duke my Master,
@@ -1327,6 +1652,7 @@ By his authoritie I will proclaime it,
 That he which finds him shall deserue our thankes,
 Bringing the murderous Coward to the stake:
 He that conceales him death.
+
 +BASTARD
 When I disswaded him from his intent,
 And found him pight to doe it, with curst speech
@@ -1335,46 +1661,59 @@ Thou vnpossessing Bastard, dost thou thinke,
 If I would stand against thee, would the reposall
 Ofany trust, vertue, or worth in thee
 Make thy words faith'd? No, what should I denie,
-[As this I would, though thou didst produce
-My very Character] I'ld turne it all
+(As this I would, though thou didst produce	
+My very Character) I'ld turne it all	
 To thy suggestion, plot, and damned practise:
 And thou must make a dullard of the world,
 If they not thought the profits of my death
 Were very pregnant and potentiall spirits
 To make thee seeke it.
-+GLOSTER
+
++GLOUCESTER
 O strange and fastned Villaine,
 Would he deny his Letter, said he?
+
 SD: Tucket within.
-+GLOSTER
+
++GLOUCESTER
 Harke, the Dukes Trumpets, I know not wher he comes.;
 All Ports Ile barre, the villaine shall not scape,
 The Duke must grant me that: besides, his picture
 I will send farre and neere, that all the kingdome
 May haue due note of him, and of my land,
-[Loyall and naturall Boy] Ile worke the meanes
+(Loyall and naturall Boy) Ile worke the meanes	
 To make thee capable.
-SD: Enter +CORNEWALL, +REGAN, and Attendants.
-+CORNEWALL
+
+SD: Enter +CORNWALL, +REGAN, and Attendants.
+
++CORNWALL
 How now my Noble friend, since I came hither
-[Which I can call but now,] I haue heard strangenesse.
+(Which I can call but now,) I haue heard strangenesse.
+
 +REGAN
 If it be true, all vengeance comes too short
 Which can pursue th'offender; how dost my Lord?
-+GLOSTER
+
++GLOUCESTER
 O Madam, my old heart is crack'd, it's crack'd.
+
 +REGAN
 What, did my Fathers Godsonne seeke your life?
 He whom my Father nam'd, your Edgar?
-+GLOSTER
+
++GLOUCESTER
 O Lady, Lady, shame would haue it hid.
+
 +REGAN
 Was he not companion with the riotous Knights
 That tended vpon my Father?
-+GLOSTER
+
++GLOUCESTER
 I know not Madam, 'tis too bad, too bad.
+
 +BASTARD
 Yes Madam, he was of that consort.
+
 +REGAN
 No maruaile then, though he were ill affected,
 'Tis they haue put him on the old mans death,
@@ -1383,20 +1722,26 @@ I haue this present euening from my Sister
 Beene well inform'd of them, and with such cautions,
 That if they come to soiourne at my house,
 Ile not be there.
-+CORNEWALL
+
++CORNWALL
 Nor I, assure thee Regan;
 Edmund, I heare that you haue shewne yout Father
 A Child-like Office.
+
 +BASTARD
 It was my duty Sir.
-+GLOSTER
+
++GLOUCESTER
 He did bewray his practise, and receiu'd
 This hurt you see, striuing to apprehend him.
-+CORNEWALL
+
++CORNWALL
 Is he pursued?
-+GLOSTER
+
++GLOUCESTER
 I my good Lord.
-+CORNEWALL
+
++CORNWALL
 If he be taken, he shall neuer more
 Be fear'd of doing harme, make your owne purpose,
 How in my strength you please: for you Edmund,
@@ -1404,13 +1749,17 @@ Whose vertue and obedience doth this instant
 So much commend it selfe, you shall be ours,
 Nature's of such deepe trust, we shall much need:
 You we first seize on.
+
 +BASTARD
 I shall serue you Sir
 truely, how euer else.
-+GLOSTER
+
++GLOUCESTER
 For him I thanke your Grace.
-+CORNEWALL
+
++CORNWALL
 You know not why we came to visit you?
+
 +REGAN
 Thus out of season, thredding darke ey'd night,
 Occasions Noble Gloster of some prize,
@@ -1422,49 +1771,50 @@ From hence attend dispatch, our good old Friend,
 Lay comforts to your bosome, and bestow
 Your needfull counsaile to our businesses,
 Which craues the instant vse.
-+GLOSTER
+
++GLOUCESTER
 I serue you Madam,
 Your Graces are right welcome.
-SD: Exeunt +BASTARD, +GLOSTER, +CORNEWALL, +REGAN. Flourish.
 
-
+SD: Exeunt +BASTARD, +GLOUCESTER, +CORNWALL, +REGAN. Flourish.
 
 
 NS: Act 2 Scene 2
 
 SD: Enter +KENT, and +STEWARD seuerally.
-+STEW.
+
++STEWARD
 Good dawning to thee Friend, art of this house?
 
 +KENT
 I.
 
-+STEW.
++STEWARD
 Where may we set our horses?
 
 +KENT
 I'th'myre.
 
-+STEW.
++STEWARD
 Prythee, if thou lou'st me, tell me.
 
 +KENT
 I loue thee not.
 
-+STEW.
++STEWARD
 Why then I care not for thee.
 
 +KENT
 If I had thee in Lipsbury Pinfold, I would make thee
 care for me.
 
-+STEW.
++STEWARD
 Why do'st thou vse me thus? I know thee not.
 
 +KENT
 Fellow I know thee.
 
-+STEW.
++STEWARD
 What do'st thou know me for?
 
 +KENT
@@ -1479,7 +1829,7 @@ the Sonne and Heire of a Mungrill Bitch, one whom I will
 beate into clamours whining, if thou deny'st the least
 sillable of thy addition.
 
-+STEW.
++STEWARD
 Why, what a monstrous Fellow art thou, thus to raile
 on one, that is neither knowne of thee, nor knowes thee?
 
@@ -1491,7 +1841,7 @@ though it be night, yet the Moone shines, Ile make a sop
 oth'Moonshine of you, you whoreson Cullyenly
 Barber-monger, draw.
 
-+STEW.
++STEWARD
 Away, I haue nothing to do with thee.
 
 +KENT
@@ -1501,17 +1851,17 @@ Royaltie of her Father: draw you Rogue, or Ile so
 carbonado your shanks, draw you Rascall, come your
 waies.
 
-+STEW.
++STEWARD
 Helpe, ho, murther, helpe.
 
 +KENT
 Strike you slaue:
 stand rogue, stand you neat slaue, strike.
 
-+STEW.
++STEWARD
 Helpe hoa, murther, murther.
 
-SD: Enter +BASTARD, +CORNEWALL, +REGAN, +GLOSTER, Seruants.
+SD: Enter +BASTARD, +CORNWALL, +REGAN, +GLOUCESTER, Seruants.
 
 +BASTARD
 How now,what's the matter? Part.
@@ -1520,20 +1870,20 @@ How now,what's the matter? Part.
 With you goodman Boy, if you please, come, / Ile
 flesh ye, come on yong Master.
 
-+GLOSTER
++GLOUCESTER
 Weapons? Armes? what's the matter here?
 
-+CORNEWALL
++CORNWALL
 Keepe peace vpon your liues,
 he dies that strikes againe, what is the matter?
 
 +REGAN
 The Messengers from our Sister, and the King?
 
-+CORNEWALL
++CORNWALL
 What is your difference, speake?
 
-+STEW.
++STEWARD
 I am scarce in breath my Lord.
 
 +KENT
@@ -1541,7 +1891,7 @@ No Maruell, you haue so bestir'd your valour, you
 cowardly Rascall, nature disclaimes in thee: a Taylor made
 thee.
 
-+CORNEWALL
++CORNWALL
 Thou art a strange fellow, a Taylor make a
 man?
 
@@ -1550,11 +1900,11 @@ A Taylor Sir, a Stone-cutter, or a Painter, could not
 haue made him so ill, though they had bin but two
 yeares oth'trade.
 
-+CORNEWALL
++CORNWALL
 Speake yet, how grew your
 quarrell?
 
-+STEW.
++STEWARD
 This ancient Ruffian Sir, whose life I haue
 spar'd at sute of his gray-beard.
 
@@ -1564,14 +1914,14 @@ Lord, if you will giue me leaue, I will tread this vnboulted
 villaine into morter, and daube the wall of a Iakes with him.
 Spare my gray-beard, you wagtaile?
 
-+CORNEWALL
++CORNWALL
 Peace sirrah,
 You beastly knaue, know you no reuerence?
 
 +KENT
 Yes Sir, but anger hath a priuiledge.
 
-+CORNEWALL
++CORNWALL
 Why art thou angrie?
 
 +KENT
@@ -1583,29 +1933,29 @@ That in the natures of their Lords rebell,
 Being oile to fire, snow to the colder moodes,
 Reuenge, affirme, and turne their Halcion beakes
 With euery gall, and varry of their Masters,
-Knowing naught [like dogges] but following:
+Knowing naught (like dogges) but following:	
 A plague vpon your Epilepticke visage,
 Smoile you my speeches, as I were a Foole?
 Goose, if I had you vpon Sarum Plaine,
 I'ld driue ye cackling home to Camelot.
 
-+CORNEWALL
++CORNWALL
 What art thou mad old Fellow?
 
-+GLOSTER
++GLOUCESTER
 How fell you out, say that?
 
 +KENT
 No contraries hold more antipathy,
 Then I, and such a knaue.
 
-+CORNEWALL
++CORNWALL
 Why do'st thou call him Knaue? / What is his fault?
 
 +KENT
 His countenance likes me not.
 
-+CORNEWALL
++CORNWALL
 No more perchance do's mine, nor his, nor hers.
 
 +KENT
@@ -1614,7 +1964,7 @@ I haue seene better faces in my time,
 Then stands on any shoulder that I see
 Before me, at this instant.
 
-+CORNEWALL
++CORNWALL
 This is some Fellow,
 Who hauing beene prais'd for bluntnesse, doth affect
 A saucy roughnes, and constraines the garb
@@ -1632,7 +1982,7 @@ Vnder th'allowance of your great aspect,
 Whose influence like the wreath of radient fire
 On flicking Phoebus front.
 
-+CORNEWALL
++CORNWALL
 What mean'st by this?
 
 +KENT
@@ -1642,10 +1992,10 @@ you in a plaine accent, was a plaine Knaue, which for my
 part I will not be, though I should win your displeasure
 to entreat me too't.
 
-+CORNEWALL
++CORNWALL
 What was th'offence you gaue him?
 
-+STEW.
++STEWARD
 I neuer gaue him any:
 It pleas'd the King his Master very late
 To strike at me vpon his misconstruction,
@@ -1661,7 +2011,7 @@ Drew on me here againe.
 None of these Rogues, and Cowards
 But Aiax is there Foole.
 
-+CORNEWALL
++CORNWALL
 Fetch forth the Stocks?
 You stubborne ancient Knaue, you reuerent Bragart,
 Wee'l teach you.
@@ -1674,7 +2024,7 @@ You shall doe small respects, show too bold malice
 Against the Grace, and Person of my Master,
 Stocking his Messenger.
 
-+CORNEWALL
++CORNWALL
 Fetch forth the Stocks; / As I haue life and Honour,
 there shall he sit till Noone.
 
@@ -1688,30 +2038,31 @@ You should not vse me so.
 +REGAN
 Sir, being his Knaue, I will.
 
-+CORNEWALL
++CORNWALL
 This is a Fellow of the selfe same colour,
 Our Sister speakes of. Come, bring away the Stocks.
 
 SD: Stocks brought out.
 
-+GLOSTER
++GLOUCESTER
 Let me beseech your Grace, not to do so,
 The King his Master, needs must take it ill
 That he so slightly valued in his Messenger,
 Should haue him thus restrained.
 
-+CORNEWALL
++CORNWALL
 Ile answere that.
 
 +REGAN
 My Sister may recieue it much more worsse,
 To haue her Gentleman abus'd, assaulted.
 
-+CORNEWALL
++CORNWALL
 Come my Lord, away.
 
-SD: +CORNEWALL exits.
-+GLOSTER
+SD:  +BASTARD, +CORNWALL, +REGAN exits.
+
++GLOUCESTER
 I am sorry for thee friend, 'tis the Duke pleasure,
 Whose disposition all the world well knowes
 Will not be rub'd nor stopt, Ile entreat for thee.
@@ -1722,11 +2073,12 @@ Some time I shall sleepe out, the rest Ile whistle:
 A good mans fortune may grow out at heeles:
 Giue you good morrow.
 
-+GLOSTER
++GLOUCESTER
 The Duke's too blame in this,
 'Twill be ill taken.
 
-SD: +GLOSTER exits.
+SD: +GLOUCESTER exits.
+
 +KENT
 Good King, that must approue the common saw,
 Thou out of Heauens benediction com'st
@@ -1743,9 +2095,11 @@ Take vantage heauie eyes, not to behold
 This shamefnll lodging.
 Fortune goodnight, / Smile once more, turne thy wheele.
 
+
 NS: Act 2 Scene 3
 
 SD: Enter +EDGAR.
+
 +EDGAR
 I heard my selfe proclaim'd,
 And by the happy hollow of a Tree,
@@ -1770,9 +2124,12 @@ Inforce their charitie: poore Turlygod poore Tom,
 That's something yet: Edgar I nothing am.
 
 SD: +EDGAR exits.
+
+
 NS: Act 2 Scene 4
 
 SD: Enter +LEAR, +FOOLE, and +GENTLEMAN.
+
 +LEAR
 'Tis strange that they should so depart from home,
 And not send backe my Messengers.
@@ -1876,6 +2233,7 @@ Wirh the Earle Sir, here within.
 Follow me not, stay here.
 
 SD: +LEAR exits.
+
 +GENTLEMAN
 Made you no more offence, / But what you speake of?
 
@@ -1909,7 +2267,8 @@ And let the wiseman flie:
 The knaue turnes Foole that runnes away,
 The Foole no knaue perdie.
 
-SD: Enter +LEAR, and +GLOSTER:
+SD: Enter +LEAR, and +GLOUCESTER:
+
 +KENT
 Where learn'd you this Foole?
 
@@ -1922,7 +2281,7 @@ They haue trauail'd all the night? meere fetches,
 The images of reuolt and flying off.
 Fetch me a better answer.
 
-+GLOSTER
++GLOUCESTER
 My deere Lord,
 You know the fiery quality of the Duke,
 How vnremoueable and fixt he is
@@ -1933,13 +2292,13 @@ Vengeance, Plague, Death, Confusion:
 Fiery? What quality? Why Gloster, Gloster,
 I'ld speake with the Duke of Cornewall, and his wife.
 
-+GLOSTER
++GLOUCESTER
 Well my good Lord, I haue inform'd them so.
 
 +LEAR
 Inform'd them? Do'st thou vnderstand me man.
 
-+GLOSTER
++GLOUCESTER
 I my good Lord.
 
 +LEAR
@@ -1963,10 +2322,11 @@ Now, presently: bid them come forth and heare me,
 Or at their Chamber doore Ile beate the Drum,
 Till it crie sleepe to death.
 
-+GLOSTER
++GLOUCESTER
 I would haue all well betwixt you.
 
-SD: +GLOSTER exits.
+SD: +GLOUCESTER exits.
+
 +LEAR
 Oh me my heart! My rising heart! But downe.
 
@@ -1977,15 +2337,16 @@ o'th'coxcombs with a sticke, and cryed downe wantons,
 downe; 'twas her Brother, that in pure kindnesse to his
 Horse buttered his Hay.
 
-SD: Enter +CORNEWALL, +REGAN, +GLOSTER, Seruants.
+SD: Enter +CORNWALL, +REGAN, +GLOUCESTER, Seruants.
 
 +LEAR
 Good morrow to you both.
 
-+CORNEWALL
++CORNWALL
 Haile to your Grace.
 
 SD: +KENT here set at liberty.
+
 +REGAN
 I am glad to see your Highnesse.
 
@@ -2047,7 +2408,7 @@ All the stor'd Vengeances of Heauen, fall
 On her ingratefull top: strike her yong bones
 You taking Ayres, with Lamenesse.
 
-+CORNEWALL
++CORNWALL
 Fye sir, fie.
 
 +LEAR
@@ -2081,7 +2442,8 @@ Good Sir, to'th'purpose.
 Who put my man i'th'Stockes?
 
 SD: Tucket within.
-+CORNEWALL
+
++CORNWALL
 What Trumpet's that?
 
 +REGAN
@@ -2089,6 +2451,7 @@ I know't, my Sisters: this approues her Letter,
 That she would soone be heere.
 
 SD: Enter +STEWARD.
+
 +REGAN
 Is your Lady come?
 
@@ -2097,7 +2460,7 @@ This is a Slaue, whose easie borrowed pride
 Dwels in the sickly grace of her he followes.
 Out Varlet, from my sight.
 
-+CORNEWALL
++CORNWALL
 What meanes your Grace?
 
 +LEAR
@@ -2105,6 +2468,7 @@ Who stockt my Seruant? Regan, I haue good hope
 Thou did'st not know on't.
 
 SD: Enter +GONERILL.
+
 +LEAR
 Who comes here? O Heauens!
 If you do loue old men; if your sweet sway
@@ -2113,7 +2477,7 @@ Make it your cause: Send downe, and take my part.
 Art not asham'd to looke vpon this Beard?
 O Regan, will you take her by the hand?
 
-+GON.
++GONERILL
 Why not by'th'hand Sir? How haue I offended?
 All's not offence that indiscretion findes,
 And dotage termes so.
@@ -2122,7 +2486,7 @@ And dotage termes so.
 O sides, you are too tough!
 Will you yet hold? / How came my man i'th'Stockes?
 
-+CORNEWALL
++CORNWALL
 I set him there, Sir: but his owne Disorders
 Deseru'd much lesse aduancement.
 
@@ -2150,7 +2514,7 @@ To keepe base life a foote; returne with her?
 Perswade me rather to be slaue and sumpter
 To this detested groome.
 
-+GON.
++GONERILL
 At your choice Sir.
 
 +LEAR
@@ -2188,7 +2552,7 @@ Speake 'gainst so great a number? How in one house
 Should many people, vnder two commands
 Hold amity? 'Tis hard, almost impossible.
 
-+GON.
++GONERILL
 Why might not you my Lord, receiue attendance
 From those that she cals Seruants, or from mine?
 
@@ -2221,7 +2585,7 @@ Stands in some ranke of praise, Ile go with thee,
 Thy fifty yet doth double fiue and twenty,
 And thou art twice her Loue.
 
-+GON.
++GONERILL
 Heare me my Lord;
 What need you fiue and twenty? Ten? Or fiue?
 To follow in a house, where twice so many
@@ -2239,7 +2603,7 @@ If onely to go warme were gorgeous,
 Why Nature needs not what thou gorgeous wear'st,
 Which scarcely keepes thee warme, but for true need:
 You Heauens, giue me that patience, patience I need,
-You see me heere [you Gods] a poore old man,
+You see me heere (you Gods) a poore old man,	
 As full of griefe as age, wretched in both,
 If it be you that stirres these Daughters hearts
 Against their Father, foole me not so much,
@@ -2252,20 +2616,22 @@ What they are yet, I know not, but they shalbe
 The terrors of the earth? you thinke Ile weepe,
 No, Ile not weepe,
 I haue full cause of weeping.
-But this heart
-shal break into a hundred thousand flawes
-Or ere Ile weepe; O Foole, I shall go mad.
 
 SD: Storme and Tempest.
-SD: Exeunt +LEAR, +FOOLE, +KENT
-+CORNEWALL
+
+But this heart shal break into a hundred thousand flawes
+Or ere Ile weepe; O Foole, I shall go mad.
+
+SD: Exeunt +LEAR, +FOOLE, +KENT, +GLOUCESTER.
+
++CORNWALL
 Let vs withdraw, 'twill be a Storme.
 
 +REGAN
 This house is little, the old man an'ds people,
 Cannot be well bestow'd.
 
-+GON.
++GONERILL
 'Tis his owne blame hath put himselfe from rest,
 And must needs taste his folly.
 
@@ -2273,30 +2639,31 @@ And must needs taste his folly.
 For his particular, Ile receiue him gladly,
 But not one follower.
 
-+GON.
++GONERILL
 So am I purpos'd.
 Where is my Lord of Gloster?
 
-+CORNEWALL
++CORNWALL
 Followed the old man forth, he is return'd.
 
-SD: Enter +GLOSTER.
-+GLOSTER
+SD: Enter +GLOUCESTER.
+
++GLOUCESTER
 The King is in high rage.
 
-+CORNEWALL
++CORNWALL
 Whether is he going?
 
-+GLOSTER
++GLOUCESTER
 He cals to Horse, but will I know not whether.
 
-+CORNEWALL
++CORNWALL
 'Tis best to giue him way, he leads himselfe.
 
-+GON.
++GONERILL
 My Lord, entreate him by no meanes to stay.
 
-+GLOSTER
++GLOUCESTER
 Alacke the night comes on, and the high windes
 Do sorely ruffle, for many Miles about
 There's scarce a Bush.
@@ -2309,19 +2676,16 @@ He is attended with a desperate traine,
 And what they may incense him too, being apt,
 To haue his eare abus'd, wisedome bids feare.
 
-+CORNEWALL
++CORNWALL
 Shut vp your doores my Lord, 'tis a wil'd night,
 My Regan counsels well: come out oth'storme.
 
-SD: Exeunt +CORNEWALL, +REGAN, +GONERILL, +GLOSTER.
-
-
+SD: Exeunt +CORNWALL, +REGAN, +GONERILL, +GLOUCESTER, +STEWARD.
 
 
 NS: Act 3 Scene 1
 
-SD: Storme still. Enter +KENT, and a +GENTLEMAN,	
-seuerally.	
+SD: Storme still. Enter +KENT, and a +GENTLEMAN, seuerally.	
 
 +KENT
 Who's there besides foule weather?
@@ -2349,8 +2713,8 @@ His heart-strooke iniuries.
 Sir, I do know you,
 And dare vpon the warrant of my note
 Commend a deere thing to you. There is diuision
-[Although as yet the face of it is couer'd
-With mutuall cunning] 'twixt Albany, and Cornwall:
+(Although as yet the face of it is couer'd	
+With mutuall cunning) 'twixt Albany, and Cornwall:	
 Who haue, as who haue not, that their great Starres
 Thron'd and set high; Seruants, who seeme no lesse,
 Which are to France the Spies and Speculations
@@ -2358,7 +2722,7 @@ Intelligent of our State. What hath bin seene,
 Either in snuffes, and packings of the Dukes,
 Or the hard Reine which both of them hath borne
 Against the old kinde King; or something deeper,
-Whereof [perchance] these are but furnishings.
+Whereof (perchance) these are but furnishings.
 
 +GENTLEMAN
 I will talke further with you.
@@ -2368,7 +2732,7 @@ No, do not:
 For confirmation that I am much more
 Then my out-wall; open this Purse, and take
 What it containes. If you shall see Cordelia,
-[As feare not but you shall] shew her this Ring,
+(As feare not but you shall) shew her this Ring,	
 And she will tell you who that Fellow is
 That yet you do not know. Fye on this Storme,
 I will go seeke the King.
@@ -2381,7 +2745,9 @@ Few words, but to effect more then all yet;
 That when we haue found the King, in which your pain
 That way, Ile this: He that first lights on him,
 Holla the other.
-KENT, GENTLEMAN exits
+
+SD: +KENT, +GENTLEMAN exits
+
 
 NS: Act 3 Scene 2
 
@@ -2430,6 +2796,7 @@ Shall of a Corne cry woe,
 and turne his sleepe to wake.
 For there was neuer yet faire woman, but shee made mouthes
 in a glasse.
+
 SD: Enter +KENT.
 
 +LEAR
@@ -2472,9 +2839,9 @@ Alacke, bare-headed?
 Gracious my Lord, hard by heere is a Houell,
 Some friendship will it lend you 'gainst the Tempest:
 Repose you there, while I to this hard house,
-[More harder then the stones whereof 'tis rais'd,
+(More harder then the stones whereof 'tis rais'd,	
 Which euen but now, demanding after you,
-Deny'd me to come in] returne, and force
+Deny'd me to come in) returne, and force	
 Their scanted curtesie.
 
 +LEAR
@@ -2494,7 +2861,8 @@ Though the Raine it raineth euery day.
 
 +LEAR
 True Boy: Come bring vs to this Houell.
-LEAR exits
+
+SD: +LEAR exits
 
 +FOOLE
 This is a braue night to coole a Curtizan: Ile speake
@@ -2515,23 +2883,25 @@ Then comes the time, who liues to see't,
 That going shalbe vs'd with feet.
 This prophecie Merlin shall make, for I liue before his
 time.
-FOOLE exits
+
+SD: +FOOLE exits
+
 
 NS: Act 3 Scene 3
 
-SD: Enter +GLOSTER, and +EDMUND.	
+SD: Enter +GLOUCESTER, and +BASTARD.
 
-+GLOSTER
++GLOUCESTER
 Alacke, alacke Edmund, I like not this vnnaturall
 dealing; when I desired their leaue that I might
 pity him, they tooke from me the vse of mine owne house,
 charg'd me on paine of perpetuall displeasure, neither to
 speake of him, entreat for him, or any way sustaine him.
 
-+EDMUND
++BASTARD
 Most sauage and vnnaturall.
 
-+GLOSTER
++GLOUCESTER
 Go too; say you nothing. There is diuision
 betweene the Dukes, and a worsse matter then that: I
 haue receiued a Letter this night, 'tis dangerous to be
@@ -2541,18 +2911,21 @@ is part of a Power already footed, we must incline to the
 King, I will looke him, and priuily relieue him; goe you
 and maintaine talke with the Duke, that my charity be not
 of him perceiued; If he aske for me, I am ill, and gone to
-bed, if I die for it, [as no lesse is threatned me] the King
+bed, if I die for it, (as no lesse is threatned me) the King	
 my old Master must be relieued. There is strange things
 toward Edmund,pray you be carefull.
-GLOSTER exits
 
-+EDMUND
+SD: +GLOSTER exits
+
++BASTARD
 This Curtesie forbid thee,shall the Duke
 Instantly know, and of that Letter too;
 This seemes a faire deseruing, and must draw me
 That which my Father looses: no lesse then all,
 The yonger rises, when the old doth fall.
-EDMUND exits
+
+SD: +BASTARD exits
+
 
 NS: Act 3 Scene 4
 
@@ -2562,6 +2935,7 @@ SD: Enter +LEAR, +KENT, and +FOOLE.
 Here is the place my Lord, good my Lord enter,
 The tirrany of the open night's too rough
 For Nature to endure.
+
 SD: Storme still
 
 +LEAR
@@ -2613,6 +2987,7 @@ Too little care of this: Take Physicke, Pompe,
 Expose thy selfe to feele what wretches feele,
 That thou maist shake the superflux to them,
 And shew the Heauens more iust.
+
 SD: Enter +EDGAR, and +FOOLE.	
 
 +EDGAR
@@ -2653,6 +3028,7 @@ Toms a cold. O do, de, do, de, do de, blisse thee from
 Whirle-Windes, Starre-blasting, and taking, do poore Tom
 some charitie, whom the foule Fiend vexes. There could I
 haue him now, and there, and there againe, and there.
+
 SD: Storme still.	
 
 +LEAR
@@ -2709,10 +3085,10 @@ Let not the creaking of shooes, Nor the rustling of Silkes,
 betray thy poore heart to woman. Keepe thy foote out of
 Brothels, thy hand out of Plackets, thy pen from Lenders
 Bookes, and defye the foule Fiend.
-SD: Still through the Hauthorne blowes the cold winde:	
-EDGAR
+Still through the Hauthorne blowes the cold winde:	
 Sayes suum, mun, nonny,
 Dolphin my Boy, Boy Sesey: let him trot by.
+
 SD: Storme still
 
 +LEAR
@@ -2730,6 +3106,7 @@ Prythee Nunckle be contented, 'tis a naughtie night
 to swimme in. Now a little fire in a wilde Field, were like an
 old Letchers heart, a small spark, all the rest on's body,
 cold: Looke, heere comes a walking fire.
+
 SD: Enter +GLOUCESTER, with a Torch.	
 
 +EDGAR
@@ -2815,14 +3192,16 @@ His wits begin t' vnsettle.
 
 +GLOUCESTER
 Canst thou blame him?
+
 SD: Storm still	
-GLOUCESTER
-His Daughters seeke his death: Ah, that good +KENT,
+
++GLOUCESTER
+His Daughters seeke his death: Ah, that good Kent,
 He said it would be thus: poore banish'd man:
 Thou sayest the King growes mad, Ile tell thee Friend
 I am almost mad my selfe. I had a Sonne,
 Now out-law'd from my blood: he sought my life
-But lately: very late: I lou'd him [Friend]
+But lately: very late: I lou'd him (Friend)
 No Father his Sonne deerern: true to tell thee
 The greefe hath craz'd my wits. What a night's this?
 I do beseech your grace.
@@ -2867,16 +3246,18 @@ No words, no words, hush.
 Rowland to the darke Tower came,
 His word was still, fie, foh, and fumme,
 I smell the blood of a Brittish man.
-LEAR, KENT, GLOUCESTER, EDGAR exuent
+
+SD: +LEAR, +KENT, +GLOUCESTER, +EDGAR exuent
+
 
 NS: Act 3 Scene 5
 
-SD: Enter +CORNWALL, and +EDMUND.	
+SD: Enter +CORNWALL, and +BASTARD.	
 
 +CORNWALL
 I will haue my reuenge, ere I depart his house.
 
-+EDMUND
++BASTARD
 How my Lord, I may be censured, that Nature
 thus giues way to Loyaltie, something feares mee to thinke of.
 
@@ -2886,7 +3267,7 @@ Brothers euill disposition made him seeke his death: but
 a prouoking merit set a-worke by a reprouable badnesse in
 himselfe.
 
-+EDMUND
++BASTARD
 How malicious is my fortune, that I must repent
 to be iust? This is the Letter which hee spoake of; which approues
 him an intelligent partie to the aduantages of France. O
@@ -2896,7 +3277,7 @@ detector.
 +CORNWALL
 Go with me to the Dutchesse.
 
-+EDMUND
++BASTARD
 If the matter of this Paper be certain, you haue
 mighty businesse in hand.
 
@@ -2905,7 +3286,7 @@ True or false, it hath made thee Earle of
 Gloucester: seeke out where thy Father is, that hee may bee
 ready for our apprehension.
 
-+EDMUND
++BASTARD
 If I finde him comforting the King, it will
 stuffe his suspition more fully. I will perseuer in
 my course of Loyalty, though the conflict be sore betweene
@@ -2914,7 +3295,9 @@ that, and my blood.
 +CORNWALL
 I will lay trust vpon thee: and thou shalt finde
 a deere Father in my loue.
-CORNWALL, EDMUND exuent
+
+SD: +CORNWALL, +BASTARD exuent.
+
 
 NS: Act 3 Scene 6
 
@@ -2928,8 +3311,8 @@ addition I can: I will not be long from you.
 +KENT
 All the powre of his wits, haue giuen way to his impatience:
 the Gods reward your kindnesse.
-GLOUCESTER exits
-SD: Enter +LEAR, +EDGAR, and +FOOLE.	
+
+SD: +GLOUCESTER exits. Enter +LEAR, +EDGAR, and +FOOLE.	
 
 +EDGAR
 Fraterretto cals me, and tells me Nero is an Angler
@@ -2997,6 +3380,7 @@ so, so, wee'l go to Supper i'th'morning.
 
 +FOOLE
 And Ile go to bed at noone.
+
 SD: Enter +GLOUCESTER.	
 
 +GLOUCESTER
@@ -3016,22 +3400,25 @@ With thine, and all that offer to defend him,
 Stand in assured losse. Take vp, take vp,
 And follow me, that will to some prouision
 Giue thee quicke conduct. Come, come, away.
-KENT, LEAR, EDGAR, FOOLE, GLOUCESTER exuent
 
-
++KENT, +LEAR, +EDGAR, +FOOLE, +GLOUCESTER exuent.
 
 
 NS: Act 3 Scene 7
 
 SD: Enter +CORNWALL, +REGAN, +GONERILL, +BASTARD, and Servants.
+
 +CORNWALL
 Poste speedily to my Lord your
 husband, shew him this Letter, the Army of France is
 landed: seeke out the Traitor Glouster.
+
 +REGAN
 Hang him instantly.
+
 +GONERILL
 Plucke out his eyes.
+
 +CORNWALL
 Leaue him to my displeasure. Edmond, keepe
 you our Sister company: the reuenges wee are bound to
@@ -3040,9 +3427,12 @@ Aduice the Duke where you are going, to a most
 festiuate preparation: we are bound to the like. Our
 Postes shall be swift, and intelligent betwixt vs. Farewell
 deere Sister, farewell my Lord of Glouster.
+
 SD: Enter +STEWARD.
+
 +CORNWALL
 How now? Where's the King?
+
 +STEWARD
 My Lord of Glouster hath conuey'd him hence
 Some fiue or six and thirty of his Knights
@@ -3050,11 +3440,15 @@ Hot Questrists after him, met him at gate,
 Who, with some other of the Lords, dependants,
 Are gone with him toward Douer; where they boast
 To haue well armed Friends.
+
 +CORNWALL
 Get horses for your Mistris.
-STEWARD exits
+
++STEWARD exits
+
 +GONERILL
 Farewell sweet Lord, and Sister.
+
 +CORNWALL
 Edmund farewell:
 go seek the Traitor Gloster,
@@ -3063,64 +3457,90 @@ Though well we may not passe vpon his life
 Without the forme of Iustice: yet our power
 Shall do a curt'sie to our wrath, which men
 May blame, but not comptroll.
-SD: Enter +GLOUCESTER, and Seruants.
+
+SD: Enter +GLOUCESTER, and Seruants {+SERUANT}.
+
 +CORNWALL
 Who's there? the Traitor?
+
 +REGAN
 Ingratefull Fox, 'tis he.
+
 +CORNWALL
 Binde fast his corky armes.
+
 +GLOUCESTER
-What meanes your Graces? [Good my Friends consider
-you are my Ghests: [Do me no foule play, Friends.
+What meanes your Graces? / Good my Friends consider
+you are my Ghests: / Do me no foule play, Friends.
+
 +CORNWALL
 Binde him I say.
+
 +REGAN
 Hard, hard: O filthy Traitor.
+
 +GLOUCESTER
 Vnmercifull Lady, as you are, I'me none.
+
 +CORNWALL
-To this Chaire binde him, [Villaine, thou shalt finde.
+To this Chaire binde him, / Villaine, thou shalt finde.
+
 +GLOUCESTER
 By the kinde Gods, 'tis most ignobly done
 To plucke me by the Beard.
+
 +REGAN
 So white, and such a Traitor?
+
 +GLOUCESTER
 Naughty Ladie,
 These haires which thou dost rauish from my chin
 Will quicken and accuse thee. I am your Host,
 With Robbers hands, my hospitable fauours
 You should not ruffle thus. What will you do?
+
 +CORNWALL
-Come Sir. [What Letters had you late from France?
+Come Sir. / What Letters had you late from France?
+
 +REGAN
 Be simple answer'd, for we know the truth.
+
 +CORNWALL
 And what confederacie haue you with the Traitors,
 late footed in the Kingdome?
+
 +REGAN
-To whose hands[You haue sent the Lunaticke King: Speake.
+To whose hands/ You haue sent the Lunaticke King: Speake.
+
 +GLOUCESTER
 I haue a Letter guessingly set downe
 Which came from one that's of a newtrall heart,
 And not from one oppos'd.
+
 +CORNWALL
 Cunning.
+
 +REGAN
 And false.
+
 +CORNWALL
 Where hast thou sent the King?
+
 +GLOUCESTER
 To Douer.
+
 +REGAN
 Wherefore to Douer? Was't thou not charg'd at perill.
+
 +CORNWALL
 Wherefore to Douer? Let him answer that.
+
 +GLOUCESTER
-I am tyed to'th'Stake, [And I must stand the Course.
+I am tyed to'th'Stake, / And I must stand the Course.
+
 +REGAN
 Wherefore to Douer?
+
 +GLOUCESTER
 Because I would not see thy cruell Nailes
 Plucke out his poore old eyes: nor thy fierce Sister,
@@ -3133,68 +3553,91 @@ If Wolues had at thy Gate howl'd that sterne time,
 Thou should'st haue said, good Porter turne the Key:
 All Cruels else subscribe: but I shall see
 The winged Vengeance ouertake such Children.
+
 +CORNWALL
 See't shalt thou neuer. Fellowes hold ye Chaire,
 Vpon these eyes of thine, Ile set my foote.
+
 +GLOUCESTER
 He that will thinke to liue, till he be old,
 Giue me some helpe.----O cruell! O you Gods.
+
 +REGAN
 One side will mocke another: Th'other too.
+
 +CORNWALL
 If you see vengeance.
-+SERU
+
++SERUANT
 Hold your hand, my Lord:
 I haue seru'd you euer since I was a Childe:
 But better seruice haue I neuer done you,
 Then now to bid you hold.
+
 +REGAN
 How now, you dogge?
-+SERU
+
++SERUANT
 If you did weare a beard vpon your chin,
 I'ld shake it on this quarrell.
 What do you meane?
+
 +CORNWALL
 My Villaine?
-+SERU
+
++SERUANT
 Nay then come on, and take the chance of anger.
+
 +REGAN
 Giue me thy Sword. A pezant stand vp thus?
+
 SD: +REGAN Killes him.
-+SERU
+
++SERUANT
 Oh I am slaine: my Lord, you haue one eye left
 To see some mischefe on him. Oh.
+
 +CORNWALL
 Lest it see more, preuent it; Out vilde gelly:
 Where is thy luster now?
+
 +GLOUCESTER
-All datke and comfortlesse? [Where's my Sonne Edmund?
+All datke and comfortlesse? / Where's my Sonne Edmund?
 Edmund, enkindle all the sparkes of Nature
 To quit this horrid acte.
+
 +REGAN
 Out treacherous Villaine,
 Thou call'st on him, that hates thee. It was he
 That made the ouerture of thy Treasons to vs:
 Who is too good to pitty thee.
+
 +GLOUCESTER
 O my Follies! then Edgar was abus'd,
 Kinde Gods, forgiue me that, and prosper him.
+
 +REGAN
 Go thrust him out at gates, and let him smell
 His way to Douer.
-SD: +REGAN exits with +GLOUCESTER.
+
+SD: A seruent exits with +GLOUCESTER.
+
 +REGAN
 How is't my Lord? How looke you?
+
 +CORNWALL
 I haue receiu'd a hurt: Follow me Lady;
 Turne out that eyelesse Villaine: throw this Slaue
 Vpon the Dunghill: Regan, I bleed apace,
 Vntimely comes this hurt. Giue me your arme.
-SD: Exeunt +CORNWALL, +REGAN, +GONERILL, +BASTARD
+
+SD: Exeunt +CORNWALL, +REGAN.
+
 
 NS: Act 4 Scene 1
 
 SD: Enter +EDGAR.
+
 +EDGAR
 Yet better thus, and knowne to be contemn'd,
 Then still contemn'd and flatter'd, to be worst:
@@ -3205,22 +3648,28 @@ The worst returnes to laughter. Welcome then,
 Thou vnsubstantiall ayre that I embrace:
 The Wretch that thou hast blowne vnto the worst,
 Owes nothing to thy blasts.
-SD: Enter +GLOUCESTER, and an +OLDMAN.
+
+SD: Enter +GLOUCESTER, and an +OLD MAN.
+
 +EDGAR
 But who comes heere?
-My Father poorely led? [World, World, O world!
+My Father poorely led? / World, World, O world!
 But that thy strange mutations make vs hate thee,
 Life would not yeelde to age.
-+OLDM
+
++OLD MAN
 O my good Lord,
-I haue bene your Tenant, [And your Fathers Tenant,
+I haue bene your Tenant, / And your Fathers Tenant,	
 these fourescore yeares.
+
 +GLOUCESTER
 Away, get thee away: good Friend be gone,
 Thy comforts can do me no good at all,
 Thee, they may hurt.
-+OLDM
+
++OLD MAN
 You cannot see your way.
+
 +GLOUCESTER
 I haue no way, and therefore want no eyes:
 I stumbled when I saw. Full oft 'tis seene,
@@ -3229,68 +3678,91 @@ Proue our Commodities. Oh deere Sonne Edgar,
 The food of thy abused Fathers wrath:
 Might I but liue to see thee in my touch,
 I'ld say I had eyes againe.
-+OLDM
+
++OLD MAN
 How now? who's there?
+
 +EDGAR
 O Gods! Who is't can say I am at the worst?
 I am worse then ere I was.
-+OLD
+
++OLD MAN
 'Tis poore mad Tom.
+
 +EDGAR
 And worse I may be yet: the worst is not,
 So long as we can say this is the worst.
-+OLDM
+
++OLD MAN
 Fellow, where goest?
+
 +GLOUCESTER
 Is it a Beggar-man?
-+OLDM
+
++OLD MAN
 Madman, and beggar too.
+
 +GLOUCESTER
 He has some reason, else he could not beg.
 I'th'last nights storme, I such a fellow saw;
 Which made me thinke a Man, a Worme. My Sonne
 Came then into my minde, and yet my minde
-Was then scarse Friends with him. [I haue heard more since:
+Was then scarse Friends with him. / I haue heard more since:
 As Flies to wanton Boyes, are we to th'Gods,
 They kill vs for their sport.
+
 +EDGAR
 How should this be?
 Bad is the Trade that must play Foole to sorrow,
 Ang'ring it selfe, and others. Blesse thee Master.
+
 +GLOUCESTER
 Is that the naked Fellow?
-+OLDM
+
++OLD MAN
 I, my Lord.
+
 +GLOUCESTER
 Get thee away: If for my sake
 Thou wilt ore-take vs hence a mile or twaine
 I'th'way toward Douer, do it for ancient loue,
 And bring some couering for this naked Soule,
 Which Ile intreate to leade me.
-+OLD
+
++OLD MAN
 Alacke sir, he is mad.
+
 +GLOUCESTER
-'Tis the times plague, [When Madmen leade the blinde:
+'Tis the times plague, / When Madmen leade the blinde:
 Do as I bid thee, or rather do thy pleasure:
 Aboue the rest, be gone.
-+OLDM
+
++OLD MAN
 Ile bring him the best Parrell that I haue
 Come on't, what will.
-OLDMAN exits
+
+SD: OLD MAN exits
+
 +GLOUCESTER
 Sirrah, naked fellow.
+
 +EDGAR
 Poore Tom's a cold. I cannot daub it further.
+
 +GLOUCESTER
 Come hither fellow.
+
 +EDGAR
 And yet I must: Blesse thy sweete eyes, they bleede.
+
 +GLOUCESTER
 Know'st thou the way to Douer?
+
 +EDGAR
 Both style, and gate; Horseway, and foot-path: poore
 Tom hath bin scarr'd out of his good wits. Blesse thee
 good mans sonne, from the foule Fiend.
+
 +GLOUCESTER
 Here take this purse, yu whom the heau'ns plagues
 Haue humbled to all strokes: that I am wretched
@@ -3300,8 +3772,10 @@ That slaues your ordinance, that will not see
 Because he do's not feele, feele your powre quickly:
 So distribution should vndoo excesse,
 And each man haue enough. Dost thou know Douer?
+
 +EDGAR
 I Master.
+
 +GLOUCESTER
 There is a Cliffe, whose high and bending head
 Lookes fearfully in the confined Deepe:
@@ -3309,18 +3783,23 @@ Bring me but to the very brimme of it,
 And Ile repayre the misery thou do'st beare
 With something rich about me: from that place,
 I shall no leading neede.
+
 +EDGAR
 Giue me thy arme;
 Poore Tom shall leade thee.
+
 SD: Exeunt +EDGAR, +GLOUCESTER
+
 
 NS: Act 4 Scene 2
 
 SD: Enter +GONERILL, +BASTARD, and +STEWARD.
+
 +GONERILL
 Welcome my Lord. I meruell our mild husband
 Not met vs on the way.
 Now, where's your Master?
+
 +STEWARD
 Madam within, but neuer man so chang'd:
 I told him of the Army that was Landed:
@@ -3331,6 +3810,7 @@ When I inform'd him, then he call'd me Sot,
 And told me I had turn'd the wrong side out:
 What most he should dislike, seemes pleasant to him;
 What like, offensiue.
+
 +GONERILL
 Then shall you go no further.
 It is the Cowish terror of his spirit
@@ -3341,95 +3821,122 @@ Hasten his Musters, and conduct his powres.
 I must change names at home, and giue the Distaffe
 Into my Husbands hands. This trustie Seruant
 Shall passe betweene vs: ere long you are like to heare
-[If you dare venture in your owne behalfe]
+(If you dare venture in your owne behalfe)
 A Mistresses command. Weare this; spare speech,
 Decline your head. This kisse, if it durst speake
 Would stretch thy Spirits vp into the ayre:
 Conceiue, and fare thee well.
+
 +BASTARD
 Yours in the rankes of death.
+
 +GONERILL
 My most deere Gloster.
-BASTARD exits
+
++BASTARD exits.
+
 +GONERILL
 Oh, the difference of man, and man,
 To thee a Womans seruices are due,
 My Foole vsurpes my body.
+
 +STEWARD
 Madam, here come's my Lord.
+
 SD: Enter +ALBANY.
+
 +GONERILL
 I haue beene worth the whistle.
+
 +ALBANY
 Oh Gonerill,
 You are not worth the dust which the rude winde
 Blowes in your face.
+
 +GONERILL
 Milke-Liuer'd man,
 That bear'st a cheeke for blowes, a head for wrongs,
 Who hast not in thy browes an eye-discerning
 Thine Honor, from thy suffering.
+
 +ALBANY
 See thy selfe diuell:
 Proper deformitie seemes not in the Fiend
 So horrid as in woman.
+
 +GONERILL
 Oh vaine Foole.
-SD: Enter a +MESSENGER.
-+MES
+
+SD: Enter a +FIRST MESSENGER.
+
++FIRST MESSENGER
 Oh my good Lord,the Duke of Cornwals dead,
 Slaine by his Seruant, going to put out
 The other eye of Glouster.
+
 +ALBANY
 Glousters eyes.
-+MES
+
++FIRST MESSENGER
 A Seruant that he bred, thrill'd with remorse,
 Oppos'd against the act: bending his Sword
 To his great Master, who, threat-enrag'd
 Flew on him, and among'st them fell'd him dead,
 But not without that harmefull stroke, which since
 Hath pluckt him after.
+
 +ALBANY
 This shewes you are aboue
 You Iustices, that these our neather crimes
-So speedily can venge. But [O poore Glouster]
+So speedily can venge. But (O poore Glouster)	
 Lost he his other eye?
-+MES
+
++FIRST MESSENGER
 Both, both, my Lord.
 This Leter Madam, craues a speedy answer:
 'Tis from your Sister.
+
 +GONERILL
 One way I like this well,
 But being widdow, and my Glouster with her,
 May all the building in my fancie plucke
 Vpon my hatefull life. Another way
 The Newes is not so tart. Ile read, and answer.
+
 +ALBANY
-Where was his Sonne, [When they did take his eyes?
-+MES
+Where was his Sonne, / When they did take his eyes?
+
++FIRST MESSENGER
 Come with my Lady hither.
+
 +ALBANY
 He is not heere.
-+MES
+
++FIRST MESSENGER
 No my good Lord, I met him backe againe.
+
 +ALBANY
 Knowes he the wickednesse?
-+MES
+
++FIRST MESSENGER
 I my good Lord: 'twas he inform'd against him
 And quit the house on purpose, that their punishment
 Might haue the freer course.
+
 +ALBANY
 Glouster, I liue
 To thanke thee for the loue thou shew'dst the King,
 And to reuenge thine eyes. Come hither Friend,
 Tell me what more thou know'st.
-SD: Exeunt +ALBANY, +GONERILL, +STEWARD, +MESSENGER
+
+SD: Exeunt +ALBANY, +FIRST MESSENGER
+
 
 NS: Act 4 Scene 3
 
 NS: Act 4 Scene 4
 
-SD: Enter with Drum and Colours, +CORDELIA, Gentlemen, and Souldiours.
+SD: Enter with Drum and Colours, +CORDELIA, Gentlemen {+GENTLEMAN}, and Souldiours.
 +CORDELIA
 Alacke, 'tis he: why he was met euen now
 As mad as the vext Sea, singing alowd,
@@ -3441,13 +3948,15 @@ Search euery Acre in the high-growne field,
 And bring him to our eye.
 What can mans wisedome
 In the restoring his bereaued Sense;
-he that helpes him, [Take all my outward worth.
-+GENT
+he that helpes him, / Take all my outward worth.
+
++GENTLEMAN
 There is meanes Madam:
 Our foster Nurse of Nature, is repose,
 The which he lackes: that to prouoke in him
 Are many Simples operatiue, whose power
 Will close the eye of Anguish.
+
 +CORDELIA
 All blest Secrets,
 All you vnpublish'd Vertues of the earth
@@ -3455,10 +3964,13 @@ Spring with my teares; be aydant, and remediate
 In the Goodmans desires: seeke, seeke for him,
 Least his vngouern'd rage, dissolue the life
 That wants the meanes to leade it.
+
 SD: Enter +MESSENGER.
-+MES
+
++MESSENGER
 Newes Madam,
 The Brittish Powres are marching hitherward.
+
 +CORDELIA
 'Tis knowne before. Our preparation stands
 In expectation of them. O deere Father,
@@ -3468,28 +3980,39 @@ My mourning, and important teares hath pittied:
 No blowne Ambition doth our Armes incite,
 But loue, deere loue, and our ag'd Fathers Rite:
 Soone may I heare, and see him.
-SD: Exeunt +CORDELIA, +GENT, +MES
+
+SD: Exeunt +CORDELIA, +GENTLEMAN, +MESSENGER
+
 
 NS: Act 4 Scene 5
 
 SD: Enter +REGAN, and +STEWARD.
+
 +REGAN
 But are my Brothers Powres set forth?
+
 +STEWARD
 I Madam,
+
 +REGAN
 Himselfe in person there?
+
 +STEWARD
 Madam with much ado:
 Your Sister is the better Souldier.
+
 +REGAN
 Lord Edmund spake not with your Lord at home?
+
 +STEWARD
 No Madam.
+
 +REGAN
 What night import my Sisters Letter to him?
+
 +STEWARD
 I know not, Lady.
+
 +REGAN
 Faith he is poasted hence on serious matter:
 It was great ignorance, Glousters eyes being out
@@ -3498,28 +4021,36 @@ All hearts against vs: Edmund, I thinke is gone
 In pitty of his misery, to dispatch
 His nighted life: Moreouer to descry
 The strength o'th'Enemy.
+
 +STEWARD
 I must needs after him, Madam,with my Letter.
+
 +REGAN
 Our troopes set forth to morrow, stay with vs:
 The wayes are dangerous.
+
 +STEWARD
 I may not Madam:
 My Lady charg'd my dutie in this busines.
+
 +REGAN
 Why should she write to Edmund?
 Might not you transport her purposes by word? Belike,
 Some things, I know not what. Ile loue thee much
 Let me vnseale the Letter.
+
 +STEWARD
 Madam, I had rather----
+
 +REGAN
 I know your Lady do's not loue her Husband,
 I am sure of that: and at her late being heere,
 She gaue strange Eliads, and most speaking lookes
 To Noble Edmund. I know you are of her bosome.
+
 +STEWARD
 I, Madam?
+
 +REGAN
 I speake in vnderstanding: Y'are: I know't,
 Therefore I do aduise you take this note:
@@ -3532,42 +4063,53 @@ I pray desire her call her wisedome to her.
 So fare you well:
 If you do chance to heare of that blinde Traitor,
 Preferment fals on him, that cuts him off.
+
 +STEWARD
 Would I could meet Madam, I should shew
 What party I do follow.
+
 +REGAN
 Fare thee well.
+
 SD: Exeunt +REGAN, +STEWARD
-
-
 
 
 NS: Act 4 Scene 6
 
 SD: Enter +GLOUCESTER, and +EDGAR.
+
 +GLOUCESTER
 When shall I come to th'top of that same hill?
+
 +EDGAR
 You do climbe vp it now. Look how we labor.
+
 +GLOUCESTER
 Me thinkes the ground is eeuen.
+
 +EDGAR
 Horrible steepe.
 Hearke, do you heare the Sea?
+
 +GLOUCESTER
 No truly.
+
 +EDGAR
 Why then your other Senses grow imperfect
 By your eyes anguish.
+
 +GLOUCESTER
 So may it be indeed.
 Me thinkes thy voyce is alter'd, and thou speak'st
 In better phrase, and matter then thou did'st.
+
 +EDGAR
 Y'are much deceiu'd: In nothing am I chang'd
 But in my Garments.
+
 +GLOUCESTER
 Me thinkes y'are better spoken.
+
 +EDGAR
 Come on Sir, / Heere's the place: stand still: how fearefull
 And dizie 'tis, to cast ones eyes so low,
@@ -3583,25 +4125,32 @@ That on th'vnnumbred idle Pebble chafes
 Cannot be heard so high. Ile looke no more,
 Least my braine turne, and the deficient sight
 Topple downe headlong.
+
 +GLOUCESTER
 Set me where you stand.
+
 +EDGAR
 Giue me your hand:
 You are now within a foote of th'extreme Verge:
 For all beneath the Moone would I not leape vpright.
+
 +GLOUCESTER
 Let go my hand:
 Heere Friend's another purse: in it, a Iewell
 Well worth a poore mans taking. Fayries, and Gods
 Prosper it with thee. Go thou further off,
 Bid me farewell, and let me heare thee going.
+
 +EDGAR
 Now fare ye well, good Sir.
+
 +GLOUCESTER
 With all my heart.
+
 +EDGAR
 Why I do trifle thus with his dispaire,
 Is done to cure it.
+
 +GLOUCESTER
 O you mighty Gods!
 This world I do renounce,and in your sights
@@ -3609,8 +4158,9 @@ Shake patiently my great affliction off:
 If I could beare it longer, and not fall
 To quarrell with your great opposelesse willes,
 My snuffe, and loathed part of Nature should
-Burne it selfe out. If +Edgar liue, O blesse him:
+Burne it selfe out. If Edgar liue, O blesse him:
 Now Fellow, fare thee well.
+
 +EDGAR
 Gone Sir, farewell:
 And yet I know not how conceit may rob
@@ -3620,39 +4170,49 @@ By this had thought bin past. Aliue, or dead?
 Hoa, you Sir: Friend, heare you Sir, speake:
 Thus might he passe indeed: yet he reuiues.
 What are you Sir?
+
 +GLOUCESTER
 Away, and let me dye.
+
 +EDGAR
 Had'st thou beene ought / But Gozemore, Feathers, Ayre,
-[So many fathome downe precipitating]
+(So many fathome downe precipitating)	
 Thou'dst shiuer'd like an Egge: but thou do'st breath:
 Hast heauy substance, bleed'st not, speak'st, art sound,
 Ten Masts at each, make not the altitude
 Which thou hast perpendicularly fell,
 Thy life's a Myracle. Speake yet againe.
+
 +GLOUCESTER
 But haue I falne, or no?
+
 +EDGAR
 From the dread Somnet of this Chalkie Bourne
 Looke vp a height, the shrill-gorg'd Larke so farre
 Cannot be seene, or heard: Do but looke vp.
+
 +GLOUCESTER
 Alacke, I haue no eyes:
 Is wretchednesse depriu'd that benefit
 To end it selfe by death? 'Twas yet some comfort,
 When misery could beguile the Tyranrs rage,
 And frustrate his proud will.
+
 +EDGAR
 Giue me your arme.
 Vp, so: How is't? Feele you your Legges? You stand.
+
 +GLOUCESTER
 Too well, too well.
+
 +EDGAR
 This is aboue all strangenesse,
 Vpon the crowne o'th'Cliffe. What thing was that
 Which parted from you?
+
 +GLOUCESTER
 A poore vnfortunate Beggar.
+
 +EDGAR
 As I stood heere below, me thought his eyes
 Were two full Moones: he had a thousand Noses,
@@ -3660,24 +4220,31 @@ Hornes wealk'd, and waued like the enraged Sea:
 It was some Fiend: Therefore thou happy Father,
 Thinke that the cleerest Gods, who make them Honors
 Of mens Impossibilities, haue preserued thee.
+
 +GLOUCESTER
 I do remember now: henceforth Ile beare
 Affliction, till it do cry out it selfe
 Enough, enough, and dye. That thing you speake of,
 I tooke it for a man: often 'twould say
 The Fiend, the Fiend, he led me to that place.
+
 +EDGAR
 Beare free and patient thoughts.
+
 SD: Enter +LEAR.
+
 +EDGAR
 But who comes heere?
 The safer sense will ne're accommodate
 His Master thus.
+
 +LEAR
 No, they cannot touch me for crying. I am the
 King himselfe.
+
 +EDGAR
 O thou side-piercing sight!
+
 +LEAR
 Nature's aboue Art, in that respect. Ther's your
 Presse-money. That fellow handles his bow, like a
@@ -3686,14 +4253,18 @@ Mouse: peace, peace, this peece of toasted Cheese will
 doo't. There's my Gauntlet, Ile proue it on a Gyant.
 Bring vp the browne Billes. O well flowne Bird: i'th'
 clout, i'th'clout: Hewgh. Giue the word.
+
 +EDGAR
 Sweet Mariorum.
+
 +LEAR
 Passe.
+
 +GLOUCESTER
 I know that voice.
+
 +LEAR
-Ha! +Gonerill with a white beard? They flatter'd me
+Ha! Gonerill with a white beard? They flatter'd me
 like a Dogge, and told mee I had the white hayres in my Beard,
 ere the blacke ones were there. To say I, and no, to
 euery thing that I said: I, and no too, was no good
@@ -3703,9 +4274,11 @@ peace at my bidding, there I found 'em, there I smelt
 'em out. Go too, they are not men o'their words; they
 told me, I was euery thing: 'Tis a Lye, I am not
 Agu-proofe.
+
 +GLOUCESTER
 The tricke of that voyce, I do well remember:
 Is't not the King?
+
 +LEAR
 I, euery inch a King.
 When I do stare, see how the Subiect quakes.
@@ -3714,7 +4287,7 @@ Adultery?
 thou shalt not dye: dye for Adultery? No,
 the Wren goes too't, and the small gilded Fly
 Do's letcher in my sight.
-Let Copulation thriue: / For +Glouster's bastard Son
+Let Copulation thriue: / For Glousters bastard Son	
 was kinder to his Father, / Then my Daughters
 got 'tweene the lawfull sheets.
 Too't Luxury pell-mell, for I lacke Souldiers.
@@ -3733,34 +4306,45 @@ pit; burning, scalding, stench, consumption: Fye, fie,
 fie; pah, pah: Giue me an Ounce of Ciuet; good Apothecary
 sweeten my immagination: There's money for
 thee.
+
 +GLOUCESTER
 O let me kisse that hand.
+
 +LEAR
 Let me wipe it first, / It smelles of Mortality.
+
 +GLOUCESTER
 O ruin'd peece of Nature, this great world
 Shall so weare out to naught. / Do'st thou know me?
+
 +LEAR
 I remember thine eyes well enough: dost thou
 squiny at me? No, doe thy worst blinde Cupid, Ile not
 loue. Reade thou this challenge, marke but the penning
 of it.
+
 +GLOUCESTER
 Were all thy Letters Sunnes, I could not see.
+
 +EDGAR
 I would not take this from report, / It is,
 and my heart breakes at it.
+
 +LEAR
 Read.
+
 +GLOUCESTER
 What with the Case of eyes?
+
 +LEAR
 Oh ho, are you there with me? No eies in your head,
 nor no mony in your purse? Your eyes are in a heauy
 case, your purse in a light, yet you see how this world
 goes.
+
 +GLOUCESTER
 I see it feelingly.
+
 +LEAR
 What, art mad? A man may see how this world goes,
 with no eyes. Looke with thine eares: See how yond Iustice
@@ -3768,8 +4352,10 @@ railes vpon yond simple theefe. Hearke in thine eare: Change
 places, and handy-dandy, which is the Iustice, which is
 the theefe: Thou hast seene a Farmers dogge barke at a
 Beggar?
+
 +GLOUCESTER
 I Sir.
+
 +LEAR
 And the Creature run from the Cur: there thou
 might'st behold the great image of Authoritie, a Dogg's
@@ -3788,17 +4374,21 @@ to seale th'accusers lips. Get thee glasse-eyes,
 and like a scuruy Politician, seeme
 to see the things thou dost not. Now, now, now, now.
 Pull off my Bootes: harder, harder, so.
+
 +EDGAR
 O matter, and impertinency mixt,
 Reason in Madnesse.
+
 +LEAR
 If thou wilt weepe my Fortunes, take my eyes.
-I know thee well enough, thy name is +Glouster:
+I know thee well enough, thy name is Glouster:
 Thou must be patient; we came crying hither:
 Thou know'st, the first time that we smell the Ayre
 We wawle, and cry. I will preach to thee: Marke.
+
 +GLOUCESTER
 Alacke, alacke the day.
+
 +LEAR
 When we are borne, we cry that we are come
 To this great stage of Fooles. This a good blocke:
@@ -3806,17 +4396,22 @@ It were a delicate stratagem to shoo
 A Troope of Horse with Felt: Ile put't in proofe,
 And when I haue stolne vpon these Son in Lawes,
 Then kill, kill, kill, kill, kill, kill.
+
 SD: Enter a +GENTLEMAN.
+
 +GENTLEMAN
 Oh heere he is: lay hand vpon him, Sir.
 Your most deere Daughter----
+
 +LEAR
 No rescue? What, a Prisoner? I am euen
 The Naturall Foole of Fortune. Vse me well,
 You shall haue ransome. Let me haue Surgeons,
 I am cut to'th'Braines.
+
 +GENTLEMAN
 You shall haue any thing.
+
 +LEAR
 No Seconds? All my selfe?
 Why, this would make a man, a man of Salt
@@ -3824,76 +4419,102 @@ To vse his eyes for Garden water-pots.
 I wil die brauely,
 Like a smugge Bridegroome. What? I will be Iouiall:
 Come, come, I am a King, Masters, know you that?
+
 +GENTLEMAN
 You are a Royall one, and we obey you.
+
 +LEAR
 Then there's life in't. Come, and you get it, / You shall
 get it by running: Sa, sa, sa, sa.
-LEAR exits
+
++LEAR exits.
+
 +GENTLEMAN
 A sight most pittifull in the meanest wretch,
 Past speaking ofin a King. Thou hast a Daughter
 Who redeemes Nature from the generall curse
 Which twaine haue brought her to.
+
 +EDGAR
 Haile gentle Sir.
+
 +GENTLEMAN
 Sir, speed you: what's your will?
+
 +EDGAR
-Do you heare ought [Sir] of a Battell toward.
+Do you heare ought (Sir) of a Battell toward.
+
 +GENTLEMAN
 Most sure, and vulgar: / Euery one heares that,
 which can distinguish sound.
+
 +EDGAR
 But by your fauour:
 How neere's the other Army?
+
 +GENTLEMAN
 Neere, and on speedy foot: the maine descry
 Stands on the hourely thought.
+
 +EDGAR
 I thanke you Sir, that's all.
+
 +GENTLEMAN
 Though that the Queen on special cause is here
 Her Army is mou'd on.
+
 +EDGAR
 I thanke you Sir.
-GENTLEMAN exits
+
++GENTLEMAN exits.
+
 +GLOUCESTER
 You euer gentle Gods, take my breath from me,
 Let not my worser Spirit tempt me againe
 To dye before you please.
+
 +EDGAR
 Well pray you Father.
+
 +GLOUCESTER
 Now good sir, what are you?
+
 +EDGAR
 A most poore man, made tame to Fortunes blows
 Who, by the Art of knowne, and feeling sorrowes,
 Am pregnant to good pitty. Giue me your hand,
 Ile leade you to some biding.
+
 +GLOUCESTER
 Heartie thankes:
 The bountie, and the benizon of Heauen
 To boot, and boot.
+
 SD: Enter +STEWARD.
+
 +STEWARD
 A proclaim'd prize: most happie
 That eyelesse head of thine, was first fram'd flesh
 To raise my fortunes. Thou old, vnhappy Traitor,
 Breefely thy selfe remember: the Sword is out
 That must destroy thee.
+
 +GLOUCESTER
 Now let thy friendly hand
 Put strength enough too't.
+
 +STEWARD
 Wherefore, bold Pezant,
 Dar'st thou support a publish'd Traitor? Hence,
 Least that th'infection of his fortune take
 Like hold on thee. Let go his arme.
+
 +EDGAR
 Chill not let go Zir, / Without vurther 'casion.
+
 +STEWARD
 Let go Slaue, or thou dy'st.
+
 +EDGAR
 Good Gentleman goe your gate, and let poore volke
 passe: and 'chud ha'bin zwaggerd out of my life,
@@ -3901,24 +4522,30 @@ passe: and 'chud ha'bin zwaggerd out of my life,
 come not neere th'old man: keepe out che vor'ye, or ice
 try whither your Costard, or my Ballow be the harder;
 chill be plaine with you.
+
 +STEWARD
 Out Dunghill.
+
 +EDGAR
 Chill picke your teeth Zir: come, no matter vor
 your foynes.
+
 +STEWARD
 Slaue thou hast slaine me: Villain, take my purse;
 If euer thou wilt thriue, bury my bodie,
 And giue the Letters which thou find'st about me,
-To +Edmund Earle of +Glouster: seeke him out
+To Edmund Earle of Glouster: seeke him out	
 Vpon the English party. Oh vntimely
 death, death.
+
 +EDGAR
 I know thee well. A seruiceable Villaine,
 As duteous to the vices of thy Mistris,
 As badnesse would desire.
+
 +GLOUCESTER
 What, is he dead?
+
 +EDGAR
 Sit you downe Father: rest you.
 Let's see these Pockets; the Letters that he speakes of
@@ -3927,16 +4554,18 @@ He had no other Deathsman. Let vs see:
 Leaue gentle waxe, and manners: blame vs not
 To know our enemies mindes, we rip their hearts,
 Their Papers is more lawfull.
+
 SD: Reads the Letter.
+
 +EDGAR
-LEt our reciprocall vowes be remembred. You haue manie
+*LEt our reciprocall vowes be remembred. You haue manie
 opportunities to cut him off: if your will want not, time and
 place will be fruitfully offer'd. There is nothing done. If hee
 returne the Conqueror, then am I the Prisoner, and his bed,
 my Gaole, from the loathed warmth whereof, deliuer me, and
 supply the place for your Labour.
-Your [Wife, so I would say] affectionate Seruant.
-+Gonerill.
+Your (Wife, so I would say) affectionate Seruant.
+Gonerill.*
 Oh indinguish'd space of Womans will,
 A plot vpon her vertuous Husbands life,
 And the exchange my Brother: heere, in the sands
@@ -3945,6 +4574,7 @@ Of murtherous Letchers: and in the mature time,
 With this vngracious paper strike the sight
 Of the death-practis'd Duke: for him 'tis well,
 That of thy death, and businesse, I can tell.
+
 +GLOUCESTER
 The King is mad: / How stiffe is my vilde sense
 That I stand vp, and haue ingenious feeling
@@ -3952,91 +4582,118 @@ Of my huge Sorrowes? Better I were distract,
 So should my thoughts be seuer'd from my greefes,
 And woes, by wrong imaginations loose
 The knowledge of themselues.
+
 SD: Drum afarre off.
+
 +EDGAR
 Giue me your hand:
 Farre off methinkes I heare the beaten Drumme.
 Come Father, Ile bestow you with a Friend.
+
 SD: +EDGAR, +GLOUCESTER exuent
+
 
 NS: Act 4 Scene 7
 
 SD: Enter +CORDELIA, +KENT, and +GENTLEMAN.
+
 +CORDELIA
 O thou good Kent, / How shall I liue and worke
 To match thy goodnesse? / My life will be too short,
 And euery measure faile me.
+
 +KENT
 To be acknowledg'd Madam is ore-pai'd,
 All my reports go with the modest truth,
 Nor more, nor clipt, but so.
+
 +CORDELIA
 Be better suited,
 These weedes are memories of those worser houres:
 I prythee put them off.
+
 +KENT
 Pardon deere Madam,
 Yet to be knowne shortens my made intent,
 My boone I make it, that you know me not,
 Till time and I, thinke meet.
+
 +CORDELIA
 Then be't so my good Lord:
 How do's the King?
+
 +GENTLEMAN
 Madam sleepes still.
+
 +CORDELIA
 O you kind Gods!
 Cure this great breach in his abused Nature,
 Th'vntun'd and iarring senses, O winde vp,
 Of this childe-changed Father.
+
 +GENTLEMAN
 So please your Maiesty,
 That we may wake the King, he hath slept long?
+
 +CORDELIA
 Be gouern'd by your knowledge, and proceede
 I'th'sway of your owne will: is he array'd?
+
 +GENTLEMAN
 I Madam: in the heauinesse of sleepe,
 We put fresh garments on him.
+
 SD: Enter +LEAR in a chaire carried by Seruants
+
 +GENTLEMAN
 Be by good Madam when we do awake him,
 I doubt of his Temperance.
+
 +CORDELIA
 O my deere Father, restauratian hang
 Thy medicine on my lippes, and let this kisse
 Repaire those violent harmes, that my two Sisters
 Haue in thy Reuerence made.
+
 +KENT
 Kind and deere Princesse.
+
 +CORDELIA
 Had you not bin their Father, these white flakes
 Did challenge pitty of them. Was this a face
 To be oppos'd against the iarring windes?
 Mine Enemies dogge,
 though he had bit me, / Should haue stood that night
-against my fire, / And was't thou faine [poore Father]
+against my fire, / And was't thou faine (poore Father)	
 To houell thee with Swine and Rogues forlorne,
 In short, and musty straw? Alacke, alacke,
 'Tis wonder that thy life and wits, at once
 Had not concluded all. He wakes, speake to him.
+
 +GENTLEMAN
 Madam do you, 'tis fittest.
+
 +CORDELIA
 How does my Royall Lord? / How fares your Maiesty?
+
 +LEAR
 You do me wrong to take me out o'th'graue,
 Thou art a Soule in blisse, but I am bound
 Vpon a wheele of fire, that mine owne teares
 Do scal'd, like molten Lead.
+
 +CORDELIA
 Sir, do you know me?
+
 +LEAR
 You are a spirit I know, where did you dye?
+
 +CORDELIA
 Still, still, farre wide.
+
 +GENTLEMAN
 He's scarse awake, / Let him alone a while.
+
 +LEAR
 Where haue I bin? / Where am I? Faire day light?
 I am mightily abus'd; I should eu'n dye with pitty
@@ -4044,10 +4701,12 @@ To see another thus. I know not what to say:
 I will not sweare these are my hands: let's see,
 I feele this pin pricke, would I were assur'd
 Of my condition.
+
 +CORDELIA
 O looke vpon me Sir,
 And hold your hand in benediction o're me,
 You must not kneele.
+
 +LEAR
 Pray do not mocke me:
 I am a very foolish fond old man,
@@ -4059,97 +4718,129 @@ Yet I am doubtfull: For I am mainely ignorant
 What place this is: and all the skill I haue
 Remembers not these garments: nor I know not
 Where I did lodge last night. Do not laugh at me,
-For [as I am a man] I thinke this Lady
-To be my childe +Cordelia.
+For (as I am a man) I thinke this Lady
+To be my childe Cordelia.
+
 +CORDELIA
 And so I am: I am.
+
 +LEAR
 Be your teares wet? / Yes faith: I pray weepe not,
 If you haue poyson for me, I will drinke it:
 I know you do not loue me, for your Sisters
-Haue [as I do remember] done me wrong.
+Haue (as I do remember) done me wrong.	
 You haue some cause, they haue not.
+
 +CORDELIA
 No cause, no cause.
+
 +LEAR
 Am I in France?
+
 +KENT
 In your owne kingdome Sir.
+
 +LEAR
 Do not abuse me.
+
 +GENTLEMAN
 Be comforted good Madam, the great rage
 You see is kill'd in him:
 desire him to go in, / Trouble him no more
 till further setling.
+
 +CORDELIA
 Wilt please your Highnesse walke?
+
 +LEAR
 You must beare with me: / Pray you now forget,
 and forgiue, / I am old and foolish.
+
 SD: +CORDELIA, +KENT, +GENTLEMAN, +LEAR exuent
+
 
 NS: Act 5 Scene 1
 
-SD: Enter with Drumme and Colours, +EDMUND, +REGAN, Gentlemen, and Souldiers.
-+EDMUND
+SD: Enter with Drumme and Colours, +BASTARD, +REGAN, Gentlemen, and Souldiers.
+
++BASTARD
 Know of the Duke if his last purpose hold,
 Or whether since he is aduis'd by ought
 To change the course, he's full of alteration,
 And selfe reprouing, bring his constant pleasure.
+
 +REGAN
 Our Sisters man is certainely miscarried.
-+EDMUND
+
++BASTARD
 'Tis to be doubted Madam.
+
 +REGAN
 Now sweet Lord,
 You know the goodnesse I intend vpon you:
 Tell me but truly, but then speake the truth,
 Do you not loue my Sister?
-+EDMUND
+
++BASTARD
 In honour'd Loue.
+
 +REGAN
 But haue you neuer found my Brothers way,
 To the fore-fended place?
-+EDMUND
+
++BASTARD
 No by mine honour, Madam.
+
 +REGAN
 I neuer shall endure her, deere my Lord
 Be not familiar with her.
-+EDMUND
+
++BASTARD
 Feare not,
 she and the Duke her husband.
+
 SD: Enter with Drum and Colours, +ALBANY, +GONERILL, Soldiers.
+
 +ALBANY
 Our very louing Sister, well be-met:
 Sir, this I heard, the King is come to his Daughter
 With others, whom the rigour of our State
 Forc'd to cry out.
+
 +REGAN
 Why is this reasond?
-+GONERILL, +REGAN
+
++GONERILL
 Combine together 'gainst the Enemie:
 For these domesticke and particurlar broiles,
 Are not the question heere.
+
 +ALBANY
 Let's then determine
 with th'ancient of warre / On our proceeding.
+
 +REGAN
 Sister you'le go with vs?
+
 +GONERILL
 No.
+
 +REGAN
 'Tis most conuenient, pray go with vs.
+
 +GONERILL
 Oh ho, I know the Riddle, I will goe.
-SD: +ALBANY, +GONERILL, +EDMUND, +REGAN exuent both the Armies
-SD: Enter +EDGAR.
+
+SD: Exuent both the Armies {+GONERILL, +BASTARD, +REGAN}. Enter +EDGAR.
+
 +EDGAR
 If ere your Grace had speech with man so poore,
 Heare me one word.
+
 +ALBANY
 Ile ouertake you,
 speake.
+
 +EDGAR
 Before you fight the Battaile, ope this Letter:
 If you haue victory, let the Trumpet sound
@@ -4158,81 +4849,96 @@ I can produce a Champion, that will proue
 What is auouched there. If you miscarry,
 Your businesse of the world hath so an end,
 And machination ceases. Fortune loues you.
+
 +ALBANY
 Stay till I haue read the Letter.
+
 +EDGAR
 I was forbid it:
 When time shall serue, let but the Herald cry,
 And Ile appeare againe.
-+EDGAR exits
+
++EDGAR exits.
+
 +ALBANY
 Why farethee well, I will o're-looke thy paper.
-SD: Enter +EDMUND.
-+EDMUND
+
+SD: Enter +BASTARD.
+
++BASTARD
 The Enemy's in view, draw vp your powers,
 Heere is the guesse of their true strength and Forces,
 By dilligent discouerie, but your hast
 Is now vrg'd on you.
+
 +ALBANY
 We will greet the time.
-+ALBANY exits
-+EDMUND
+
++ALBANY exits.
+
++BASTARD
 To both these Sisters haue I sworne my loue:
 Each iealous of the other, as the stung
 Are of the Adder. Which of them shall I take?
 Both? One? Or neither? Neither can be enioy'd
 If both remaine aliue: To take the Widdow,
-Exasperates, makes mad her Sister +Gonerill,
+Exasperates, makes mad her Sister Gonerill,	
 And hardly shall I carry out my side,
 Her husband being aliue. Now then, wee'l vse
 His countenance for the Battaile, which being done,
 Let her who would be rid of him, deuise
 His speedy taking off. As for the mercie
-Which he intends to +Lear and to +Cordelia,
+Which he intends to Lear and to Cordelia,	
 The Battaile done, and they within our power,
 Shall neuer see his pardon: for my state,
 Stands on me to defend, not to debate.
-+EDMUND exits
+
++BASTARD exits.
+
 
 NS: Act 5 Scene 2
 
-SD: Alarum within. Enter with Drumme and Colours, +LEAR, +CORDELIA, and Souldiers, ouer the Stage, and Exeunt.
-SD: Enter +EDGAR, and +GLOUCESTER.
+SD: Alarum within. Enter with Drumme and Colours, +LEAR, +CORDELIA, and Souldiers, ouer the Stage, and Exeunt. Enter +EDGAR, and +GLOUCESTER.
+
 +EDGAR
 Heere Father, take the shadow of this Tree
 For your good hoast: pray that the right may thriue:
 If euer I returne to you againe,
 Ile bring you comfort.
+
 +GLOUCESTER
 Grace go with you Sir.
-SD: +GLOUCESTER exits
-SD: Alarum and Retreat within. Enter +EDGAR.
+
+SD: +GLOUCESTER exits. Alarum and Retreat within. Enter +EDGAR.
+
 +EDGAR
 Away old man, giue me thy hand, away:
-King +Lear hath lost, he and his Daughter tane,
+King Lear hath lost, he and his Daughter tane,	
 Giue me thy hand: Come on.
+
 +GLOUCESTER
 No further Sir, a man may rot euen heere.
+
 +EDGAR
 What in ill thoughts againe? / Men must endure
 Their going hence, euen as their comming hither,
 Ripenesse is all come on.
+
 +GLOUCESTER
 And that's true too.
+
 SD: +EDGAR, +GLOUCESTER exuent
-
-
 
 
 NS: Act 5 Scene 3
 
-SD: Enter in conquest with Drum and Colours, +EDMUND, +LEAR, and +CORDELIA, as prisoners, +SOULDIERS, +CAPTAINE.
-+BAST
+SD: Enter in conquest with Drum and Colours, +BASTARD, +LEAR, and +CORDELIA, as prisoners, +SOULDIERS, +CAPTAINE.
++BASTARD
 Some Officers take them away: good guard,
 Vntill their greater pleasures first be knowne
 That are to censure them.
 
-+COR
++CORDELIA
 We are not the first,
 Who with best meaning haue incurr'd the worst:
 For thee oppressed King I am cast downe,
@@ -4245,7 +4951,7 @@ We two alone will sing like Birds i'th'Cage:
 When thou dost aske me blessing, Ile kneele downe
 And aske of thee forgiuenesse: So wee'l liue,
 And pray, and sing, and tell old tales, and laugh
-At gilded Butterflies: and heere [poore Rogues]
+At gilded Butterflies: and heere (poore Rogues)	
 Talke of Court newes, and wee'l talke with them too,
 Who looses, and who wins; who's in, who's out;
 And take vpon's the mystery of things,
@@ -4253,7 +4959,7 @@ As if we were Gods spies: And wee'l weare out
 In a wall'd prison, packs and sects of great ones,
 That ebbe and flow by th'Moone.
 
-+BAST
++BASTARD
 Take them away.
 
 +LEAR
@@ -4264,8 +4970,10 @@ And fire vs hence, like Foxes: wipe thine eyes,
 The good yeares shall deuoure them, flesh and fell,
 Ere they shall make vs weepe? / Weele seee'm staru'd first:
 come.
-LEAR exits
-+BAST
+
+SD: Exit +CORDELIA, +LEAR
+
++BASTARD
 Come hither Captaine, hearke.
 Take thou this note, go follow them to prison,
 One step I haue aduanc'd thee, if thou do'st
@@ -4276,17 +4984,17 @@ Do's not become a Sword, thy great imployment
 Will not beare question: either say thou'lt do't,
 Or thriue by other meanes.
 
-+CAPT
++CAPTAIN
 Ile do't my Lord.
 
-+BAST
++BASTARD
 About it, and write happy, when th'hast done,
 Marke I say instantly, and carry it so
 As I haue set it downe.
-CAPTAIN exits
-SD: Flourish. Enter +ALBANY, +GONERILL, +REGAN, +SOLDIERS.
 
-+ALB
+SD: +CAPTAIN exits. Flourish. Enter +ALBANY, +GONERILL, +REGAN, Soldiers.
+
++ALBANY
 Sir, you haue shew'd to day your valiant straine
 And Fortune led you well: you haue the Captiues
 Who were the opposites of this dayes strife:
@@ -4294,7 +5002,7 @@ I do require them of you so to vse them,
 As we shall find their merites, and our safety
 May equally determine.
 
-+BAST
++BASTARD
 Sir, I thought it fit,
 To send the old and miserable King
 to some retention,
@@ -4306,12 +5014,12 @@ My reason all the same, and they are ready
 To morrow, or at further space, t'appeare
 Where you shall hold your Session.
 
-+ALB
++ALBANY
 Sir, by your patience,
 I hold you but a subiect of this Warre,
 Not as a Brother.
 
-+REG
++REGAN
 That's as we list to grace him.
 Methinkes our pleasure might haue bin demanded
 Ere you had spoke so farre. He led our Powers,
@@ -4319,26 +5027,26 @@ Bore the Commission of my place and person,
 The which immediacie may well stand vp,
 And call it selfe your Brother.
 
-+GON
++GONERILL
 Not so hot:
 In his owne grace he doth exalt himselfe,
 More then in your addition.
 
-+REG
++REGAN
 In my rights,
 By me inuested, he compeeres the best.
 
-+ALB
++ALBANY
 That were the most, if he should husband you.
 
-+REG
++REGAN
 Iesters do oft proue Prophets.
 
-+GON
++GONERILL
 Hola, hola,
 That eye that told you so, look'd but a squint.
 
-+REGA
++REGAN
 Lady I am not well, else I should answere
 From a full flowing stomack. Generall,
 Take thou my Souldiers, prisoners, patrimony,
@@ -4346,22 +5054,22 @@ Dispose of them, of me, the walls is thine:
 Witnesse the world, that I create thee heere
 My Lord, and Master.
 
-+GON
++GONERILL
 Meane you to enioy him?
 
-+ALB
++ALBANY
 The let alone lies not in your good will.
 
-+BAST
++BASTARD
 Nor in thine Lord.
 
-+ALB
++ALBANY
 Halfe-blooded fellow, yes.
 
-+REG
++REGAN
 Let the Drum strike, and proue my title thine.
 
-+ALB
++ALBANY
 Stay yet,heare reason: Edmund, I arrest thee
 On capitall Treason; and in thy arrest,
 This guilded Serpent: for your claime faire Sisters,
@@ -4371,10 +5079,10 @@ And I her husband contradict your Banes.
 If you will marry, make your loues to me,
 My Lady is bespoke.
 
-+GON
++GONERILL
 An enterlude.
 
-+ALB
++ALBANY
 Thou art armed Gloster, / Let the Trmpet sound:
 If none appeare to proue vpon thy person,
 Thy heynous, manifest, and many Treasons,
@@ -4383,24 +5091,25 @@ Ile make it on thy heart
 Ere I taste bread, thou art in nothing lesse
 Then I haue heere proclaim'd thee.
 
-+REG
++REGAN
 Sicke, O sicke.
 
-+GON
++GONERILL
 If not, Ile nere trust medicine.
 
-+BAST
++BASTARD
 There's my exchange, what in the world hes
 That names me Traitor, villain-like he lies,
 Call by the Trumpet: he that dares approach;
 On him, on you, who not, I will maintaine
 My truth and honor firmely.
 
-+ALB
++ALBANY
 A Herald, ho.
+
 SD: Enter a +HERALD.
 
-+ALB
++ALBANY
 Trust to thy single vertue, for thy Souldiers
 All leuied in my name, haue in my name
 Tooke their discharge.
@@ -4408,55 +5117,58 @@ Tooke their discharge.
 +REGAN
 My sicknesse growes vpon me.
 
-+ALB
++ALBANY
 She is not well, conuey her to my Tent.
 Come hither Herald, let the Trumper sound,
 And read out this.
+
 SD: A Tumpet sounds.
+
 +HERALD
-reads.
-If any man of qualitie or degree, within the
+[reads.]
+*If any man of qualitie or degree, within the
 lists of the Army, will maintaine vpon Edmund, supposed
 Earle of Gloster, that he is a manifold Traitor, let him
 appeare by the third sound of the Trumpet: he is bold in his
-defence.
+defence.*
 
 SD: 1 Trumpet.
-+HER
+
++HERALD
 Againe.
 
 SD: 2 Trumpet.
-+HER
+
++HERALD
 Againe.
 
-SD: 3 Trumpet.
-SD: Trumpet answers within. Enter +EDGAR armed.
+SD: 3 Trumpet. Trumpet answers within. Enter +EDGAR armed.
 
-+ALB
++ALBANY
 Aske him his purposes, why he appeares
 Vpon this Call o'th'Trumpet.
 
-+HER
++HERALD
 What are you?
 Your name, your quality, and why you answer
 This present Summons?
 
-+EDG
++EDGAR
 Know my name is lost
 By Treasons tooth: bare-gnawne, and Canker-bit,
 Yet am I Noble as the Aduersary
 I come to cope.
 
-+ALB
++ALBANY
 Which is that Aduersary?
 
-+EDG
++EDGAR
 What's he that speakes for Edmund Earle of Gloster?
 
-+BAST
++BASTARD
 Himselfe, what saist thou to him?
 
-+EDG
++EDGAR
 Draw thy Sword,
 That if my speech offend a Noble heart,
 Thy arme may do thee Iustice, heere is mine:
@@ -4474,10 +5186,10 @@ This Sword, this arme, and my best spirits are bent
 To proue vpon thy heart, whereto I speake,
 Thou lyest.
 
-+BAST
++BASTARD
 In wisedome I should aske thy name,
 But since thy out-side lookes so faire and Warlike,
-And that thy tongue [some say] of breeding breathes,
+And that thy tongue (some say) of breeding breathes,	
 What safe, and nicely I might well delay,
 By rule of Knight-hood, I disdaine and spurne:
 Backe do I tosse these Treasons to thy head,
@@ -4485,45 +5197,48 @@ With the hell-hated Lye, ore-whelme thy heart,
 Which for they yet glance by, and scarely bruise,
 This Sword of mine shall giue them instant way,
 Where they shall rest for euer. Trumpets speake.
-SD: Alarums. Fights.
 
-+ALB
+SD: Alarums. Fights {+BASTARD, +EDGAR}.
+
++ALBANY
 Saue him, saue him.
 
-+GON
++GONERILL
 This is practise Gloster,
 By th'law of Warre, thou wast not bound to answer
 An vnknowne opposite: thou art not vanquish'd,
 But cozend, and beguild.
 
-+ALB
++ALBANY
 Shut your mouth Dame,
 Or with this paper shall I stop it: hold Sir,
 Thou worse then any name, reade thine owne euill:
 No tearing Lady, I perceiue you know it.
 
-+GON
++GONERILL
 Say if I do, the Lawes are mine not thine,
 Who can araigne me for't?
 
-+ALB
++ALBANY
 Most monstrous! O,
 know'st thou this paper?
 
-+BAST
++BASTARD
 Aske me not what I know.
-GONERILL exits
-+ALB
+
++GONERILL exits.
+
++ALBANY
 Go after her, she's desperate, gouerne her.
 
-+BAST
++BASTARD
 What you haue charg'd me with, / That haue I done,
 And more, much more, the time will bring it out.
 'Tis past, and so am I: But what art thou
 That hast this Fortune on me? If thou'rt Noble,
 I do forgiue thee.
 
-+EDG
++EDGAR
 Let's exchange charity:
 I am no lesse in blood then thou art Edmond,
 If more, the more th'hast wrong'd me.
@@ -4533,88 +5248,90 @@ Make instruments to plague vs:
 The darke and vitious place where thee he got,
 Cost him his eyes.
 
-+BAST
++BASTARD
 Th'hast spoken right, 'tis true,
 The Wheele is come full circle, I am heere.
 
-+ALB
++ALBANY
 Me thought thy very gate did prophesie
 A Royall Noblenesse: I must embrace thee,
 Let sorrow split my heart, if euer I
 Did hate thee, or thy father.
 
-+EDG
++EDGAR
 Worthy Prince
 I know't.
 
-+ALB
++ALBANY
 Where haue you hid your selfe?
 How haue you knowne the miseries of your Father?
 
-+EDG
++EDGAR
 By nursing them my Lord. List a breefe tale,
 And when 'tis told, O that my heart would burst.
 The bloody proclamation to escape
-That follow'd me so neere, [O our liues sweetnesse,
+That follow'd me so neere, (O our liues sweetnesse,	
 That we the paine of death would hourely dye,
-Rather then die at once] taught me to shift
+Rather then die at once) taught me to shift	
 Into a mad-mans rags, t'assume a semblance
 That very Dogges disdain'd: and in this habit
 Met I my Father with his bleeding Rings,
 Their precious Stones new lost: became his guide,
 Led him, begg'd for him, sau'd him from dispaire.
-Neuer [O fault] reueal'd my selfe vnto him,
+Neuer (O fault) reueal'd my selfe vnto him,	
 Vntill some halfe houre past when I was arm'd,
 Not sure, though hoping of this good successe,
 I ask'd his blessing, and from first to last
 Told him our pilgrimage. But his flaw'd heart
-[Alacke too weake the conflict to support]
+(Alacke too weake the conflict to support)	
 Twixt two extremes of passion, ioy and greefe,
 Burst smilingly.
 
-+BAST
++BASTARD
 This speech of yours hath mou'd me,
 And shall perchance do good, but speake you on,
 You looke as you had something more to say.
 
-+ALB
++ALBANY
 If there be more, more wofull, hold it in,
 For I am almost ready to dissolue,
 Hearing of this.
+
 SD: Enter a +GENTLEMAN.
 
-+GEN
++GENTLEMAN
 Helpe, helpe: O helpe.
 
-+EDG
++EDGAR
 What kinde of helpe?
 
-+ALB
++ALBANY
 Speake man.
 
-+EDG
++EDGAR
 What meanes this bloody Knife?
 
-+GEN
++GENTLEMAN
 'Tis hot, it smoakes,
 it came euen from the heart of----O she's dead.
 
-+ALB
++ALBANY
 Who dead? Speake man.
 
-+GEN
++GENTLEMAN
 Your Lady Sir, your Lady; and her Sister
 By her is poyson'd: she confesses it.
 
-+BAST
++BASTARD
 I was contracted to them both, all three
 Now marry in an instant.
 
-+EDG
++EDGAR
 Here comes Kent.
+
 SD: Enter +KENT.
 
-+ALB
++ALBANY
 Produce the bodies, be they aliue or dead;
 This iudgement of the Heauens that makes vs tremble.
 Touches vs not with pitty: O, is this he?
@@ -4626,54 +5343,56 @@ I am come
 To bid my King and Master aye good night.
 Is he not here?
 
-+ALB
++ALBANY
 Great thing of vs forgot,
 Speake Edmund, where's the King? and where's Cordelia?
-SD: +GONERILL and +REGANS bodies brought out.
 
-+ALB
+SD: +GONERILL and +REGAN bodies brought out.
+
++ALBANY
 Seest thou this obiect Kent?
 
 +KENT
 Alacke, why thus?
 
-+BAST
++BASTARD
 Yet Edmund was belou'd:
 The one the other poison'd for my sake,
 And after slew herselfe.
 
-+ALB
++ALBANY
 Euen so: couer their faces.
 
-+BAST
++BASTARD
 I pant for life: some good I meane to do
 Despight of mine owne Nature. Quickly send,
-[Be briefe in it] to'th'Castle, for my Writ
+(Be briefe in it) to'th'Castle, for my Writ
 Is on the life of Lear, and on Cordelia:
 Nay, send in time.
 
-+ALB
++ALBANY
 Run, run, O run.
 
-+EDG
++EDGAR
 To who my Lord? Who ha's the Office?
 Send thy token of repreeue.
 
-+BAST
++BASTARD
 Well thought on, take my Sword,
 Giue it the Captaine.
 
-+EDG
++EDGAR
 Hast thee for thy life.
 
-+BAST
++BASTARD
 He hath Commission from thy Wife and me,
 To hang Cordelia in the prison, and
 To lay the blame vpon her owne dispaire,
 That she for-did her selfe.
 
-+ALB
++ALBANY
 The Gods defend her, beare him hence awhile.
+
 SD: Enter +LEAR with +CORDELIA in his armes.
 
 +LEAR
@@ -4688,10 +5407,10 @@ Why then she liues.
 +KENT
 Is this the promis'd end?
 
-+EDG
++EDGAR
 Or image of that horror.
 
-+ALB
++ALBANY
 Fall and cease.
 
 +LEAR
@@ -4705,7 +5424,7 @@ O my good Master.
 +LEAR
 Prythee away.
 
-+EDG
++EDGAR
 'Tis Noble Kent your Friend.
 
 +LEAR
@@ -4716,8 +5435,8 @@ What is't thou saist? Her voice was euer soft,
 Gentle, and low, an excellent thing in woman.
 I kill'd the Slaue that was a hanging thee.
 
-+GENT
-'Tis true [my Lords] he did.
++GENTLEMAN
+'Tis true (my Lords) he did.
 
 +LEAR
 Did I not fellow?
@@ -4762,18 +5481,19 @@ And desperately are dead
 +LEAR
 I so I thinke.
 
-+ALB
++ALBANY
 He knowes not what he saies, and vaine is it
 That we present vs to him.
 
-+EDG
++EDGAR
 Very bootlesse.
+
 SD: Enter a +MESSENGER.
 
-+MESS
++MESSENGER
 Edmund is dead my Lord.
 
-+ALB
++ALBANY
 That's but a trifle heere:
 You Lords and Noble Friends, know our intent,
 What comfort to this great decay may come,
@@ -4794,14 +5514,16 @@ Neuer, neuer, neuer, neuer, neuer.
 Pray you vndo this Button. Thanke you Sir,
 Do you see this? Looke on her? Looke her lips,
 Looke there, looke there.
-SD: He dies.
-+EDG
+
+SD: +LEAR dies.
+
++EDGAR
 He faints, my Lord, my Lord.
 
 +KENT
 Breake heart, I prythee breake.
 
-+EDG
++EDGAR
 Looke vp my Lord.
 
 +KENT
@@ -4809,14 +5531,14 @@ Vex not his ghost, O let him passe, he hates him,
 That would vpon the wracke of this tough world
 Stretch him out longer.
 
-+EDG
++EDGAR
 He is gon indeed.
 
 +KENT
 The wonder is, he hath endur'd so long,
 He but vsurpt his life.
 
-+ALB
++ALBANY
 Beare them from hence, our present businesse
 Is generall woe:
 Friends of my soule, you twaine,
@@ -4826,12 +5548,12 @@ Rule in this Realme, and the gor'd state sustaine.
 I haue a iourney Sir, shortly to go,
 My Master calls me, I must not say no.
 
-+EDG
++EDGAR
 The waight of this sad time we must obey,
 Speake what we feele, not what we ought to say:
 The oldest hath borne most, we that are yong,
 Shall neuer see so much, nor liue so long.
-SD: Exeunt with a dead March.
-Exuent ALBANY, EDGAR, KENT
+
+SD: Exeunt with a dead March {ALBANY, EDGAR, KENT}.
 
 

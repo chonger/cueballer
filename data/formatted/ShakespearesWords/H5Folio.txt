@@ -1,20 +1,60 @@
+Act 1, chorus
 
+SD: Enter +PROLOGUE.
 
-NS: Act 1 Scene 1
++PROLOGUE
+O For a Muse of Fire, that would ascend
+The brightest Heauen of Inuention:
+A Kingdome for a Stage, Princes to Act,
+And Monarchs to behold the swelling Scene.
+Then should the Warlike Harry, like himselfe,
+Assume the Port of Mars, and at his heeles
+(Leasht in, like Hounds) should Famine, Sword, and Fire
+Crouch for employment. But pardon, Gentles all:
+The flat vnraysed Spirits, that hath dar'd,
+On this vnworthy Scaffold, to bring forth
+So great an Obiect. Can this Cock-Pit hold
+The vastie fields of France? Or may we cramme
+Within this Woodden O, the very Caskes
+That did affright the Ayre at Agincourt?
+O pardon: since a crooked Figure may
+Attest in little place a Million,
+And let vs, Cyphers to this great Accompt,
+On your imaginarie Forces worke.
+Suppose within the Girdle of these Walls
+Are now confin'd two mightie Monarchies,
+Whose high, vp-reared, and abutting Fronts,
+The perillous narrow Ocean parts asunder.
+Peece out our imperfections with your thoughts:
+Into a thousand parts diuide one Man,
+And make imaginarie Puissance.
+Thinke when we talke of Horses, that you see them
+Printing their prowd Hoofes i'th' receiuing Earth:
+For 'tis your thoughts that now must deck our Kings,
+Carry them here and there: Iumping o're Times;
+Turning th' accomplishment of many yeeres
+Into an Howre-glasse: for the which supplie,
+Admit me Chorus to this Historie;
+Who Prologue-like, your humble patience pray,
+Gently to heare, kindly to iudge our Play.
 
-SD: Enter the two Bishops of Canterbury and +ELY.
+SD: Exit. {+PROLOGUE}
 
-+BISH.CANT.
+NS: Act 1, scene 1
+
+SD: Enter the two Bishops of Canterbury and	Ely.
+
++BISHOP OF CANTERBURY
 My Lord, Ile tell you, that selfe Bill is vrg'd,
 Which in th' eleuẽth yere of ye last Kings reign
 Was like, and had indeed against vs past,
 But that the scambling and vnquiet time
 Did push it out of farther question.
 
-+BISH.ELY
++BISHOP OF ELY
 But how my Lord shall we resist it now?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 It must be thought on: if it passe against vs,
 We loose the better halfe of our Possession:
 For all the Temporall Lands, which men deuout
@@ -29,22 +69,22 @@ A hundred Almes-houses, right well supply'd:
 And to the Coffers of the King beside,
 A thousand pounds by th' yeere. Thus runs the Bill.
 
-+BISH.ELY
++BISHOP OF ELY
 This would drinke deepe.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 'Twould drinke the Cup and all.
 
-+BISH.ELY
++BISHOP OF ELY
 But what preuention?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 The King is full of grace, and faire regard.
 
-+BISH.ELY
++BISHOP OF ELY
 And a true louer of the holy Church.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 The courses of his youth promis'd it not.
 The breath no sooner left his Fathers body,
 But that his wildnesse, mortify'd in him,
@@ -60,10 +100,10 @@ Nor neuer Hidra-headed Wilfulnesse
 So soone did loose his Seat; and all at once;
 As in this King.
 
-+BISH.ELY
++BISHOP OF ELY
 We are blessed in the Change.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 Heare him but reason in Diuinitie;
 And all-admiring, with an inward wish
 You would desire the King were made a Prelate:
@@ -87,27 +127,27 @@ And neuer noted in him any studie,
 Any retyrement, any sequestration,
 From open Haunts and Popularitie.
 
-+BISH.ELY
++BISHOP OF ELY
 The Strawberry growes vnderneath the Nettle,
 And holesome Berryes thriue and ripen best,
 Neighbour'd by Fruit of baser qualitie:
 And so the Prince obscur'd his Contemplation
-Vnder the Veyle of Wildnesse, which [no doubt]
+Vnder the Veyle of Wildnesse, which (no doubt)	
 Grew like the Summer Grasse, fastest by Night,
 Vnseene, yet cressiue in his facultie.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 It must be so; for Miracles are ceast:
 And therefore we must needes admit the meanes,
 How things are perfected.
 
-+BISH.ELY
++BISHOP OF ELY
 But my good Lord:
 How now for mittigation of this Bill,
 Vrg'd by the Commons? doth his Maiestie
 Incline to it, or no?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 He seemes indifferent:
 Or rather swaying more vpon our part,
 Then cherishing th'exhibiters against vs:
@@ -119,10 +159,10 @@ As touching France, to giue a greater Summe,
 Then euer at one time the Clergie yet
 Did to his Predecessors part withall.
 
-+BISH.ELY
++BISHOP OF ELY
 How did this offer seeme receiu'd, my Lord?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 With good acceptance of his Maiestie:
 Saue that there was not time enough to heare,
 As I perceiu'd his Grace would faine haue done,
@@ -131,30 +171,31 @@ Of his true Titles to some certaine Dukedomes,
 And generally, to the Crowne and Seat of France,
 Deriu'd from Edward, his great Grandfather.
 
-+BISH.ELY
++BISHOP OF ELY
 What was th'impediment that broke this off?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 The French Embassador vpon that instant
 Crau'd audience; and the howre I thinke is come,
 To giue him hearing: Is it foure a Clock?
 
-+BISH.ELY
++BISHOP OF ELY
 It is.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 Then goe we in, to know his Embassie:
 Which I could with a ready guesse declare,
 Before the Frenchman speake a word of it.
 
-+BISH.ELY
++BISHOP OF ELY
 Ile wait vpon you, and I long to heare it.
 
-SD: BISH.ELY, BISH.CANT. exits
+SD: Exit. {+BISHOP OF ELY, +BISHOP OF CANTERBURY}
+
 
 NS: Act 1 Scene 2
 
-SD: Enter the +KING, +HUMFREY, +BEDFORD, +CLARENCE, +WARWICK, +WESTMERLAND, and +EXETER
+SD: Enter {+KING, +HUMFREY, +BEDFORD, +CLARENCE, +WARWICK, +WESTMERLAND, +EXETER}
 
 +KING
 Where is my gracious Lord of Canterbury?
@@ -175,7 +216,7 @@ That taske our thoughts, concerning vs and France.
 
 SD: Enter two Bishops.
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 God and his Angels guard your sacred Throne,
 And make you long become it.
 
@@ -274,7 +315,7 @@ Vsurpt from you and your Progenitors.
 +KING
 May I with right and conscience make this claim?
 
-+BISH.CANT.
++BISHOP OF CANTERBURY
 The sinne vpon my head, dread Soueraigne:
 For in the Booke of Numbers is it writ,
 When the man dyes, let the Inheritance
@@ -294,7 +335,7 @@ With halfe their Forces, the full pride of France,
 And let another halfe stand laughing by,
 All out of worke, and cold for action.
 
-+BISH.ELY
++BISHOP OF ELY
 Awake remembrance of these valiant dead,
 And with your puissant Arme renew their Feats;
 You are their Heire, you sit vpon their Throne:
@@ -359,7 +400,7 @@ And make their Chronicle as rich with prayse,
 As is the Owse and bottome of the Sea
 With sunken Wrack, and sum-lesse Treasuries.
 
-+BISH.ELY
++BISHOP OF ELY
 But there's a saying very old and true,
 If that you will France win,
 then with Scotland first begin.
@@ -1127,7 +1168,7 @@ Her Scepter so phantastically borne,
 By a vaine giddie shallow humorous Youth,
 That feare attends her not.
 
-+CONST
++CONSTABLE OF FRANCE
 O peace, Prince Dolphin,
 You are too much mistaken in this King:
 Question your Grace the late Embassadors,
@@ -1804,7 +1845,7 @@ SD: Enter the King of France, the Dolphin, the Constable of France, and others.
 +KING
 'Tis certaine he hath past the Riuer Some.
 
-+CONST
++CONSTABLE OF FRANCE
 And if he be not fought withall, my Lord,
 Let vs not liue in France: let vs quit all,
 And giue our Vineyards to a barbarous People.
@@ -1821,7 +1862,7 @@ Vnfought withall, but I will sell my Dukedome,
 To buy a slobbry and a durtie Farme
 In that nooke-shotten Ile of Albion.
 
-+CONST
++CONSTABLE OF FRANCE
 Dieu de Battailes, where haue they this mettell?
 Is not their Clymate foggy, raw, and dull?
 On whom, as in despight, the Sunne lookes pale,
@@ -1870,7 +1911,7 @@ Goe downe vpon him, you haue Power enough,
 And in a Captiue Chariot, into Roan
 Bring him our Prisoner.
 
-+CONST
++CONSTABLE OF FRANCE
 This becomes the Great.
 Sorry am I his numbers are so few,
 His Souldiers sick, and famisht in their March:
@@ -1891,7 +1932,7 @@ Not so, I doe beseech your Maiestie.
 Be patient, for you shall remaine with vs.
 Now forth Lord Constable, and Princes all,
 And quickly bring vs word of Englands fall.
-SD: Exeunt KING, CONST, BRIT, DOLPHIN
+SD: Exeunt +KING, +CONSTABLE OF FRANCE, BRIT, DOLPHIN
 
 NS: Act 3 Scene 6
 
@@ -1901,14 +1942,14 @@ SD: Enter Captaines, English and Welch, +GOWER and +FLUELLEN.
 How now Captaine Fluellen, come you from the
 Bridge?
 
-+FLU
++FLUELLEN
 I assure you, there is very excellent Seruices
 committed at the Bridge.
 
 +GOWER
 Is the Duke of Exeter safe?
 
-+FLU
++FLUELLEN
 The Duke of Exeter is as magnanimous as
 Agamemnon, and a man that I loue and honour with my
 soule, and my heart, and my dutie, and my liue, and my
@@ -1923,21 +1964,21 @@ World, but I did see him doe as gallant seruice.
 +GOWER
 What doe you call him?
 
-+FLU
++FLUELLEN
 Hee is call'd aunchient Pistoll.
 
 +GOWER
 I know him not.
 SD: Enter +PISTOL.
 
-+FLU
++FLUELLEN
 Here is the man.
 
 +PISTOL
 Captaine, I thee beseech to doe me fauours:
 the Duke of Exeter doth loue thee well.
 
-+FLU
++FLUELLEN
 I, I prayse God, and I haue merited some loue
 at his hands.
 
@@ -1948,7 +1989,7 @@ and giddie Fortunes furious fickle Wheele,
 that Goddesse blind,
 that stands vpon the rolling restlesse Stone.
 
-+FLU
++FLUELLEN
 By your patience, aunchient Pistoll: Fortune
 is painted blinde, with a Muffler afore his eyes, to signifie
 to you, that Fortune is blinde; and shee is painted also
@@ -1972,14 +2013,14 @@ and let not Bardolphs vitall thred bee cut
 with edge of Penny-Cord, and vile reproach.
 Speake Captaine for his Life, and I will thee requite.
 
-+FLU
++FLUELLEN
 Aunchient Pistoll, I doe partly vnderstand your
 meaning.
 
 +PISTOL
 Why then reioyce therefore.
 
-+FLU
++FLUELLEN
 Certainly Aunchient, it is not a thing to
 reioyce at: for if, looke you, he were my Brother, I would
 desire the Duke to vse his good pleasure, and put him to
@@ -1988,21 +2029,21 @@ execution; for discipline ought to be vsed.
 +PISTOL
 Dye, and be dam'd, and Figo for thy friendship.
 
-+FLU
++FLUELLEN
 It is well.
 
 +PISTOL
 The Figge of Spaine.
 SD: +PISTOL exits
 
-+FLU
++FLUELLEN
 Very good.
 
 +GOWER
 Why, this is an arrant counterfeit Rascall, I
 remember him now: a Bawd, a Cut-purse.
 
-+FLU
++FLUELLEN
 Ile assure you, a vtt'red as praue words at
 the Pridge, as you shall see in a Summers day: but it is
 very well: what he ha's spoke to me, that is well I
@@ -2024,7 +2065,7 @@ Bottles, and Ale-washt Wits, is wonderfull to be thought
 on: but you must learne to know such slanders of the
 age, or else you may be maruellously mistooke.
 
-+FLU
++FLUELLEN
 I tell you what, Captaine Gower: I doe perceiue
 hee is not the man that hee would gladly make shew to
 the World hee is: if I finde a hole in his Coat, I will tell
@@ -2032,13 +2073,13 @@ him my minde: hearke you, the King is
 comming, and I must speake with him from the Pridge.
 SD: Drum and Colours. Enter the King and his poore Souldiers
 
-+FLU
++FLUELLEN
 God plesse your Maiestie.
 
 +KING
 How now Fluellen, cam'st thou from the Bridge?
 
-+FLU
++FLUELLEN
 I, so please your Maiestie: The Duke of
 Exeter ha's very gallantly maintain'd the Pridge; the
 French is gone off, looke you, and there is gallant and
@@ -2050,7 +2091,7 @@ tell your Maiestie, the Duke is a praue man.
 +KING
 What men haue you lost, Fluellen?
 
-+FLU
++FLUELLEN
 The perdition of th' athuersarie hath beene very
 great, reasonnable great: marry for my part, I thinke the
 Duke hath lost neuer a man, but one that is like to be
@@ -2152,13 +2193,13 @@ We are in Gods hand, Brother, not in theirs:
 March to the Bridge, it now drawes toward night,
 Beyond the Riuer wee'le encampe our selues,
 And on to morrow bid them march away.
-SD: Exeunt KING, GOWER, FLU
+SD: Exeunt +KING, +GOWER, +FLUELLEN
 
 NS: Act 3 Scene 7
 
-SD: Enter the Constable of France, the Lord Ramburs, Orleance, Dolphin, with others.
+SD: Enter {+CONSTABLE OF FRANCE, +RAMBURS, +ORLEANCE, +DOLPHIN}
 
-+CONST
++CONSTABLE OF FRANCE
 Tut, I haue the best Armour of the World:
 would it were day.
 
@@ -2166,7 +2207,7 @@ would it were day.
 You haue an excellent Armour: but let my Horse
 haue his due.
 
-+CONST
++CONSTABLE OF FRANCE
 It is the best Horse of Europe.
 
 +ORLEANCE
@@ -2199,7 +2240,7 @@ of Earth and Water neuer appeare in him, but only in
 patient stillnesse while his Rider mounts him: hee is
 indeede a Horse, and all other Iades you may call Beasts.
 
-+CONST
++CONSTABLE OF FRANCE
 Indeed my Lord, it is a most absolute and
 excellent Horse.
 
@@ -2237,14 +2278,14 @@ Your Mistresse beares well.
 Me well, which is the prescript prayse and
 perfection of a good and particular Mistresse.
 
-+CONST
++CONSTABLE OF FRANCE
 Nay, for me thought yesterday your Mistresse
 shrewdly shooke your back.
 
 +DOLPHIN
 So perhaps did yours.
 
-+CONST
++CONSTABLE OF FRANCE
 Mine was not bridled.
 
 +DOLPHIN
@@ -2252,7 +2293,7 @@ O then belike she was old and gentle, and you
 rode like a Kerne of Ireland, your French Hose off, and in
 your strait Strossers.
 
-+CONST
++CONSTABLE OF FRANCE
 You haue good iudgement in Horsemanship.
 
 +DOLPHIN
@@ -2260,14 +2301,14 @@ Be warn'd by me then: they that ride so, and
 ride not warily, fall into foule Boggs: I had rather haue my
 Horse to my Mistresse.
 
-+CONST
++CONSTABLE OF FRANCE
 I had as liue haue my Mistresse a Iade.
 
 +DOLPHIN
 I tell thee Constable, my Mistresse weares his
 owne hayre.
 
-+CONST
++CONSTABLE OF FRANCE
 I could make as true a boast as that, if I had
 a Sow to my Mistresse.
 
@@ -2275,28 +2316,28 @@ a Sow to my Mistresse.
 Le chien est retourne a son propre vemissement
 estla leuye lauee au bourbier: thou mak'st vse of any thing.
 
-+CONST
++CONSTABLE OF FRANCE
 Yet doe I not vse my Horse for my Mistresse, or
 any such Prouerbe, so little kin to the purpose.
 
-+RAMB
++RAMBURS
 My Lord Constable, the Armour that I saw
 in your Tent to night, are those Starres or Sunnes vpon it?
 
-+CONST
++CONSTABLE OF FRANCE
 Starres my Lord.
 
 +DOLPHIN
 Some of them will fall to morrow, I hope.
 
-+CONST
++CONSTABLE OF FRANCE
 And yet my Sky shall not want.
 
 +DOLPHIN
 That may be, for you beare a many superfluously,
 and 'twere more honor some were away.
 
-+CONST
++CONSTABLE OF FRANCE
 Eu'n as your Horse beares your prayses,
 who would trot as well, were some of your bragges
 dismounted.
@@ -2306,16 +2347,16 @@ Would I were able to loade him with his desert.
 Will it neuer be day? I will trot to morrow a mile, and
 my way shall be paued with English Faces.
 
-+CONST
++CONSTABLE OF FRANCE
 I will not say so, for feare I should be fac't
 out of my way: but I would it were morning, for I
 would faine be about the eares of the English.
 
-+RAMB
++RAMBURS
 Who will goe to Hazard with me for twentie
 Prisoners?
 
-+CONST
++CONSTABLE OF FRANCE
 You must first goe your selfe to hazard, ere you
 haue them.
 
@@ -2326,17 +2367,17 @@ SD: +DOLPHIN exits
 +ORLEANCE
 The Dolphin longs for morning.
 
-+RAMB
++RAMBURS
 He longs to eate the English.
 
-+CONST
++CONSTABLE OF FRANCE
 I thinke he will eate all he kills.
 
 +ORLEANCE
 By the white Hand of my Lady, hee's a gallant
 Prince.
 
-+CONST
++CONSTABLE OF FRANCE
 Sweare by her Foot, that she may tread out
 the Oath.
 
@@ -2344,34 +2385,34 @@ the Oath.
 He is simply the most actiue Gentleman of
 France.
 
-+CONST
++CONSTABLE OF FRANCE
 Doing is actiuitie, and he will still be doing.
 
 +ORLEANCE
 He neuer did harme, that I heard of.
 
-+CONST
++CONSTABLE OF FRANCE
 Nor will doe none to morrow: hee will keepe that
 good name still.
 
 +ORLEANCE
 I know him to be valiant.
 
-+CONST
++CONSTABLE OF FRANCE
 I was told that, by one that knowes him better
 then you.
 
 +ORLEANCE
 What's hee?
 
-+CONST
++CONSTABLE OF FRANCE
 Marry hee told me so himselfe, and hee sayd hee
 car'd not who knew it.
 
 +ORLEANCE
 Hee needes not, it is no hidden vertue in him.
 
-+CONST
++CONSTABLE OF FRANCE
 By my faith Sir, but it is: neuer any body
 saw it, but his Lacquey: 'tis a hooded valour, and when it
 appeares, it will bate.
@@ -2379,7 +2420,7 @@ appeares, it will bate.
 +ORLEANCE
 Ill will neuer sayd well.
 
-+CONST
++CONSTABLE OF FRANCE
 I will cap that Prouerbe with, There is flatterie
 in friendship.
 
@@ -2387,7 +2428,7 @@ in friendship.
 And I will take vp that with, Giue the Deuill his
 due.
 
-+CONST
++CONSTABLE OF FRANCE
 Well plac't: there stands your friend for the
 Deuill: haue at the very eye of that Prouerbe with, A Pox
 of the Deuill.
@@ -2396,7 +2437,7 @@ of the Deuill.
 You are the better at Prouerbs, by how much a
 Fooles Bolt is soone shot.
 
-+CONST
++CONSTABLE OF FRANCE
 You haue shot ouer.
 
 +ORLEANCE
@@ -2407,13 +2448,13 @@ SD: Enter a Messenger.
 My Lord high Constable, the English lye
 within fifteene hundred paces of your Tents.
 
-+CONST
++CONSTABLE OF FRANCE
 Who hath measur'd the ground?
 
 +MESS
 The Lord Grandpree.
 
-+CONST
++CONSTABLE OF FRANCE
 A valiant and most expert Gentleman. Would
 it were day? Alas poore Harry of England: hee longs not
 for the Dawning, as wee doe.
@@ -2423,7 +2464,7 @@ What a wretched and peeuish fellow is this King
 of England, to mope with his fat-brain'd followers so farre
 out of his knowledge.
 
-+CONST
++CONSTABLE OF FRANCE
 If the English had any apprehension, they
 would runne away.
 
@@ -2432,7 +2473,7 @@ That they lack: for if their heads had any
 intellectuall Armour, they could neuer weare such heauie
 Head-pieces.
 
-+RAMB
++RAMBURS
 That Iland of England breedes very valiant
 Creatures; their Mastiffes are of vnmatchable courage.
 
@@ -2442,7 +2483,7 @@ of a Russian Beare, and haue their heads crusht like
 rotten Apples: you may as well say, that's a valiant Flea,
 that dare eate his breakefast on the Lippe of a Lyon.
 
-+CONST
++CONSTABLE OF FRANCE
 Iust, iust: and the men doe sympathize with
 the Mastiffes, in robustious and rough comming on,
 leauing their Wits with their Wiues: and then giue them
@@ -2452,7 +2493,7 @@ like Wolues, and fight like Deuils.
 +ORLEANCE
 I, but these English are shrowdly out of Beefe.
 
-+CONST
++CONSTABLE OF FRANCE
 Then shall we finde to morrow, they haue only
 stomackes to eate, and none to fight. Now is it time to
 arme: come, shall we about it?
@@ -2460,11 +2501,11 @@ arme: come, shall we about it?
 +ORLEANCE
 It is now two a Clock: but let me see, by ten
 Wee shall haue each a hundred English men.
-SD: Exeunt CONST, ORLEANCE, RAMB
+SD: Exeunt +CONSTABLE OF FRANCE, +ORLEANCE, RAMB
 
-NS: Act 4 Chorus
+NS: Act 4, Chorus
 
-CHORUS
++CHORUS
 Now entertaine coniecture of a time,
 When creeping Murmure and the poring Darke
 Fills the wide Vessell of the Vniuerse.
@@ -2518,7 +2559,7 @@ With foure or fiue most vile and ragged foyles,
 [Right ill dispos'd, in brawle ridiculous]
 The Name of Agincourt: Yet sit and see,
 Minding true things, by what their Mock'ries bee.
-SD: CHORUS exits
+SD: +CHORUS exits
 
 
 
@@ -3956,7 +3997,9 @@ Where ne're from France arriu'd more happy men.
 SD: Exeunt +KING, +EXET, +WARWICK, +WILLIAMS, +FLUELLEN, +GLOUCESTER, +HERALD.
 
 NS: Act 5, chorus
+
 SD: Enter +CHORUS.
+
 +CHORUS
 Vouchsafe to those that haue not read the Story,
 That I may prompt them: and of such as haue,
@@ -4003,22 +4046,23 @@ There must we bring him; and my selfe haue play'd
 The interim, by remembring you 'tis past.
 Then brooke abridgement, and your eyes aduance,
 After your thoughts, straight backe againe to France.
+
 SD: +CHORUS exits.
-
-
 
 
 NS: Act 5 Scene 1
 
 SD: Enter +FLUELLEN and +GOWER.
+
 +GOWER
 Nay, that's right: but why weare you your Leeke
 to day? S. Dauies day is past.
+
 +FLUELLEN
 There is occasions and causes why and wherefore
 in all things: I will tell you asse my friend, Captaine
 Gower; the rascally, scauld, beggerly, lowsie, pragging
-Knaue +PISTOLL, which you and your selfe, and all the World,
+Knaue Pistoll, which you and your selfe, and all the World,	
 know to be no petter then a fellow, looke you now, of no
 merits: hee is come to me, and prings me pread and sault
 yesterday, looke you, and bid me eate my Leeke: it was in a
@@ -4026,17 +4070,22 @@ place where I could not breed no contention with him;
 but I will be so bold as to weare it in my Cap till I see
 him once againe, and then I will tell him a little piece of
 my desires.
+
 SD: Enter +PISTOLL.
+
 +GOWER
 Why heere hee comes, swelling like a Turky-cock.
+
 +FLUELLEN
 'Tis no matter for his swellings, nor his Turky-cocks.
-God plesse you aunchient +PISTOLL: you scuruie
+God plesse you aunchient Pistoll: you scuruie	
 lowsie Knaue, God plesse you.
+
 +PISTOLL
 Ha, art thou bedlam? doest thou thirst, base Troian,
 to haue me fold vp Parcas fatall Web?
 Hence; I am qualmish at the smell of Leeke.
+
 +FLUELLEN
 I peseech you heartily, scuruie lowsie Knaue,
 at my desires, and my requests, and my petitions, to eate,
@@ -4044,15 +4093,16 @@ looke you, this Leeke; because, looke you, you doe not loue
 it, nor your affections, and your appetites and your
 disgestions doo's not agree with it, I would desire you to
 eate it.
+
 +PISTOLL
 Not for Cadwallader and all his Goats.
-+FLUELLEN
-There is one Goat for you.
-SD: Strikes +PISTOLL.
-+FLUELLEN
+Flu.	
+There is one Goat for you. [Strikes him.]
 Will you be so good, scauld Knaue, as eate it?
+
 +PISTOLL
 Base Troian, thou shalt dye.
+
 +FLUELLEN
 You say very true, scauld Knaue, when Gods
 will is: I will desire you to liue in the meane time, and
@@ -4060,51 +4110,66 @@ eate your Victuals: come, there is sawce for it.
 You call'd me yesterday Mountaine-Squier,
 but I will make you to day a squire of low degree. I pray
 you fall too, if you can mocke a Leeke, you can eate a Leeke.
+
 +GOWER
 Enough Captaine, you haue astonisht him.
+
 +FLUELLEN
 I say, I will make him eate some part of my leeke,
 or I will peate his pate foure dayes: bite I pray you, it is
 good for your greene wound, and your ploodie Coxecombe.
+
 +PISTOLL
 Must I bite.
+
 +FLUELLEN
 Yes certainly, and out of doubt and out of
 question too, and ambiguities.
+
 +PISTOLL
 By this Leeke, I will most horribly reuenge I eate
 and eate I sweare.
+
 +FLUELLEN
 Eate I pray you, will you haue some more
-sauce to your Leeke: there is not enough Leeke to sweare
-by.
+sauce to your Leeke: there is not enough Leeke to sweare by.
 +PISTOLL
 Quiet thy Cudgell, thou dost see I eate.
+
 +FLUELLEN
 Much good do you scald knaue, heartily.
 Nay, pray you throw none away, the skinne is good for
 your broken Coxcombe; when you take occasions to see
 Leekes heereafter, I pray you mocke at 'em, that is all.
+
 +PISTOLL
 Good.
+
 +FLUELLEN
 I, Leekes is good: hold you, there is a groat to
 heale your pate.
+
 +PISTOLL
 Me a groat?
+
 +FLUELLEN
 Yes verily, and in truth you shall take it, or I
 haue another Leeke in my pocket, which you shall eate.
+
 +PISTOLL
 I take thy groat in earnest of reuenge.
+
 +FLUELLEN
 If I owe you any thing, I will pay you in
 Cudgels, you shall be a Woodmonger, and buy nothing
 of me but cudgels: God bu'y you, and keepe you, &heale
 your pate.
-SD: +PISTOLL exits
+
+SD: +FLUELLEN exits
+
 +PISTOLL
 All hell shall stirre for this.
+
 +GOWER
 Go, go, you are a counterfeit cowardly Knaue,
 will you mocke at an ancient Tradition began vppon an
@@ -4116,7 +4181,9 @@ because he could not speake English in the natiue garb,
 he could not therefore handle an English Cudgell: you
 finde it otherwise, and henceforth let a Welsh correction,
 teach you a good English condition, fare ye well.
+
 SD: +GOWER exits
+
 +PISTOLL
 Doeth fortune play the huswife with me now?
 Newes haue I that my Doll is dead i'th Spittle
@@ -4128,8 +4195,8 @@ and something leane to Cut-purse of quicke hand:
 To England will I steale, and there Ile steale:
 And patches will I get vnto these cudgeld scarres,
 And swore I got them in the Gallia warres.
+
 SD: +PISTOLL exits.
-SD: Exuent +FLUELLEN
 
 NS: Act 5 Scene 2
 
@@ -4138,15 +4205,17 @@ SD: Enter at one doore, +KING, +EXETER, +BEDFORD, +WARWICKE, and other Lords. At
 Peace to this meeting, wherefore we are met;
 Vnto our brother France, and to our Sister
 Health and faire time of day: Ioy and good wishes
-To our most faire and Princely Cosine +KATHERINE:
+To our most faire and Princely Cosine Katherine:	
 And as a branch and member of this Royalty,
 By whom this great assembly is contriu'd,
 We do salute you Duke of Burgogne,
 And Princes French and Peeres health to you all.
+
 +FRANCE
 Right ioyous are we to behold your face,
 Most worthy brother England, fairely met,
-So are you Princes [English] euery one.
+So are you Princes (English) euery one.
+
 +QUEENE
 So happy be the Issue brother Ireland
 Of this good day, and of this gracious meeting,
@@ -4157,10 +4226,13 @@ The fatall Balls of murthering Basiliskes:
 The venome of such Lookes we fairely hope
 Haue lost their qualitie, and that this day
 Shall change all griefes and quarrels into loue.
+
 +KING
 To cry Amen to that, thus we appeare.
+
 +QUEENE
 You English Princes all, I doe salute you.
+
 +BURGOGNE
 My dutie to you both, on equall loue.
 Great Kings of France and England: that I haue labour'd
@@ -4207,6 +4279,7 @@ You are assembled: and my speech entreats,
 That I may know the Let, why gentle Peace
 Should not expell these inconueniences,
 And blesse vs with her former qualities.
+
 +KING
 If Duke of Burgonie, you would the Peace,
 Whose want giues growth to th'imperfections
@@ -4214,12 +4287,15 @@ Which you haue cited; you must buy that Peace
 With full accord to all our iust demands,
 Whose Tenures and particular effects
 You haue enschedul'd briefely in your hands.
+
 +BURGOGNE
 The King hath heard them: to the which, as yet
 There is no Answer made.
+
 +KING
 Well then: the Peace
 which you before so vrg'd, / Lyes in his Answer.
+
 +FRANCE
 I haue but with a curselarie eye
 O're-glanc't the Articles: Pleaseth your Grace
@@ -4227,37 +4303,45 @@ To appoint some of your Councell presently
 To sit with vs once more, with better heed
 To re-suruey them; we will suddenly
 Passe our accept and peremptorie Answer.
+
 +KING
-Brother we shall. Goe Vnckle +EXETER,
+Brother we shall. Goe Vnckle Exeter,
 And Brother Clarence, and you Brother Gloucester,
-+WARWICK, and Huntington, goe with the King,
+Warwick, and Huntington, goe with the King,	
 And take with you free power, to ratifie,
 Augment, or alter, as your Wisdomes best
 Shall see aduantageable for our Dignitie,
 Any thing in or out of our Demands,
 And wee'le consigne thereto. Will you, faire Sister,
 Goe with the Princes, or stay here with vs?
+
 +QUEENE
 Our gracious Brother, I will goe with them:
 Happily a Womans Voyce may doe some good,
 When Articles too nicely vrg'd, be stood on.
+
 +KING
-Yet leaue our Cousin +KATHERINE here with vs,
+Yet leaue our Cousin Katherine here with vs,
 She is our capitall Demand, compris'd
 Within the fore-ranke of our Articles.
+
 +QUEENE
 She hath good leaue.
+
 SD: Exeunt omnes. Manet +KING and +KATHERINE.
-SD: +KING
-Faire +KATHERINE, and most faire,
+
++KING
+Faire Katherine, and most faire,
 Will you vouchsafe to teach a Souldier tearmes,
 Such as will enter at a Ladyes eare,
 And pleade his Loue-suit to her gentle heart.
+
 +KATHERINE
 Your Maiestie shall mock at me, I cannot
 speake your England.
+
 +KING
-O faire +KATHERINE, if you will loue me soundly
+O faire Katherine, if you will loue me soundly
 with your French heart, I will be glad to heare you confesse
 it brokenly with your English Tongue. Doe you like me,
 Kate?

@@ -547,17 +547,7 @@ NS: Act 1 Scene 5
 SD: Enter Macbeth's Wife {+LADY Macbeths} alone with a Letter.
 
 +LADY MACBETH
-*They met me in the day of successe: and I haue learn'd
-by the perfect'st report, they haue more in them, then mortall
-knowledge. When I burnt in desire to question them further,
-they made themselues Ayre, into which they vanish'd.
-Whiles I stood rapt in the wonder of it, came Missiues from
-the King, who all-hail'd me Thane of Cawdor, by which
-Title before, these weyward Sisters saluted me, and referr'd me
-to the comming on of time, with haile King that shalt be.
-This haue I thought good to deliuer thee (my dearest Partner	
-of Greatnesse) that thou might'st not loose the dues of reioycing	
-by being ignorant of what Greatnesse is promis'd thee.
+*They met me in the day of successe: and I haue learn'd by the perfect'st report, they haue more in them, then mortall knowledge. When I burnt in desire to question them further, they made themselues Ayre, into which they vanish'd. Whiles I stood rapt in the wonder of it, came Missiues from the King, who all-hail'd me Thane of Cawdor, by which Title before, these weyward Sisters saluted me, and referr'd me to the comming on of time, with haile King that shalt be. This haue I thought good to deliuer thee (my dearest Partner of Greatnesse) that thou might'st not loose the dues of reioycing by being ignorant of what Greatnesse is promis'd thee.
 Lay it to thy heart and farewell.*
 Glamys thou art, and Cawdor, and shalt be
 What thou art promis'd: yet doe I feare thy Nature,
@@ -1150,40 +1140,27 @@ NS: Act 2, Scene 3
 SD: Enter a +PORTER. Knocking within.
 
 +PORTER
-Here's a knocking indeede: if a man were Porter of
-Hell Gate, hee should haue old turning the Key.
+Here's a knocking indeede: if a man were Porter of Hell Gate, hee should haue old turning the Key.
 
 SD: Knock.
 
 +PORTER
-Knock, Knock, Knock. Who's there i'th' name of
-Belzebub? Here's a Farmer, that hang'd himselfe on th'
-expectation of Plentie: Come in time, haue Napkins enow
-about you, here you'le sweat for't.
+Knock, Knock, Knock. Who's there i'th' name of Belzebub? Here's a Farmer, that hang'd himselfe on th' expectation of Plentie: Come in time, haue Napkins enow about you, here you'le sweat for't.
 
 SD: Knock.
 
 +PORTER
-Knock, knock. Who's there in th' other Deuils Name?
-Faith here's an Equiuocator, that could sweare in both the
-Scales against eyther Scale, who committed Treason
-enough for Gods sake, yet could not equiuocate to
-Heauen: oh come in, Equiuocator.
+Knock, knock. Who's there in th' other Deuils Name? Faith here's an Equiuocator, that could sweare in both the Scales against eyther Scale, who committed Treason enough for Gods sake, yet could not equiuocate to Heauen: oh come in, Equiuocator.
 
 SD: Knock.
 
 +PORTER
-Knock, Knock, Knock. Who's there? 'Faith here's an
-English Taylor come hither, for stealing out of a French
-Hose: Come in Taylor, here you may rost your Goose.
+Knock, Knock, Knock. Who's there? 'Faith here's an English Taylor come hither, for stealing out of a French Hose: Come in Taylor, here you may rost your Goose.
 
 SD: Knock.
 
 +PORTER
-Knock, Knock. Neuer at quiet: What are you? but this
-place is too cold for Hell. Ile Deuill-Porter it no further:
-I had thought to haue let in some of all Professions, that
-goe the Primrose way to th' euerlasting Bonfire.
+Knock, Knock. Neuer at quiet: What are you? but this place is too cold for Hell. Ile Deuill-Porter it no further: I had thought to haue let in some of all Professions, that goe the Primrose way to th' euerlasting Bonfire.
 
 SD: Knock.
 
@@ -1197,31 +1174,20 @@ Was it so late, friend, ere you went to Bed,
 That you doe lye so late?
 
 +PORTER
-Faith Sir, we were carowsing till the second
-Cock: And Drinke, Sir, is a great prouoker of three things.
+Faith Sir, we were carowsing till the second Cock: And Drinke, Sir, is a great prouoker of three things.
 
 +MACDUFFE
-What three things does Drinke especially
-prouoke?
+What three things does Drinke especiallyprouoke?
 
 +PORTER
-Marry, Sir, Nose-painting, Sleepe, and Vrine.
-Lecherie, Sir, it prouokes, and vnprouokes: it prouokes
-the desire, but it takes away the performance. Therefore
-much Drinke may be said to be an Equiuocator with
-Lecherie: it makes him, and it marres him; it sets him on, and
-it takes him off; it perswades him, and dis-heartens him;
-makes him stand too, and not stand too: in conclusion, equiuocates
-him in a sleepe, and giuing him the Lye, leaues him.
+Marry, Sir, Nose-painting, Sleepe, and Vrine. Lecherie, Sir, it prouokes, and vnprouokes: it prouokes the desire, but it takes away the performance. Therefore much Drinke may be said to be an Equiuocator with Lecherie: it makes him, and it marres him; it sets him on, and it takes him off; it perswades him, and dis-heartens him; makes him stand too, and not stand too: in conclusion, equiuocates him in a sleepe, and giuing him the Lye, leaues him.
 
 +MACDUFFE
 I beleeue, Drinke gaue thee the Lye last Night.
 
 +PORTER
-That it did, Sir, i'the very Throat on me: but I
-requited him for his Lye, and (I thinke) being too strong
-for him, though he tooke vp my Legges sometime, yet I
-made a Shift to cast him.
+That it did, Sir, i'the very Throat on me: but I requited him for his Lye, and (I thinke) being too strong for him, though he tooke vp my Legges sometime, yet I made a Shift to cast him.
+
 +MACDUFFE
 Is thy Master stirring?
 
@@ -1951,8 +1917,8 @@ The subiect of our Watch.
 +THIRD MURTHERER
 Hearke, I heare Horses.
 
-+BANQUO
-[within.]
+BANQUO
+within.
 Giue vs a Light there, hoa.
 
 +SECOND MURTHERER
@@ -3356,23 +3322,13 @@ NS: Act 5, Scene 1
 SD: Enter a +DOCTOR of Physicke, and a Wayting +GENTLEWOMAN
 
 +DOCTOR
-I haue too Nights watch'd with you, but can
-perceiue no truth in your report. When was it shee last
-walk'd?
+I haue too Nights watch'd with you, but can perceiue no truth in your report. When was it shee last walk'd?
 
 +GENTLEWOMAN
-Since his Maiesty went into the Field, I
-haue seene her rise from her bed, throw her Night-Gown
-vp-pon her, vnlocke her Closset, take foorth paper, folde it,
-write vpon't, read it, afterwards Seale it, and againe re-turne
-to bed; yet all this while in a most fast sleepe.
+Since his Maiesty went into the Field, I haue seene her rise from her bed, throw her Night-Gown vp-pon her, vnlocke her Closset, take foorth paper, folde it, write vpon't, read it, afterwards Seale it, and againe re-turne to bed; yet all this while in a most fast sleepe.
 
 +DOCTOR
-A great perturbation in Nature, to receyue at once
-the benefit of sleep, and do the effects of watching. In
-this slumbry agitation, besides her walking, and other
-actuall performances, what (at any time) haue you heard
-her say?
+A great perturbation in Nature, to receyue at once the benefit of sleep, and do the effects of watching. In this slumbry agitation, besides her walking, and other actuall performances, what (at any time) haue you heard her say?
 
 +GENTLEWOMAN
 That Sir, which I will not report after her.
@@ -3381,21 +3337,18 @@ That Sir, which I will not report after her.
 You may to me, and 'tis most meet you should.
 
 +GENTLEWOMAN
-Neither to you, nor any one, hauing no
-witnesse to confirme my speech.
+Neither to you, nor any one, hauing no witnesse to confirme my speech.
 
 SD: Enter +LADY MACBETH, with a Taper.
 
 +GENTLEWOMAN
-Lo you, heere she comes: This is her very guise, and
-vp-on my life fast asleepe: obserue her, stand close.
+Lo you, heere she comes: This is her very guise, and vp-on my life fast asleepe: obserue her, stand close.
 
 +DOCTOR
 How came she by that light?
 
 +GENTLEWOMAN
-Why it stood by her: she ha's light by
-her con-tinually, 'tis her command.
+Why it stood by her: she ha's light by her con-tinually, 'tis her command.
 
 +DOCTOR
 You see her eyes are open.
@@ -3404,55 +3357,40 @@ You see her eyes are open.
 I, but their sense are shut.
 
 +DOCTOR
-What is it she do's now? Looke how she rubbes her
-hands.
+What is it she do's now? Looke how she rubbes her hands.
 
 +GENTLEWOMAN
-It is an accustom'd action with her, to
-seeme thus washing her hands: I haue knowne her continue
-in this a quarter of an houre.
+It is an accustom'd action with her, to seeme thus washing her hands: I haue knowne her continue in this a quarter of an houre.
 
 +LADY MACBETH
 Yet heere's a spot.
 
 +DOCTOR
-Heark, she speaks, I will set downe what comes
-from her, to satisfie my remembrance the more strongly.
+Heark, she speaks, I will set downe what comes from her, to satisfie my remembrance the more strongly.
 
 +LADY MACBETH
-Out damned spot: out I say. One: Two: Why
-then 'tis time to doo't: Hell is murky. Fye, my Lord,
-fie, a Souldier, and affear'd? what need we feare? who
-knowes it, when none can call our powre to accompt:
-yet who would haue thought the olde man to haue had so
-much blood in him.
+Out damned spot: out I say. One: Two: Why then 'tis time to doo't: Hell is murky. Fye, my Lord, fie, a Souldier, and affear'd? what need we feare? Who knowes it, when none can call our powre to accompt: yet who would haue thought the olde man to haue had so much blood in him.
 
 +DOCTOR
 Do you marke that?
 
 +LADY MACBETH
-The Thane of Fife, had a wife: where is she now?
-What will these hands ne're be cleane? No more o'that
-my Lord, no more o'that: you marre all with this star-ting.
+The Thane of Fife, had a wife: where is she now? What will these hands ne're be cleane? No more o'that my Lord, no more o'that: you marre all with this star-ting.
 
 +DOCTOR
-Go too, go too: You haue knowne what you should
-not.
+Go too, go too: You haue knowne what you should not.
 
 +GENTLEWOMAN
-She ha's spoke what shee should not, I am
-sure of that: Heauen knowes what she ha's knowne.
+She ha's spoke what shee should not, I am sure of that: Heauen knowes what she ha's knowne.
 
 +LADY MACBETH
-Heere's the smell of the blood still: all the per-fumes
-of Arabia will not sweeten this little hand. Oh, oh, oh.
+Heere's the smell of the blood still: all the per-fumes of Arabia will not sweeten this little hand. Oh, oh, oh.
 
 +DOCTOR
 What a sigh is there? The hart is sorely charg'd.
 
 +GENTLEWOMAN
-I would not haue such a heart in my
-bosome, for the dignity of the whole body.
+I would not haue such a heart in my bosome, for the dignity of the whole body.
 
 +DOCTOR
 Well, well, well.
@@ -3461,22 +3399,16 @@ Well, well, well.
 Pray God it be sir.
 
 +DOCTOR
-This disease is beyond my practise: yet I haue
-knowne those which haue walkt in their sleep, who haue
-dyed holily in their beds.
+This disease is beyond my practise: yet I haue knowne those which haue walkt in their sleep, who haue dyed holily in their beds.
 
 +LADY MACBETH
-Wash your hands, put on your Night-Gowne, looke not
-so pale: I tell you yet againe Banquo's buried; he cannot
-come out on's graue.
+Wash your hands, put on your Night-Gowne, looke not so pale: I tell you yet againe Banquo's buried; he cannot come out on's graue.
 
 +DOCTOR
 Euen so?
 
 +LADY MACBETH
-To bed, to bed: there's knocking at the gate:
-Come, come, come, come, giue me your hand: What's
-done, cannot be vndone. To bed, to bed, to bed.
+To bed, to bed: there's knocking at the gate: Come, come, come, come, giue me your hand: What's done, cannot be vndone. To bed, to bed, to bed.
 
 SD: +LADY MACBETH exits.
 
@@ -3506,6 +3438,7 @@ SD: Exeunt +DOCTOR, +GENTLEWOMAN.
 NS: Act 5, Scene 2
 
 SD: Drum and Colours. Enter +MENTETH, +CATHNES, +ANGUS, +LENOX, Soldiers
+
 +MENTETH
 The English powre is neere, led on by Malcolm,
 His Vnkle Seyward, and the good Macduff.
@@ -3775,7 +3708,6 @@ Would at a dismall Treatise rowze, and stirre
 As life were in't. I haue supt full with horrors,
 Direnesse familiar to my slaughterous thoughts
 Cannot once start me.
-
 Wherefore was that cry?
 
 +SEYTON
@@ -3861,6 +3793,7 @@ Let vs be beaten, if we cannot fight.
 +MACDUFFE
 Make all our Trumpets speak, giue thẽ all breath
 Those clamorous Harbingers of Blood, & Death.
+
 SD: Exeunt +MALCOLME, +SEYWARD, +MACDUFFE, and their Army, with Boughes. Alarums continued. Enter +MACBETH.
 
 +MACBETH
@@ -3929,7 +3862,7 @@ And little is to do.
 We haue met with Foes
 That strike beside vs.
 
-+Seywards
++SEYWARD
 Enter Sir, the Castle.
 
 SD: Exeunt +MALCOLME, +SEYWARD. Alarum. Enter +MACBETH.
@@ -4076,3 +4009,5 @@ So thankes to all at once, and to each one,
 Whom we inuite, to see vs Crown'd at Scone.
 
 SD: Flourish. Exeunt Omnes {+MALCOLME, +SEYWARD, +ROSSE, +MACDUFFE}.
+
+
