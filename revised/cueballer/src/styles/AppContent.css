@@ -50,8 +50,18 @@
   overflow: auto;
 }
 .upload-interface {
-  background-color: white;
-  border-radius: 8px;
+  background: none;
+  border-radius: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  min-width: 0;
+  max-width: 350px;
+  margin: 12px auto;
+  padding: 4px 12px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 .help-icon-button {
   background: none !important;

@@ -1,8 +1,6 @@
 import React from "react";
 import Modal from '@mui/material/Modal';
 import Box from '@mui/material/Box';
-import IconButton from '@mui/material/IconButton';
-import SettingsIcon from '@mui/icons-material/Settings';
 import Slider from '@mui/material/Slider';
 import Button from '@mui/material/Button';
 import { DEFAULT_NUM_CUE_WORDS, MAX_NUM_CUE_WORDS, DEFAULT_NUM_CHARS_PER_LINE, MIN_CHARS_PER_LINE, MAX_CHARS_PER_LINE } from '../stateTypes';
