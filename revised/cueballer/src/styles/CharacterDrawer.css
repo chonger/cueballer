@@ -1,0 +1,16 @@
+/* CharacterDrawer component styles */
+.character-drawer-content {
+  padding: 1rem;
+}
+.character-menu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.character-menu-actions {
+  margin: 1rem 0;
+}
+.character-list-container {
+  max-height: 60vh;
+  overflow-y: auto;
+}

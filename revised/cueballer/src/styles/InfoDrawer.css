@@ -1,0 +1,12 @@
+/* InfoDrawer component styles */
+.info-drawer-content {
+  padding: 1.5rem;
+}
+.info-drawer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.info-drawer-section {
+  margin-top: 1.5rem;
+}
