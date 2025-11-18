@@ -107,16 +107,24 @@ const ScriptDropdown: React.FC<ScriptDropdownProps> = ({ onUpload }) => {
           Upload your script
         </MenuItem>
         <Divider />
-        <MenuItem onClick={() => handlePreloadedText('OthelloFolio.txt')}>Othello (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('MACFolio.txt')}>Macbeth (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('AYLFolio.txt')}>As You Like It (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('KLFolio.txt')}>King Lear (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('TwelfthNightModern.txt')}>Twelfth Night (Modern)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('R3Folio.txt')}>Richard III (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('RJFolio.txt')}>Romeo and Juliet (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('KLModern.txt')}>King Lear (Modern)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('TempestFolio.txt')}>Tempest (Folio)</MenuItem>
-        <MenuItem onClick={() => handlePreloadedText('MNDFolio.txt')}>Midsummer Nights Dream (Folio)</MenuItem>
+        {[
+          { file: 'AYLFolio.txt', name: 'As You Like It (Folio)' },
+          { file: 'KLFolio.txt', name: 'King Lear (Folio)' },
+          { file: 'KLModern.txt', name: 'King Lear (Modern)' },
+          { file: 'MACFolio.txt', name: 'Macbeth (Folio)' },
+          { file: 'MNDFolio.txt', name: 'Midsummer Nights Dream (Folio)' },
+          { file: 'OthelloFolio.txt', name: 'Othello (Folio)' },
+          { file: 'R3Folio.txt', name: 'Richard III (Folio)' },
+          { file: 'RJFolio.txt', name: 'Romeo and Juliet (Folio)' },
+          { file: 'TempestFolio.txt', name: 'Tempest (Folio)' },
+          { file: 'TwelfthNightModern.txt', name: 'Twelfth Night (Modern)' },
+        ]
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .map(script => (
+            <MenuItem key={script.file} onClick={() => handlePreloadedText(script.file)}>
+              {script.name}
+            </MenuItem>
+          ))}
       </Menu>
       <input
         type="file"
